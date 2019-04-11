@@ -34,13 +34,13 @@ L'adresse électronique de réinitialisation du mot de passe ressemble à ceci :
 
 **Corps :**
 
-Hey there *< username >*,
+Hey there *& amp ; lt ; username & amp ; gt ;*,
 
-Une demande de modification du mot de passe de votre profil a été effectuée sur *< nom du réseau >*.
+Une demande a été envoyée pour modifier le mot de passe de votre profil en *& amp ; lt ; nom du réseau et amp ; gt ;*.
 
-Si vous l'avez demandé, cliquez sur le lien suivant pour choisir un nouveau mot de passe : *< URL de réinitialisation du mot de passe >*.
+Si vous l'avez demandé, cliquez sur le lien suivant pour choisir un nouveau mot de passe : *& amp ; lt ; URL de réinitialisation du mot de passe & amp ; gt ;*.
 
-*< Nom d'utilisateur >*, *< nom du réseau >*et *< URL de réinitialisation du mot de passe >* sont tous générés dynamiquement en fonction du visiteur du site et de votre réseau.
+*& amp ; lt ; Nom d'utilisateur et amp ; gt ;*, *& amp ; lt ; nom du réseau et amp ; gt ;*et *& amp ; lt ; URL de réinitialisation du mot de passe & amp ; gt ;* sont générés dynamiquement en fonction du visiteur du site et de votre réseau.
 
 ## Adresse électronique de vérification {#section_ak5_xhs_p1b}
 
@@ -52,17 +52,17 @@ L'adresse électronique de vérification ressemble à ceci :
 
 **Corps :**
 
-Hello *< username >*,
+Hello *& amp ; lt ; username & amp ; gt ;*,
 
-Cliquez sur le lien suivant (ou collez-le dans votre navigateur) pour vérifier votre compte : *< URL de vérification >*.
+Cliquez sur le lien suivant (ou collez-le dans votre navigateur) pour vérifier votre compte : *& amp ; lt ; URL de vérification & amp ; gt ;*.
 
 Ce lien expirera dans 24 heures.
 
 Merci,
 
-The *<customer name>* Team
+The *& amp ; lt ; nom du client et amp ; gt ;* Equipe
 
-*< Nom d'utilisateur >*, *< nom du réseau >*et *< URL de vérification >* sont tous générés dynamiquement en fonction du visiteur du site et de votre réseau.
+*& amp ; lt ; Nom d'utilisateur et amp ; gt ;*, *& amp ; lt ; nom du réseau et amp ; gt ;*et *& amp ; lt ; URL de vérification & amp ; gt ;* sont générés dynamiquement en fonction du visiteur du site et de votre réseau.
 
 ## Envoi d'une vérification par courrier électronique aux utilisateurs {#section_vyv_yhs_p1b}
 
@@ -81,15 +81,15 @@ Vous pouvez envoyer un courriel de bienvenue aux utilisateurs. Pour envoyer des 
 
 L'e-mail de bienvenue ressemble à ceci :
 
-**Objet :** Bienvenue dans *< nom du client >*
+**Objet :** Bienvenue dans *& amp ; lt ; nom du client et amp ; gt ;*
 
 **Corps :**
 
-Hello *< username >*,
+Hello *& amp ; lt ; username & amp ; gt ;*,
 
-Un compte a été créé pour vous sur *< nom du client >*.
+Un compte a été créé pour vous *& amp ; lt ; nom du client et amp ; gt ;*.
 
-Ce compte a été créé sur *< URL de référence >* depuis l'adresse IP *< adresse IP >*.
+Ce compte a été créé *sur & amp ; lt ; URL de référence & amp ; gt ;* from IP address *& amp ; lt ; Adresse IP et amp ; gt ;*.
 
 Dans ce cas, vous pouvez ignorer ce message en toute sécurité.
 
@@ -97,9 +97,9 @@ Si vous n'avez pas effectué cette opération, veuillez contacter `support@livef
 
 Merci
 
-The *"customer name"* Team
+The *& amp ; quot ; nom du client et amp ; quot ;* Equipe
 
-*« Nom d'utilisateur », « Nom du client », « URL de référence »* et « Adresse IP » sont tous générés dynamiquement en fonction du visiteur du site et de votre réseau.
+*& amp ; quot ; Nom d'utilisateur et amp ; quot ; , & amp ; quot ; nom du client et amp ; quot ; , & amp ; quot ; URL de référence & amp ; quot ; et* & amp ; quot ; Adresse IP et amp ; quot ; sont générés dynamiquement en fonction du visiteur du site et de votre réseau.
 
 ## Envoyer un courriel de bienvenue à un utilisateur {#section_kjp_c3s_p1b}
 
