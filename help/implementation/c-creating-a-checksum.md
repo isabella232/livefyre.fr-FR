@@ -2,11 +2,11 @@
 description: Créez une somme de contrôle à l'aide des bibliothèques Livefyre.
 seo-description: Créez une somme de contrôle à l'aide des bibliothèques Livefyre.
 seo-title: Création d'une somme de contrôle
-solution: Experience Manager
+solution: Livefyre
 title: Création d'une somme de contrôle
 uuid: 2 dddedaa -7 a 6 d -434 a -8 db 8-dc 179935 f 810
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: f603682d95f288b510cde3a8b706a269feae4a6c
 
 ---
 
