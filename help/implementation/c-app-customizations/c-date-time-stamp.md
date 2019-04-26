@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Personnalisation de la date et de l'heure
 uuid: 632 ea 405-56 b 7-4664-8 d 2 b -0 dd 0 a 7611 bd 8
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
