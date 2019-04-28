@@ -13,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Exemples{#examples}
 
-Voici quelques exemples d'utilisation des bibliothèques.
+Voici quelques exemples d&#39;utilisation des bibliothèques.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 

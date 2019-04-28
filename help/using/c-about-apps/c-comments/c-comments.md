@@ -15,9 +15,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Incorporez des commentaires en temps réel à votre application.
 
-Les commentaires remplacent vos commentaires par défaut par des conversations en temps réel. Grâce aux fonctions d'intégration sociale, il est facile de capturer toutes les conversations sur vos publications sur Twitter et Facebook et d'attirer les amis de l'utilisateur dans la conversation.
+Les commentaires remplacent vos commentaires par défaut par des conversations en temps réel. Grâce aux fonctions d&#39;intégration sociale, il est facile de capturer toutes les conversations sur vos publications sur Twitter et Facebook et d&#39;attirer les amis de l&#39;utilisateur dans la conversation.
 
-L'option Pondérable utilise les commentaires pour accroître la participation des utilisateurs à leurs discussions. Ces fonctionnalités, notamment le chargement de médias enrichis, le partage sur les réseaux sociaux, le nombre d'écouteurs et l'authentification unique, facilitent la conversation et la convivialité.
+L&#39;option Pondérable utilise les commentaires pour accroître la participation des utilisateurs à leurs discussions. Ces fonctionnalités, notamment le chargement de médias enrichis, le partage sur les réseaux sociaux, le nombre d&#39;écouteurs et l&#39;authentification unique, facilitent la conversation et la convivialité.
 
 ![](assets/CommentsMashable.png)
 

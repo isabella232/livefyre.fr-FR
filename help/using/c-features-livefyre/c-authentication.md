@@ -1,8 +1,6 @@
 ---
-description: Vous pouvez déterminer si les visiteurs de votre site se connectent à
-  vos applications et comment ils se connectent.
-seo-description: Vous pouvez déterminer si les visiteurs de votre site se connectent
-  à vos applications et comment ils se connectent.
+description: Vous pouvez déterminer si les visiteurs de votre site se connectent à vos applications et comment ils se connectent.
+seo-description: Vous pouvez déterminer si les visiteurs de votre site se connectent à vos applications et comment ils se connectent.
 seo-title: Fonctions d'authentification
 solution: Experience Manager
 title: Fonctions d'authentification
@@ -13,11 +11,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Fonctions d'authentification{#authentication-features}
+# Fonctions d&#39;authentification{#authentication-features}
 
 Vous pouvez déterminer si les visiteurs de votre site se connectent à vos applications et comment ils se connectent.
 
-Configuration de l'authentification à l'aide de livefyre. js. Pour plus d'informations, voir [Ajout d'une authentification à une application à l'aide de Livefyre. js](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+Configuration de l&#39;authentification à l&#39;aide de livefyre. js. Pour plus d&#39;informations, voir [Ajout d&#39;une authentification à une application à l&#39;aide de Livefyre. js](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
 
 Applications utilisant cette fonctionnalité :
 

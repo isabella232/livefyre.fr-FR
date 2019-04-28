@@ -1,8 +1,6 @@
 ---
-description: Utilisez la feuille de style CSS avec les balises utilisateur pour créer
-  des badges utilisateur pour les membres de votre communauté.
-seo-description: Utilisez la feuille de style CSS avec les balises utilisateur pour
-  créer des badges utilisateur pour les membres de votre communauté.
+description: Utilisez la feuille de style CSS avec les balises utilisateur pour créer des badges utilisateur pour les membres de votre communauté.
+seo-description: Utilisez la feuille de style CSS avec les balises utilisateur pour créer des badges utilisateur pour les membres de votre communauté.
 seo-title: Badges d'utilisateur
 title: Badges d'utilisateur
 uuid: ff 1451 e 1-7 eb 3-45 dc -8 c 5 a -1 a 6 d 1313 e 344
@@ -12,11 +10,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Badges d'utilisateur{#user-badges}
+# Badges d&#39;utilisateur{#user-badges}
 
 Utilisez la feuille de style CSS avec les balises utilisateur pour créer des badges utilisateur pour les membres de votre communauté.
 
-Les badges de l'utilisateur sont des fonctions de style personnalisées qui permettent de mettre en forme le contenu Livefyre publié par des types d'utilisateurs spécifiques (tels que modérateurs, éditeurs ou tout autre groupe d'utilisateurs à définir) à la messagerie instantanée Livefyre, aux commentaires, aux révisions ou aux applications de blog en direct. Cela vous permet de mettre ce contenu en évidence à vos utilisateurs.
+Les badges de l&#39;utilisateur sont des fonctions de style personnalisées qui permettent de mettre en forme le contenu Livefyre publié par des types d&#39;utilisateurs spécifiques (tels que modérateurs, éditeurs ou tout autre groupe d&#39;utilisateurs à définir) à la messagerie instantanée Livefyre, aux commentaires, aux révisions ou aux applications de blog en direct. Cela vous permet de mettre ce contenu en évidence à vos utilisateurs.
 
 Applications utilisant cette fonctionnalité :
 

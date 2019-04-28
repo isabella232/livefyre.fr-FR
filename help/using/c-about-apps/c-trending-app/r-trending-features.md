@@ -13,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Fonctionnalités de tendances{#trending-features}
 
-L'application de tendance propose les fonctionnalités de votre site.
+L&#39;application de tendance propose les fonctionnalités de votre site.
 
 
 

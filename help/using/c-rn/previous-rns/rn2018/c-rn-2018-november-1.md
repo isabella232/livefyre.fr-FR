@@ -21,19 +21,19 @@ Les nouvelles fonctionnalités suivantes ont été publiées dans la version de 
 
 * Balises dynamiques vidéo
 
-   Tirez parti de l'état de la technologie de visionnage informatique, optimisée par Adobe Sensei, pour baliser automatiquement le contenu vidéo lorsque vous l'enregistrez dans la bibliothèque. Les balises dynamiques vous aident à gérer plus efficacement l'UGC, mais aussi à créer des règles de traitement extrêmement précises (flux) qui collectent du contenu en fonction de ce qui se trouve dans la vidéo et pas seulement du texte, ce qui vous évite de modérer le contenu indésirable.
+   Tirez parti de l&#39;état de la technologie de visionnage informatique, optimisée par Adobe Sensei, pour baliser automatiquement le contenu vidéo lorsque vous l&#39;enregistrez dans la bibliothèque. Les balises dynamiques vous aident à gérer plus efficacement l&#39;UGC, mais aussi à créer des règles de traitement extrêmement précises (flux) qui collectent du contenu en fonction de ce qui se trouve dans la vidéo et pas seulement du texte, ce qui vous évite de modérer le contenu indésirable.
 
    Détails de la fonctionnalité :
 
-   * Les balises dynamiques sont automatiquement ajoutées aux vidéos provenant de la recherche sociale, de flux et de fichiers vidéo téléchargés dans la bibliothèque. Affichage des balises dans les détails d'une vidéo
+   * Les balises dynamiques sont automatiquement ajoutées aux vidéos provenant de la recherche sociale, de flux et de fichiers vidéo téléchargés dans la bibliothèque. Affichage des balises dans les détails d&#39;une vidéo
    * Balises de balises aux formats. MP 4. MOV et AVI
-   * Balises de balises jusqu'à 60 secondes ou 50 Mo
-   * Deux catégories de balises dynamiques s'appliquent aux vidéos : fonctionnalités (animaux, objets, lieux, etc.) et actions (course, marchant, chanson, etc.)
-   Pour plus d'informations, voir [Balises dynamiques](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags)
+   * Balises de balises jusqu&#39;à 60 secondes ou 50 Mo
+   * Deux catégories de balises dynamiques s&#39;appliquent aux vidéos : fonctionnalités (animaux, objets, lieux, etc.) et actions (course, marchant, chanson, etc.)
+   Pour plus d&#39;informations, voir [Balises dynamiques](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags)
 
 * Limitation du taux Instagram
 
-   Instagram a modifié le nombre de demandes qu'une entreprise utilisant l'API Instagram, y compris Livefyre, peut faire passer de 5 000 demandes par heure par jeton à 200 requêtes par heure par jeton. On parle alors de limitation *de taux*. Pour plus d'informations, voir [Limitation du taux d'Instagram](/help/using/c-streams/c-instagram-rate-limiting.md).
+   Instagram a modifié le nombre de demandes qu&#39;une entreprise utilisant l&#39;API Instagram, y compris Livefyre, peut faire passer de 5 000 demandes par heure par jeton à 200 requêtes par heure par jeton. On parle alors de limitation *de taux*. Pour plus d&#39;informations, voir [Limitation du taux d&#39;Instagram](/help/using/c-streams/c-instagram-rate-limiting.md).
 
 * Fichiers audio dans la bibliothèque
 
@@ -47,7 +47,7 @@ Les nouvelles fonctionnalités suivantes ont été publiées dans la version de 
 
 ## Problèmes {#section_ehw_ndt_wcb}
 
-Aucun nouveau problème n'a été résolu dans la version de production de cette version. Voir [la section ci-dessus](#c_rn/section_syx_mdt_wcb).
+Aucun nouveau problème n&#39;a été résolu dans la version de production de cette version. Voir [la section ci-dessus](#c_rn/section_syx_mdt_wcb).
 
 ## Version UAT {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
 
@@ -56,7 +56,7 @@ Les problèmes des tableaux suivants ont été résolus dans la version UAT de c
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
 | Amélioration | GDPR | Toutes les données attribuées aux anciens clients dans Analytics seront supprimées. |
-| Bogue | Bibliothèque | Correction d'un problème en raison duquel une vidéo téléchargée dans la bibliothèque n'affichait pas correctement les détails de la ressource. |
-| Bogue | Mosaic | Correction d'un problème en raison duquel une mosaïque affichait le dernier élément de contenu d'un carrousel Instagram comme miniature plutôt qu'une carte. |
-| Bogue | Recherche sociale | Correction d'un problème en raison duquel la recherche sociale Instagram ne fonctionnait pas comme prévu. |
+| Bogue | Bibliothèque | Correction d&#39;un problème en raison duquel une vidéo téléchargée dans la bibliothèque n&#39;affichait pas correctement les détails de la ressource. |
+| Bogue | Mosaic | Correction d&#39;un problème en raison duquel une mosaïque affichait le dernier élément de contenu d&#39;un carrousel Instagram comme miniature plutôt qu&#39;une carte. |
+| Bogue | Recherche sociale | Correction d&#39;un problème en raison duquel la recherche sociale Instagram ne fonctionnait pas comme prévu. |
 

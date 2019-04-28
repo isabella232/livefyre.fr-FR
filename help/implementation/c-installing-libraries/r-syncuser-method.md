@@ -1,10 +1,6 @@
 ---
-description: Informe Livefyre de l'extraction des informations utilisateur depuis
-  une URL de synchronisation d'utilisateur précédemment définie. Renvoie une valeur
-  booléenne.
-seo-description: Informe Livefyre de l'extraction des informations utilisateur depuis
-  une URL de synchronisation d'utilisateur précédemment définie. Renvoie une valeur
-  booléenne.
+description: Informe Livefyre de l'extraction des informations utilisateur depuis une URL de synchronisation d'utilisateur précédemment définie. Renvoie une valeur booléenne.
+seo-description: Informe Livefyre de l'extraction des informations utilisateur depuis une URL de synchronisation d'utilisateur précédemment définie. Renvoie une valeur booléenne.
 seo-title: Syncuser Network Method
 solution: Experience Manager
 title: Syncuser Network Method
@@ -17,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Syncuser Network Method{#syncuser-network-method}
 
-Informe Livefyre de l'extraction des informations utilisateur depuis une URL de synchronisation d'utilisateur précédemment définie. Renvoie une valeur booléenne.
+Informe Livefyre de l&#39;extraction des informations utilisateur depuis une URL de synchronisation d&#39;utilisateur précédemment définie. Renvoie une valeur booléenne.
 
 | Variable | Type | Description |
 |--- |--- |--- |

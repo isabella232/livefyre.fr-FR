@@ -1,8 +1,6 @@
 ---
-description: Vérifie si un jeton Livefyre est toujours valide pour ce réseau. Renvoie
-  une valeur booléenne.
-seo-description: Vérifie si un jeton Livefyre est toujours valide pour ce réseau.
-  Renvoie une valeur booléenne.
+description: Vérifie si un jeton Livefyre est toujours valide pour ce réseau. Renvoie une valeur booléenne.
+seo-description: Vérifie si un jeton Livefyre est toujours valide pour ce réseau. Renvoie une valeur booléenne.
 seo-title: Validatelivefyretoken Network Method
 solution: Experience Manager
 title: Validatelivefyretoken Network Method

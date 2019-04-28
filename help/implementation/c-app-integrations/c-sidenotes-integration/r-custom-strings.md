@@ -12,7 +12,7 @@ source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 # Chaînes personnalisées avec indicateur{#sidenotes-custom-strings}
 
-Les chaînes personnalisées sont appliquées par l'intermédiaire d'un objet injecté dans le constructeur des balises et remplacent les chaînes par défaut utilisées par l'application. Ils peuvent être utilisés pour personnaliser une partie de la langue en fonction de vos spécifications de style ou de langue. Les chaînes fusionnent automatiquement avec les valeurs par défaut.
+Les chaînes personnalisées sont appliquées par l&#39;intermédiaire d&#39;un objet injecté dans le constructeur des balises et remplacent les chaînes par défaut utilisées par l&#39;application. Ils peuvent être utilisés pour personnaliser une partie de la langue en fonction de vos spécifications de style ou de langue. Les chaînes fusionnent automatiquement avec les valeurs par défaut.
 
 ```
 var customStrings = { 
@@ -81,9 +81,9 @@ new Livefyre.Sidenotes({
 | Notificationflagged | Marqué |
 | Permalinkbackbtn | Tout |
 | Permalinktitle | Permalink |
-| Questiondescription | Vous pouvez désormais lire et écrire des commentaires directement sur des phrases, des paragraphes, des images et des guillemets.<br><br>Mettez en surbrillance le texte et cliquez sur l'icône « fycon-write » ou cliquez sur l'icône « fycon-action-view » à la fin de chaque paragraphe. |
-| Questionmocktext | Ce qui est connu « connu connu » n'est pas connu, c'est qu'il est « familier ». |
-| Questiontitle | Qu'est-ce qu'une illustration ? |
+| Questiondescription | Vous pouvez désormais lire et écrire des commentaires directement sur des phrases, des paragraphes, des images et des guillemets.<br><br>Mettez en surbrillance le texte et cliquez sur l&#39;icône « fycon-write » ou cliquez sur l&#39;icône « fycon-action-view » à la fin de chaque paragraphe. |
+| Questionmocktext | Ce qui est connu « connu connu » n&#39;est pas connu, c&#39;est qu&#39;il est « familier ». |
+| Questiontitle | Qu&#39;est-ce qu&#39;une illustration ? |
 | Queuedcommentsplural | {number} Nouveaux commentaires |
 | Queuedcommentssingular | 1 Nouveau fichier Sidenote |
 | Queuedpliesplural | {number} Nouvelles réponses |

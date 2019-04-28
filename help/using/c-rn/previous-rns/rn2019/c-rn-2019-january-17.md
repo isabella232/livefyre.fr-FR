@@ -17,9 +17,9 @@ Notes de mise à jour de la version du 17 janvier 2019.
 
 ## Corrections de bogues
 
-* Correction d'un problème en raison duquel les options de commerce UGC du film fixe dans Designer n'étaient pas respectées.
-* Correction d'un problème en raison duquel l'importation d'Instagram enchaînait le contenu dans plusieurs dossiers comme prévu.
-* Correction d'un problème en raison duquel les vidéos Instagram ne possédaient parfois pas d'objet d'images.
-* Correction d'un problème en raison duquel certains contenus transférés publiés dans le film fixe et la mosaïque provoquaient un comportement erratique dans l'incorporation de l'application.
-* Correction d'un problème en raison duquel une erreur générait plusieurs comptes sociaux Facebook.
-* Correction d'un problème en raison duquel certaines photos extraites par l'intermédiaire de la recherche d'URL s'inversent de manière incorrecte à l'aide d'incorporations natives d'IG et de l'affichage de l'icône de bouton Lecture.
+* Correction d&#39;un problème en raison duquel les options de commerce UGC du film fixe dans Designer n&#39;étaient pas respectées.
+* Correction d&#39;un problème en raison duquel l&#39;importation d&#39;Instagram enchaînait le contenu dans plusieurs dossiers comme prévu.
+* Correction d&#39;un problème en raison duquel les vidéos Instagram ne possédaient parfois pas d&#39;objet d&#39;images.
+* Correction d&#39;un problème en raison duquel certains contenus transférés publiés dans le film fixe et la mosaïque provoquaient un comportement erratique dans l&#39;incorporation de l&#39;application.
+* Correction d&#39;un problème en raison duquel une erreur générait plusieurs comptes sociaux Facebook.
+* Correction d&#39;un problème en raison duquel certaines photos extraites par l&#39;intermédiaire de la recherche d&#39;URL s&#39;inversent de manière incorrecte à l&#39;aide d&#39;incorporations natives d&#39;IG et de l&#39;affichage de l&#39;icône de bouton Lecture.

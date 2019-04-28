@@ -17,7 +17,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 |--- |--- |--- |
 | type | Collectiontype | Type de la collection. |
 | titre | Chaîne | Titre de la collection. |
-| Articleid | Chaîne | Identifiant d'article unique choisi pour identifier une collection sur votre site. |
+| Articleid | Chaîne | Identifiant d&#39;article unique choisi pour identifier une collection sur votre site. |
 | url | Chaîne | URL absolue canonique pour cette collection. |
 
 ## Exemple Java {#section_nyl_ycs_rz}

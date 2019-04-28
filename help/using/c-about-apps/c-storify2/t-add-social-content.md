@@ -1,8 +1,6 @@
 ---
-description: Storify 2 propose plusieurs sources de contenu pour ajouter du contenu
-  social.
-seo-description: Storify 2 propose plusieurs sources de contenu pour ajouter du contenu
-  social.
+description: Storify 2 propose plusieurs sources de contenu pour ajouter du contenu social.
+seo-description: Storify 2 propose plusieurs sources de contenu pour ajouter du contenu social.
 seo-title: Ajout de contenu social
 solution: Experience Manager
 title: Ajout de contenu social
@@ -17,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Storify 2 propose plusieurs sources de contenu pour ajouter du contenu social.
 
-L'onglet Rechercher vous permet de rechercher des réseaux sociaux, d'offrir des recherches générales sur le Web et des images.
+L&#39;onglet Rechercher vous permet de rechercher des réseaux sociaux, d&#39;offrir des recherches générales sur le Web et des images.
 
 >[!NOTE]
 >
@@ -25,11 +23,11 @@ L'onglet Rechercher vous permet de rechercher des réseaux sociaux, d'offrir des
 
 >[!NOTE]
 >
->L'API de recherche de Twitter renverra uniquement le contenu 7 jours le plus récent.
+>L&#39;API de recherche de Twitter renverra uniquement le contenu 7 jours le plus récent.
 
 Pour ajouter du contenu à votre récit :
 
-1. Dans **[!UICONTROL Search]** l'onglet, cliquez sur une icône pour sélectionner la source.
+1. Dans **[!UICONTROL Search]** l&#39;onglet, cliquez sur une icône pour sélectionner la source.
 1. Storify affiche les options de recherche spécifiques à la source.
-1. Entrez vos paramètres de recherche, puis cliquez sur l'icône de recherche (loupe - verre) ou cliquez sur Retour à la recherche.
-1. Une fois que vous avez trouvé des éléments que vous souhaitez inclure, faites-les glisser de la liste vers n'importe quelle section de votre récit.
+1. Entrez vos paramètres de recherche, puis cliquez sur l&#39;icône de recherche (loupe - verre) ou cliquez sur Retour à la recherche.
+1. Une fois que vous avez trouvé des éléments que vous souhaitez inclure, faites-les glisser de la liste vers n&#39;importe quelle section de votre récit.

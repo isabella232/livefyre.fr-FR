@@ -1,7 +1,6 @@
 ---
 description: Activez ou désactivez les cartes de survol d'utilisateurs sur votre site.
-seo-description: Activez ou désactivez les cartes de survol d'utilisateurs sur votre
-  site.
+seo-description: Activez ou désactivez les cartes de survol d'utilisateurs sur votre site.
 seo-title: Hovercards
 title: Hovercards
 uuid: a 7336 a 4 d-b 92 f -4 b 3 b-a 3 de -713 aa 388 b 58 a 58 a
@@ -13,9 +12,9 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Hovercards{#hovercards}
 
-Activez ou désactivez les cartes de survol d'utilisateurs sur votre site.
+Activez ou désactivez les cartes de survol d&#39;utilisateurs sur votre site.
 
-La Carte déroulante Livefyre est une fenêtre contextuelle qui affiche un instantané rapide des informations utilisateur, notamment le nom d'affichage, la biographie, les réseaux sociaux, les mentions J'aime des utilisateurs, l'URL de la page de profil et un lien permettant d'afficher leur profil complet. Les cartes de survol sont disponibles pour tous les flux Livefyre, y compris les commentaires, le blog en direct et la messagerie instantanée.
+La Carte déroulante Livefyre est une fenêtre contextuelle qui affiche un instantané rapide des informations utilisateur, notamment le nom d&#39;affichage, la biographie, les réseaux sociaux, les mentions J&#39;aime des utilisateurs, l&#39;URL de la page de profil et un lien permettant d&#39;afficher leur profil complet. Les cartes de survol sont disponibles pour tous les flux Livefyre, y compris les commentaires, le blog en direct et la messagerie instantanée.
 
 >[!NOTE]
 >
@@ -23,13 +22,13 @@ La Carte déroulante Livefyre est une fenêtre contextuelle qui affiche un insta
 
 ## Affichage des cartes de contrôle {#section_zjl_jtk_wy}
 
-Lorsque vous passez la souris sur l'avatar d'un utilisateur sur les commentaires, le blog en direct ou la messagerie instantanée, leur carte de survol s'affiche.
+Lorsque vous passez la souris sur l&#39;avatar d&#39;un utilisateur sur les commentaires, le blog en direct ou la messagerie instantanée, leur carte de survol s&#39;affiche.
 
-Un clic **[!UICONTROL View Full Profile]** conduit l'utilisateur vers la page de profil complète de cet utilisateur.
+Un clic **[!UICONTROL View Full Profile]** conduit l&#39;utilisateur vers la page de profil complète de cet utilisateur.
 
 >[!NOTE]
 >
->Les fiches de contrôle affichent les informations fournies avec votre système de profils utilisateur. Les champs non inclus dans ce système ne sont pas répertoriés dans les cartes. Si vous ne disposez pas de pages de profil publiques, aucune page n'est affichée. Si vous souhaitez désactiver les cartes de survol pour votre réseau personnalisé, contactez votre gestionnaire de compte technique.
+>Les fiches de contrôle affichent les informations fournies avec votre système de profils utilisateur. Les champs non inclus dans ce système ne sont pas répertoriés dans les cartes. Si vous ne disposez pas de pages de profil publiques, aucune page n&#39;est affichée. Si vous souhaitez désactiver les cartes de survol pour votre réseau personnalisé, contactez votre gestionnaire de compte technique.
 
 
 

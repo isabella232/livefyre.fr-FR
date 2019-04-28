@@ -11,9 +11,9 @@ source-git-commit: 6545445016517af1f1bbb071761d773ba5a9a597
 ---
 
 
-# Création d'une somme de contrôle {#creating-a-checksum}
+# Création d&#39;une somme de contrôle {#creating-a-checksum}
 
-Créez une somme de contrôle à l'aide des bibliothèques Livefyre.
+Créez une somme de contrôle à l&#39;aide des bibliothèques Livefyre.
 
 ## Java {#section_pfr_lqj_tz}
 

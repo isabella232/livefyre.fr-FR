@@ -1,9 +1,6 @@
 ---
-description: Livefyre propose d'autres fonctionnalités permettant de suivre les données
-  des visiteurs du site et de synchroniser les réseaux sociaux avec les réseaux sociaux.
-seo-description: Livefyre propose d'autres fonctionnalités permettant de suivre les
-  données des visiteurs du site et de synchroniser les réseaux sociaux avec les réseaux
-  sociaux.
+description: Livefyre propose d'autres fonctionnalités permettant de suivre les données des visiteurs du site et de synchroniser les réseaux sociaux avec les réseaux sociaux.
+seo-description: Livefyre propose d'autres fonctionnalités permettant de suivre les données des visiteurs du site et de synchroniser les réseaux sociaux avec les réseaux sociaux.
 seo-title: Fonctionnalités diverses
 solution: Experience Manager
 title: Fonctionnalités diverses
@@ -16,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Fonctionnalités diverses{#miscellaneous-features}
 
-Livefyre propose d'autres fonctionnalités permettant de suivre les données des visiteurs du site et de synchroniser les réseaux sociaux avec les réseaux sociaux.
+Livefyre propose d&#39;autres fonctionnalités permettant de suivre les données des visiteurs du site et de synchroniser les réseaux sociaux avec les réseaux sociaux.
 
 ## Tendances du contenu de diffusion en continu {#section_w5y_kx4_h1b}
 
-Fin - les utilisateurs peuvent consulter la liste des collections les plus actives d'un site.
+Fin - les utilisateurs peuvent consulter la liste des collections les plus actives d&#39;un site.
 
 Applications utilisant cette fonctionnalité :
 

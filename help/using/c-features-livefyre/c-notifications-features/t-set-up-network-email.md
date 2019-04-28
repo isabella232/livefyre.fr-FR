@@ -20,11 +20,11 @@ Personnaliser les champs de notification par courriel disponibles.
 Configurez vos notifications par courrier électronique.
 
 * **Logo pour courrier électronique :** sélectionnez le fichier qui sera utilisé comme logo dans les notifications électroniques du client.
-* **Email From :** entrez l'adresse électronique qui apparaîtra dans le champ De.
+* **Email From :** entrez l&#39;adresse électronique qui apparaîtra dans le champ De.
 
    >[!NOTE]
    >
-   >Si ce champ est vide, aucune notification par courrier électronique n'est envoyée.
+   >Si ce champ est vide, aucune notification par courrier électronique n&#39;est envoyée.
 
-* **Nom d'affichage de courriel :** entrez le nom qui apparaîtra à la place de votre adresse électronique dans les notifications par courrier électronique.
+* **Nom d&#39;affichage de courriel :** entrez le nom qui apparaîtra à la place de votre adresse électronique dans les notifications par courrier électronique.
 

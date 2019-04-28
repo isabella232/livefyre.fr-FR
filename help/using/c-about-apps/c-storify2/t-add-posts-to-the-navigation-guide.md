@@ -16,6 +16,6 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 Ajoutez des publications au Guide de navigation dans Storify 2.
 
 1. Ecrivez une publication dans Storify 2.
-1. Ecrivez un en-tête pour la publication. Vous ne pouvez pas afficher les points de navigation pour une publication tant que vous n'ajoutez pas d'en-tête.
-1. Cliquez sur l **[!UICONTROL Navigation Guide]** 'icône de la publication pour l'ajouter au Guide de navigation.
+1. Ecrivez un en-tête pour la publication. Vous ne pouvez pas afficher les points de navigation pour une publication tant que vous n&#39;ajoutez pas d&#39;en-tête.
+1. Cliquez sur l **[!UICONTROL Navigation Guide]** &#39;icône de la publication pour l&#39;ajouter au Guide de navigation.
 1. Confirmez que vous souhaitez ajouter la publication au Guide de navigation.

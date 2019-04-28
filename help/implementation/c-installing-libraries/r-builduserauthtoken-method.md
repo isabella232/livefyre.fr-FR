@@ -1,8 +1,6 @@
 ---
-description: Renvoie un jeton authentifié authentifié pour le réseau à partir duquel
-  il est appelé.
-seo-description: Renvoie un jeton authentifié authentifié pour le réseau à partir
-  duquel il est appelé.
+description: Renvoie un jeton authentifié authentifié pour le réseau à partir duquel il est appelé.
+seo-description: Renvoie un jeton authentifié authentifié pour le réseau à partir duquel il est appelé.
 seo-title: Méthode réseau builduserauthtoken
 solution: Experience Manager
 title: Méthode réseau builduserauthtoken
@@ -19,8 +17,8 @@ Renvoie un jeton authentifié authentifié pour le réseau à partir duquel il e
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| Userid | Chaîne | Utilisateur - id de l'utilisateur auquel ce jeton appartient. |
-| Displayname | Chaîne | Nom d'affichage de l'utilisateur. |
+| Userid | Chaîne | Utilisateur - id de l&#39;utilisateur auquel ce jeton appartient. |
+| Displayname | Chaîne | Nom d&#39;affichage de l&#39;utilisateur. |
 | expire | Double | Lorsque le jeton doit expirer en secondes. |
 
 ## Exemple Java {#section_nyl_ycs_rz}

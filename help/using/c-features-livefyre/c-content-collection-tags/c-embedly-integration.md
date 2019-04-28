@@ -1,8 +1,6 @@
 ---
-description: Utilisez embed.ly pour afficher plusieurs formats multimédias directement
-  dans l’application.
-seo-description: Utilisez embed.ly pour afficher plusieurs formats multimédias directement
-  dans l’application.
+description: Utilisez embed.ly pour afficher plusieurs formats multimédias directement dans l’application.
+seo-description: Utilisez embed.ly pour afficher plusieurs formats multimédias directement dans l’application.
 seo-title: Intégration Embedly
 solution: Experience Manager
 title: Intégration Embedly
@@ -15,29 +13,29 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Intégration Embedly{#embedly-integration}
 
-Utilisez `embed.ly` pour afficher plusieurs formats multimédia directement dans l'application.
+Utilisez `embed.ly` pour afficher plusieurs formats multimédia directement dans l&#39;application.
 
-Afin de mieux activer le contenu multimédia intégré à partir de diverses sources, notamment Google Maps, YouTube, Flickr, Facebook, Instagram, Spotify et Tumblr, les applications Livefyre utilisent l'outil Openrement en tant que fournisseur tiers pour étendre l'URL. Si un utilisateur ou un modérateur comporte un lien pris en charge dans une publication, le support inclus dans le lien s'étend lorsqu'il est publié sur la collection.
+Afin de mieux activer le contenu multimédia intégré à partir de diverses sources, notamment Google Maps, YouTube, Flickr, Facebook, Instagram, Spotify et Tumblr, les applications Livefyre utilisent l&#39;outil Openrement en tant que fournisseur tiers pour étendre l&#39;URL. Si un utilisateur ou un modérateur comporte un lien pris en charge dans une publication, le support inclus dans le lien s&#39;étend lorsqu&#39;il est publié sur la collection.
 
 Ainsi, les applications Livefyre ont accès aux plus de 250 options multimédias incorporées différentes prises en charge par Incorporer.
 
 >[!NOTE]
 >
->Livefyre n'étend qu'un sous-ensemble de la liste complète des fournisseurs d'acquisition. Les images incorporées ne seront développées sur les pages HTTPS que si le fournisseur est Twitter, YouTube, Imgur, Vine, Wikipedia ou soundcloud. Pour toute question sur l'extension des liens ou les sources, contactez votre gestionnaire de compte technique.
+>Livefyre n&#39;étend qu&#39;un sous-ensemble de la liste complète des fournisseurs d&#39;acquisition. Les images incorporées ne seront développées sur les pages HTTPS que si le fournisseur est Twitter, YouTube, Imgur, Vine, Wikipedia ou soundcloud. Pour toute question sur l&#39;extension des liens ou les sources, contactez votre gestionnaire de compte technique.
 
-Cette page répertorie des exemples de types de supports incorporés courants et leurs schémas d'URL acceptables. `Embed.ly` ajoute continuellement de nouvelles sources. Pour obtenir la liste complète des fournisseurs, rendez `https://embed.ly/embed/features/providers`-vous sur la page.
+Cette page répertorie des exemples de types de supports incorporés courants et leurs schémas d&#39;URL acceptables. `Embed.ly` ajoute continuellement de nouvelles sources. Pour obtenir la liste complète des fournisseurs, rendez `https://embed.ly/embed/features/providers`-vous sur la page.
 
 >[!NOTE]
 >
 >La mise en forme incorporée requiert un lien permalink complet. Les liens raccourcis ne fonctionneront pas.
 
-Seul le contenu public peut être incorporé. Si vous tentez d'incorporer un élément de contenu non public, le lien vers le contenu s'affiche dans la publication de blog et une icône d'espace réservé l'accompagne. Lorsque vous cliquez dessus, le lien conduit le lecteur à un message d'erreur du service dans lequel le contenu est hébergé, comme un message Facebook pour une photo d'amis uniquement. Veuillez contacter votre gestionnaire de compte si vous constatez que le support n'est pas développé comme prévu.
+Seul le contenu public peut être incorporé. Si vous tentez d&#39;incorporer un élément de contenu non public, le lien vers le contenu s&#39;affiche dans la publication de blog et une icône d&#39;espace réservé l&#39;accompagne. Lorsque vous cliquez dessus, le lien conduit le lecteur à un message d&#39;erreur du service dans lequel le contenu est hébergé, comme un message Facebook pour une photo d&#39;amis uniquement. Veuillez contacter votre gestionnaire de compte si vous constatez que le support n&#39;est pas développé comme prévu.
 
-## Exemples d'URL inclusives
+## Exemples d&#39;URL inclusives
 
 | Type | Fournisseur | URL |
 |--- |--- |--- |
-| Cartes | Google Maps | <ul><li>`https://maps.google.com/maps?*`</li><li>`https://maps.google.com/?*`</li><li>`https://maps.google.com/maps/ms?*`</li></ul><br>**Remarque**: L'URL doit commencer `http` par et non `https.` |
+| Cartes | Google Maps | <ul><li>`https://maps.google.com/maps?*`</li><li>`https://maps.google.com/?*`</li><li>`https://maps.google.com/maps/ms?*`</li></ul><br>**Remarque**: L&#39;URL doit commencer `http` par et non `https.` |
 | Réseaux sociaux | Google Plus | <ul><li>`https://plus.google.com/*`</li><li>`https://www.google.com/profiles/*`</li><li> `https://plus.google.com/*`</li><li>`https://google.com/profiles/*`</li></ul> |
 | Vidéo | YouTube | <ul><li>`https://*youtube.com/watch*`</li><li> `https://*.youtube.com/v/*`</li><li>`https://*youtube.com/watch*` </li><li>`https://*.youtube.com/v/*`</li><li>`https://youtu.be/*`</li><li>`https://*.youtube.com/user/*` </li><li>`https://*.youtube.com/*#*/*`</li><li>`https://m.youtube.com/watch*`</li><li>`https://m.youtube.com/index*`</li><li>`https://*.youtube.com/profile*`</li><li>`https://*.youtube.com/view_play_list*`</li><li>`https://*.youtube.com/playlist*`</li></ul> |
 | Photos | Flickr | `https://www.flickr.com/photos/*`<br>`https://flic.kr/*` |

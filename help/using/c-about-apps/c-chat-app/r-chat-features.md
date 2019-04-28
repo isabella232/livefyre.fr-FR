@@ -1,8 +1,6 @@
 ---
-description: La messagerie instantanée propose plusieurs fonctionnalités pour encourager
-  un dialogue rapide et engageant.
-seo-description: La messagerie instantanée propose plusieurs fonctionnalités pour
-  encourager un dialogue rapide et engageant.
+description: La messagerie instantanée propose plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
+seo-description: La messagerie instantanée propose plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
 seo-title: Fonctions de messagerie instantanée
 solution: Experience Manager
 title: Fonctions de messagerie instantanée
@@ -21,12 +19,12 @@ La messagerie instantanée propose plusieurs fonctionnalités pour encourager un
 
 Pour encourager un dialogue rapide et engageant, la messagerie instantanée diffère des autres applications Livefyre comme suit :
 
-* L'éditeur de commentaires est prérenseigné avec la commande « Appuyez sur la commande + entrée pour publication.  » »
-* Les utilisateurs répondent à l'ensemble de la messagerie, plutôt qu'à un commentaire spécifique. Il n'y a donc pas de bouton de réponse et aucune liaison dans les commentaires.
-* Les utilisateurs n'ont pas l'option permettant de suivre Chats et la notification de commentaire est désactivée.
+* L&#39;éditeur de commentaires est prérenseigné avec la commande « Appuyez sur la commande + entrée pour publication.  » »
+* Les utilisateurs répondent à l&#39;ensemble de la messagerie, plutôt qu&#39;à un commentaire spécifique. Il n&#39;y a donc pas de bouton de réponse et aucune liaison dans les commentaires.
+* Les utilisateurs n&#39;ont pas l&#39;option permettant de suivre Chats et la notification de commentaire est désactivée.
 * Les notifications par courrier électronique sont automatiquement désactivées.
 * Les avatars utilisateur sont plus petits que ceux utilisés avec les commentaires.
-* Le bouton J'aime s'affiche uniquement lorsque vous pointez sur un commentaire.
-* Les mentions J'aime sur un commentaire apparaissent sans avatars, uniquement le nombre de mentions J'aime.
+* Le bouton J&#39;aime s&#39;affiche uniquement lorsque vous pointez sur un commentaire.
+* Les mentions J&#39;aime sur un commentaire apparaissent sans avatars, uniquement le nombre de mentions J&#39;aime.
 * La largeur du flux peut être réduite à 250 pixels.
 

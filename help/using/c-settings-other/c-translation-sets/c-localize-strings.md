@@ -15,7 +15,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Personnalisation des chaînes des applications Livefyre.
 
-Les chaînes de texte de la plupart des éléments HTML d'une application Livefyre peuvent être personnalisées. Cela permet de modifier le texte des éléments HTML rendus, tels que le bouton « Publier sous », le texte « Nombre de commentaires » ou le bouton « Se connecter », à n'importe quelle chaîne UTF -8 valide. Utilisez cette fonctionnalité pour ajouter une personnalité à votre implémentation du flux ou pour localiser la langue de l'application pour votre base d'utilisateurs.
+Les chaînes de texte de la plupart des éléments HTML d&#39;une application Livefyre peuvent être personnalisées. Cela permet de modifier le texte des éléments HTML rendus, tels que le bouton « Publier sous », le texte « Nombre de commentaires » ou le bouton « Se connecter », à n&#39;importe quelle chaîne UTF -8 valide. Utilisez cette fonctionnalité pour ajouter une personnalité à votre implémentation du flux ou pour localiser la langue de l&#39;application pour votre base d&#39;utilisateurs.
 
 * Commentaires, conversation et blog en direct
 
@@ -28,7 +28,7 @@ Les chaînes de texte de la plupart des éléments HTML d'une application Livefy
    * [Editeur de texte](#c-localize-strings/section_ky5_td4_xz)
    * [Options de réponse](#c-localize-strings/section_zvt_qd4_xz)
    * [Notification de commentaire](#c-localize-strings/section_qqt_pd4_xz)
-   * [Messages d'erreur](#c-localize-strings/section_omz_jxn_xz)
+   * [Messages d&#39;erreur](#c-localize-strings/section_omz_jxn_xz)
 
 * [Format de date et de date](#c-localize-strings/section_yz4_g5n_xz)
 * [Mur multimédia](#c-localize-strings/section_vwt_d5n_xz)
@@ -44,7 +44,7 @@ Les chaînes de texte de la plupart des éléments HTML d'une application Livefy
 
 ## Implémentation {#section_im4_224_xz}
 
-Pour mettre en œuvre cette fonctionnalité, transmettez un mappage d'objet 1-1 des chaînes que vous souhaitez remplacer par l'objet de configuration JavaScript. Si vous ne fournissez pas de champ, le texte par défaut est utilisé.
+Pour mettre en œuvre cette fonctionnalité, transmettez un mappage d&#39;objet 1-1 des chaînes que vous souhaitez remplacer par l&#39;objet de configuration JavaScript. Si vous ne fournissez pas de champ, le texte par défaut est utilisé.
 
 Exemple :
 
@@ -64,7 +64,7 @@ Cette page répertorie toutes les chaînes de texte qui peuvent être personnali
 
 ## Accès au compte {#section_cm3_d24_xz}
 
-Chaînes disponibles pour le processus d'authentification et à partir des menus d'utilisateurs authentifiés.
+Chaînes disponibles pour le processus d&#39;authentification et à partir des menus d&#39;utilisateurs authentifiés.
 
 ![](assets/strings_threadheader-150x40.png)
 
@@ -73,12 +73,12 @@ Chaînes disponibles pour le processus d'authentification et à partir des menus
 |  | Displayname | % s |
 |  | Editprofile | Modifier le profil |
 |  | Notificationsettings | Paramètres de notification |
-|  | Siteadmin | Console d'administration (liens vers Studio) |
+|  | Siteadmin | Console d&#39;administration (liens vers Studio) |
 |  | Signout | Déconnexion |
 
 ## Informations de diffusion en continu {#section_wx1_c24_xz}
 
-Chaînes disponibles pour les informations de flux de contenu et affichées. Indique le nombre de personnes qui écoutent, le nombre de publications à l'application et permet aux utilisateurs de se connecter ou d'accéder aux informations de leur compte.
+Chaînes disponibles pour les informations de flux de contenu et affichées. Indique le nombre de personnes qui écoutent, le nombre de publications à l&#39;application et permet aux utilisateurs de se connecter ou d&#39;accéder aux informations de leur compte.
 
 | Clé | Texte par défaut | Données de flux |
 |---|---|---|
@@ -92,7 +92,7 @@ Chaînes disponibles pour les informations de flux de contenu et affichées. Ind
 |  | Liveblogpostcountlabelplural | publications |
 | Options de thread | Threadbreakoutbutton | Afficher tout le thread |
 |  | Togglecollapse | Basculer vers la fin |
-| Commentaires à forte vélocité/mise en file d'attente | actualiser | Actualiser |
+| Commentaires à forte vélocité/mise en file d&#39;attente | actualiser | Actualiser |
 |  | Newcomment | Nouveau commentaire |
 |  | Newcomments | Nouveaux commentaires |
 |  | Newreply | nouvelle réponse |
@@ -104,7 +104,7 @@ Permet de trier le contenu renvoyé par âge ou par popularité.
 
 ![](assets/strings_newestoldesttop-1-150x56.png)
 
-| Clé | Texte par défaut | Options d'en-tête |
+| Clé | Texte par défaut | Options d&#39;en-tête |
 |---|---|---|
 |  | Sortnewest | Plus récent |
 |  | Sortoldest | Le plus ancien |
@@ -112,10 +112,10 @@ Permet de trier le contenu renvoyé par âge ou par popularité.
 |  | Sorthotthreads | Threads logiciels |
 |  | Sortseparator |  |  |
 |  | Streamsorting | Chargement |
-|  | Topcommentscontentnotfoundmsg | Il n'y a pas encore assez de mentions J'aime. |
-|  | Hotthreadscontentnotfoundmsg | Il n'y a pas encore suffisamment de threads. |
+|  | Topcommentscontentnotfoundmsg | Il n&#39;y a pas encore assez de mentions J&#39;aime. |
+|  | Hotthreadscontentnotfoundmsg | Il n&#39;y a pas encore suffisamment de threads. |
 |  | Streamrefreshmsg | Découvrez les nouveautés. |
-| Options de pied de page | Archiveheadertitle | Depuis l'archive |
+| Options de pied de page | Archiveheadertitle | Depuis l&#39;archive |
 |  | Archiveshowmore | Montrer plus |
 |  | Showmore | Afficher plus de commentaires |
 |  | Showmoreliveblog | Afficher plus de publications |
@@ -124,7 +124,7 @@ Permet de trier le contenu renvoyé par âge ou par popularité.
 
 ## Informations sur le contenu {#section_llv_yd4_xz}
 
-Répertorie les informations sur la publication : nom d'utilisateur, balises utilisateur appliquées et heure de publication.
+Répertorie les informations sur la publication : nom d&#39;utilisateur, balises utilisateur appliquées et heure de publication.
 
 ![](assets/strings_authorinfo-150x52.png)  ![](assets/strings_posttime-150x45.png)
 
@@ -139,16 +139,16 @@ Répertorie les informations sur la publication : nom d'utilisateur, balises uti
 |  | Timehoursagoplural | heure auparavant |
 |  | Timedaysago | jour auparavant |
 |  | Timedaysagoplural | jours auparavant |
-|  | Likesplural | Mentions J'aime |
+|  | Likesplural | Mentions J&#39;aime |
 |  | Likessingular | Aimer |
 |  | Moderatoredittimestamp | Modifié par un modérateur |
 |  | Commenttombstone | Ce commentaire a été supprimé. |
-|  | Permalinknotfoundmsg | Ce commentaire n'est plus visible. |
+|  | Permalinknotfoundmsg | Ce commentaire n&#39;est plus visible. |
 |  | Quickprofiletooltip | Profil rapide |
 
 ## Contenu incitatif {#section_gmw_vd4_xz}
 
-S'il est activé, le contenu incitatif est répertorié en haut du flux.
+S&#39;il est activé, le contenu incitatif est répertorié en haut du flux.
 
 |  | Clé | Texte par défaut |
 |---|---|---|
@@ -190,8 +190,8 @@ Sauf indication contraire, disponible pour tous les utilisateurs connectés. Pla
 | Options de réponse utilisateur | Disponible pour fin - utilisateurs. |  |
 | Flagbutton | Indicateur |
 |  | Flagcommenttooltip | Indicateur |
-|  | Editbutton (disponible uniquement pour les auteurs et les modérateurs, s'ils sont activés.) | Modifier |
-|  | Deletebutton (disponible uniquement pour les auteurs et les modérateurs, s'ils sont activés.) | Supprimer |
+|  | Editbutton (disponible uniquement pour les auteurs et les modérateurs, s&#39;ils sont activés.) | Modifier |
+|  | Deletebutton (disponible uniquement pour les auteurs et les modérateurs, s&#39;ils sont activés.) | Supprimer |
 |  | Deletecommenttooltip | Supprimer |
 |  | Sharebutton | Partager |
 |  | Sharecommenttooltip | Partager |
@@ -205,7 +205,7 @@ Sauf indication contraire, disponible pour tous les utilisateurs connectés. Pla
 
 | Clé | Texte par défaut |  |
 |---|---|---|
-| Modal modal | Flagtitle | Commentaire de l'indicateur % s |
+| Modal modal | Flagtitle | Commentaire de l&#39;indicateur % s |
 |  | Flagsubtitle | Marquer comme |
 |  | Flagdefaultselectoption | Sélectionner |
 |  | Flagspam | Indésirable |
@@ -241,7 +241,7 @@ Sauf indication contraire, disponible pour tous les utilisateurs connectés. Pla
 |  | Sharetextlinkedin | blank |
 |  | Sharebuttontext | Partager |
 |  | Sharepermalink | Permalink |
-|  | Loadingpermalink | Chargement de l'URL courte… |
+|  | Loadingpermalink | Chargement de l&#39;URL courte… |
 |  | Sharetext | Je viens de publier un commentaire. Vérifiez-la ! |
 
 ![](assets/strings_sharemodal-150x59.png)
@@ -272,18 +272,18 @@ Sauf indication contraire, disponible pour tous les utilisateurs connectés. Pla
 
 | Clé | Texte par défaut |  |
 |---|---|---|
-| Modifier le modal | Disponible pour les administrateurs Studio, les gestionnaires d'utilisateurs ou les modérateurs |  |
-| @ (@ mention.) | </> (Ouvre la fenêtre HTML personnalisée.) |  |
-|  | Customhtmldialogtitle (s'affiche comme en-tête du modal.) | Ajout de code HTML personnalisé |
+| Modifier le modal | Disponible pour les administrateurs Studio, les gestionnaires d&#39;utilisateurs ou les modérateurs |  |
+| @ (@ mention.) | &lt;/&gt; (Ouvre la fenêtre HTML personnalisée.) |  |
+|  | Customhtmldialogtitle (s&#39;affiche comme en-tête du modal.) | Ajout de code HTML personnalisé |
 
 ![](assets/strings_moderatoreditmodal-150x49.png)
 
 | Clé | Texte par défaut |  |
 |---|---|---|
-| Options de réponse du modérateur | Disponible pour les administrateurs Studio, les gestionnaires d'utilisateurs ou les modérateurs. |  |
+| Options de réponse du modérateur | Disponible pour les administrateurs Studio, les gestionnaires d&#39;utilisateurs ou les modérateurs. |  |
 | Pendingcomment | en attente |
-|  | Banuserbutton | Interdire l'utilisateur |
-|  | Banusertooltip | Interdire l'utilisateur |
+|  | Banuserbutton | Interdire l&#39;utilisateur |
+|  | Banusertooltip | Interdire l&#39;utilisateur |
 |  | Bozobutton | Bozo |
 |  | Bozocommenttooltip | Bozo |
 |  | Featurebutton | Fonction |
@@ -295,8 +295,8 @@ Sauf indication contraire, disponible pour tous les utilisateurs connectés. Pla
 
 | Clé | Texte par défaut |  |
 |---|---|---|
-| Configuration modale de l'utilisateur | Disponible pour les administrateurs Studio, les gestionnaires d'utilisateurs ou les modérateurs. |  |
-| Bantitle | Interdire l'utilisateur |  |
+| Configuration modale de l&#39;utilisateur | Disponible pour les administrateurs Studio, les gestionnaires d&#39;utilisateurs ou les modérateurs. |  |
+| Bantitle | Interdire l&#39;utilisateur |  |
 |  | Banane | Souhaitez-vous vraiment interdire cet utilisateur ? |
 |  | Banconfirmbutton | OK |
 |  | Bancancelbutton | Annuler |
@@ -314,18 +314,18 @@ Si activé, disponible au bas de la page pour toutes les applications de convers
 |  | Liveblognotification | Nouvelle publication |
 |  | Liveblognotifierplural | Nouvelles publications |
 
-## Messages d'erreur {#section_omz_jxn_xz}
+## Messages d&#39;erreur {#section_omz_jxn_xz}
 
-Chaînes disponibles pour les messages d'erreur personnalisables.
+Chaînes disponibles pour les messages d&#39;erreur personnalisables.
 
 | Clé | Texte par défaut |
 |---|---|
-| Errorautherror | Vous n'êtes pas autorisé à publier un commentaire sur cette conversation |
+| Errorautherror | Vous n&#39;êtes pas autorisé à publier un commentaire sur cette conversation |
 | Errorcommentsnotallowed | Les commentaires ne sont pas autorisés dans cette conversation |
 | Errordefault | Une erreur est survenue. Veuillez réessayer. |
-| Errorduplicate | Comme vous avez aimé votre commentaire, vous n'êtes pas autorisé à le publier deux fois. |
+| Errorduplicate | Comme vous avez aimé votre commentaire, vous n&#39;êtes pas autorisé à le publier deux fois. |
 | Erroreditduplicate | Vous devez modifier le corps du commentaire lorsque vous le modifiez. |
-| Erroreditnotallowed | Vous n'êtes pas autorisé à modifier les commentaires de cette conversation. |
+| Erroreditnotallowed | Vous n&#39;êtes pas autorisé à modifier les commentaires de cette conversation. |
 | Erroredittimeexceeded | Désolé, votre période de modification des commentaires a expiré. |
 | Errorempty | Il semble que vous essayiez de publier un commentaire vide. |
 | Errorexpired | Votre session a expiré. Veuillez recharger la page. |
@@ -336,13 +336,13 @@ Chaînes disponibles pour les messages d'erreur personnalisables.
 | Errorlikeowncomment | Vous ne pouvez pas aimer votre propre commentaire |
 | Errormalformed | Il semble que vous essayez de publier du contenu mal formé. |
 | Errormaxchars | Désolé, votre commentaire est trop long. Veuillez modifier et réessayer. |
-| Errormedianotavailable | Le média n'est plus visible. |
-| Errorshowmore | Une erreur s'est produite lors du chargement d'autres commentaires. |
-| Multiplemedianotallowederror | Vos autorisations ne vous donnent qu'une pièce jointe multimédia à la fois. |
+| Errormedianotavailable | Le média n&#39;est plus visible. |
+| Errorshowmore | Une erreur s&#39;est produite lors du chargement d&#39;autres commentaires. |
+| Multiplemedianotallowederror | Vos autorisations ne vous donnent qu&#39;une pièce jointe multimédia à la fois. |
 
 ## Format de date et de date {#section_yz4_g5n_xz}
 
-Traduisez et personnalisez la manière dont les dates s'affichent sur les cartes de contenu dans les applications de visualisation.
+Traduisez et personnalisez la manière dont les dates s&#39;affichent sur les cartes de contenu dans les applications de visualisation.
 
 | Clé | Texte par défaut |
 |---|---|
@@ -360,7 +360,7 @@ Traduisez et personnalisez la manière dont les dates s'affichent sur les cartes
 
 ## Mur multimédia {#section_vwt_d5n_xz}
 
-Chaînes disponibles pour l'application Mur multimédia.
+Chaînes disponibles pour l&#39;application Mur multimédia.
 
 | Clé | Texte par défaut |
 |---|---|
@@ -369,7 +369,7 @@ Chaînes disponibles pour l'application Mur multimédia.
 
 | Clé | Texte par défaut |
 |---|---|
-| Postbuttontext | Qu'est-ce que vous pensez ? |
+| Postbuttontext | Qu&#39;est-ce que vous pensez ? |
 | Postmodaltitle | Publier votre commentaire |
 | Postmodalbutton | Publier votre commentaire |
 | Postmodalplaceholder | Que souhaitez-vous dire ? |
@@ -414,16 +414,16 @@ Chaînes disponibles pour la carte de fonctionnalités.
 
 ## Télécharger une application {#section_grc_gkn_xz}
 
-Chaînes disponibles pour l'application de téléchargement.
+Chaînes disponibles pour l&#39;application de téléchargement.
 
 | Clé | Texte par défaut |
 |---|---|
-| Postbuttontext | Qu'est-ce que vous pensez ? |
+| Postbuttontext | Qu&#39;est-ce que vous pensez ? |
 | Postmodaltitle | Publier votre commentaire |
 | Postmodalbutton | Publier votre commentaire |
-| Postmodaltitleplaceholder | Saisie d'un titre |
+| Postmodaltitleplaceholder | Saisie d&#39;un titre |
 | Postmodalplaceholder | Que souhaitez-vous dire ? |
-| Postmodalconfirmationtitle | Merci d'avoir publié ! |
+| Postmodalconfirmationtitle | Merci d&#39;avoir publié ! |
 | Postmodalconfirmationmessage | Votre publication est en cours de révision. |
 | Postmodalconfirmationbutton | Terminé |
 | titre |  |
@@ -431,7 +431,7 @@ Chaînes disponibles pour l'application de téléchargement.
 | Editorerrorattachmentsrequired | Une pièce jointe est requise |
 | Editorerrorbody | Ajoutez un message. |
 | Editorerrorduplicate | Comme vous le souhaitez, vous ne pouvez pas le publier deux fois |
-| Editorerrorgeneric | Une erreur s'est produite |
+| Editorerrorgeneric | Une erreur s&#39;est produite |
 | Editorerrortitlerequired | Un titre est requis |
 
 ## Sondage {#section_pdg_fwh_xz}
@@ -455,36 +455,36 @@ Chaînes disponibles pour Livefyre Identité.
 | biographie | Biographie |
 | créer | Créer |
 | Createanewaccount | Créer un compte |
-| Createnewaccountwithemail | Création d'un compte avec courrier électronique |
+| Createnewaccountwithemail | Création d&#39;un compte avec courrier électronique |
 | Changeavatar | Change Avatar |
 | Choosefile | Choisir un fichier |
 | Completeaccount | Compte complet |
-| Emailwhensomeonereplies | Courriel lorsque quelqu'un répond à moi |
-| Emailcommentsifollow | Commentaires par courriel dans les conversations que j'ai suivies |
+| Emailwhensomeonereplies | Courriel lorsque quelqu&#39;un répond à moi |
+| Emailcommentsifollow | Commentaires par courriel dans les conversations que j&#39;ai suivies |
 | Emailsenttoresetpassword | Courriel envoyé ! Cochez la case correspondant à un lien pour réinitialiser votre mot de passe. |
 | Emailverificationsent | Vérification de courrier électronique envoyée |
 | Firstname | Prénom |
 | Forgotpassword | Mot de passe oublié ? |
 | Forgotyourpassword | Vous avez oublié votre mot de passe ? |
-| Forgotyourpasswordinstructions | Entrez votre nom d'utilisateur ou votre adresse électronique ci-dessous, et nous vous enverrons un lien pour modifier votre mot de passe. |
+| Forgotyourpasswordinstructions | Entrez votre nom d&#39;utilisateur ou votre adresse électronique ci-dessous, et nous vous enverrons un lien pour modifier votre mot de passe. |
 | Forminputclosebuttontext | Fermer |
 | Forminputcancelbuttontext | Annuler |
 | Forminputsavebuttontext | Enregistrer |
-| Hasnotleftanycomments | n'a laissé aucun commentaire |
+| Hasnotleftanycomments | n&#39;a laissé aucun commentaire |
 | Locationisfrom | provient de |
 | Labelavatar | Avatar |
 | Labelcomments | Commentaires |
 | Labelconfirmnewpassword | Confirmer le nouveau mot de passe |
 | Labelconfirmpassword | Confirmer le mot de passe |
 | Labelemail | Adresse électronique |
-| Labellikes | Mentions J'aime |
+| Labellikes | Mentions J&#39;aime |
 | Labelloading | Chargement |
 | Labelnewpassword | Nouveau mot de passe |
 | Labelnotification | Notifications |
 | Labelpassword | Mot de passe |
 | Labelprofile | Profil |
-| Labelusername | Nom d'utilisateur |
-| Labelusernameoremail | Nom d'utilisateur ou courriel |
+| Labelusername | Nom d&#39;utilisateur |
+| Labelusernameoremail | Nom d&#39;utilisateur ou courriel |
 | Lastname | Nom |
 | Livefyreaccount | Compte Livefyre |
 | emplacement | Emplacement |
@@ -511,32 +511,32 @@ Chaînes disponibles pour Livefyre Identité.
 | Successpasswordchanged | Réussite ! Votre mot de passe a été modifié et vous êtes maintenant connecté. |
 | Termsandconditions | Conditions générales |
 | Termsandconditionsintro | En vous inscrivant à la page |
-| Termsofuse | Conditions d'utilisation |
+| Termsofuse | Conditions d&#39;utilisation |
 | Termsofuseintro | En vous connectant, vous acceptez de |
 | Thisuser | Cet utilisateur |
 | Verifypassword | Vérifier le mot de passe |
 | Filesizelimit | 2 Mo max. |
 | accountnotfound | Compte introuvable |
-| Avatarimageexceedsize | Votre image d'avatar dépasse la limite de 2 Mo. |
+| Avatarimageexceedsize | Votre image d&#39;avatar dépasse la limite de 2 Mo. |
 | fieldisrequired | Le champ accepte uniquement un entier. |
 | fieldonlyacceptsavalidemail | Le champ accepte uniquement un courriel valide. |
 | fieldonlyacceptsletters | Le champ accepte uniquement les lettres |
 | Filesizemustbelessthanmo | La taille du fichier doit être inférieure {#}à Mo |
-| invalidusernameorpassword | Nom d'utilisateur ou mot de passe non valide |
+| invalidusernameorpassword | Nom d&#39;utilisateur ou mot de passe non valide |
 | minimumlengthofcharacters | Longueur minimale {#} des caractères |
 | maximumlengthofcharacters | Longueur maximale {#} des caractères |
-| ici waswasanerror | Une erreur s'est produite |
+| ici waswasanerror | Une erreur s&#39;est produite |
 | thisfieldisrequired | Ce champ est obligatoire. |
 | validations de fichier | Extensions de fichier valides |
 | valuemustmatch | La valeur doit correspondre |
 | Passwordlength | de 6 à 32 caractères. |
 | Passwordcharacters | comprennent les caractères inférieur et supérieur - caractères de casse. |
 | Passwordsymbols | inclure au moins un nombre et un symbole. |
-| Passwordusername | ne contient pas votre nom d'utilisateur. |
+| Passwordusername | ne contient pas votre nom d&#39;utilisateur. |
 | Passwordpopovertitle | Votre mot de passe doit : |
-| Passworderrorcontainsfirstname | Le mot de passe que vous avez saisi contient le nom d'utilisateur, le prénom ou le nom. Pour des raisons de sécurité, veuillez saisir un mot de passe qui ne contient pas votre nom d'utilisateur, prénom ou nom. N'oubliez pas non plus que votre mot de passe doit contenir : 6 à 32 caractères Caractère majuscule Caractère en minuscules Un symbole |
-| Passworderrorcontainslastname | Le mot de passe que vous avez saisi contient le nom d'utilisateur, le prénom ou le nom. Pour des raisons de sécurité, veuillez saisir un mot de passe qui ne contient pas votre nom d'utilisateur, prénom ou nom. N'oubliez pas non plus que votre mot de passe doit contenir : 6 à 32 caractères Caractère majuscule Caractère en minuscules Un symbole |
-| Passworderrorcontainsusername | Le mot de passe que vous avez saisi contient le nom d'utilisateur, le prénom ou le nom. Pour des raisons de sécurité, veuillez saisir un mot de passe qui ne contient pas votre nom d'utilisateur, prénom ou nom. N'oubliez pas non plus que votre mot de passe doit contenir : 6 à 32 caractères Caractère majuscule Caractère en minuscules Un symbole |
+| Passworderrorcontainsfirstname | Le mot de passe que vous avez saisi contient le nom d&#39;utilisateur, le prénom ou le nom. Pour des raisons de sécurité, veuillez saisir un mot de passe qui ne contient pas votre nom d&#39;utilisateur, prénom ou nom. N&#39;oubliez pas non plus que votre mot de passe doit contenir : 6 à 32 caractères Caractère majuscule Caractère en minuscules Un symbole |
+| Passworderrorcontainslastname | Le mot de passe que vous avez saisi contient le nom d&#39;utilisateur, le prénom ou le nom. Pour des raisons de sécurité, veuillez saisir un mot de passe qui ne contient pas votre nom d&#39;utilisateur, prénom ou nom. N&#39;oubliez pas non plus que votre mot de passe doit contenir : 6 à 32 caractères Caractère majuscule Caractère en minuscules Un symbole |
+| Passworderrorcontainsusername | Le mot de passe que vous avez saisi contient le nom d&#39;utilisateur, le prénom ou le nom. Pour des raisons de sécurité, veuillez saisir un mot de passe qui ne contient pas votre nom d&#39;utilisateur, prénom ou nom. N&#39;oubliez pas non plus que votre mot de passe doit contenir : 6 à 32 caractères Caractère majuscule Caractère en minuscules Un symbole |
 | Passworderrortooshort | 6 caractères au minimum pour le mot de passe |
 | Passworderrortoolong | 32 caractères au maximum pour le mot de passe |
 | Passworderrormisjustifier ppercase | Le mot de passe doit contenir au moins un caractère majuscule. |

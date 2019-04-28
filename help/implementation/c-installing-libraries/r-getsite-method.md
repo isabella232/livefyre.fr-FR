@@ -16,7 +16,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 Renvoie un nouvel objet Site.
 | Variable | Type | Description|
 |— |— |— |
-| Siteid | String | The Identifiant fourni pour le site Web ou l'application auquel la collection appartient. Par exemple : 303617. |
+| Siteid | String | The Identifiant fourni pour le site Web ou l&#39;application auquel la collection appartient. Par exemple : 303617. |
 | Sitekey | String | The Clé secrète fournie pour siteid. |
 
 ## Exemple Java {#section_nyl_ycs_rz}

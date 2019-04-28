@@ -1,8 +1,6 @@
 ---
-description: Personnalisation des chaînes de texte pour les courriers électroniques
-  Livefyre
-seo-description: Personnalisation des chaînes de texte pour les courriers électroniques
-  Livefyre
+description: Personnalisation des chaînes de texte pour les courriers électroniques Livefyre
+seo-description: Personnalisation des chaînes de texte pour les courriers électroniques Livefyre
 seo-title: Chaînes de texte avec lettres
 solution: Experience Manager
 title: Chaînes de texte avec lettres
@@ -17,19 +15,19 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 Personnalisation des chaînes de texte pour les courriers électroniques Livefyre
 
-Cette page répertorie et décrit toutes les chaînes disponibles pour la personnalisation dans les applications de commentaires annexes. Pour plus d'informations sur les chaînes disponibles pour les applications Livefyre principales, reportez-vous à la page Personnalisations de chaînes.
+Cette page répertorie et décrit toutes les chaînes disponibles pour la personnalisation dans les applications de commentaires annexes. Pour plus d&#39;informations sur les chaînes disponibles pour les applications Livefyre principales, reportez-vous à la page Personnalisations de chaînes.
 
 Implémentation
 authentique
 Informations
 de diffusion en continu Auteur/Contenu Informations
-de l'utilisateur Fonctions
-de publication Erreurs de l'interface
+de l&#39;utilisateur Fonctions
+de publication Erreurs de l&#39;interface
 du modérateur
 
 ## Implémentation {#section_wp2_ql4_xz}
 
-Pour mettre en œuvre cette fonction, transmettez un mappage d'objet 1-1 des chaînes que vous souhaitez remplacer par l'objet de configuration Javascript. Si vous ne fournissez pas de champ, le texte par défaut est utilisé.
+Pour mettre en œuvre cette fonction, transmettez un mappage d&#39;objet 1-1 des chaînes que vous souhaitez remplacer par l&#39;objet de configuration Javascript. Si vous ne fournissez pas de champ, le texte par défaut est utilisé.
 
 Exemple :
 
@@ -47,14 +45,14 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 
 ## Authentification {#section_pqf_3l4_xz}
 
-Chaînes disponibles pour le processus d'authentification et à partir des menus d'utilisateurs authentifiés.
+Chaînes disponibles pour le processus d&#39;authentification et à partir des menus d&#39;utilisateurs authentifiés.
 
 | Elément | Clé | Texte par défaut |
 |---|---|---|
 | Chaînes de menu authentiques | Menuauthsigninbtn | Connexion |
 |  | Menuauthsignedinmsg | Vous devez être connecté à {action} |
 |  | Menuusereditprofile | Modifier le profil |
-|  | Menuuseradmin | Console d'administration |
+|  | Menuuseradmin | Console d&#39;administration |
 |  | Menuuserlogout | Déconnexion |
 |  | Menuuserbackbtn | Tout |
 
@@ -70,7 +68,7 @@ Chaînes disponibles pour les informations de flux de contenu et affichées.
 
 ## Informations Auteur/Contenu {#section_dhb_gl4_xz}
 
-Stings disponibles pour l'auteur et les informations sur le contenu individuel.
+Stings disponibles pour l&#39;auteur et les informations sur le contenu individuel.
 
 | Elément | Clé | Texte par défaut |
 |---|---|---|
@@ -83,13 +81,13 @@ Stings disponibles pour l'auteur et les informations sur le contenu individuel.
 |  | Commentvotecountsing | voter |
 |  | Datetimeminuteprefix | m |
 |  | Datetimemonths | Un tableau. Par défaut =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
-|  | Questiondescription | Vous pouvez désormais lire et écrire des commentaires directement sur des phrases, des paragraphes, des images et des guillemets.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Mettez en surbrillance le texte</span> et cliquez sur l <span class="&rdquo;fycon-write&rdquo;"></span> 'icône ou cliquez sur <span class="&rdquo;fycon-action-view&rdquo;"></span> l'icône à la fin de chaque paragraphe. |
-|  | Questionmocktext | Ce qui est connu « connu connu » n'est pas connu, c'est qu'il est « familier ». |
-|  | Questiontitle | Qu'est-ce qu'une illustration ? |
+|  | Questiondescription | Vous pouvez désormais lire et écrire des commentaires directement sur des phrases, des paragraphes, des images et des guillemets.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Mettez en surbrillance le texte</span> et cliquez sur l <span class="&rdquo;fycon-write&rdquo;"></span> &#39;icône ou cliquez sur <span class="&rdquo;fycon-action-view&rdquo;"></span> l&#39;icône à la fin de chaque paragraphe. |
+|  | Questionmocktext | Ce qui est connu « connu connu » n&#39;est pas connu, c&#39;est qu&#39;il est « familier ». |
+|  | Questiontitle | Qu&#39;est-ce qu&#39;une illustration ? |
 
-## Actions de l'utilisateur {#section_qxd_fl4_xz}
+## Actions de l&#39;utilisateur {#section_qxd_fl4_xz}
 
-Chaînes disponibles pour les actions de l'utilisateur : marquage, partage et aimer le contenu existant.
+Chaînes disponibles pour les actions de l&#39;utilisateur : marquage, partage et aimer le contenu existant.
 
 | Elément | Clé | Texte par défaut |
 |---|---|---|
@@ -144,7 +142,7 @@ Chaînes disponibles pour les utilisateurs qui publient du contenu.
 
 ## Interface du modérateur {#section_o5f_dl4_xz}
 
-Chaînes disponibles pour l'interface du modérateur authentifié par l'utilisateur.
+Chaînes disponibles pour l&#39;interface du modérateur authentifié par l&#39;utilisateur.
 
 | Elément | Clé | Texte par défaut |
 |---|---|---|
@@ -154,7 +152,7 @@ Chaînes disponibles pour l'interface du modérateur authentifié par l'utilisat
 
 ## Erreurs {#section_gtk_cl4_xz}
 
-Chaînes disponibles pour les messages d'erreur généraux.
+Chaînes disponibles pour les messages d&#39;erreur généraux.
 
 | Elément | Clé | Texte par défaut |
 |---|---|---|

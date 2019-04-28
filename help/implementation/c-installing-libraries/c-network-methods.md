@@ -15,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Description des méthodes de la classe Network.
 
-Les méthodes suivantes sont disponibles pour l'objet Réseau :
+Les méthodes suivantes sont disponibles pour l&#39;objet Réseau :
 
 * [Méthode réseau setssl](#r_setssl_method)
 * [Méthode de réseau buildlivefyretoken](#r_buildlivefyretoken_method)

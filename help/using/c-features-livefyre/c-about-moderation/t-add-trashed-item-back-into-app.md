@@ -1,8 +1,6 @@
 ---
-description: Si vous poussez un élément dans modq, vous pouvez l'ajouter à l'application
-  à l'aide d'une recherche sur les réseaux sociaux.
-seo-description: Si vous poussez un élément dans modq, vous pouvez l'ajouter à l'application
-  à l'aide d'une recherche sur les réseaux sociaux.
+description: Si vous poussez un élément dans modq, vous pouvez l'ajouter à l'application à l'aide d'une recherche sur les réseaux sociaux.
+seo-description: Si vous poussez un élément dans modq, vous pouvez l'ajouter à l'application à l'aide d'une recherche sur les réseaux sociaux.
 seo-title: Ajout d'un élément enfoncé à une application
 title: Ajout d'un élément enfoncé à une application
 uuid: 96 c 5 db 19-999 f -476 f-a 96 c-ad 101028 d 484
@@ -12,16 +10,16 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Ajout d'un élément enfoncé à une application{#add-a-trashed-item-back-into-an-app}
+# Ajout d&#39;un élément enfoncé à une application{#add-a-trashed-item-back-into-an-app}
 
-Si vous poussez un élément dans modq, vous pouvez l'ajouter à l'application à l'aide d'une recherche sur les réseaux sociaux.
+Si vous poussez un élément dans modq, vous pouvez l&#39;ajouter à l&#39;application à l&#39;aide d&#39;une recherche sur les réseaux sociaux.
 
-1. Accédez à **[!UICONTROL Library]**la section.
+1. Accédez à **[!UICONTROL Library]** la section.
 1. Sélectionnez **[!UICONTROL Social Search]**.
 1. Sélectionnez un **[!UICONTROL Social Source]** (Twitter, par exemple).
 1. Saisissez un hashtag.
 1. Sélectionnez le contenu.
 1. Sélectionnez les trois points dans le coin inférieur droit du contenu.
-1. Cliquez sur **[!UICONTROL Publish]** pour publier le contenu dans l'application appropriée.
+1. Cliquez sur **[!UICONTROL Publish]** pour publier le contenu dans l&#39;application appropriée.
 
    AVERTISSEMENT : Ne sélectionnez pas **[!UICONTROL Bulk Clear]** dans modq. Si vous sélectionnez **[!UICONTROL Bulk Clear]**, tout le contenu est supprimé de modq. Pour rajouter le contenu à modq, vous devez effectuer une recherche sociale pour révision et approbation.

@@ -18,15 +18,15 @@ Notes de mise à jour pour la version du 10 août 2017.
 
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
-| Bogue | Bibliothèque | Correction d'un bogue qui empêchait l'affichage du contenu du bouton « Plus d'informations » dans la bibliothèque. |
-| Bogue | Bibliothèque | Correction d'un problème suite auquel les produits s'affichaient incorrectement après avoir supprimé puis rajouté un produit à un fichier dans la bibliothèque. |
+| Bogue | Bibliothèque | Correction d&#39;un bogue qui empêchait l&#39;affichage du contenu du bouton « Plus d&#39;informations » dans la bibliothèque. |
+| Bogue | Bibliothèque | Correction d&#39;un problème suite auquel les produits s&#39;affichaient incorrectement après avoir supprimé puis rajouté un produit à un fichier dans la bibliothèque. |
 
 ## Version UAT
 
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
-| Bogue | Studio | Correction d'un bogue qui empêchait l'affichage immédiat des mises à jour de statut des droits sans actualisation de page. |
-| Bogue | Commentaires | Correction d'un bogue dans les commentaires afin de permettre le téléchargement correct du fichier. mov ou. mpg. |
-| Bogue | Studio | Correction d'un bogue permettant d'activer le tri par « la plupart des participants » et par « la plupart des éléments ».  » » |
-| Bogue | Studio | Correction d'un bogue permettant d'autoriser des commentaires en bloc. |
+| Bogue | Studio | Correction d&#39;un bogue qui empêchait l&#39;affichage immédiat des mises à jour de statut des droits sans actualisation de page. |
+| Bogue | Commentaires | Correction d&#39;un bogue dans les commentaires afin de permettre le téléchargement correct du fichier. mov ou. mpg. |
+| Bogue | Studio | Correction d&#39;un bogue permettant d&#39;activer le tri par « la plupart des participants » et par « la plupart des éléments ».  » » |
+| Bogue | Studio | Correction d&#39;un bogue permettant d&#39;autoriser des commentaires en bloc. |
 

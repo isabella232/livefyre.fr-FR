@@ -1,10 +1,6 @@
 ---
-description: Activez le package d'identité Livefyre pour permettre aux utilisateurs
-  de se connecter à vos applications Livefyre à l'aide d'un e-mail, Twitter, Facebook,
-  Yahoo ! ou de connexion Google.
-seo-description: Activez le package d'identité Livefyre pour permettre aux utilisateurs
-  de se connecter à vos applications Livefyre à l'aide d'un e-mail, Twitter, Facebook,
-  Yahoo ! ou de connexion Google.
+description: Activez le package d'identité Livefyre pour permettre aux utilisateurs de se connecter à vos applications Livefyre à l'aide d'un e-mail, Twitter, Facebook, Yahoo ! ou de connexion Google.
+seo-description: Activez le package d'identité Livefyre pour permettre aux utilisateurs de se connecter à vos applications Livefyre à l'aide d'un e-mail, Twitter, Facebook, Yahoo ! ou de connexion Google.
 seo-title: Activer l'identité Livefyre
 solution: Experience Manager
 title: Activer l'identité Livefyre
@@ -15,13 +11,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Activer l'identité Livefyre{#enable-livefyre-identity}
+# Activer l&#39;identité Livefyre{#enable-livefyre-identity}
 
-Activez le package d'identité Livefyre pour permettre aux utilisateurs de se connecter à vos applications Livefyre à l'aide d'un e-mail, Twitter, Facebook, Yahoo ! ou de connexion Google.
+Activez le package d&#39;identité Livefyre pour permettre aux utilisateurs de se connecter à vos applications Livefyre à l&#39;aide d&#39;un e-mail, Twitter, Facebook, Yahoo ! ou de connexion Google.
 
 Pour activer cette fonction :
 
 1. Créez les applications sociales requises.
 1. Utilisez Studio pour ajouter des clés à votre implémentation Livefyre.
-1. Ajoutez le package à la page à l'aide de Livefyre. js et Livefyre.
+1. Ajoutez le package à la page à l&#39;aide de Livefyre. js et Livefyre.
 1. Configurez les traductions Livefyre Identity.

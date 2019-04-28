@@ -1,8 +1,6 @@
 ---
-description: Une fois votre compte réseau connecté à votre compte Studio, vous pouvez
-  accéder au studio via vos liens marqués ou via une application Livefyre.
-seo-description: Une fois votre compte réseau connecté à votre compte Studio, vous
-  pouvez accéder au studio via vos liens marqués ou via une application Livefyre.
+description: Une fois votre compte réseau connecté à votre compte Studio, vous pouvez accéder au studio via vos liens marqués ou via une application Livefyre.
+seo-description: Une fois votre compte réseau connecté à votre compte Studio, vous pouvez accéder au studio via vos liens marqués ou via une application Livefyre.
 seo-title: Connectez-vous à Studio
 solution: Experience Manager
 title: Connectez-vous à Studio

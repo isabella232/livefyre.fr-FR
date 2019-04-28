@@ -17,8 +17,8 @@ source-git-commit: 46f00bccc617b5d5ddc2e205c912d52d3602a8a0
 
 ## Amélioration
 
-* Supprimez l'option de règle de diffusion en continu Facebook de l'interface utilisateur.
+* Supprimez l&#39;option de règle de diffusion en continu Facebook de l&#39;interface utilisateur.
 
 ## Corrections de bogues
 
-* Correction d'un problème en raison duquel le contenu marqué par les recommandations de modération comme *étant tronqué*ne s'affichait pas lors de l'affichage de tout le contenu incluant le contenu avec tendance.
+* Correction d&#39;un problème en raison duquel le contenu marqué par les recommandations de modération comme *étant tronqué*ne s&#39;affichait pas lors de l&#39;affichage de tout le contenu incluant le contenu avec tendance.

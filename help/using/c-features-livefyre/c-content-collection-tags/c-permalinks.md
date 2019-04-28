@@ -1,8 +1,6 @@
 ---
-description: Utilisez le réducteur d'URL bit. ly pour personnaliser les perinines
-  de contenu.
-seo-description: Utilisez le réducteur d'URL bit. ly pour personnaliser les perinines
-  de contenu.
+description: Utilisez le réducteur d'URL bit. ly pour personnaliser les perinines de contenu.
+seo-description: Utilisez le réducteur d'URL bit. ly pour personnaliser les perinines de contenu.
 seo-title: Permalinks
 solution: Experience Manager
 title: Permalinks
@@ -15,21 +13,21 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Permalinks{#permalinks}
 
-Utilisez le réducteur d'URL bit. ly pour personnaliser les perinines de contenu.
+Utilisez le réducteur d&#39;URL bit. ly pour personnaliser les perinines de contenu.
 
-Les permalinks vous permettent de lier des commentaires ou des contenus archivés à vos flux. Pour activer cette fonctionnalité, Livefyre utilise un format d'URL par défaut : ** fyre. it**. Ce format peut être personnalisé pour correspondre au format bit. ly standard.
+Les permalinks vous permettent de lier des commentaires ou des contenus archivés à vos flux. Pour activer cette fonctionnalité, Livefyre utilise un format d&#39;URL par défaut : ** fyre. it**. Ce format peut être personnalisé pour correspondre au format bit. ly standard.
 
 ## Affichage Permalink {#section_mxd_wwg_wy}
 
-Si les utilisateurs cliquent sur un lien permalink d'un réseau social vers une application de contenu Livefyre, ils sont dirigés vers le flux de contenu Livefyre. Le contenu s'affichera dans une vue d'éclatement du flux, sous l'éditeur, avec un contexte complet. Une ligne bleue s'affiche sous l'avatar du contenu permalé. (Cette ligne bleue disparaîtra après quelques secondes.)
+Si les utilisateurs cliquent sur un lien permalink d&#39;un réseau social vers une application de contenu Livefyre, ils sont dirigés vers le flux de contenu Livefyre. Le contenu s&#39;affichera dans une vue d&#39;éclatement du flux, sous l&#39;éditeur, avec un contexte complet. Une ligne bleue s&#39;affiche sous l&#39;avatar du contenu permalé. (Cette ligne bleue disparaîtra après quelques secondes.)
 
-(Si le contenu permalé est supprimé, un message à cet effet s'affiche dans la vue de ventilation.)
+(Si le contenu permalé est supprimé, un message à cet effet s&#39;affiche dans la vue de ventilation.)
 
 ## Permalinks personnalisés {#section_uyn_5wg_wy}
 
-Si vous souhaitez créer des permalinks personnalisés pour les commentaires lors du partage de conversations, vous pouvez utiliser votre compte Bitly plutôt que l'URL abrégée Livefyre (fyre. it). L'utilisation de votre compte Bitly vous aidera à rappeler aux utilisateurs qu'ils visitent le contenu de votre site lorsque vous cliquez sur un lien permalink.
+Si vous souhaitez créer des permalinks personnalisés pour les commentaires lors du partage de conversations, vous pouvez utiliser votre compte Bitly plutôt que l&#39;URL abrégée Livefyre (fyre. it). L&#39;utilisation de votre compte Bitly vous aidera à rappeler aux utilisateurs qu&#39;ils visitent le contenu de votre site lorsque vous cliquez sur un lien permalink.
 
-Pour mettre en œuvre cette fonctionnalité, accédez **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]**à, puis saisissez votre clé API Bitly et votre nom d'utilisateur.
+Pour mettre en œuvre cette fonctionnalité, accédez **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]**à, puis saisissez votre clé API Bitly et votre nom d&#39;utilisateur.
 
 >[!NOTE]
 >

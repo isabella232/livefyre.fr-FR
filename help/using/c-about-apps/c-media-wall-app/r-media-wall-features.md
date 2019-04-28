@@ -1,8 +1,6 @@
 ---
-description: L'application Mur multimédia propose les fonctionnalités suivantes pour
-  votre site.
-seo-description: L'application Mur multimédia propose les fonctionnalités suivantes
-  pour votre site.
+description: L'application Mur multimédia propose les fonctionnalités suivantes pour votre site.
+seo-description: L'application Mur multimédia propose les fonctionnalités suivantes pour votre site.
 seo-title: Fonctionnalités du mur multimédia
 solution: Experience Manager
 title: Fonctionnalités du mur multimédia
@@ -15,13 +13,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Fonctionnalités du mur multimédia{#media-wall-features}
 
-L'application Mur multimédia propose les fonctionnalités suivantes pour votre site.
+L&#39;application Mur multimédia propose les fonctionnalités suivantes pour votre site.
 
 
 
-* Affiche le contenu dans l'ordre en fonction de la date de publication (et non de la date de création du contenu).
+* Affiche le contenu dans l&#39;ordre en fonction de la date de publication (et non de la date de création du contenu).
 * Combine le contenu Livefyre et les médias sociaux dans un seul affichage.
-* Permet aux utilisateurs d'aimer le contenu et d'ajouter du texte ou des photos directement à votre mur multimédia.
-* Permet aux utilisateurs de partager du contenu sur Twitter et Facebook. Le paramètre permalink partagé redirige ceux qui cliquent sur celui-ci vers l'élément de contenu sur votre mur multimédia.
+* Permet aux utilisateurs d&#39;aimer le contenu et d&#39;ajouter du texte ou des photos directement à votre mur multimédia.
+* Permet aux utilisateurs de partager du contenu sur Twitter et Facebook. Le paramètre permalink partagé redirige ceux qui cliquent sur celui-ci vers l&#39;élément de contenu sur votre mur multimédia.
 * Permet de créer un style spécial pour le contenu incitatif.
 

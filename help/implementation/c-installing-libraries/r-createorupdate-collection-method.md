@@ -1,8 +1,6 @@
 ---
-description: Tente de créer ou de mettre à jour cette collection avec Livefyre. Renvoie
-  cet objet Collection.
-seo-description: Tente de créer ou de mettre à jour cette collection avec Livefyre.
-  Renvoie cet objet Collection.
+description: Tente de créer ou de mettre à jour cette collection avec Livefyre. Renvoie cet objet Collection.
+seo-description: Tente de créer ou de mettre à jour cette collection avec Livefyre. Renvoie cet objet Collection.
 seo-title: Createorupdate Collection Method
 solution: Experience Manager
 title: Createorupdate Collection Method

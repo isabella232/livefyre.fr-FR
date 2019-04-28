@@ -15,10 +15,10 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Créez des dossiers pour organiser les fichiers.
 
-La création d'un dossier l'ajoute à la liste Tous les actifs par ordre alphabétique. Pour ajouter un sous-dossier, sélectionnez d'abord le dossier dans lequel il sera situé, puis cliquez sur l **[!UICONTROL Create New Subfolder]** 'icône en haut de la page.
+La création d&#39;un dossier l&#39;ajoute à la liste Tous les actifs par ordre alphabétique. Pour ajouter un sous-dossier, sélectionnez d&#39;abord le dossier dans lequel il sera situé, puis cliquez sur l **[!UICONTROL Create New Subfolder]** &#39;icône en haut de la page.
 
 ![](assets/LibraryNewFolder-1024x338.png)
 
-1. Cliquez **[!UICONTROL Create new folder]** sur dans l'arborescence, saisissez un nom et cliquez pour **[!UICONTROL Create]** créer le dossier au niveau supérieur de Tous les actifs.
-1. Sélectionnez un dossier, puis cliquez sur **[!UICONTROL Create New Subfolder]** l'icône en haut de la page pour ajouter un sous-dossier.
-1. Créez un dossier lors de l'ajout de contenu à votre bibliothèque de fichiers à partir du **[!UICONTROL Add to folder > Select folder]** dialogue.
+1. Cliquez **[!UICONTROL Create new folder]** sur dans l&#39;arborescence, saisissez un nom et cliquez pour **[!UICONTROL Create]** créer le dossier au niveau supérieur de Tous les actifs.
+1. Sélectionnez un dossier, puis cliquez sur **[!UICONTROL Create New Subfolder]** l&#39;icône en haut de la page pour ajouter un sous-dossier.
+1. Créez un dossier lors de l&#39;ajout de contenu à votre bibliothèque de fichiers à partir du **[!UICONTROL Add to folder > Select folder]** dialogue.

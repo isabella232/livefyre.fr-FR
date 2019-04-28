@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Restreindre le contenu des utilisateurs Twitter{#restrict-content-from-twitter-users}
 
-Vous pouvez interdire à des utilisateurs Twitter d'être extraits dans vos applications. **[!UICONTROL Network Settings > Streams]** L'onglet vous permet d'exclure les utilisateurs de vos flux, de saisir leur nom d'utilisateur Twitter dans le champ fourni et de cliquer **[!UICONTROL Add]**.
+Vous pouvez interdire à des utilisateurs Twitter d&#39;être extraits dans vos applications. **[!UICONTROL Network Settings > Streams]** L&#39;onglet vous permet d&#39;exclure les utilisateurs de vos flux, de saisir leur nom d&#39;utilisateur Twitter dans le champ fourni et de cliquer **[!UICONTROL Add]**.
 
-Si vous le souhaitez, utilisez la case à cocher pour corbeille tout le contenu existant de l'utilisateur répertorié.
+Si vous le souhaitez, utilisez la case à cocher pour corbeille tout le contenu existant de l&#39;utilisateur répertorié.
 
 >[!NOTE]
 >

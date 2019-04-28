@@ -13,7 +13,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Fonctionnalités du carrousel {#carousel-features}
 
-L'application Carousel propose ces fonctionnalités pour votre site.
+L&#39;application Carousel propose ces fonctionnalités pour votre site.
 
 Les fonctionnalités suivantes sont disponibles dans un carrousel :
 

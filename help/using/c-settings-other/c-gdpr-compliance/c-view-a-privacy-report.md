@@ -1,8 +1,6 @@
 ---
-description: Affichez un rapport de confidentialité dans Livefyre pour voir quelles
-  informations sont enregistrées dans Livefyre pour un utilisateur.
-seo-description: Affichez un rapport de confidentialité dans Livefyre pour voir quelles
-  informations sont enregistrées dans Livefyre pour un utilisateur.
+description: Affichez un rapport de confidentialité dans Livefyre pour voir quelles informations sont enregistrées dans Livefyre pour un utilisateur.
+seo-description: Affichez un rapport de confidentialité dans Livefyre pour voir quelles informations sont enregistrées dans Livefyre pour un utilisateur.
 seo-title: Affichage d'un rapport de confidentialité
 solution: Experience Manager
 title: Affichage d'un rapport de confidentialité
@@ -13,12 +11,12 @@ source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
 ---
 
 
-# Affichage d'un rapport de confidentialité{#view-a-privacy-report}
+# Affichage d&#39;un rapport de confidentialité{#view-a-privacy-report}
 
 Affichez un rapport de confidentialité dans Livefyre pour voir quelles informations sont enregistrées dans Livefyre pour un utilisateur.
 
 1. Accédez **[!UICONTROL Settings > Privacy]**à.
-1. Cliquez sur un rapport de confidentialité dans la liste pour l'afficher.
+1. Cliquez sur un rapport de confidentialité dans la liste pour l&#39;afficher.
 
 ![](assets/privacypage5.png)
 

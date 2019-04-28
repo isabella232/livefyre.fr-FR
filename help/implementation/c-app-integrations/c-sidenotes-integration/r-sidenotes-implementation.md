@@ -15,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ## Mise en œuvre de Sidenotes à l’aide de la mise en œuvre du fichier .js
 
-Pour mettre en œuvre cette fonction, transmettez un mappage d'objet 1-1 des chaînes que vous souhaitez remplacer par l'objet de configuration Javascript. Si vous ne fournissez pas de champ, le texte par défaut est utilisé.
+Pour mettre en œuvre cette fonction, transmettez un mappage d&#39;objet 1-1 des chaînes que vous souhaitez remplacer par l&#39;objet de configuration Javascript. Si vous ne fournissez pas de champ, le texte par défaut est utilisé.
 
 ### Exemple
 

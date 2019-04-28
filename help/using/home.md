@@ -9,11 +9,11 @@ source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
 ---
 
 
-# Guide de l'utilisateur d'Experience Manager Livefyre {#livefyre-help}
+# Guide de l&#39;utilisateur d&#39;Experience Manager Livefyre {#livefyre-help}
 
-Utilisez Livefyre Studio pour créer des applications, rassembler du contenu généré par l'utilisateur et modérer le contenu.
+Utilisez Livefyre Studio pour créer des applications, rassembler du contenu généré par l&#39;utilisateur et modérer le contenu.
 
-Pour plus d'informations sur la mise en œuvre et la personnalisation des applications Livefyre sur votre site à l'aide d'outils de développement, consultez le [*Guide d'implémentation d'Adobe Experience Manager Livefyre*](/help/implementation/home.md).
+Pour plus d&#39;informations sur la mise en œuvre et la personnalisation des applications Livefyre sur votre site à l&#39;aide d&#39;outils de développement, consultez le [*Guide d&#39;implémentation d&#39;Adobe Experience Manager Livefyre*](/help/implementation/home.md).
 
 ## Rubriques populaires
 
@@ -23,7 +23,7 @@ Pour plus d'informations sur la mise en œuvre et la personnalisation des applic
 
    Utilisez Livefyre Studio pour gérer les applications, les utilisateurs et le contenu.
 
-* [Utilisation d'applications](c-about-apps/c-about-apps.md#c_about_apps)
+* [Utilisation d&#39;applications](c-about-apps/c-about-apps.md#c_about_apps)
 
    Créez et publiez des applications Livefyre (y compris les commentaires).
 

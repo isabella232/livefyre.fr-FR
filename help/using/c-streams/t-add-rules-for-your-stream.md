@@ -1,8 +1,6 @@
 ---
-description: Ajoutez des règles dans Flux pour permettre aux contenus de renseigner
-  automatiquement une application ou un dossier en fonction de ces règles.
-seo-description: Ajoutez des règles dans Flux pour permettre aux contenus de renseigner
-  automatiquement une application ou un dossier en fonction de ces règles.
+description: Ajoutez des règles dans Flux pour permettre aux contenus de renseigner automatiquement une application ou un dossier en fonction de ces règles.
+seo-description: Ajoutez des règles dans Flux pour permettre aux contenus de renseigner automatiquement une application ou un dossier en fonction de ces règles.
 seo-title: Ajout de règles pour votre flux
 solution: Experience Manager
 title: Ajout de règles pour votre flux
@@ -31,7 +29,7 @@ Ajoutez des règles de diffusion en continu à votre flux depuis un ou plusieurs
 1. Créez ou ouvrez un flux.
 1. Ajoutez une nouvelle règle.
 1. Sélectionnez le type de règle.
-1. Renseignez les informations. Le type d'informations que vous avez renseigné dépend du site Web ou de la méthode à partir duquel vous extrayez du contenu. Pour plus d'informations sur les options de règle de diffusion en continu, voir [Options de règle de diffusion en continu pour toutes les règles](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de diffusion en continu et documentation pour chaque réseau.
+1. Renseignez les informations. Le type d&#39;informations que vous avez renseigné dépend du site Web ou de la méthode à partir duquel vous extrayez du contenu. Pour plus d&#39;informations sur les options de règle de diffusion en continu, voir [Options de règle de diffusion en continu pour toutes les règles](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de diffusion en continu et documentation pour chaque réseau.
 
    * [Pages Facebook](../c-streams/c-facebook-page-rules.md#c_facebook_page_rules)
    * [Courriel](../c-streams/c-email-rules.md#c_email_rules)

@@ -13,13 +13,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Application SSL{#ssl-enforcement}
 
-Pour garantir que vos données restent sécurisées, nous abandonnons le HTTP en faveur du protocole HTTPS. Adobe Livefyre désactivera entièrement tous les chiffrements SSL/TLS non sécurisés d'ici fin août 2018. Il s'agit d'une norme Adobe Standard visant à protéger la confidentialité de vos utilisateurs et de vos utilisateurs.
+Pour garantir que vos données restent sécurisées, nous abandonnons le HTTP en faveur du protocole HTTPS. Adobe Livefyre désactivera entièrement tous les chiffrements SSL/TLS non sécurisés d&#39;ici fin août 2018. Il s&#39;agit d&#39;une norme Adobe Standard visant à protéger la confidentialité de vos utilisateurs et de vos utilisateurs.
 
 ## Qui est affecté ? {#section_jf2_4yz_kcb}
 
 Cela peut avoir une incidence sur les clients Livefyre qui possèdent :
 
-* Appels serveur à serveur à partir de leur CRM, CMS, Wordpress ou d'un autre client.
+* Appels serveur à serveur à partir de leur CRM, CMS, Wordpress ou d&#39;un autre client.
 * Intégrations mobiles (applications Android et ios)
 * Applications personnalisées ou code personnalisé
 
@@ -32,7 +32,7 @@ Cela peut avoir une incidence sur les clients Livefyre qui possèdent :
    * Applications personnalisées (SDK Streamhub ou directement codées).
 
 1. Serveur aux serveurs HTTP et Mobile HTTP doit prendre en charge TLS 1.2
-1. Change hostnames from `{*}.<network>.fyre.co` to `<network>.{*}.fyre.co`. Par exemple, le nom d'hôte `example.network.fyre.co` se transforme en `network.`exemple. fyre. co. Par exemple :
+1. Change hostnames from `{*}.<network>.fyre.co` to `<network>.{*}.fyre.co`. Par exemple, le nom d&#39;hôte `example.network.fyre.co` se transforme en `network.`exemple. fyre. co. Par exemple :
 
    * `bootstrap.<network_name>.fyre.co` to `<network_name>.bootstrap.fyre.co`
 
@@ -40,13 +40,13 @@ Cela peut avoir une incidence sur les clients Livefyre qui possèdent :
 
    * `admin.<network_name>.fyre.co` to `<network_name>.admin.fyre.co`
 
-## Comment puis-je savoir si j'ai apporté les modifications ? {#section_sqk_5d5_kcb}
+## Comment puis-je savoir si j&#39;ai apporté les modifications ? {#section_sqk_5d5_kcb}
 
 Vous utilisez peut-être déjà HTTPS, mais Livefyre vous conseille de vérifier deux fois, en particulier si vous avez :
 
 * Appels serveur à serveur à partir de votre CMS ou de votre gestion de la relation client.
 * Code personnalisé ou utilisez des kits SDK pour les applications personnalisées dans Javascript ou Mobile.
-* Si votre intégration compte plus d'un an - ancienne.
+* Si votre intégration compte plus d&#39;un an - ancienne.
 * Si la technologie de votre pile est supérieure à un an.
 
 Même si vous utilisez déjà HTTPS, vous devez vérifier que les clients API prennent en charge TLS 1.2.
@@ -62,13 +62,13 @@ Une personne qui travaille sur le développement de votre site peut :
 
 ## Prise en charge Java pour TLS 1.2 {#section_lwn_rwk_ycb}
 
-Les JVM Oracle et openjdk pour Java 8 et les versions ultérieures sont configurés pour utiliser TLS 1.2, par défaut, pour toutes les connexions SSL. Vous n'avez pas besoin de prendre d'autres mesures si vous utilisez Java 8 ou une version ultérieure.
+Les JVM Oracle et openjdk pour Java 8 et les versions ultérieures sont configurés pour utiliser TLS 1.2, par défaut, pour toutes les connexions SSL. Vous n&#39;avez pas besoin de prendre d&#39;autres mesures si vous utilisez Java 8 ou une version ultérieure.
 
-Les utilisateurs de Java 7 ou d'une version antérieure doivent consulter la documentation publique sur la manière d'activer TLS 1.2.
+Les utilisateurs de Java 7 ou d&#39;une version antérieure doivent consulter la documentation publique sur la manière d&#39;activer TLS 1.2.
 
-## Pourquoi dois-je modifier mes noms d'hôtes ? {#section_d5q_p25_kcb}
+## Pourquoi dois-je modifier mes noms d&#39;hôtes ? {#section_d5q_p25_kcb}
 
-Livefyre ne dispose pas de certificats SSL sur `{*}.<network>.fyre.co` les domaines. La modification de l'URL en HTTPS interrompt l'application.
+Livefyre ne dispose pas de certificats SSL sur `{*}.<network>.fyre.co` les domaines. La modification de l&#39;URL en HTTPS interrompt l&#39;application.
 
 ## Dois-je mettre à niveau la dernière version des SDK Livefyre ? {#section_dw5_s25_kcb}
 
@@ -76,12 +76,12 @@ Non. Vous pouvez à la place corriger le code. Pour corriger le code, vous modif
 
 ## Combien de temps cela prend-il ? {#section_lgd_v25_kcb}
 
-La durée de cette opération dépend de votre configuration. Si vous disposez d'une implémentation simple, cette opération ne devrait prendre que peu de temps. Si vous avez de nombreuses personnalisations, vous devez tester et déployer le code mis à jour sur vos serveurs ou nouvelles applications dans les boutiques d'applications. Pour un résultat optimal, nous vous recommandons d'effectuer une vérification initiale du travail afin que vous puissiez planifier un travail à plus long terme.
+La durée de cette opération dépend de votre configuration. Si vous disposez d&#39;une implémentation simple, cette opération ne devrait prendre que peu de temps. Si vous avez de nombreuses personnalisations, vous devez tester et déployer le code mis à jour sur vos serveurs ou nouvelles applications dans les boutiques d&#39;applications. Pour un résultat optimal, nous vous recommandons d&#39;effectuer une vérification initiale du travail afin que vous puissiez planifier un travail à plus long terme.
 
 ## Quel est le plan de montage chronologique pour effectuer cette opération ? {#section_kgk_w25_kcb}
 
-Livefyre désactivera le port 80 (HTTP) à nos services d'ici la fin août 2018 et ne prend en charge que les connexions à 443 (HTTPS). Les navigateurs et autres clients qui tentent d'utiliser HTTP échoueront.
+Livefyre désactivera le port 80 (HTTP) à nos services d&#39;ici la fin août 2018 et ne prend en charge que les connexions à 443 (HTTPS). Les navigateurs et autres clients qui tentent d&#39;utiliser HTTP échoueront.
 
 ## Quand dois-je terminer cette opération ? {#section_rvb_x25_kcb}
 
-Tous les clients doivent utiliser HTTPS d'ici la fin juillet 2018. Si vous ne pouvez pas respecter cette échéance, contactez notre équipe à l'adresse prioritysupport@livefyre.com.
+Tous les clients doivent utiliser HTTPS d&#39;ici la fin juillet 2018. Si vous ne pouvez pas respecter cette échéance, contactez notre équipe à l&#39;adresse prioritysupport@livefyre.com.

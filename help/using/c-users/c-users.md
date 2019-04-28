@@ -1,8 +1,6 @@
 ---
-description: Ajoutez et gérez des utilisateurs et des visiteurs du site avec un réseau
-  Studio et Livefyre.
-seo-description: Ajoutez et gérez des utilisateurs et des visiteurs du site avec un
-  réseau Studio et Livefyre.
+description: Ajoutez et gérez des utilisateurs et des visiteurs du site avec un réseau Studio et Livefyre.
+seo-description: Ajoutez et gérez des utilisateurs et des visiteurs du site avec un réseau Studio et Livefyre.
 seo-title: Utilisateurs Gestion des utilisateurs Studio et Livefyre Network Users
 solution: Experience Manager
 title: Utilisateurs Gestion des utilisateurs Studio et Livefyre Network Users
@@ -17,4 +15,4 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Ajoutez et gérez des utilisateurs et des visiteurs du site avec un réseau Studio et Livefyre.
 
-La page Utilisateurs de Studio répertorie tous les utilisateurs de la base de données Livefyre pour votre réseau, y compris les deux fins : les utilisateurs qui ont créé un compte pour interagir avec vos applications et vos utilisateurs Studio autorisés. Cette page vous permet d'afficher les informations utilisateur, y compris les noms d'utilisateur, les adresses électroniques et la date associée, et de gérer l'accès Studio.
+La page Utilisateurs de Studio répertorie tous les utilisateurs de la base de données Livefyre pour votre réseau, y compris les deux fins : les utilisateurs qui ont créé un compte pour interagir avec vos applications et vos utilisateurs Studio autorisés. Cette page vous permet d&#39;afficher les informations utilisateur, y compris les noms d&#39;utilisateur, les adresses électroniques et la date associée, et de gérer l&#39;accès Studio.

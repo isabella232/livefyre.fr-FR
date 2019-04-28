@@ -14,11 +14,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Publiez le contenu directement dans une application.
 
-Le contenu publié directement dans une application n'est pas enregistré dans votre bibliothèque de fichiers.
+Le contenu publié directement dans une application n&#39;est pas enregistré dans votre bibliothèque de fichiers.
 
 ![](assets/DiscoverViewDetailsPublish-1024x272.png)
 
 1. **[!UICONTROL View Details]** pour un fichier.
 1. Cochez la **[!UICONTROL Publish]** case dans **[!UICONTROL Advanced Options]** la boîte de dialogue.
-1. Sélectionnez l'application à laquelle l'élément doit être publié.
-1. Cliquez **[!UICONTROL Let’s do it]**sur.
+1. Sélectionnez l&#39;application à laquelle l&#39;élément doit être publié.
+1. Cliquez **[!UICONTROL Let’s do it]** sur.

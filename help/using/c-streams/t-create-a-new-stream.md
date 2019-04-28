@@ -1,8 +1,6 @@
 ---
-description: Créez un flux dans Livefyre pour ajouter du contenu à une application
-  ou un dossier.
-seo-description: Créez un flux dans Livefyre pour ajouter du contenu à une application
-  ou un dossier.
+description: Créez un flux dans Livefyre pour ajouter du contenu à une application ou un dossier.
+seo-description: Créez un flux dans Livefyre pour ajouter du contenu à une application ou un dossier.
 seo-title: Créer un flux
 solution: Experience Manager
 title: Créer un flux
@@ -19,13 +17,13 @@ Créez un flux dans Livefyre pour ajouter du contenu à une application ou un do
 
 1. Pour créer un flux, cliquez sur **[!UICONTROL Streams > Create Stream.]**
 1. Saisissez un **[!UICONTROL Stream Name]**.
-1. Sélectionner **[!UICONTROL Stream Destination]**une : **[!UICONTROL App]** ou **[!UICONTROL Folder]** pour sélectionner une destination pour le flux.
+1. Sélectionner **[!UICONTROL Stream Destination]** une : **[!UICONTROL App]** ou **[!UICONTROL Folder]** pour sélectionner une destination pour le flux.
 
-   * Sélectionnez une application pour placer tout le contenu inclus dans le flux vers l'application sélectionnée lorsque vous cliquez sur Publier.
+   * Sélectionnez une application pour placer tout le contenu inclus dans le flux vers l&#39;application sélectionnée lorsque vous cliquez sur Publier.
    * Sélectionnez un dossier pour placer en continu tout le contenu inclus dans le flux dans le dossier sélectionné.
 
       >[!NOTE]
       >
-      >Pour modifier la destination d'un flux existant, vous devez créer un Clone puis sélectionner une nouvelle destination.
+      >Pour modifier la destination d&#39;un flux existant, vous devez créer un Clone puis sélectionner une nouvelle destination.
 
-1. Cliquez pour **[!UICONTROL Create Stream]** créer le flux, puis ouvrez la **[!UICONTROL Stream Details]** page, à partir de laquelle vous pouvez ajouter des règles pour votre flux. Pour plus d'informations sur l'ajout de règles de diffusion en continu, voir [Ajout de règles pour votre flux](../c-streams/t-add-rules-for-your-stream.md#t_add_rules_for_your_stream).
+1. Cliquez pour **[!UICONTROL Create Stream]** créer le flux, puis ouvrez la **[!UICONTROL Stream Details]** page, à partir de laquelle vous pouvez ajouter des règles pour votre flux. Pour plus d&#39;informations sur l&#39;ajout de règles de diffusion en continu, voir [Ajout de règles pour votre flux](../c-streams/t-add-rules-for-your-stream.md#t_add_rules_for_your_stream).

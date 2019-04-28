@@ -15,8 +15,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Ajoutez des portions de contenu incitatif à votre page.
 
-Utilisez la carte de fonctionnalités pour mettre en surbrillance les éléments individuels d'une seule carte. L'application prioritise le dernier contenu incitatif et passe en revue les éléments les plus récents pour s'assurer qu'il s'agit d'un affichage récent et pertinent.
+Utilisez la carte de fonctionnalités pour mettre en surbrillance les éléments individuels d&#39;une seule carte. L&#39;application prioritise le dernier contenu incitatif et passe en revue les éléments les plus récents pour s&#39;assurer qu&#39;il s&#39;agit d&#39;un affichage récent et pertinent.
 
-La carte de fonctionnalités affiche l'élément phare le plus récemment (pas nécessairement le dernier article publié), ce qui vous permet de sélectionner votre meilleur contenu pour une présentation opportune sur la page.
+La carte de fonctionnalités affiche l&#39;élément phare le plus récemment (pas nécessairement le dernier article publié), ce qui vous permet de sélectionner votre meilleur contenu pour une présentation opportune sur la page.
 
-Utilisez la carte de fonctionnalités pour mettre en surbrillance les éléments individuels d'une seule carte. L'application prioritise le dernier contenu incitatif et passe en revue les éléments les plus récents pour s'assurer qu'il s'agit d'un affichage récent et pertinent.
+Utilisez la carte de fonctionnalités pour mettre en surbrillance les éléments individuels d&#39;une seule carte. L&#39;application prioritise le dernier contenu incitatif et passe en revue les éléments les plus récents pour s&#39;assurer qu&#39;il s&#39;agit d&#39;un affichage récent et pertinent.

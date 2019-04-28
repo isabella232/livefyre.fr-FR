@@ -1,8 +1,6 @@
 ---
-description: Créez un mur multimédia, avec diffusion en continu de contenu en temps
-  réel.
-seo-description: Créez un mur multimédia, avec diffusion en continu de contenu en
-  temps réel.
+description: Créez un mur multimédia, avec diffusion en continu de contenu en temps réel.
+seo-description: Créez un mur multimédia, avec diffusion en continu de contenu en temps réel.
 seo-title: Mur multimédia
 solution: Experience Manager
 title: Mur multimédia
@@ -17,19 +15,19 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Créez un mur multimédia, avec diffusion en continu de contenu en temps réel.
 
-Le mur multimédia vous permet de créer un mur social en temps réel pour votre site. Utilisez le plug-in streamhub-wallpack de Livefyre JavaScript pour afficher les flux sociaux Livefyre en tant qu'expérience de contenu en mosaïque visuelle et attrayante, idéal pour la couverture d'événements en direct, l'hébergement de concours de photos et l'activation de sections sociales de votre site Web.
+Le mur multimédia vous permet de créer un mur social en temps réel pour votre site. Utilisez le plug-in streamhub-wallpack de Livefyre JavaScript pour afficher les flux sociaux Livefyre en tant qu&#39;expérience de contenu en mosaïque visuelle et attrayante, idéal pour la couverture d&#39;événements en direct, l&#39;hébergement de concours de photos et l&#39;activation de sections sociales de votre site Web.
 
 ## Analytics{#section_jfm_bwb_c1b}
 
-La méthode la plus rapide pour ajouter un mur multimédia est d'utiliser la version construite hébergée sur le CDN de Livefyre.
+La méthode la plus rapide pour ajouter un mur multimédia est d&#39;utiliser la version construite hébergée sur le CDN de Livefyre.
 
-Ajoutez d'abord [Livefyre. js](https://github.com/Livefyre/Livefyre.js) à votre site.
+Ajoutez d&#39;abord [Livefyre. js](https://github.com/Livefyre/Livefyre.js) à votre site.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script> 
 ```
 
-Positionnez ensuite l'élément dans lequel le mur multimédia apparaîtra.
+Positionnez ensuite l&#39;élément dans lequel le mur multimédia apparaîtra.
 
 ```
 <div id="wall"></div>
@@ -54,19 +52,19 @@ Livefyre.require([
 </script>
 ```
 
-Vous avez maintenant un mur ! Reportez-vous à l'exemple suivant dans [cet exemple](https://codepen.io/gobengo/pen/dFwDL).
+Vous avez maintenant un mur ! Reportez-vous à l&#39;exemple suivant dans [cet exemple](https://codepen.io/gobengo/pen/dFwDL).
 
-**Accès à une erreur ?** Vérifiez que vous transmettez le paramètre d'environnement correct. Les options incluent `livefyre.com` (production) ou `t402.livefyre.com` UAT.
+**Accès à une erreur ?** Vérifiez que vous transmettez le paramètre d&#39;environnement correct. Les options incluent `livefyre.com` (production) ou `t402.livefyre.com` UAT.
 
 >[!NOTE]
 >
->Toute personnalisation de style des tweets rendus par votre application Mur multimédia doit être effectuée conformément aux exigences [d'affichage de Twitter](https://dev.twitter.com/terms/display-requirements).
+>Toute personnalisation de style des tweets rendus par votre application Mur multimédia doit être effectuée conformément aux exigences [d&#39;affichage de Twitter](https://dev.twitter.com/terms/display-requirements).
 
 ## Options de configuration {#section_ucv_qvb_c1b}
 
 `columns`
 
-Permet de définir le nombre de colonnes pour votre mur multimédia lors de la construction du mur. Si cette option est définie, la largeur de chaque colonne s'adapte automatiquement à la taille du conteneur du mur multimédia, tout en conservant le nombre de colonnes spécifié.
+Permet de définir le nombre de colonnes pour votre mur multimédia lors de la construction du mur. Si cette option est définie, la largeur de chaque colonne s&#39;adapte automatiquement à la taille du conteneur du mur multimédia, tout en conservant le nombre de colonnes spécifié.
 
 ```
 var wallView = new MediaWall({ 
@@ -77,7 +75,7 @@ var wallView = new MediaWall({
 
 `initial`
 
-Nombre d'éléments de contenu à rendre au chargement de la page. Par défaut, 50.
+Nombre d&#39;éléments de contenu à rendre au chargement de la page. Par défaut, 50.
 
 ```
 var wallView = new MediaWall({ 
@@ -88,11 +86,11 @@ var wallView = new MediaWall({
 
 `minContentWidth`
 
-Permet de définir la largeur minimale (pixel) de chaque colonne dans l'élément conteneur du mur multimédia. (Votre mur multimédia sélectionne automatiquement le nombre de colonnes approprié, selon la largeur de son élément conteneur. Par défaut, la largeur du mur multimédia divisée par la largeur minimale du contenu (300 px, si non définie) détermine le nombre de colonnes.)
+Permet de définir la largeur minimale (pixel) de chaque colonne dans l&#39;élément conteneur du mur multimédia. (Votre mur multimédia sélectionne automatiquement le nombre de colonnes approprié, selon la largeur de son élément conteneur. Par défaut, la largeur du mur multimédia divisée par la largeur minimale du contenu (300 px, si non définie) détermine le nombre de colonnes.)
 
 >[!NOTE]
 >
->N'utilisez pas cette option conjointement avec l'option Colonnes.
+>N&#39;utilisez pas cette option conjointement avec l&#39;option Colonnes.
 
 ```
 var wallView = new MediaWall({ 
@@ -103,7 +101,7 @@ var wallView = new MediaWall({
 
 `modal`
 
-Par défaut, lorsque des pièces jointes sont jointes à un élément de contenu, les murs de médias affichent une miniature cliquable. Lorsque vous cliquez dessus, l'application ouvre dans son intégralité un modal affichant la photo/la vidéo vidéo. Pour désactiver cette option, définissez la variable modale sur false.
+Par défaut, lorsque des pièces jointes sont jointes à un élément de contenu, les murs de médias affichent une miniature cliquable. Lorsque vous cliquez dessus, l&#39;application ouvre dans son intégralité un modal affichant la photo/la vidéo vidéo. Pour désactiver cette option, définissez la variable modale sur false.
 
 ```
 var wallView = new MediaWall({ 
@@ -115,15 +113,15 @@ var wallView = new MediaWall({
 
 `postButton`
 
-Définit [!UICONTROL Post Content] le bouton qui s'affiche sur votre mur. Cette option requiert que vous transfériez `opts.collection`et ajoutez une intégration Livefyre. js authentique à la page.
+Définit [!UICONTROL Post Content] le bouton qui s&#39;affiche sur votre mur. Cette option requiert que vous transfériez `opts.collection`et ajoutez une intégration Livefyre. js authentique à la page.
 
 `postButton` paramètres :
 
-* `false` (par défaut) : N'affichez pas le bouton Contenu de la publication. (Crée un mur multimédia en lecture seule).
-* `true` (ou `LiveMediaWall.postButtons.contentWithPhotos`) : Insérez un bouton permettant aux utilisateurs d'ajouter du contenu texte avec des photos jointes.
+* `false` (par défaut) : N&#39;affichez pas le bouton Contenu de la publication. (Crée un mur multimédia en lecture seule).
+* `true` (ou `LiveMediaWall.postButtons.contentWithPhotos`) : Insérez un bouton permettant aux utilisateurs d&#39;ajouter du contenu texte avec des photos jointes.
 
-* `LiveMediaWall.postButtons.content`: Insérez un bouton permettant aux utilisateurs d'ajouter du contenu texte, mais pas de joindre des photos.
-* `LiveMediaWall.postButtons.photo`: Insérez un bouton permettant aux utilisateurs d'ajouter une photo, mais pas de texte.
+* `LiveMediaWall.postButtons.content`: Insérez un bouton permettant aux utilisateurs d&#39;ajouter du contenu texte, mais pas de joindre des photos.
+* `LiveMediaWall.postButtons.photo`: Insérez un bouton permettant aux utilisateurs d&#39;ajouter une photo, mais pas de texte.
 
 ```
 var wallView = new MediaWall({ 
@@ -136,7 +134,7 @@ var wallView = new MediaWall({
 
 `showMore`
 
-Définit le nombre d'éléments de contenu à ajouter au mur lorsque l'utilisateur clique sur [!UICONTROL Show More] votre bouton.
+Définit le nombre d&#39;éléments de contenu à ajouter au mur lorsque l&#39;utilisateur clique sur [!UICONTROL Show More] votre bouton.
 
 ```
 var wallView = new LiveMediaWall({ 
@@ -171,29 +169,29 @@ Pour obtenir des données valides, reportez-vous aux normes W 3 C relatives à l
 
 * **Bodylineheight** *(chaîne de hauteur de ligne CSS)* Hauteur de ligne pour le texte du corps de contenu.
 
-* **Buttonactivebackgroundcolor** *(chaîne de couleur CSS)** Couleur de l'arrière-plan du bouton activé.
+* **Buttonactivebackgroundcolor** *(chaîne de couleur CSS)** Couleur de l&#39;arrière-plan du bouton activé.
 
 * **Buttonbordercolor** *(chaîne de couleur CSS)** Couleur des bordures de bouton.
 
-* **Buttonhoverbackgroundcolor** *(chaîne de couleur CSS)* Couleur de l'arrière-plan du bouton au survol.
+* **Buttonhoverbackgroundcolor** *(chaîne de couleur CSS)* Couleur de l&#39;arrière-plan du bouton au survol.
 
 * **Buttontextcolor** *(chaîne de couleur CSS)* Couleur des étiquettes de bouton.
 
-* **Cardbackgroundcolor** *(chaîne de couleur CSS)* Couleur d'arrière-plan des cartes de contenu dans le mur multimédia.
+* **Cardbackgroundcolor** *(chaîne de couleur CSS)* Couleur d&#39;arrière-plan des cartes de contenu dans le mur multimédia.
 
-* **Displaynamecolor** *(chaîne de couleur CSS)* Couleur des noms d'affichage dans la signature.
+* **Displaynamecolor** *(chaîne de couleur CSS)* Couleur des noms d&#39;affichage dans la signature.
 
 * **Fontfamily** *(String Font Family String)* Famille de polices pour le corps du texte.
 
-* **Footertextcolor** *(chaîne de couleur CSS)* Couleur du texte secondaire (comme le texte du pied de page et le nom d'utilisateur dans la signature).
+* **Footertextcolor** *(chaîne de couleur CSS)* Couleur du texte secondaire (comme le texte du pied de page et le nom d&#39;utilisateur dans la signature).
 
-* **Linkattachmentbackgroundcolor** *(chaîne de couleur CSS)* Couleur d'arrière-plan des pièces jointes (pièces jointes empilées).
+* **Linkattachmentbackgroundcolor** *(chaîne de couleur CSS)* Couleur d&#39;arrière-plan des pièces jointes (pièces jointes empilées).
 
 * **Linkattachmentbordercolor** *(chaîne de couleur CSS)* Couleur de bordure pour les liens joints (pièces jointes empilées).
 
 * **Linkattachmenttextcolor** *(String Color String)* Color for link attachment attachment text.
 
-* **Linkcolor** *(chaîne de couleur CSS)* Couleur des hyperliens (tels que les liens dans le texte du corps et les liens d'affichage).
+* **Linkcolor** *(chaîne de couleur CSS)* Couleur des hyperliens (tels que les liens dans le texte du corps et les liens d&#39;affichage).
 
 * **Textcolor** *(chaîne de couleur CSS)* Couleur du texte de corps.
 
@@ -203,4 +201,4 @@ Pour obtenir des données valides, reportez-vous aux normes W 3 C relatives à l
 
 * **Sourcelogocolor** *(chaîne de couleur CSS)* Couleur du logo source.
 
-* **Usernamecolor** *(chaîne de couleur CSS)* Couleur des noms d'utilisateur dans la signature.
+* **Usernamecolor** *(chaîne de couleur CSS)* Couleur des noms d&#39;utilisateur dans la signature.

@@ -1,10 +1,6 @@
 ---
-description: Événements disponibles auxquels vous pouvez lier JavaScript pour les
-  applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et
-  Sidenotes).
-seo-description: Événements disponibles auxquels vous pouvez lier JavaScript pour
-  les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews
-  et Sidenotes).
+description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
+seo-description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
 seo-title: Événements javascript pour les applications de conversation
 solution: Experience Manager
 title: Événements javascript pour les applications de conversation
@@ -21,9 +17,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ## Matrice des applications et événements de conversation {#section_y4j_x4m_ybb}
 
-Voici une matrice des événements disponibles pour les applications de conversation. Un X indique que l'événement est disponible pour l'application, S/O indique que l'événement ne s'applique pas à l'application et qu'aucun marquage signifie que l'événement n'est pas disponible pour cette application :
+Voici une matrice des événements disponibles pour les applications de conversation. Un X indique que l&#39;événement est disponible pour l&#39;application, S/O indique que l&#39;événement ne s&#39;applique pas à l&#39;application et qu&#39;aucun marquage signifie que l&#39;événement n&#39;est pas disponible pour cette application :
 
-### Événements d'application de conversation
+### Événements d&#39;application de conversation
 
 | Evénements | Commentaires | Chat | Liveblog | Révisions | Commentaires de sidenotes | Sondages | Tendances |
 |---|---|---|---|---|---|---|---|
@@ -33,8 +29,8 @@ Voici une matrice des événements disponibles pour les applications de conversa
 | Publication | X | X | X | X |  | N/O | N/O |
 | Publié | X | X | X | X | X | N/O | N/O |
 | Réponse Twitter | X | X | X | N/O | N/O | N/O | N/O |
-| Twitter J'aime | X | X | X | N/O | N/O | N/O | N/O |
-| Si j'aime | X | X | X | X | N/O | N/O | N/O |
+| Twitter J&#39;aime | X | X | X | N/O | N/O | N/O | N/O |
+| Si j&#39;aime | X | X | X | X | N/O | N/O | N/O |
 | Si, à la différence | X | X | X | X | N/O | N/O | N/O |
 | Partager sur publication | X | X |  | X | N/O | N/O | N/O |
 | Bouton Partager | X | X | X | X |  | N/O | N/O |
@@ -45,7 +41,7 @@ Voici une matrice des événements disponibles pour les applications de conversa
 | Réduire les réponses | X | N/O | X | X | N/O | N/O | N/O |
 | Bouton Indicateur | X | X | X | X | N/O | N/O | N/O |
 | Indicateur | X | X | X | X | X | N/O | N/O |
-| Annuler l'indicateur | X | X | X | X | N/O | N/O | N/O |
+| Annuler l&#39;indicateur | X | X | X | X | N/O | N/O | N/O |
 | Suivez | X | N/O | X | X | N/O | N/O | N/O |
 | Ne pas suivre | X | N/O | X | X | N/O | N/O | N/O |
 | Requestmore | X | X | X | X | N/O | N/O | N/O |
@@ -61,10 +57,10 @@ Voici une matrice des événements disponibles pour les applications de conversa
 | Sélection de sondage | N/O | N/O | N/O | N/O | N/O |  | N/O |
 | Elément de tendance sélectionné | N/. A | N/O | N/O | N/O | N/O | N/O |  |
 | Identifiant réseau |  |  |  |  |  |  |  |
-| ID de l'application | X | X | X | X |  |  |  |
+| ID de l&#39;application | X | X | X | X |  |  |  |
 | ID de contexte | X | X | X | X |  |  |  |
-| Type d'application | X | X | X | X |  |  |  |
+| Type d&#39;application | X | X | X | X |  |  |  |
 | Type de contenu | X | X | X | X |  |  |  |
-| Date de publication dans l'application |  |  |  |  |  |  |  |
-| Connecté à l'application utilisateur final |  |  |  |  |  |  |  |
+| Date de publication dans l&#39;application |  |  |  |  |  |  |  |
+| Connecté à l&#39;application utilisateur final |  |  |  |  |  |  |  |
 

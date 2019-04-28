@@ -1,8 +1,6 @@
 ---
-description: Storify vous permet d'ajouter du contenu à n'importe quel endroit de
-  votre récit.
-seo-description: Storify vous permet d'ajouter du contenu à n'importe quel endroit
-  de votre récit.
+description: Storify vous permet d'ajouter du contenu à n'importe quel endroit de votre récit.
+seo-description: Storify vous permet d'ajouter du contenu à n'importe quel endroit de votre récit.
 seo-title: Ajouter du texte
 solution: Experience Manager
 title: Ajouter du texte
@@ -15,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Ajouter du texte{#add-text}
 
-Storify vous permet d'ajouter du contenu à n'importe quel endroit de votre récit.
+Storify vous permet d&#39;ajouter du contenu à n&#39;importe quel endroit de votre récit.
 
-Utilisez le volet de contenu de l'éditeur pour afficher vos brouillons et rechercher des éléments de contenu pour ajouter un contexte à votre récit. Utilisez l'onglet Editeur pour créer une intrigue, ajouter un contexte à vos éléments d'article et créer une narration pour la page.
+Utilisez le volet de contenu de l&#39;éditeur pour afficher vos brouillons et rechercher des éléments de contenu pour ajouter un contexte à votre récit. Utilisez l&#39;onglet Editeur pour créer une intrigue, ajouter un contexte à vos éléments d&#39;article et créer une narration pour la page.
 
-Les éléments de contenu peuvent être modifiés ou repositionnés. Le texte peut être mis en forme à l'aide d'options de formatage standard, notamment gras, italique, souligné et barré.
+Les éléments de contenu peuvent être modifiés ou repositionnés. Le texte peut être mis en forme à l&#39;aide d&#39;options de formatage standard, notamment gras, italique, souligné et barré.
 
-1. Cliquez sur dans la page pour créer un élément de texte qui peut ensuite être déplacé pour le repositionner n'importe où dans votre storyline.
-1. Cliquez sur le texte existant, puis utilisez la barre de menus de formatage qui s'ouvre pour le redémarrer. Les options disponibles sont les titres, les guillemets, les listes triées et non triées, les caractères gras, barrés, soulignés et italiques.
+1. Cliquez sur dans la page pour créer un élément de texte qui peut ensuite être déplacé pour le repositionner n&#39;importe où dans votre storyline.
+1. Cliquez sur le texte existant, puis utilisez la barre de menus de formatage qui s&#39;ouvre pour le redémarrer. Les options disponibles sont les titres, les guillemets, les listes triées et non triées, les caractères gras, barrés, soulignés et italiques.

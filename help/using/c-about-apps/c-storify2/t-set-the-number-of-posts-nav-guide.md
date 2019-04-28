@@ -1,8 +1,6 @@
 ---
-description: Définissez le nombre de publications que les visiteurs du site peuvent
-  voir dans le Guide de navigation.
-seo-description: Définissez le nombre de publications que les visiteurs du site peuvent
-  voir dans le Guide de navigation.
+description: Définissez le nombre de publications que les visiteurs du site peuvent voir dans le Guide de navigation.
+seo-description: Définissez le nombre de publications que les visiteurs du site peuvent voir dans le Guide de navigation.
 seo-title: Définition du nombre de publications dans le Guide de navigation
 solution: Experience Manager
 title: Définition du nombre de publications dans le Guide de navigation
@@ -17,5 +15,5 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Définissez le nombre de publications que les visiteurs du site peuvent voir dans le Guide de navigation.
 
-1. Dans l'application Storify 2 App Designer, basculez sur **[!UICONTROL Navigation Guide]** la bascule.
+1. Dans l&#39;application Storify 2 App Designer, basculez sur **[!UICONTROL Navigation Guide]** la bascule.
 1. Entrez un nombre dans **[!UICONTROL Max Number of Guide Posts]** le champ. Si vous ne définissez pas ce champ, Livefyre par défaut est égal à 10.

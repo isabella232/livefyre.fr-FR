@@ -1,8 +1,6 @@
 ---
-description: Événements disponibles auxquels vous pouvez lier JavaScript pour les
-  applications de visualisation (par exemple, Mur multimédia).
-seo-description: Événements disponibles auxquels vous pouvez lier JavaScript pour
-  les applications de visualisation (par exemple, Mur multimédia).
+description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de visualisation (par exemple, Mur multimédia).
+seo-description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de visualisation (par exemple, Mur multimédia).
 seo-title: Événements javascript pour les applications de visualisation
 solution: Experience Manager
 title: Événements javascript pour les applications de visualisation
@@ -17,9 +15,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de visualisation (par exemple, Mur multimédia).
 
-Le tableau suivant affiche les événements d'application pour les applications de visualisation. Un X indique que l'événement est disponible pour l'application, S/O indique que l'événement ne s'applique pas à l'application et qu'aucun marquage signifie que l'événement n'est pas disponible pour cette application :
+Le tableau suivant affiche les événements d&#39;application pour les applications de visualisation. Un X indique que l&#39;événement est disponible pour l&#39;application, S/O indique que l&#39;événement ne s&#39;applique pas à l&#39;application et qu&#39;aucun marquage signifie que l&#39;événement n&#39;est pas disponible pour cette application :
 
-## Evénements d'application de visualisation
+## Evénements d&#39;application de visualisation
 
 | Evénements | Mur multimédia | Mosaic | Carte | Carte unique | Carrousel | Bouton Publication | Filmstrip |
 |---|---|---|---|---|---|---|---|
@@ -29,8 +27,8 @@ Le tableau suivant affiche les événements d'application pour les applications 
 | Publication |  | N/O | N/O | N/O | N/O |  | N/O |
 | Publié |  | N/O | N/O | N/O | N/O |  | N/O |
 | Réponse Twitter | X | X |  | X | X | N/O | X |
-| Twitter J'aime | X | X |  | X | X | N/O | X |
-| Si j'aime | X |  | N/O | N/O | N/O | N/O | N/O |
+| Twitter J&#39;aime | X | X |  | X | X | N/O | X |
+| Si j&#39;aime | X |  | N/O | N/O | N/O | N/O | N/O |
 | Si, à la différence | X |  | N/O | N/O | N/O | N/O | N/O |
 | Partager sur publication | N/O |  | N/O | N/O | N/O | N/O | N/O |
 | Bouton Partager | X | X |  | X | X | N/O | X |
@@ -41,7 +39,7 @@ Le tableau suivant affiche les événements d'application pour les applications 
 | Réduire les réponses | N/O | N/O | N/O | N/O | N/O | N/O | N/O |
 | Bouton Indicateur | N/O | N/O | N/O | N/O | N/O | N/O | N/O |
 | Indicateur | N/O | N/O | N/O | N/O | N/O | N/O | N/O |
-| Annuler l'indicateur | N/O | N/O | N/O | N/O | N/O | N/O | N/O |
+| Annuler l&#39;indicateur | N/O | N/O | N/O | N/O | N/O | N/O | N/O |
 | Suivez | N/O | N/O | N/O | N/O | N/O | N/O | N/O |
 | Ne pas suivre | N/O | N/O | N/O | N/O | N/O | N/O | N/O |
 | Requestmore | X | N/O | N/O | N/O | N/O | N/O | N/O |
@@ -57,9 +55,9 @@ Le tableau suivant affiche les événements d'application pour les applications 
 | Sélection de sondage | N/O |  | N/O | N/O | N/O | N/O | N/O |
 | Elément de tendance sélectionné | N/O |  | N/O | N/O | N/O | N/O | N/O |
 | Identifiant réseau |  |  |  |  |  |  | N/O |
-| ID de l'application | X |  |  | X | X | X | X |
+| ID de l&#39;application | X |  |  | X | X | X | X |
 | ID de contexte | X |  |  | X | X | X | X |
-| Type d'application | X |  | X | X | X | X | X |
+| Type d&#39;application | X |  | X | X | X | X | X |
 | Type de contenu | X | X | X | X | X | X |  |
-| Date de publication dans l'application |  |  |  |  |  |  |  |
-| Connecté à l'application utilisateur final |  |  |  |  |  |  |  |
+| Date de publication dans l&#39;application |  |  |  |  |  |  |  |
+| Connecté à l&#39;application utilisateur final |  |  |  |  |  |  |  |

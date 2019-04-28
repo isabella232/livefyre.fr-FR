@@ -17,21 +17,21 @@ Studio propose plusieurs options pour gérer vos dossiers.
 
 Les options suivantes sont disponibles pour gérer les dossiers et les ressources :
 
-* **[!UICONTROL Favorite:]** Cliquez sur l'icône en forme d'étoile située en regard du nom d'un dossier en haut de la page pour marquer le dossier et l'ajouter à **[!UICONTROL Favorites]** votre liste.
+* **[!UICONTROL Favorite:]** Cliquez sur l&#39;icône en forme d&#39;étoile située en regard du nom d&#39;un dossier en haut de la page pour marquer le dossier et l&#39;ajouter à **[!UICONTROL Favorites]** votre liste.
 
-* **[!UICONTROL Upload Asset:]** Ouvre une fenêtre Filepicker, à partir de laquelle vous pouvez rechercher et télécharger du contenu à partir de votre bureau, Flickr, URL ou d'autres emplacements à ajouter à votre bibliothèque de fichiers.
-* **[!UICONTROL Create New Subfolder:]** Permet de créer un sous-dossier dans le dossier actuellement sélectionné. Les sous-dossiers héritent des droits d'accès de leur dossier parent et leur accès ne peut pas être géré individuellement.
+* **[!UICONTROL Upload Asset:]** Ouvre une fenêtre Filepicker, à partir de laquelle vous pouvez rechercher et télécharger du contenu à partir de votre bureau, Flickr, URL ou d&#39;autres emplacements à ajouter à votre bibliothèque de fichiers.
+* **[!UICONTROL Create New Subfolder:]** Permet de créer un sous-dossier dans le dossier actuellement sélectionné. Les sous-dossiers héritent des droits d&#39;accès de leur dossier parent et leur accès ne peut pas être géré individuellement.
 * **[!UICONTROL Trash Folder:]** Supprime le dossier et son contenu de la bibliothèque de fichiers.
 
    >[!NOTE]
    >
    >Seuls les propriétaires du dossier peuvent être corbeilles.
 
-* **[!UICONTROL Manage Access:]** Permet de contrôler l'accès au dossier : ** [!UICONTROL Open]** ou **[!UICONTROL Restricted]**. Sélectionnez **[!UICONTROL Open]** cette option pour permettre à tous les utilisateurs Studio de votre réseau d'accéder au dossier et à son contenu. Sélectionnez **[!UICONTROL Restricted]** cette option pour restreindre l'accès à un groupe d'utilisateurs sélectionné.
+* **[!UICONTROL Manage Access:]** Permet de contrôler l&#39;accès au dossier : ** [!UICONTROL Open]** ou **[!UICONTROL Restricted]**. Sélectionnez **[!UICONTROL Open]** cette option pour permettre à tous les utilisateurs Studio de votre réseau d&#39;accéder au dossier et à son contenu. Sélectionnez **[!UICONTROL Restricted]** cette option pour restreindre l&#39;accès à un groupe d&#39;utilisateurs sélectionné.
 
    >[!NOTE]
    >
-   >Seuls les utilisateurs autorisés à accéder au dossier peuvent gérer l'accès.
+   >Seuls les utilisateurs autorisés à accéder au dossier peuvent gérer l&#39;accès.
 
 * **[!UICONTROL Rename:]** Permet de renommer le dossier.
 

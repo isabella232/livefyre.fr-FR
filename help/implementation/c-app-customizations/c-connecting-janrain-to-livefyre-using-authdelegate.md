@@ -1,8 +1,6 @@
 ---
-description: Livefyre. require fournit un module externe qui permet d'écouter le bus
-  Janrain Backplane avec authenticité.
-seo-description: Livefyre. require fournit un module externe qui permet d'écouter
-  le bus Janrain Backplane avec authenticité.
+description: Livefyre. require fournit un module externe qui permet d'écouter le bus Janrain Backplane avec authenticité.
+seo-description: Livefyre. require fournit un module externe qui permet d'écouter le bus Janrain Backplane avec authenticité.
 seo-title: Connexion de Janrain à Livefyre à l'aide de authdelegate
 title: Connexion de Janrain à Livefyre à l'aide de authdelegate
 uuid: 9 d 56 e 3 f 4-960 a -4108-aab 5-2795 b 0 e 71 c 88
@@ -12,11 +10,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Connexion de Janrain à Livefyre à l'aide de authdelegate{#connecting-janrain-to-livefyre-using-authdelegate}
+# Connexion de Janrain à Livefyre à l&#39;aide de authdelegate{#connecting-janrain-to-livefyre-using-authdelegate}
 
-Livefyre. require fournit un module externe qui permet d'écouter le bus Janrain Backplane avec authenticité.
+Livefyre. require fournit un module externe qui permet d&#39;écouter le bus Janrain Backplane avec authenticité.
 
-Lorsqu'un message d'identité/connexion est diffusé sur le canal Backplane, auth. authenticate () est appelé avec le jeton d'authentification Livefyre de l'utilisateur. Vous devez toujours implémenter authdelegate.
+Lorsqu&#39;un message d&#39;identité/connexion est diffusé sur le canal Backplane, auth. authenticate () est appelé avec le jeton d&#39;authentification Livefyre de l&#39;utilisateur. Vous devez toujours implémenter authdelegate.
 
 ```
 Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePluginFactory) { 
@@ -31,7 +29,7 @@ Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePl
 
 >[!NOTE]
 >
->L'objet window. Backplane doit être défini sur votre page avant d'appeler auth. plugin avec le plug-in Livefyre Backplane. Pour vérifier que l'objet Backplane est disponible, appelez le code d'instanciation Livefyre à partir d'un rappel onready. Contactez votre contact Janrain pour déterminer quand d'autres applications peuvent utiliser l'objet Backplane.
+>L&#39;objet window. Backplane doit être défini sur votre page avant d&#39;appeler auth. plugin avec le plug-in Livefyre Backplane. Pour vérifier que l&#39;objet Backplane est disponible, appelez le code d&#39;instanciation Livefyre à partir d&#39;un rappel onready. Contactez votre contact Janrain pour déterminer quand d&#39;autres applications peuvent utiliser l&#39;objet Backplane.
 
 Voici quelques exemples de manière dont un délégué authentique peut rechercher une intégration de Janrain Capture.
 
@@ -112,7 +110,7 @@ authDelegate.editProfile = function(user) {
 
 Afficher le profil
 
-Comme Modifier le profil, il doit renvoyer à la page d'un utilisateur différente de l'utilisateur actuellement connecté. Vous pouvez l'implémenter en conséquence. Cet exemple consigne simplement le paramètre d'auteur sur la console.
+Comme Modifier le profil, il doit renvoyer à la page d&#39;un utilisateur différente de l&#39;utilisateur actuellement connecté. Vous pouvez l&#39;implémenter en conséquence. Cet exemple consigne simplement le paramètre d&#39;auteur sur la console.
 
 ```
 /** 

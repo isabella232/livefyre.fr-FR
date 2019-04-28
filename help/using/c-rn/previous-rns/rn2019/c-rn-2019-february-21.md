@@ -18,7 +18,7 @@ source-git-commit: 4051e0d55c7fa1cf02d8b01c239d040c0a3baf14
 
 ## Corrections de bogues
 
-* Correction d'un problème en raison duquel l'actualisation du jeton de compte professionnel Instagram entraînait une erreur de « compte dupliqué ».
-* Correction d'un problème en raison duquel la mise à jour d'applications à l'aide d'un script personnalisé créait des applications dupliquées par erreur.
-* Correction d'un problème en raison duquel le contenu Instagram affiché à partir de la recherche URL affichait correctement la miniature dans les résultats de la recherche mais pas dans la section « Afficher les détails » ou publiée dans une application.
-* Correction d'un problème en raison duquel le fait de cliquer sur Charger plus entraînait une erreur pour certains ID de produit.
+* Correction d&#39;un problème en raison duquel l&#39;actualisation du jeton de compte professionnel Instagram entraînait une erreur de « compte dupliqué ».
+* Correction d&#39;un problème en raison duquel la mise à jour d&#39;applications à l&#39;aide d&#39;un script personnalisé créait des applications dupliquées par erreur.
+* Correction d&#39;un problème en raison duquel le contenu Instagram affiché à partir de la recherche URL affichait correctement la miniature dans les résultats de la recherche mais pas dans la section « Afficher les détails » ou publiée dans une application.
+* Correction d&#39;un problème en raison duquel le fait de cliquer sur Charger plus entraînait une erreur pour certains ID de produit.

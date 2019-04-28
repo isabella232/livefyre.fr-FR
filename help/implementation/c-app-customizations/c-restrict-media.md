@@ -13,13 +13,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Restreindre le support{#restrict-media}
 
-Limitez le type de média dans le flux de l'application.
+Limitez le type de média dans le flux de l&#39;application.
 
 Par défaut, toutes les pièces jointes multimédia peuvent être incorporées dans les applications. Livefyre vous permet de modifier cette option pour empêcher les utilisateurs de publier des types de pièce jointe sélectionnés dans vos applications.
 
 >[!NOTE]
 >
->Partenaires Livefyre avec Incorporation de médias. Pour plus d'informations, voir Intégration de contenu > Intégration implicite. Contactez votre gestionnaire de compte technique pour toute question sur l'extension des liens ou les sources.
+>Partenaires Livefyre avec Incorporation de médias. Pour plus d&#39;informations, voir Intégration de contenu &gt; Intégration implicite. Contactez votre gestionnaire de compte technique pour toute question sur l&#39;extension des liens ou les sources.
 
 Cet exemple bloque YouTube et Vimeo incorpore à partir de votre flux de commentaires :
 

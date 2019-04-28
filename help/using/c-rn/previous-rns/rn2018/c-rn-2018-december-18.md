@@ -17,11 +17,11 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ## Amélioration
 
-* Mise en œuvre d'un paramètre qui activait par défaut les paramètres du compte Instagram.
+* Mise en œuvre d&#39;un paramètre qui activait par défaut les paramètres du compte Instagram.
 
 ## Corrections de bogues
 
-* Correction d'un problème en raison duquel la recherche sociale avec la règle Instagram ne fonctionne pas toujours.
-* Correction d'un problème en raison duquel la recherche d'URL semble incohérente lors du renvoi du résultat.
-* Correction d'un problème en raison duquel les flux avec des caractères coréens n'extraient pas le contenu.
-* Correction d'un problème en raison duquel le flux avec la règle Instagram ne pouvait pas sélectionner de nouvelles publications.
+* Correction d&#39;un problème en raison duquel la recherche sociale avec la règle Instagram ne fonctionne pas toujours.
+* Correction d&#39;un problème en raison duquel la recherche d&#39;URL semble incohérente lors du renvoi du résultat.
+* Correction d&#39;un problème en raison duquel les flux avec des caractères coréens n&#39;extraient pas le contenu.
+* Correction d&#39;un problème en raison duquel le flux avec la règle Instagram ne pouvait pas sélectionner de nouvelles publications.

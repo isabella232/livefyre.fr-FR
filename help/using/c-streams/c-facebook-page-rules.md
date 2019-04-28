@@ -1,8 +1,6 @@
 ---
-description: Vous pouvez créer des règles de diffusion en continu qui extraient le
-  contenu des pages Facebook.
-seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient
-  le contenu des pages Facebook.
+description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu des pages Facebook.
+seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu des pages Facebook.
 seo-title: Règles de page Facebook
 solution: Experience Manager
 title: Règles de page Facebook
@@ -17,26 +15,26 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Vous pouvez créer des règles de diffusion en continu qui extraient le contenu des pages Facebook.
 
-Vous pouvez utiliser des règles de page Facebook pour diffuser du contenu publié publiquement depuis des pages Facebook. Le contenu sera extrait dans l'application ou le dossier à la même fréquence que socialsync, qui change en fonction de la page Facebook et des modèles de trafic. Les liens dans les pages Facebook sont également pris en charge et s'afficheront dans le flux.
+Vous pouvez utiliser des règles de page Facebook pour diffuser du contenu publié publiquement depuis des pages Facebook. Le contenu sera extrait dans l&#39;application ou le dossier à la même fréquence que socialsync, qui change en fonction de la page Facebook et des modèles de trafic. Les liens dans les pages Facebook sont également pris en charge et s&#39;afficheront dans le flux.
 
 Pour créer des règles de page Facebook pour extraire du contenu des pages Facebook dans votre application ou dossier, vous pouvez filtrer par :
 
 * **[!UICONTROL Facebook Page]**
 
-   * Saisissez la **[!UICONTROL Name]** page. Saisissez uniquement le texte de fin de l'URL. **Par exemple :** Pour ajouter du contenu, `https://facebook.com/KellysSuperFunFanPage`saisissez *kellyssuperfunfanpage* dans **[!UICONTROL Name]** le champ.
+   * Saisissez la **[!UICONTROL Name]** page. Saisissez uniquement le texte de fin de l&#39;URL. **Par exemple :** Pour ajouter du contenu, `https://facebook.com/KellysSuperFunFanPage`saisissez *kellyssuperfunfanpage* dans **[!UICONTROL Name]** le champ.
 
    * Passez en revue **[!UICONTROL Include Facebook Comments for each post]** si vous souhaitez inclure des commentaires utilisateur dans les publications de page.
-   * Passez à l **[!UICONTROL Only Show Author Posts]** 'écran si vous souhaitez exclure les publications d'autres utilisateurs.
+   * Passez à l **[!UICONTROL Only Show Author Posts]** &#39;écran si vous souhaitez exclure les publications d&#39;autres utilisateurs.
 
 Pour obtenir des options de règle de diffusion en continu pour toutes les règles de diffusion en continu, voir [Options de règle de diffusion en continu pour toutes les règles de diffusion en continu](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
 >[!NOTE]
 >
->Livefyre est limité au contenu reçu de Facebook ; il n'est donc pas garanti que chaque publication sur une page Facebook sera incluse dans votre flux.
+>Livefyre est limité au contenu reçu de Facebook ; il n&#39;est donc pas garanti que chaque publication sur une page Facebook sera incluse dans votre flux.
 
 >[!NOTE]
 >
->Si Facebook socialsync et une règle de page Facebook sont tous deux activés pour une page Facebook spécifique et que les commentaires utilisateur sont activés pour la règle de page Facebook, la règle de diffusion en continu remplace socialsync. Le contenu sera diffusé en continu dans l'application en fonction de la règle de traitement des pages Facebook uniquement et non de socialsync.
+>Si Facebook socialsync et une règle de page Facebook sont tous deux activés pour une page Facebook spécifique et que les commentaires utilisateur sont activés pour la règle de page Facebook, la règle de diffusion en continu remplace socialsync. Le contenu sera diffusé en continu dans l&#39;application en fonction de la règle de traitement des pages Facebook uniquement et non de socialsync.
 
 Les types de contenu pris en charge par le curseur de page Facebook incluent :
 

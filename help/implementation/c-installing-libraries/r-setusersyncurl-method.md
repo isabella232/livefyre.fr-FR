@@ -1,8 +1,6 @@
 ---
-description: Informe Livefyre de la mise à jour de l'URL de synchronisation des utilisateurs
-  du réseau vers celle fournie. Renvoie une valeur booléenne.
-seo-description: Informe Livefyre de la mise à jour de l'URL de synchronisation des
-  utilisateurs du réseau vers celle fournie. Renvoie une valeur booléenne.
+description: Informe Livefyre de la mise à jour de l'URL de synchronisation des utilisateurs du réseau vers celle fournie. Renvoie une valeur booléenne.
+seo-description: Informe Livefyre de la mise à jour de l'URL de synchronisation des utilisateurs du réseau vers celle fournie. Renvoie une valeur booléenne.
 seo-title: Setusersyncurl Network Method
 solution: Experience Manager
 title: Setusersyncurl Network Method
@@ -15,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Setusersyncurl Network Method{#setusersyncurl-network-method}
 
-Informe Livefyre de la mise à jour de l'URL de synchronisation des utilisateurs du réseau vers celle fournie. Renvoie une valeur booléenne.
+Informe Livefyre de la mise à jour de l&#39;URL de synchronisation des utilisateurs du réseau vers celle fournie. Renvoie une valeur booléenne.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| Urltemplate | Chaîne | URL de l'enregistrement avec Livefyre pour synchroniser l'utilisateur - ID. Nécessite « `{id}` » pour faire partie de la chaîne URL fournie. |
+| Urltemplate | Chaîne | URL de l&#39;enregistrement avec Livefyre pour synchroniser l&#39;utilisateur - ID. Nécessite « `{id}` » pour faire partie de la chaîne URL fournie. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
 

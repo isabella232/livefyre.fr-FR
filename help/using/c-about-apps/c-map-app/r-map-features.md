@@ -13,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Fonctionnalités de carte{#map-features}
 
-L'application Map propose ces fonctionnalités pour votre site.
+L&#39;application Map propose ces fonctionnalités pour votre site.
 
 
 
 * Le contenu entre dans la carte en temps réel.
-* Le contenu d'une même zone est organisé en grappe et peut être visualisé dans une fenêtre modale.
+* Le contenu d&#39;une même zone est organisé en grappe et peut être visualisé dans une fenêtre modale.
 * Zoom sur la carte pour vous concentrer sur le contenu à partir de zones spécifiques.
 

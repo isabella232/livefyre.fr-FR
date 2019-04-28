@@ -1,8 +1,6 @@
 ---
-description: Personnalisez les horodatages de date et d'heure à l'aide de Livefyre.
-  js.
-seo-description: Personnalisez les horodatages de date et d'heure à l'aide de Livefyre.
-  js.
+description: Personnalisez les horodatages de date et d'heure à l'aide de Livefyre. js.
+seo-description: Personnalisez les horodatages de date et d'heure à l'aide de Livefyre. js.
 seo-title: Personnalisation de la date et de l'heure
 solution: Experience Manager
 title: Personnalisation de la date et de l'heure
@@ -13,11 +11,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Personnalisation de la date et de l'heure{#customize-the-date-and-time-stamp}
+# Personnalisation de la date et de l&#39;heure{#customize-the-date-and-time-stamp}
 
-Personnalisez les horodatages de date et d'heure à l'aide de Livefyre. js.
+Personnalisez les horodatages de date et d&#39;heure à l&#39;aide de Livefyre. js.
 
-Les applications Livefyre fournissent le paramètre d'option, datetimeformat, pour spécifier le format de date comme décrit ci-dessous.
+Les applications Livefyre fournissent le paramètre d&#39;option, datetimeformat, pour spécifier le format de date comme décrit ci-dessous.
 
 * [Terminologie](#c_date_time_stamp/section_xsk_jn4_xz)
 * [Formatage](#c_date_time_stamp/section_ynx_gn4_xz)
@@ -30,12 +28,12 @@ Les applications Livefyre fournissent le paramètre d'option, datetimeformat, po
 
 ## Formatage {#section_ynx_gn4_xz}
 
-Le paramètre datetimeformat présente le comportement par défaut suivant lorsqu'aucun argument n'est donné :
+Le paramètre datetimeformat présente le comportement par défaut suivant lorsqu&#39;aucun argument n&#39;est donné :
 
 * Format de date de : MMMM d yyyy (pour le 8 janvier 2012)
-* 20160 minutes (14 jours) jusqu'à la durée absolue (14 jours jusqu'à ce que les horodatages relatifs deviennent des horodatages absolus)
+* 20160 minutes (14 jours) jusqu&#39;à la durée absolue (14 jours jusqu&#39;à ce que les horodatages relatifs deviennent des horodatages absolus)
 
-Le paramètre datetimeformat accepte trois types d'arguments possibles : datetime, format et chaîne.
+Le paramètre datetimeformat accepte trois types d&#39;arguments possibles : datetime, format et chaîne.
 
 ```
 // Example 1 (Datetime format string)  
@@ -87,7 +85,7 @@ var conv = fyre.conv.load(networkConfig, [convConfig]);
 
 ## Désignation du symbole {#section_inq_2n4_xz}
 
-Fonctions de formatage de Datetime suivant les spécifications du modèle définies dans JDK, ICU et CLDR, avec une modification mineure pour une utilisation standard dans JS. Pour plus d'informations, consultez la documentation de la bibliothèque de fermeture [de Google](https://developers.google.com/closure/library/docs/overview).
+Fonctions de formatage de Datetime suivant les spécifications du modèle définies dans JDK, ICU et CLDR, avec une modification mineure pour une utilisation standard dans JS. Pour plus d&#39;informations, consultez la documentation de la bibliothèque de fermeture [de Google](https://developers.google.com/closure/library/docs/overview).
 
 ```
   Symbol Meaning Presentation        Example 
@@ -123,12 +121,12 @@ Fonctions de formatage de Datetime suivant les spécifications du modèle défin
 
 Les éléments marqués de « * » ne sont pas encore pris en charge.
 
-Les éléments marqués de '#'fonctionnent différemment de Java.
+Les éléments marqués de &#39;#&#39;fonctionnent différemment de Java.
 
 Le nombre de lettres détermine le format.
 
-* **Texte :** 4 ou plus, utilisez le formulaire complet. Moins de 4, utilisez un formulaire court ou abrégé s'il existe. (Par exemple : « EEEE » produit « Lundi », « EEE » produit « Mon ».)
-* **Nombre :** le nombre minimum de chiffres. Les nombres plus courts sont de zéro à ce montant (par exemple : Si « m » produit « 6 », « mm » produit « 06 ». L'année est gérée spécialement ; autrement dit, si le nombre de « y » est 2, l'année est tronquée à 2 chiffres. (Par exemple : si « yyyy » produit « 1997 », « aa » produit « 97 ».) Contrairement aux autres champs, les secondes fractionnaires sont ajoutées à droite avec zéro.
+* **Texte :** 4 ou plus, utilisez le formulaire complet. Moins de 4, utilisez un formulaire court ou abrégé s&#39;il existe. (Par exemple : « EEEE » produit « Lundi », « EEE » produit « Mon ».)
+* **Nombre :** le nombre minimum de chiffres. Les nombres plus courts sont de zéro à ce montant (par exemple : Si « m » produit « 6 », « mm » produit « 06 ». L&#39;année est gérée spécialement ; autrement dit, si le nombre de « y » est 2, l&#39;année est tronquée à 2 chiffres. (Par exemple : si « yyyy » produit « 1997 », « aa » produit « 97 ».) Contrairement aux autres champs, les secondes fractionnaires sont ajoutées à droite avec zéro.
 * **Texte et numéro :** 3 ou plus, utilisez du texte. Moins de 3, utilisez le numéro. (Par exemple : « M » produit « 1 », « MM » produit « 01 », « MMM » produit « Jan » et « MMMM » produit « janvier ».)
 
-Tous les caractères du modèle qui ne sont pas dans les plages [de « a ».'z'] et ['A '.''Z'] sera traité comme du texte entre guillemets. Par exemple, caractères tels que ': ','. ',','#'et '@'apparaissent dans le texte de l'heure qui en résulte, même ceux qui ne sont pas incorporés dans des guillemets simples.
+Tous les caractères du modèle qui ne sont pas dans les plages [de « a ».&#39;z&#39;] et [&#39;A &#39;.&#39;&#39;Z&#39;] sera traité comme du texte entre guillemets. Par exemple, caractères tels que &#39;: &#39;,&#39;. &#39;,&#39;,&#39;#&#39;et &#39;@&#39;apparaissent dans le texte de l&#39;heure qui en résulte, même ceux qui ne sont pas incorporés dans des guillemets simples.

@@ -1,8 +1,6 @@
 ---
-description: Mettez en évidence le contenu important à vos utilisateurs grâce à la
-  page CSS au style personnalisé du style incitatif.
-seo-description: Mettez en évidence le contenu important à vos utilisateurs grâce
-  à la page CSS au style personnalisé du style incitatif.
+description: Mettez en évidence le contenu important à vos utilisateurs grâce à la page CSS au style personnalisé du style incitatif.
+seo-description: Mettez en évidence le contenu important à vos utilisateurs grâce à la page CSS au style personnalisé du style incitatif.
 seo-title: Contenu incitatif
 solution: Experience Manager
 title: Contenu incitatif
@@ -17,17 +15,17 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Mettez en évidence le contenu important à vos utilisateurs grâce à la page CSS au style personnalisé du style incitatif.
 
-Tout élément de contenu d'une collection peut être balisé par les propriétaires ou modérateurs du site réseau, afin de mettre en évidence le contenu important et d'encourager les réponses haute qualité d'autres utilisateurs. Une fois qu'un élément de contenu a été présenté, une **[!UICONTROL Featured]** balise s'affiche sur le contenu de l'application, afin que les utilisateurs puissent facilement identifier le contenu que les propriétaires et les modérateurs ont mis en surbrillance.
+Tout élément de contenu d&#39;une collection peut être balisé par les propriétaires ou modérateurs du site réseau, afin de mettre en évidence le contenu important et d&#39;encourager les réponses haute qualité d&#39;autres utilisateurs. Une fois qu&#39;un élément de contenu a été présenté, une **[!UICONTROL Featured]** balise s&#39;affiche sur le contenu de l&#39;application, afin que les utilisateurs puissent facilement identifier le contenu que les propriétaires et les modérateurs ont mis en surbrillance.
 
 Dans les commentaires :
 
 * Les deux éléments de **[!UICONTROL Featured]** contenu les plus récents sont également extraits au-dessus du flux.
-* Le contenu incitatif peut prendre jusqu'à sept minutes au-dessus de l'éditeur.
-* Une **[!UICONTROL Featured]** balise peut être ajoutée à n'importe quel commentaire dans le flux et utilisée pour mettre en forme le commentaire, mais seul le contenu généré par l'utilisateur Livefyre apparaîtra au-dessus de l'éditeur.
+* Le contenu incitatif peut prendre jusqu&#39;à sept minutes au-dessus de l&#39;éditeur.
+* Une **[!UICONTROL Featured]** balise peut être ajoutée à n&#39;importe quel commentaire dans le flux et utilisée pour mettre en forme le commentaire, mais seul le contenu généré par l&#39;utilisateur Livefyre apparaîtra au-dessus de l&#39;éditeur.
 
-Lorsque le contenu n'est pas présenté, la **[!UICONTROL Featured]** balise affichée est supprimée en temps réel.
+Lorsque le contenu n&#39;est pas présenté, la **[!UICONTROL Featured]** balise affichée est supprimée en temps réel.
 
-Une fois qu'un élément de contenu a été présenté, un **[!UICONTROL Featured]** badge s'affiche sur le contenu de l'application et vous pouvez utiliser la classe CSS fyre pour personnaliser le style du contenu.
+Une fois qu&#39;un élément de contenu a été présenté, un **[!UICONTROL Featured]** badge s&#39;affiche sur le contenu de l&#39;application et vous pouvez utiliser la classe CSS fyre pour personnaliser le style du contenu.
 
 Applications utilisant cette fonctionnalité :
 

@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Carte{#map}
 
-Faire correspondre le contenu d'un utilisateur à une carte interactive.
+Faire correspondre le contenu d&#39;un utilisateur à une carte interactive.
 
-Carte vous permet de diffuser du contenu géographiquement placé sur une carte du monde, ce qui vous permet de localiser l'buzz social autour de la rupture d'actualités ou d'un événement en direct. Tous les contenus applicables s'affichent, y compris le texte, les commentaires, les photos et les tweets.
+Carte vous permet de diffuser du contenu géographiquement placé sur une carte du monde, ce qui vous permet de localiser l&#39;buzz social autour de la rupture d&#39;actualités ou d&#39;un événement en direct. Tous les contenus applicables s&#39;affichent, y compris le texte, les commentaires, les photos et les tweets.
 
 >[!NOTE]
 >
@@ -25,19 +25,19 @@ Carte vous permet de diffuser du contenu géographiquement placé sur une carte 
 
 La méthode la plus rapide pour utiliser Carte consiste à utiliser la version construite hébergée sur le CDN Livefyre.
 
-Ajoutez d'abord [Livefyre. js](https://github.com/Livefyre/Livefyre.js) à votre page.
+Ajoutez d&#39;abord [Livefyre. js](https://github.com/Livefyre/Livefyre.js) à votre page.
 
 ```
 <script src="https://cdn.livefyre.com/Livefyre.js"></script> 
 ```
 
-Positionnez ensuite l'élément dans lequel l'application Map apparaîtra.
+Positionnez ensuite l&#39;élément dans lequel l&#39;application Map apparaîtra.
 
 ```
 <div id="map" style="height: 500px;"></div>
 ```
 
-Enfin, utilisez Livefyre. require pour construire le mappage et obtenir une collection à afficher à partir de streamhub-sdk. N'oubliez pas que Carte peut afficher uniquement le contenu avec des métadonnées géographiquement. Twitter et Instagram Traitate prennent en charge cette fonctionnalité. Pour garantir de meilleures performances, incluez un filtre de géolocalisation sur toutes vos règles de traitement pour la collection.
+Enfin, utilisez Livefyre. require pour construire le mappage et obtenir une collection à afficher à partir de streamhub-sdk. N&#39;oubliez pas que Carte peut afficher uniquement le contenu avec des métadonnées géographiquement. Twitter et Instagram Traitate prennent en charge cette fonctionnalité. Pour garantir de meilleures performances, incluez un filtre de géolocalisation sur toutes vos règles de traitement pour la collection.
 
 ```
 <script> 
@@ -62,7 +62,7 @@ Consultez cet [exemple en direct](https://codepen.io/cheung31/pen/wkmbF).
 
 `initial`
 
-nombre initial d'éléments à charger à partir de la collection et affichés sur la carte. Une fois ce nombre chargé, les utilisateurs peuvent cliquer sur un bouton pour afficher plus d'informations. (Facultatif. Par défaut, 50.)
+nombre initial d&#39;éléments à charger à partir de la collection et affichés sur la carte. Une fois ce nombre chargé, les utilisateurs peuvent cliquer sur un bouton pour afficher plus d&#39;informations. (Facultatif. Par défaut, 50.)
 
 ```
 var map = new Map({ 

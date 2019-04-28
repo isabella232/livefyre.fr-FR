@@ -19,11 +19,11 @@ Notes de mise à jour de la version du 28 septembre 2017.
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
 | Amélioration | SAFE | Améliorations mineures apportées à la détection SAFE Spam. |
-| Bogue | Studio | Les utilisateurs qui ne disposent pas de courriers électroniques valides ont des e-mails construits pour eux. Correction d'un problème lié aux journaux de production, en raison duquel le système n'envoyait pas de courrier électronique à ces utilisateurs. |
+| Bogue | Studio | Les utilisateurs qui ne disposent pas de courriers électroniques valides ont des e-mails construits pour eux. Correction d&#39;un problème lié aux journaux de production, en raison duquel le système n&#39;envoyait pas de courrier électronique à ces utilisateurs. |
 
 ## Version UAT
 
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
-| Amélioration | Bibliothèque | Les fichiers téléchargés dans la bibliothèque par un client sont automatiquement autorisés. Il s'agit d'une fonctionnalité utile lorsque les utilisateurs ont activé le filtre « Requiert des droits » dans leur application. |
+| Amélioration | Bibliothèque | Les fichiers téléchargés dans la bibliothèque par un client sont automatiquement autorisés. Il s&#39;agit d&#39;une fonctionnalité utile lorsque les utilisateurs ont activé le filtre « Requiert des droits » dans leur application. |
 

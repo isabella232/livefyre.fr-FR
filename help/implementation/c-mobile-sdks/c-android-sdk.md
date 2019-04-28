@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # SDK Android{#android-sdk}
 
-Création d'applications Android optimisées par Livefyre.
+Création d&#39;applications Android optimisées par Livefyre.
 
-Utilisez cette bibliothèque pour intégrer les services Livefyre à votre application Android native. Le SDK [Livefyre streamhub Android](https://github.com/Livefyre/StreamHub-Android-SDK) offre une fine palette autour de nos mécanismes API courants, reposant sur l'environnement de développement Gradle/Android Studio.
+Utilisez cette bibliothèque pour intégrer les services Livefyre à votre application Android native. Le SDK [Livefyre streamhub Android](https://github.com/Livefyre/StreamHub-Android-SDK) offre une fine palette autour de nos mécanismes API courants, reposant sur l&#39;environnement de développement Gradle/Android Studio.
 
 Livefyre fournit également un [exemple de module Survey](https://github.com/Livefyre/StreamHub-iOS-Reviews-App) , basé sur ce SDK.
 
@@ -23,10 +23,10 @@ Ce SDK Andefyre Android peut être utilisé dans Eclipse et Android Studio.
 
 >[!NOTE]
 >
->Avant d'installer le SDK Andefyre Android, [vous devez installer le SDK](https://developer.android.com/sdk/index.html) Android sur votre environnement. Vous devez également inclure quelques packages SDK Android supplémentaires, comme décrit dans la documentation des développeurs Android >.
+>Avant d&#39;installer le SDK Andefyre Android, [vous devez installer le SDK](https://developer.android.com/sdk/index.html) Android sur votre environnement. Vous devez également inclure quelques packages SDK Android supplémentaires, comme décrit dans la documentation des développeurs Android &gt;.
 >[Ajout de packages SDK](https://developer.android.com/sdk/installing/adding-packages.html)
 
-Utilisez le Gestionnaire SDK Android (disponible sur la barre d'outils Android Studio ou Eclipse) pour installer tous les packages recommandés. Veillez à inclure également le référentiel d'assistance Android.
+Utilisez le Gestionnaire SDK Android (disponible sur la barre d&#39;outils Android Studio ou Eclipse) pour installer tous les packages recommandés. Veillez à inclure également le référentiel d&#39;assistance Android.
 
 ## Eclipse {#section_dtm_slv_zz}
 
@@ -35,8 +35,8 @@ Pour ajouter le SDK Andefyre à votre projet dans Eclipse :
 1. Bénéficiez de la dernière [version streamhub-Android-SDK](https://github.com/Livefyre/StreamHub-Android-SDK) de github.
 1. Commencez par un projet existant ou créez-en un nouveau.
 1. Pour importer le SDK streamhub-Android-SDK dans votre espace de travail, accédez **[!UICONTROL File > Import > General > Existing Project into Workspace]**à.
-1. Recherchez et sélectionnez streamhub-Android-SDK ; il doit maintenant apparaître dans l'explorateur de packages.
-1. Droite : cliquez sur votre projet et sélectionnez **[!UICONTROL Properties,]** l'onglet Android.
+1. Recherchez et sélectionnez streamhub-Android-SDK ; il doit maintenant apparaître dans l&#39;explorateur de packages.
+1. Droite : cliquez sur votre projet et sélectionnez **[!UICONTROL Properties,]** l&#39;onglet Android.
 1. Dans la section Bibliothèque, sélectionnez **[!UICONTROL Add button,]** ensuite streamhub-Android-SDK dans la liste des bibliothèques.
 1. Cliquez **[!UICONTROL Apply]** sur et **[!UICONTROL OK]**.
 
@@ -54,13 +54,13 @@ Pour ajouter le SDK Andefyre Android à votre projet dans Android Studio :
 
 Android Studio peut demander que vous convertissiez le SDK en version de dégradé ; Si cela se produit, sélectionnez **[!UICONTROL next]** ensuite **[!UICONTROL finish]**.
 
-Accédez au **dossier du projet > dossier de l'application > build. gradle** sous dépendances pour ajouter la dépendance suivante :
+Accédez au **dossier du projet &gt; dossier de l&#39;application &gt; build. gradle** sous dépendances pour ajouter la dépendance suivante :
 
 ```
 dependencies {   compile project(':streamHubAndroidSDK') } 
 ```
 
-Assurez-vous que la ligne suivante se trouve dans le dossier **du projet > settings. gradle** :
+Assurez-vous que la ligne suivante se trouve dans le dossier **du projet &gt; settings. gradle** :
 
 ```
 include ':streamHubAndroidSDK' 
@@ -74,11 +74,11 @@ include ':streamHubAndroidSDK'
 
 Le SDK streamhub Android expose plusieurs classes de clients qui peuvent être utilisées pour demander des endpoints de fin API Livefyre :
 
-* **Adminclient** Échangez un jeton d'authentification utilisateur pour les informations de l'utilisateur, les clés et d'autres métadonnées.
+* **Adminclient** Échangez un jeton d&#39;authentification utilisateur pour les informations de l&#39;utilisateur, les clés et d&#39;autres métadonnées.
 
 * **Bootstrapclient** Obtenir le contenu récent et les métadonnées concernant une collection particulière.
 
-* **Streamclient** Sondage d'un flux pour une collection pour récupérer du contenu nouveau, mis à jour et supprimé.
+* **Streamclient** Sondage d&#39;un flux pour une collection pour récupérer du contenu nouveau, mis à jour et supprimé.
 
-* **Writeclient** Publication, indicateur et contenu J'aime dans une collection.
+* **Writeclient** Publication, indicateur et contenu J&#39;aime dans une collection.
 

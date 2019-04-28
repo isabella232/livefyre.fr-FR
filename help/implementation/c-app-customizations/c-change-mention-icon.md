@@ -1,8 +1,6 @@
 ---
-description: Modifiez l’icône affichée pour les utilisateurs Livefyre dans le menu
-  déroulant @mention.
-seo-description: Modifiez l’icône affichée pour les utilisateurs Livefyre dans le
-  menu déroulant mention.
+description: Modifiez l’icône affichée pour les utilisateurs Livefyre dans le menu déroulant @mention.
+seo-description: Modifiez l’icône affichée pour les utilisateurs Livefyre dans le menu déroulant mention.
 seo-title: Modifier l’icône de mention
 solution: Experience Manager
 title: Modifier l’icône de @mention
@@ -15,13 +13,13 @@ source-git-commit: 0d2ff61b1db6100de1d59e6e20c1175f015a78c5
 
 # Change `@mention` Icon {#change-mention-icon}
 
-Modifiez l'icône affichée pour les utilisateurs Livefyre dans le menu `@mention` déroulant.
+Modifiez l&#39;icône affichée pour les utilisateurs Livefyre dans le menu `@mention` déroulant.
 
-Remplacez l'icône Livefyre utilisée dans le menu `@mention` déroulant par une icône de votre choix, ce qui vous permet d'indiquer les membres de la communauté à votre propre icône.
+Remplacez l&#39;icône Livefyre utilisée dans le menu `@mention` déroulant par une icône de votre choix, ce qui vous permet d&#39;indiquer les membres de la communauté à votre propre icône.
 
 ## Exemple
 
-Pour modifier cette icône, ajoutez la feuille CSS suivante à votre feuille de style. Remplacez <*votre ressource*> url par l'URL de l'image sélectionnée pour remplacer le badge Livefyre par défaut.
+Pour modifier cette icône, ajoutez la feuille CSS suivante à votre feuille de style. Remplacez &lt;*votre ressource*&gt; url par l&#39;URL de l&#39;image sélectionnée pour remplacer le badge Livefyre par défaut.
 
 ```
 .fyre-editor-container .fyre-editor-toolbar > .fyre-mention-menu .fyre-mention-item .fyre-mention-item-livefyre { 

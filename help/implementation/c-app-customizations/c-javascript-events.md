@@ -1,10 +1,6 @@
 ---
-description: Événements disponibles auxquels vous pouvez lier JavaScript pour les
-  applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et
-  Sidenotes).
-seo-description: Événements disponibles auxquels vous pouvez lier JavaScript pour
-  les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews
-  et Sidenotes).
+description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
+seo-description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
 seo-title: Définitions et exemples d'événements JavaScript
 solution: Experience Manager
 title: Définitions et exemples d'événements JavaScript
@@ -15,15 +11,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Définitions et exemples d'événements JavaScript{#javascript-events-definitions-and-examples}
+# Définitions et exemples d&#39;événements JavaScript{#javascript-events-definitions-and-examples}
 
 Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
 
-Livefyre fournit des événements JavaScript pour effectuer le suivi de l'activité des utilisateurs dans vos applications Livefyre. Par exemple, vous pouvez mettre à jour la page lorsque des utilisateurs aiment ou partagent du contenu sur Twitter ou Facebook, ou lorsque du nouveau contenu est publié.
+Livefyre fournit des événements JavaScript pour effectuer le suivi de l&#39;activité des utilisateurs dans vos applications Livefyre. Par exemple, vous pouvez mettre à jour la page lorsque des utilisateurs aiment ou partagent du contenu sur Twitter ou Facebook, ou lorsque du nouveau contenu est publié.
 
-Livefyre vous permet également d'ajouter des événements à des intégrations d'analyse tierces (Adobe Analytics JS, Google Analytics, Gestion dynamique des balises, etc.) pour effectuer le suivi des événements d'application. Pour plus d'informations, demandez à votre gestionnaire d'intégration tiers de fournir les événements appropriés.
+Livefyre vous permet également d&#39;ajouter des événements à des intégrations d&#39;analyse tierces (Adobe Analytics JS, Google Analytics, Gestion dynamique des balises, etc.) pour effectuer le suivi des événements d&#39;application. Pour plus d&#39;informations, demandez à votre gestionnaire d&#39;intégration tiers de fournir les événements appropriés.
 
-Pour lier ces événements, ajoutez le code suivant à la page lors de l'instanciation de votre application sur une page. Remplacez le nom de l'événement pour `{eventName}`:
+Pour lier ces événements, ajoutez le code suivant à la page lors de l&#39;instanciation de votre application sur une page. Remplacez le nom de l&#39;événement pour `{eventName}`:
 
 ```
 Livefyre.require(['fyre.conv#3'], function(Conv) { 
@@ -37,7 +33,7 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
 
 >[!NOTE]
 >
->Les objets de données sont fournis pour tous les gestionnaires d'événements. Les exemples d'objets de données suivent chaque événement.
+>Les objets de données sont fournis pour tous les gestionnaires d&#39;événements. Les exemples d&#39;objets de données suivent chaque événement.
 
 ## Commentpost {#section_qfr_51p_xz}
 
@@ -45,7 +41,7 @@ Un utilisateur a publié un commentaire.
 
 * Un parent de null est un nouveau commentaire.
 * Un parent de Aucun est un commentaire qui a été modifié.
-* Un nombre pour parent est l'identifiant parent de la réponse.
+* Un nombre pour parent est l&#39;identifiant parent de la réponse.
 
 ```
 data = { 
@@ -86,7 +82,7 @@ data = {
 
 ## Commentshared {#section_nqb_31p_xz}
 
-Un utilisateur a partagé un commentaire du flux. (Cet événement ne se déclenche pas lorsque les utilisateurs partagent l'éditeur de commentaires.) Cet événement est déclenché lorsque l'utilisateur clique sur le bouton Partager.
+Un utilisateur a partagé un commentaire du flux. (Cet événement ne se déclenche pas lorsque les utilisateurs partagent l&#39;éditeur de commentaires.) Cet événement est déclenché lorsque l&#39;utilisateur clique sur le bouton Partager.
 
 ```
 data = { 
@@ -122,7 +118,7 @@ data = {
 
 Un utilisateur est déconnecté.
 
-données n'est pas définie.
+données n&#39;est pas définie.
 
 ## Socialmention {#section_a1w_tz4_xz}
 
@@ -152,19 +148,19 @@ data = {
 
 ## Initialrendercomplete {#section_odc_4z4_xz}
 
-Le flux de commentaires a été chargé et l'ensemble initial de contenu a été récupéré du serveur et affiché pour l'utilisateur.
+Le flux de commentaires a été chargé et l&#39;ensemble initial de contenu a été récupéré du serveur et affiché pour l&#39;utilisateur.
 
-données n'est pas définie.
+données n&#39;est pas définie.
 
 ## Showmore {#section_pqg_nz4_xz}
 
 Un utilisateur a cliqué sur **[!UICONTROL Show More]** le bouton.
 
-données n'est pas définie.
+données n&#39;est pas définie.
 
 ## Userafter {#section_xxw_jz4_xz}
 
-Renvoie true lorsqu'un utilisateur clique sur **[!UICONTROL Follow]** le bouton et false lorsque le contenu est publié sur le flux.
+Renvoie true lorsqu&#39;un utilisateur clique sur **[!UICONTROL Follow]** le bouton et false lorsque le contenu est publié sur le flux.
 
 ```
 data = { 
@@ -175,7 +171,7 @@ data = {
 
 ## Userunfollowed {#section_wm1_gz4_xz}
 
-Renvoie true lorsqu'un utilisateur clique sur le bouton **Unfollow** et false lorsque le contenu est publié sur le flux.
+Renvoie true lorsqu&#39;un utilisateur clique sur le bouton **Unfollow** et false lorsque le contenu est publié sur le flux.
 
 ```
 data = { 

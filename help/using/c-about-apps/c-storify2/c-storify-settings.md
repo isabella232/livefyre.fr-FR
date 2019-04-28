@@ -1,8 +1,6 @@
 ---
-description: Réglez les paramètres pour les articles Storify 2, tels que les balises,
-  la modération et le contenu autorisé.
-seo-description: Réglez les paramètres pour les articles Storify 2, tels que les balises,
-  la modération et le contenu autorisé.
+description: Réglez les paramètres pour les articles Storify 2, tels que les balises, la modération et le contenu autorisé.
+seo-description: Réglez les paramètres pour les articles Storify 2, tels que les balises, la modération et le contenu autorisé.
 seo-title: Paramètres Storify
 solution: Experience Manager
 title: Paramètres Storify
@@ -19,7 +17,7 @@ Réglez les paramètres pour les articles Storify 2, tels que les balises, la mo
 
 >[!NOTE]
 >
->La plupart des paramètres répertoriés pour les applications Storify 2 Apps pour les balises de type Sidenotes s'ils sont activés.
+>La plupart des paramètres répertoriés pour les applications Storify 2 Apps pour les balises de type Sidenotes s&#39;ils sont activés.
 
 * **[!UICONTROL Tags]**
 
@@ -35,7 +33,7 @@ Réglez les paramètres pour les articles Storify 2, tels que les balises, la mo
 
 * **[!UICONTROL Premoderate Content]**
 
-   Exiger l'approbation du modérateur avant que les tableaux de sidenom soient rendus publics.
+   Exiger l&#39;approbation du modérateur avant que les tableaux de sidenom soient rendus publics.
 
 * **[!UICONTROL Display Media]**
 
@@ -43,11 +41,11 @@ Réglez les paramètres pour les articles Storify 2, tels que les balises, la mo
 
 * **[!UICONTROL Premoderate Media]**
 
-   Exiger l'approbation du modérateur avant que le contenu des médias ne soit rendue public.
+   Exiger l&#39;approbation du modérateur avant que le contenu des médias ne soit rendue public.
 
 * **[!UICONTROL Queue New Content]**
 
-   Désactivez la diffusion en continu et la file d'attente en direct de nouveaux contenus et réponses.
+   Désactivez la diffusion en continu et la file d&#39;attente en direct de nouveaux contenus et réponses.
 
 * **[!UICONTROL Throttle Content]**
 

@@ -1,8 +1,6 @@
 ---
-description: Choisissez de conserver le Guide de navigation sur une zone spécifique
-  de l'écran.
-seo-description: Choisissez de conserver le Guide de navigation sur une zone spécifique
-  de l'écran.
+description: Choisissez de conserver le Guide de navigation sur une zone spécifique de l'écran.
+seo-description: Choisissez de conserver le Guide de navigation sur une zone spécifique de l'écran.
 seo-title: Rendre le guide de navigation attractif
 solution: Experience Manager
 title: Rendre le guide de navigation attractif
@@ -15,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Rendre le guide de navigation attractif{#make-the-navigation-guide-sticky}
 
-Choisissez de conserver le Guide de navigation sur une zone spécifique de l'écran.
+Choisissez de conserver le Guide de navigation sur une zone spécifique de l&#39;écran.
 
-1. Dans l'application Storify 2 App Designer, basculez sur **[!UICONTROL Navigation Guide]** la bascule.
+1. Dans l&#39;application Storify 2 App Designer, basculez sur **[!UICONTROL Navigation Guide]** la bascule.
 1. Basculez au **[!UICONTROL Stickiness]** basculement.

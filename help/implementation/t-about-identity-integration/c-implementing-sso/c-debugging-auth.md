@@ -1,8 +1,6 @@
 ---
-description: Vous pouvez enregistrer un utilisateur dans la console pendant l'intégration
-  et le test pour déboguer l'autorisation.
-seo-description: Vous pouvez enregistrer un utilisateur dans la console pendant l'intégration
-  et le test pour déboguer l'autorisation.
+description: Vous pouvez enregistrer un utilisateur dans la console pendant l'intégration et le test pour déboguer l'autorisation.
+seo-description: Vous pouvez enregistrer un utilisateur dans la console pendant l'intégration et le test pour déboguer l'autorisation.
 seo-title: Débogage du délégué authentique
 solution: Experience Manager
 title: Débogage du délégué authentique
@@ -15,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Débogage du délégué authentique{#debugging-auth-delegate}
 
-Vous pouvez enregistrer un utilisateur dans la console pendant l'intégration et le test pour déboguer l'autorisation.
+Vous pouvez enregistrer un utilisateur dans la console pendant l&#39;intégration et le test pour déboguer l&#39;autorisation.
 
-Enregistrez un utilisateur dans la console à l'aide de ce qui suit `auth.authenticate` (jeton) et transmettez un jeton utilisateur Livefyre pour authentifier les utilisateurs sur la page.
+Enregistrez un utilisateur dans la console à l&#39;aide de ce qui suit `auth.authenticate` (jeton) et transmettez un jeton utilisateur Livefyre pour authentifier les utilisateurs sur la page.
 
-Vous pouvez également modifier l'exemple illustré ci-dessus et ajouter le fragment de code suivant dans le code JavaScript pour enregistrer rapidement un utilisateur dans Livefyre (une référence à l'authenticité est nécessaire).
+Vous pouvez également modifier l&#39;exemple illustré ci-dessus et ajouter le fragment de code suivant dans le code JavaScript pour enregistrer rapidement un utilisateur dans Livefyre (une référence à l&#39;authenticité est nécessaire).
 
 ```
 window.addEventListener('userAuthenticated', function(data) { 

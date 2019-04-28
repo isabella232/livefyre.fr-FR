@@ -1,8 +1,6 @@
 ---
-description: Recherchez des fichiers selon différentes options et différents filtres
-  pour trouver le contenu approprié pour une application.
-seo-description: Recherchez des fichiers selon différentes options et différents filtres
-  pour trouver le contenu approprié pour une application.
+description: Recherchez des fichiers selon différentes options et différents filtres pour trouver le contenu approprié pour une application.
+seo-description: Recherchez des fichiers selon différentes options et différents filtres pour trouver le contenu approprié pour une application.
 seo-title: Recherche de fichiers enregistrés dans la bibliothèque
 solution: Experience Manager
 title: Recherche de fichiers enregistrés dans la bibliothèque
@@ -19,18 +17,18 @@ Recherchez des fichiers selon différentes options et différents filtres pour t
 
 Les options suivantes sont disponibles dans la bibliothèque pour faciliter la recherche de fichiers.
 
-* **[!UICONTROL Folder View:]** Lorsqu'un dossier est sélectionné pour l'affichage, utilisez cette option pour définir s'il convient d'afficher uniquement le contenu du dossier ou le contenu du dossier et de tous ses sous-dossiers.
+* **[!UICONTROL Folder View:]** Lorsqu&#39;un dossier est sélectionné pour l&#39;affichage, utilisez cette option pour définir s&#39;il convient d&#39;afficher uniquement le contenu du dossier ou le contenu du dossier et de tous ses sous-dossiers.
 * **[!UICONTROL Contains:]** sélectionnez le type de contenu à renvoyer : ** [!UICONTROL Photo]** ou **[!UICONTROL Video]**.
 
-* **[!UICONTROL Rights:]** sélectionnez l'état de demande de droits pour filtrer par état de demande de droits.
-* **[!UICONTROL Source:]** sélectionnez la source à partir de laquelle le contenu doit être répertorié. **[!UICONTROL Uploaded]** répertorie les éléments ajoutés à partir de votre ordinateur local, Flickr, Dropbox ou toute autre option de filtrage disponible. **[!UICONTROL Livefyre]** répertorie le contenu généré par l'utilisateur publié directement dans le flux.
+* **[!UICONTROL Rights:]** sélectionnez l&#39;état de demande de droits pour filtrer par état de demande de droits.
+* **[!UICONTROL Source:]** sélectionnez la source à partir de laquelle le contenu doit être répertorié. **[!UICONTROL Uploaded]** répertorie les éléments ajoutés à partir de votre ordinateur local, Flickr, Dropbox ou toute autre option de filtrage disponible. **[!UICONTROL Livefyre]** répertorie le contenu généré par l&#39;utilisateur publié directement dans le flux.
 
-* **[!UICONTROL Sort By:]** utilisez ces options pour trier le contenu renvoyé par **[!UICONTROL Date Added]** (vers votre bibliothèque), **[!UICONTROL Date Created]**ou **[!UICONTROL Relevance]**.
+* **[!UICONTROL Sort By:]** utilisez ces options pour trier le contenu renvoyé par **[!UICONTROL Date Added]** (vers votre bibliothèque), **[!UICONTROL Date Created]** ou **[!UICONTROL Relevance]**.
 
-* **[!UICONTROL Stars:]** sélectionnez le nombre d'étoiles à ajouter au fichier pour qu'il soit renvoyé.
+* **[!UICONTROL Stars:]** sélectionnez le nombre d&#39;étoiles à ajouter au fichier pour qu&#39;il soit renvoyé.
 * **[!UICONTROL Tags:]** saisissez des balises à rechercher.
 
 1. Accédez à **[!UICONTROL All Assets]** la page pour afficher tous les fichiers.
-1. Entrez vos termes de recherche dans **[!UICONTROL Search folder]** le champ (mot-clé ou nom d'auteur ou balise).
-1. Cliquez **[!UICONTROL Show Filter]**sur.
+1. Entrez vos termes de recherche dans **[!UICONTROL Search folder]** le champ (mot-clé ou nom d&#39;auteur ou balise).
+1. Cliquez **[!UICONTROL Show Filter]** sur.
 1. Utilisez les filtres fournis pour circonscrire votre recherche dans votre bibliothèque.

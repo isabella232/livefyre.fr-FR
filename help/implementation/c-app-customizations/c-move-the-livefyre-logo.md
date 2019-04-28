@@ -17,7 +17,7 @@ Repositionnez le logo Livefyre sur votre page.
 
 Si votre accord avec Livefyre vous autorise, vous pouvez déplacer le logo Livefyre du haut du flux de contenu vers le bas.
 
-Par exemple, ajoutez le code HTML suivant à votre page immédiatement après l'élément qui contient l'application Livefyre :
+Par exemple, ajoutez le code HTML suivant à votre page immédiatement après l&#39;élément qui contient l&#39;application Livefyre :
 
 ```
 <div id="powered_by_livefyre_new"><a href="https://livefyre.com" target="_blank">Powered by Livefyre</a></div>

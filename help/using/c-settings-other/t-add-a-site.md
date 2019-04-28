@@ -1,8 +1,6 @@
 ---
-description: Vous pouvez ajouter de nouveaux sites à votre réseau pour les domaines
-  et sous-domaines qui partagent les mêmes profils d'utilisateur.
-seo-description: Vous pouvez ajouter de nouveaux sites à votre réseau pour les domaines
-  et sous-domaines qui partagent les mêmes profils d'utilisateur.
+description: Vous pouvez ajouter de nouveaux sites à votre réseau pour les domaines et sous-domaines qui partagent les mêmes profils d'utilisateur.
+seo-description: Vous pouvez ajouter de nouveaux sites à votre réseau pour les domaines et sous-domaines qui partagent les mêmes profils d'utilisateur.
 seo-title: Ajout d'un site à un réseau
 solution: Experience Manager
 title: Ajout d'un site à un réseau
@@ -13,17 +11,17 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Ajout d'un site à un réseau{#add-a-site-to-a-network}
+# Ajout d&#39;un site à un réseau{#add-a-site-to-a-network}
 
-Vous pouvez ajouter de nouveaux sites à votre réseau pour les domaines et sous-domaines qui partagent les mêmes profils d'utilisateur.
+Vous pouvez ajouter de nouveaux sites à votre réseau pour les domaines et sous-domaines qui partagent les mêmes profils d&#39;utilisateur.
 
-Vous pouvez ajouter et afficher jusqu'à 1 200 sites dans Studio. Les sites sont répertoriés par ordre alphabétique.
+Vous pouvez ajouter et afficher jusqu&#39;à 1 200 sites dans Studio. Les sites sont répertoriés par ordre alphabétique.
 
 Pour ajouter un nouveau site à votre réseau :
 
-1. Cliquez sur l' **[!UICONTROL Network]** élément dans la barre de menus Studio pour ouvrir **[!UICONTROL Select Network or Site]** le panneau.
+1. Cliquez sur l&#39; **[!UICONTROL Network]** élément dans la barre de menus Studio pour ouvrir **[!UICONTROL Select Network or Site]** le panneau.
 1. Utilisez le champ de recherche pour rechercher des sites ou cliquez sur **[!UICONTROL Add new site]** pour en ajouter un nouveau.
 
    Ce panneau répertorie tous les sites inclus dans le réseau sélectionné.
 
-1. Saisissez un **[!UICONTROL Name]** et **[!UICONTROL URL]** dans les champs fournis, puis cliquez **[!UICONTROL Add Site]**sur.
+1. Saisissez un **[!UICONTROL Name]** et **[!UICONTROL URL]** dans les champs fournis, puis cliquez **[!UICONTROL Add Site]** sur.

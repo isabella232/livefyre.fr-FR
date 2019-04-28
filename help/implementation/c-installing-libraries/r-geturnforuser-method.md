@@ -13,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Méthode réseau geturnforuser{#geturnforuser-network-method}
 
-Cette méthode renvoie l'URN pour l'utilisateur de ce réseau.
+Cette méthode renvoie l&#39;URN pour l&#39;utilisateur de ce réseau.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| Userid | Chaîne | ID utilisateur à utiliser dans l'URN. |
+| Userid | Chaîne | ID utilisateur à utiliser dans l&#39;URN. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
 

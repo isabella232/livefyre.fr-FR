@@ -1,8 +1,6 @@
 ---
-description: Le bouton Télécharger permet aux visiteurs de votre site de télécharger
-  du contenu.
-seo-description: Le bouton Télécharger permet aux visiteurs de votre site de télécharger
-  du contenu.
+description: Le bouton Télécharger permet aux visiteurs de votre site de télécharger du contenu.
+seo-description: Le bouton Télécharger permet aux visiteurs de votre site de télécharger du contenu.
 seo-title: Bouton Télécharger
 solution: Experience Manager
 title: Bouton Télécharger
@@ -17,4 +15,4 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Le bouton Télécharger permet aux visiteurs de votre site de télécharger du contenu.
 
-Vous pouvez recueillir le contenu généré par l'utilisateur directement depuis votre site et afficher ce contenu dans une application Livefyre. Adressez-vous aux visiteurs de votre site en les encourageant à contribuer à la conversation en téléchargeant le contenu. Livefyre prend en charge le contenu image, vidéo et audio.
+Vous pouvez recueillir le contenu généré par l&#39;utilisateur directement depuis votre site et afficher ce contenu dans une application Livefyre. Adressez-vous aux visiteurs de votre site en les encourageant à contribuer à la conversation en téléchargeant le contenu. Livefyre prend en charge le contenu image, vidéo et audio.

@@ -1,8 +1,6 @@
 ---
-description: Bibliothèque Livefyre principale utilisée pour alimenter Livefyre sur
-  votre site.
-seo-description: Bibliothèque Livefyre principale utilisée pour alimenter Livefyre
-  sur votre site.
+description: Bibliothèque Livefyre principale utilisée pour alimenter Livefyre sur votre site.
+seo-description: Bibliothèque Livefyre principale utilisée pour alimenter Livefyre sur votre site.
 seo-title: Livefyre. js
 solution: Experience Manager
 title: Livefyre. js
@@ -17,11 +15,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Bibliothèque Livefyre principale utilisée pour alimenter Livefyre sur votre site.
 
-`Livefyre.js` est la bibliothèque principale que vous pouvez installer sur chaque webpage Web Livefyre activée. Il définit l'objet global `window.Livefyre` et une méthode publique unique, `Livefyre.require`qui peuvent être utilisées pour charger d'autres bibliothèques JavaScript Livefyre qui facilitent [l'intégration des applications Livefyre](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md), [l'intégration de votre fournisseur d'authentification avec Livefyre](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) et plus encore.
+`Livefyre.js` est la bibliothèque principale que vous pouvez installer sur chaque webpage Web Livefyre activée. Il définit l&#39;objet global `window.Livefyre` et une méthode publique unique, `Livefyre.require`qui peuvent être utilisées pour charger d&#39;autres bibliothèques JavaScript Livefyre qui facilitent [l&#39;intégration des applications Livefyre](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md), [l&#39;intégration de votre fournisseur d&#39;authentification avec Livefyre](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) et plus encore.
 
 ## Ajouter à votre site {#section_cst_twg_xz}
 
-Ajoutez la balise suivante `<script>` à votre page Web ou modèle de site Web. Si possible, ajoutez-la à la `<head>` section du document HTML pour qu'elle se charge rapidement.
+Ajoutez la balise suivante `<script>` à votre page Web ou modèle de site Web. Si possible, ajoutez-la à la `<head>` section du document HTML pour qu&#39;elle se charge rapidement.
 
 ```
 <script src="//cdn.livefyre.com/Livefyre.js"></script>
@@ -33,15 +31,15 @@ Ajoutez la balise suivante `<script>` à votre page Web ou modèle de site Web. 
 
 ## Livefyre. require {#section_ipq_hwg_xz}
 
-`Livefyre.require` est un chargeur de module JavaScript personnalisé comme [curl. js](https://github.com/cujojs/curl) ou [requirejs](https://requirejs.org/). Il permet de charger la plupart des packs publiés par Livefyre et présente un chemin d'intégration pratique et intuitif.
+`Livefyre.require` est un chargeur de module JavaScript personnalisé comme [curl. js](https://github.com/cujojs/curl) ou [requirejs](https://requirejs.org/). Il permet de charger la plupart des packs publiés par Livefyre et présente un chemin d&#39;intégration pratique et intuitif.
 
-Les packs accessibles par le biais `Livefyre.require` du contrôle de version sémantique utilisent [le contrôle sémantique](https://semver.org/). Des packs peuvent être nécessaires à une version spécifique ou à une plage de versions afin que votre page Web puisse bénéficier automatiquement des nouvelles fonctionnalités de correctifs. Vous bénéficiez ainsi de toute latitude lors de l'intégration de Livefyre sur votre site. Vous pouvez utiliser trois niveaux de pinglage de version avec `Livefyre.require`.
+Les packs accessibles par le biais `Livefyre.require` du contrôle de version sémantique utilisent [le contrôle sémantique](https://semver.org/). Des packs peuvent être nécessaires à une version spécifique ou à une plage de versions afin que votre page Web puisse bénéficier automatiquement des nouvelles fonctionnalités de correctifs. Vous bénéficiez ainsi de toute latitude lors de l&#39;intégration de Livefyre sur votre site. Vous pouvez utiliser trois niveaux de pinglage de version avec `Livefyre.require`.
 
 * **package-name # 1 :** Epingler à la version majeure v 1. Vous obtiendrez toutes les nouvelles mises à jour qui conservent une API compatible ascendante. Épingler à une version majeure pour recevoir des correctifs et des améliorations mineures des fonctionnalités pour cette version.
-* **package-name # 1.1 :** Epingler à la version mineure v 1.1. Vous obtiendrez tous les correctifs à cette version mineure. Livefyre Engineering empile toujours la version mineure d'un pack si son comportement par défaut ou la plage fonctionnelle change de manière à donner un nouveau comportement inattendu à votre webpage Web. Epinglez à une version mineure si vous souhaitez recevoir des correctifs automatisés, mais pas de fonctionnalité supplémentaire ni de modification du comportement par défaut.
-* **package-name # 1.1.1 :** Epingler au correctif version 1.1.1. Le comportement de cette intégration ne change jamais, même s'il existe des correctifs. Épinglez à une version de correctif si vous disposez de personnalisations CSS étendues pour votre site qui dépendent de la structure d'annotation d'un package qui peut changer ou si vous avez d'autres raisons de préférer que la version Livefyre que vous exécutez ne change d'aucune manière.
+* **package-name # 1.1 :** Epingler à la version mineure v 1.1. Vous obtiendrez tous les correctifs à cette version mineure. Livefyre Engineering empile toujours la version mineure d&#39;un pack si son comportement par défaut ou la plage fonctionnelle change de manière à donner un nouveau comportement inattendu à votre webpage Web. Epinglez à une version mineure si vous souhaitez recevoir des correctifs automatisés, mais pas de fonctionnalité supplémentaire ni de modification du comportement par défaut.
+* **package-name # 1.1.1 :** Epingler au correctif version 1.1.1. Le comportement de cette intégration ne change jamais, même s&#39;il existe des correctifs. Épinglez à une version de correctif si vous disposez de personnalisations CSS étendues pour votre site qui dépendent de la structure d&#39;annotation d&#39;un package qui peut changer ou si vous avez d&#39;autres raisons de préférer que la version Livefyre que vous exécutez ne change d&#39;aucune manière.
 
-Voici un exemple d'intégration à l'aide `Livefyre.require` de :
+Voici un exemple d&#39;intégration à l&#39;aide `Livefyre.require` de :
 
 ```
 <!-- First add Livefyre.js to the page --> 
@@ -65,7 +63,7 @@ Vous vous demandez quels `Livefyre.require`paquets JavaScript Livefyre sont disp
 
 ## Test des versions préliminaires des packages {#section_pgm_dpg_xz}
 
-Il arrive que vous souhaitiez tester une version à venir d'un pack Livefyre pour vérifier qu'elle fonctionnera sur votre site Web ou que l'acceptation d'une fonctionnalité est en cours de développement à votre demande. Outre l'inclusion d'une plage de version sémantique, l'environnement UAT de pré-version peut être spécifié.
+Il arrive que vous souhaitiez tester une version à venir d&#39;un pack Livefyre pour vérifier qu&#39;elle fonctionnera sur votre site Web ou que l&#39;acceptation d&#39;une fonctionnalité est en cours de développement à votre demande. Outre l&#39;inclusion d&#39;une plage de version sémantique, l&#39;environnement UAT de pré-version peut être spécifié.
 
 Par exemple, les éléments suivants nécessiteront la version UAT de `fyre.conv`, les commentaires, le blog en direct et les applications de Chat.
 

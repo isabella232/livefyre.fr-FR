@@ -15,11 +15,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Exécutez des tests de contraintes par rapport à la plate-forme Livefyre.
 
-Ce document décrit l'exécution des tests de contraintes par rapport à la plate-forme Livefyre. Les tests ad hoc effectués par les clients sans notification sont strictement interdits. Pour plus d'informations sur [les activités interdites et autorisées](#c_stress_test_policy/section_mhs_bfz_vdb).
+Ce document décrit l&#39;exécution des tests de contraintes par rapport à la plate-forme Livefyre. Les tests ad hoc effectués par les clients sans notification sont strictement interdits. Pour plus d&#39;informations sur [les activités interdites et autorisées](#c_stress_test_policy/section_mhs_bfz_vdb).
 
 >[!NOTE]
 >
->Les tests de contraintes sont facultatifs. Vous n'avez pas besoin d'effectuer un test de contraintes ou ne l'avez pas prévu. Adobe Livefyre effectue des tests et des validations de contraintes régulières dans le cadre du processus de publication. Si vous choisissez d'exécuter des tests, ce document décrit les exigences et les contraintes liées à la réalisation des tests de contraintes.
+>Les tests de contraintes sont facultatifs. Vous n&#39;avez pas besoin d&#39;effectuer un test de contraintes ou ne l&#39;avez pas prévu. Adobe Livefyre effectue des tests et des validations de contraintes régulières dans le cadre du processus de publication. Si vous choisissez d&#39;exécuter des tests, ce document décrit les exigences et les contraintes liées à la réalisation des tests de contraintes.
 
 ## Notification {#section_ihs_bfz_vdb}
 
@@ -28,27 +28,27 @@ Vous devez informer votre spécialiste de succès Livefyre et votre conseiller t
 Pour avertir Livefyre, envoyez les informations suivantes à votre spécialiste de succès client Livefyre et à votre consultant technique Adobe :
 
 * Objectif et description du test
-* Cas d'utilisation que vous testez par rapport à
-* Liste des API Livefyre que vous prévoyez d'utiliser dans le test
+* Cas d&#39;utilisation que vous testez par rapport à
+* Liste des API Livefyre que vous prévoyez d&#39;utiliser dans le test
 * Date, heure et durée du test
 * Adresses IP à partir desquelles vous lancerez les tests
 
 ## Conditions requises {#section_khs_bfz_vdb}
 
-Vous pouvez effectuer des tests uniquement s'ils satisfont aux exigences suivantes :
+Vous pouvez effectuer des tests uniquement s&#39;ils satisfont aux exigences suivantes :
 
-* Vous devez recevoir une approbation explicite écrite d'un consultant technique Adobe 3 semaines ou plus avant de commencer le test.
+* Vous devez recevoir une approbation explicite écrite d&#39;un consultant technique Adobe 3 semaines ou plus avant de commencer le test.
 * **Vous pouvez uniquement effectuer des tests sur le réseau UAT.**
-* Vous devez tester les scénarios réalistes. Par exemple, vous ne supposez pas que votre propriété génère *quotidiennement des millions* de requêtes de publication, car ce scénario n'est pas réaliste. Si vous avez besoin d'aide pour déterminer si votre scénario est réaliste ou non, demandez à votre spécialiste de succès Livefyre ou à votre consultant technique Adobe.
+* Vous devez tester les scénarios réalistes. Par exemple, vous ne supposez pas que votre propriété génère *quotidiennement des millions* de requêtes de publication, car ce scénario n&#39;est pas réaliste. Si vous avez besoin d&#39;aide pour déterminer si votre scénario est réaliste ou non, demandez à votre spécialiste de succès Livefyre ou à votre consultant technique Adobe.
 * Les tests doivent être effectués pendant les heures ouvrées du fuseau horaire du Pacifique\ (UTC -7\).
 * Vous devrez peut-être produire des données et votre raisonnement pour le test.
 
 ## Gouvernance {#section_mhs_bfz_vdb}
 
-Livefyre se réserve le droit d'interrompre un test à tout moment si vous effectuez un test :
+Livefyre se réserve le droit d&#39;interrompre un test à tout moment si vous effectuez un test :
 
 * Sur le réseau Production.
-* Sans approbation explicite, écrite par un consultant technique Adobe trois semaines ou plus à l'avance.
+* Sans approbation explicite, écrite par un consultant technique Adobe trois semaines ou plus à l&#39;avance.
 * Par rapport aux scénarios inréels.
 
-Livefyre termine les tests en bloquant l'accès aux API, en désactivant Livefyre Networks et en refusant une demande de test de charge s'il ne satisfait pas aux exigences.
+Livefyre termine les tests en bloquant l&#39;accès aux API, en désactivant Livefyre Networks et en refusant une demande de test de charge s&#39;il ne satisfait pas aux exigences.

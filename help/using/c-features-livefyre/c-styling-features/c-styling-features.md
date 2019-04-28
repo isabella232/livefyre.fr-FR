@@ -1,10 +1,6 @@
 ---
-description: Vous pouvez styliser vos applications Livefyre pour qu'elles se comportent
-  de différentes manières ou pour les modifier comme le reste de votre campagne de
-  marque.
-seo-description: Vous pouvez styliser vos applications Livefyre pour qu'elles se comportent
-  de différentes manières ou pour les modifier comme le reste de votre campagne de
-  marque.
+description: Vous pouvez styliser vos applications Livefyre pour qu'elles se comportent de différentes manières ou pour les modifier comme le reste de votre campagne de marque.
+seo-description: Vous pouvez styliser vos applications Livefyre pour qu'elles se comportent de différentes manières ou pour les modifier comme le reste de votre campagne de marque.
 seo-title: Fonctionnalités de style
 title: Fonctionnalités de style
 uuid: 72 a 3843 d -692 a -43 ff-b 72 b -6 bd 840 de 87 d 6
@@ -16,11 +12,11 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Fonctionnalités de style{#styling-features}
 
-Vous pouvez styliser vos applications Livefyre pour qu'elles se comportent de différentes manières ou pour les modifier comme le reste de votre campagne de marque.
+Vous pouvez styliser vos applications Livefyre pour qu&#39;elles se comportent de différentes manières ou pour les modifier comme le reste de votre campagne de marque.
 
 ## Style par défaut {#section_yjl_rfs_d1b}
 
-Vous pouvez mettre en forme une application dans Studio dans App Designer sans avoir à utiliser Livefyre. js pour personnaliser l'application.
+Vous pouvez mettre en forme une application dans Studio dans App Designer sans avoir à utiliser Livefyre. js pour personnaliser l&#39;application.
 
 Applications utilisant cette fonctionnalité :
 
@@ -40,7 +36,7 @@ Applications utilisant cette fonctionnalité :
 
 ## Animation {#section_kl2_n4s_d1b}
 
-Vous pouvez animer une application à l'aide de CSS.
+Vous pouvez animer une application à l&#39;aide de CSS.
 
 Applications utilisant cette fonctionnalité :
 

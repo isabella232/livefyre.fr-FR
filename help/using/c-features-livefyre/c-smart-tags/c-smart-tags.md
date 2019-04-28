@@ -12,21 +12,21 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Balises dynamiques{#smart-tags}
 
-Livefyre utilise la technologie de visionnage informatique d'Adobe Sensei pour baliser automatiquement les images et les vidéos que vous enregistrez ou téléchargez dans la bibliothèque.
+Livefyre utilise la technologie de visionnage informatique d&#39;Adobe Sensei pour baliser automatiquement les images et les vidéos que vous enregistrez ou téléchargez dans la bibliothèque.
 
-Les balises dynamiques vous permettent d'économiser un temps considérable, gérer, rechercher et traiter le contenu. Avec les balises dynamiques, vous pouvez effectuer les opérations suivantes :
+Les balises dynamiques vous permettent d&#39;économiser un temps considérable, gérer, rechercher et traiter le contenu. Avec les balises dynamiques, vous pouvez effectuer les opérations suivantes :
 
-* Rechercher des images et des vidéos enregistrées et téléchargées pour un contenu précis basé sur l'image et le contenu vidéo plutôt que sur le texte uniquement
-* Collecte de contenu dans des flux en fonction de termes de recherche précis qui analyse l'image ou la vidéo, plutôt que le texte uniquement
+* Rechercher des images et des vidéos enregistrées et téléchargées pour un contenu précis basé sur l&#39;image et le contenu vidéo plutôt que sur le texte uniquement
+* Collecte de contenu dans des flux en fonction de termes de recherche précis qui analyse l&#39;image ou la vidéo, plutôt que le texte uniquement
 
 Lorsque vous enregistrez ou téléchargez une image ou une vidéo, Adobe Sensei vérifie automatiquement le contenu et le balise avec 135 000 classeurs répartis dans trois catégories :
 
 * Fonctionnalités (chats, chiens, pyramides, points de repère, par exemple)
 * Catégories (voyage, tourisme, beauté, par exemple)
-* Propriétés esthétiques (par exemple, qualité d'image, règles de troisième)
+* Propriétés esthétiques (par exemple, qualité d&#39;image, règles de troisième)
 * SFW/NSFW (ce qui permet de filtrer automatiquement les images NSFW, ce qui améliore la sécurité de vos flux et de votre bibliothèque UGC.
 
-L'algorithme de classement des balises intelligent filtre le contenu à l'aide d'un score de confiance des balises intelligentes, de la nouvelle taille du contenu et du nombre d'étoiles que l'utilisateur a attribué au contenu.
+L&#39;algorithme de classement des balises intelligent filtre le contenu à l&#39;aide d&#39;un score de confiance des balises intelligentes, de la nouvelle taille du contenu et du nombre d&#39;étoiles que l&#39;utilisateur a attribué au contenu.
 
 **Balises dynamiques pour la vidéo**
 
@@ -39,6 +39,6 @@ Détails de la fonctionnalité :
 Types de balises :
 
 * Balises de fonction : Fonction identique à celle des balises de fonction pour les images (chats, chiens, pyramides, points de repère, par exemple).
-* Balises d'action : Identifiez les fonctionnalités qui se produisent sur plusieurs cadres plutôt que sur un seul. Ces mesures sont plus efficaces pour récapituler le contenu d'une vidéo.
+* Balises d&#39;action : Identifiez les fonctionnalités qui se produisent sur plusieurs cadres plutôt que sur un seul. Ces mesures sont plus efficaces pour récapituler le contenu d&#39;une vidéo.
 
-Pour plus d'informations sur les balises dynamiques, voir Options de règle [de diffusion en continu pour toutes les règles de diffusion en continu](../../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
+Pour plus d&#39;informations sur les balises dynamiques, voir Options de règle [de diffusion en continu pour toutes les règles de diffusion en continu](../../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

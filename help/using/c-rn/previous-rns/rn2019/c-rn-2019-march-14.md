@@ -19,14 +19,14 @@ source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
 
 ## Améliorations
 
-* Mise en œuvre de la prise en charge de l'appel à l'action et du commerce (Produits) avec les embranchements Instagram natifs.
+* Mise en œuvre de la prise en charge de l&#39;appel à l&#39;action et du commerce (Produits) avec les embranchements Instagram natifs.
 * Pour corriger les abandons effectués par Instagram, le détail du contenu des applications a été modifié pour générer le rendu des acquisitions natives Instagram.
 
 
 ## Corrections de bogues
 
-* Correction d'un problème en raison duquel les comptes de demande de droits Twitter désactivés pouvaient être sélectionnés dans Advanced modal.
-* Correction d'un problème en raison duquel une balise HTML indéfinie dans le mur multimédia contenait parfois une balise HTML non définie.
-* Correction d'un problème en raison duquel, dans certains cas, la recherche sociale Instagram affichait incorrectement le message Vidéo/Image introuvable.
-* Correction d'un problème en raison duquel les albums Instagram et Facebook dans les murs de médias et les mosaïques affichaient la même image plusieurs fois.
-Correction d'un problème en raison duquel des comptes non existants s'affichaient dans le menu déroulant Demande de droits.
+* Correction d&#39;un problème en raison duquel les comptes de demande de droits Twitter désactivés pouvaient être sélectionnés dans Advanced modal.
+* Correction d&#39;un problème en raison duquel une balise HTML indéfinie dans le mur multimédia contenait parfois une balise HTML non définie.
+* Correction d&#39;un problème en raison duquel, dans certains cas, la recherche sociale Instagram affichait incorrectement le message Vidéo/Image introuvable.
+* Correction d&#39;un problème en raison duquel les albums Instagram et Facebook dans les murs de médias et les mosaïques affichaient la même image plusieurs fois.
+Correction d&#39;un problème en raison duquel des comptes non existants s&#39;affichaient dans le menu déroulant Demande de droits.

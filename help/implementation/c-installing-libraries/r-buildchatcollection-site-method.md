@@ -1,10 +1,6 @@
 ---
-description: Renvoie un objet Collection instancié comme type de conversation. Exécutez
-  create_ or_ update () à partir de l'objet Collection pour terminer le processus
-  de création.
-seo-description: Renvoie un objet Collection instancié comme type de conversation.
-  Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus
-  de création.
+description: Renvoie un objet Collection instancié comme type de conversation. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
+seo-description: Renvoie un objet Collection instancié comme type de conversation. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
 seo-title: Méthode du site buildchatcollection
 solution: Experience Manager
 title: Méthode du site buildchatcollection
@@ -17,12 +13,12 @@ source-git-commit: 2908c6988c706a49c391f0e607bb641bce3a7f0d
 
 # Méthode du site buildchatcollection{#buildchatcollection-site-method}
 
-Renvoie un objet Collection instancié comme type de conversation. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
+Renvoie un objet Collection instancié comme type de conversation. Exécutez create_ or_ update () à partir de l&#39;objet Collection pour terminer le processus de création.
 
 | Variable | Type | Description |
 |--- |--- |--- |
 | titre | Chaîne | Titre de la collection. |
-| Articleid | Chaîne | Identifiant d'article unique choisi pour identifier une collection sur votre site. |
+| Articleid | Chaîne | Identifiant d&#39;article unique choisi pour identifier une collection sur votre site. |
 | url | Chaîne | URL absolue canonique pour cette collection. |
 
 ## Exemple Java {#section_nyl_ycs_rz}

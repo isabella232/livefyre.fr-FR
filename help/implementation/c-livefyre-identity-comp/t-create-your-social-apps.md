@@ -13,8 +13,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Création de vos applications sociales{#create-your-social-apps}
 
-Pour permettre à vos utilisateurs de se connecter en utilisant leurs informations d'identification pour ces fournisseurs sociaux :
+Pour permettre à vos utilisateurs de se connecter en utilisant leurs informations d&#39;identification pour ces fournisseurs sociaux :
 
-1. Création d'applications à utiliser avec Livefyre.
+1. Création d&#39;applications à utiliser avec Livefyre.
 1. Connectez-vous au site de développement pour les fournisseurs sélectionnés.
-1. Créez les applications nécessaires pour permettre aux utilisateurs de se connecter à l'aide de leurs informations d'identification sociales.
+1. Créez les applications nécessaires pour permettre aux utilisateurs de se connecter à l&#39;aide de leurs informations d&#39;identification sociales.

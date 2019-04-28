@@ -11,12 +11,12 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Création d'un article{#create-a-story}
+# Création d&#39;un article{#create-a-story}
 
 Créez un article Storify 2.
 
-1. Cliquez **[!UICONTROL New App]**sur.
-1. Cliquez **[!UICONTROL Storify 2]**sur.
-1. Entrez **[!UICONTROL App Title]**une valeur.
+1. Cliquez **[!UICONTROL New App]** sur.
+1. Cliquez **[!UICONTROL Storify 2]** sur.
+1. Entrez **[!UICONTROL App Title]** une valeur.
 1. Sélectionnez un **[!UICONTROL Site]**.
-1. Cliquez **[!UICONTROL Create]**sur.
+1. Cliquez **[!UICONTROL Create]** sur.

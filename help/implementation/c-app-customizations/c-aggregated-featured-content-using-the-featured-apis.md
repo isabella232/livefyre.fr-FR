@@ -1,12 +1,6 @@
 ---
-description: Livefyre fournit quatre API principales, vous permettant de récupérer
-  les 50 éléments de contenu les plus récemment présentés pour le réseau d'entrée,
-  le site ou la collection ou les deux éléments de contenu présentés en haut d'une
-  collection d'entrée.
-seo-description: Livefyre fournit quatre API principales, vous permettant de récupérer
-  les 50 éléments de contenu les plus récemment présentés pour le réseau d'entrée,
-  le site ou la collection ou les deux éléments de contenu présentés en haut d'une
-  collection d'entrée.
+description: Livefyre fournit quatre API principales, vous permettant de récupérer les 50 éléments de contenu les plus récemment présentés pour le réseau d'entrée, le site ou la collection ou les deux éléments de contenu présentés en haut d'une collection d'entrée.
+seo-description: Livefyre fournit quatre API principales, vous permettant de récupérer les 50 éléments de contenu les plus récemment présentés pour le réseau d'entrée, le site ou la collection ou les deux éléments de contenu présentés en haut d'une collection d'entrée.
 seo-title: Contenu incitatif agrégé à l'aide des API présentées
 solution: Experience Manager
 title: Contenu incitatif agrégé à l'aide des API présentées
@@ -17,13 +11,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Contenu incitatif agrégé à l'aide des API présentées{#aggregated-featured-content-using-the-featured-apis}
+# Contenu incitatif agrégé à l&#39;aide des API présentées{#aggregated-featured-content-using-the-featured-apis}
 
-Livefyre fournit quatre API principales, vous permettant de récupérer les 50 éléments de contenu les plus récemment présentés pour le réseau d'entrée, le site ou la collection ou les deux éléments de contenu présentés en haut d'une collection d'entrée.
+Livefyre fournit quatre API principales, vous permettant de récupérer les 50 éléments de contenu les plus récemment présentés pour le réseau d&#39;entrée, le site ou la collection ou les deux éléments de contenu présentés en haut d&#39;une collection d&#39;entrée.
 
 ## Proposé (réseau) {#section_cgm_1nw_xz}
 
-Récupère les 50 éléments de contenu incitatif les plus récents (et ses auteurs) pour le réseau d'entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que uniquement les 50 derniers.)
+Récupère les 50 éléments de contenu incitatif les plus récents (et ses auteurs) pour le réseau d&#39;entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que uniquement les 50 derniers.)
 
 **Ressource**
 
@@ -159,7 +153,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/featured
 
 ## Proposé (site) {#section_lq5_ymw_xz}
 
-Renvoie les 50 éléments de contenu incitatif les plus récents (et ses auteurs) pour le site d'entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que uniquement les 50 derniers.)
+Renvoie les 50 éléments de contenu incitatif les plus récents (et ses auteurs) pour le site d&#39;entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que uniquement les 50 derniers.)
 
 **Ressource**
 
@@ -261,7 +255,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/featured
 
 ## Proposé (Collection) {#section_kgc_xmw_xz}
 
-Renvoie les 50 éléments de contenu incitatif les plus récents (et ses auteurs) pour la collection d'entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que uniquement les 50 derniers.)
+Renvoie les 50 éléments de contenu incitatif les plus récents (et ses auteurs) pour la collection d&#39;entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que uniquement les 50 derniers.)
 
 **Ressource**
 
@@ -363,7 +357,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64arti
 
 ## Proposé (en tête) {#section_n4b_lmw_xz}
 
-Renvoie les deux dernières portions de contenu pour la collection d'entrée.
+Renvoie les deux dernières portions de contenu pour la collection d&#39;entrée.
 
 **Ressource**
 

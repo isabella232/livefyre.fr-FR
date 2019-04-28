@@ -12,11 +12,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # API de fonctionnalités{#feature-apis}
 
-Automatisation du processus à l'aide des API de fonctionnalités
+Automatisation du processus à l&#39;aide des API de fonctionnalités
 
-Utilisez les API Fonctionnalités pour automatiser le processus de sélection du contenu. Par exemple, lors de la création d'un blog ou d'une application de commentaire en direct, faites correspondre tout le contenu publié par un modérateur sélectionné pour conduire la conversation et établir une cohérence dans le flux.
+Utilisez les API Fonctionnalités pour automatiser le processus de sélection du contenu. Par exemple, lors de la création d&#39;un blog ou d&#39;une application de commentaire en direct, faites correspondre tout le contenu publié par un modérateur sélectionné pour conduire la conversation et établir une cohérence dans le flux.
 
-Livefyre propose à la fois des API de fonctionnalité et d'annulation de fonctionnalités.
+Livefyre propose à la fois des API de fonctionnalité et d&#39;annulation de fonctionnalités.
 
 ## Fonction {#section_jpw_nqw_xz}
 
@@ -26,7 +26,7 @@ Livefyre propose à la fois des API de fonctionnalité et d'annulation de foncti
 POST: https://{networkName}.quill.fyre.co/api/v3.0/collection/<collectionId>/feature/<commentId>/?lftoken=<base64userToken>
 ```
 
-Saisissez le jeton d'utilisateur pour le modérateur sélectionné.
+Saisissez le jeton d&#39;utilisateur pour le modérateur sélectionné.
 
 **Données de publication**
 
@@ -44,7 +44,7 @@ La valeur sera utilisée pour trier le contenu incitatif, la plus grande au plus
 
 >[!NOTE]
 >
->Le champ de données n'est pas encore utilisé.
+>Le champ de données n&#39;est pas encore utilisé.
 
 ## Unfeature {#section_knh_mqw_xz}
 
@@ -54,7 +54,7 @@ La valeur sera utilisée pour trier le contenu incitatif, la plus grande au plus
 POST: https://{networkName}.quill.fyre.co/api/v3.0/collection/<collectionId>/unfeature/<commentId>/?lftoken=<base64userToken>
 ```
 
-Saisissez le jeton d'utilisateur pour le modérateur sélectionné.
+Saisissez le jeton d&#39;utilisateur pour le modérateur sélectionné.
 
 **Exemple de réponse**
 
@@ -64,5 +64,5 @@ Saisissez le jeton d'utilisateur pour le modérateur sélectionné.
 
 >[!NOTE]
 >
->Le champ de données n'est pas encore utilisé.
+>Le champ de données n&#39;est pas encore utilisé.
 

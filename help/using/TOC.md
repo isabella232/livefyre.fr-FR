@@ -3,12 +3,12 @@ product: livefyre
 audience: utilisateur final
 user-guide-title: Guide de l'utilisateur d'Experience Manager Livefyre
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 
 
-# Guide de l'utilisateur d'Experience Manager Livefyre {#using}
+# Guide de l&#39;utilisateur d&#39;Experience Manager Livefyre {#using}
 
 + [Aide Livefyre](home.md)
 + [Annonces](c-anouncements.md)
@@ -16,12 +16,12 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
 + [A propos de Livefyre](c-product.md)
 + Applications {#apps}
    + [Applications](c-about-apps/c-about-apps.md)
-   + [Création d'une application](c-about-apps/c-create-an-app.md)
+   + [Création d&#39;une application](c-about-apps/c-create-an-app.md)
    + Carrousel {#carousel}
       + [Carrousel](c-about-apps/c-carousel-app/c-carousel-app.md)
       + [Fonctionnalités du carrousel](c-about-apps/c-carousel-app/r-carousel-features.md)
-      + [Personnalisation d'un carrousel avec Studio](c-about-apps/c-carousel-app/t-customize-carousel-studio.md)
-      + [Localisation d'un carrousel](c-about-apps/c-carousel-app/t-localize-carousel.md)
+      + [Personnalisation d&#39;un carrousel avec Studio](c-about-apps/c-carousel-app/t-customize-carousel-studio.md)
+      + [Localisation d&#39;un carrousel](c-about-apps/c-carousel-app/t-localize-carousel.md)
    + Chat {#chat}
       + [Chat](c-about-apps/c-chat-app/c-chat-app.md)
       + [Fonctions de messagerie instantanée](c-about-apps/c-chat-app/r-chat-features.md)
@@ -55,13 +55,13 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [Personnalisations de Mosaic](c-about-apps/c-mosaic-app/c-mosaic-customizations.md)
    + Sondages {#polls}
       + [Sondages](c-about-apps/c-polls-app/c-polls-app.md)
-      + [Ajout d'un sondage à une application de commentaires ou de blog en direct](c-about-apps/c-polls-app/t-integrate-poll-site.md)
-      + [Ajout d'images à un sondage](c-about-apps/c-polls-app/t-add-images-to-a-poll.md)
+      + [Ajout d&#39;un sondage à une application de commentaires ou de blog en direct](c-about-apps/c-polls-app/t-integrate-poll-site.md)
+      + [Ajout d&#39;images à un sondage](c-about-apps/c-polls-app/t-add-images-to-a-poll.md)
       + [Personnalisations des sondages](c-about-apps/c-polls-app/r-polls-customizations.md)
    + Révisions {#reviews}
       + [Révisions](c-about-apps/c-reviews-app/c-reviews-app.md)
-      + [Création d'une application de révision](c-about-apps/c-reviews-app/c-creating-reviews.md)
-      + [Publication d'une révision](c-about-apps/c-reviews-app/t-using-reviews.md)
+      + [Création d&#39;une application de révision](c-about-apps/c-reviews-app/c-creating-reviews.md)
+      + [Publication d&#39;une révision](c-about-apps/c-reviews-app/t-using-reviews.md)
    + Commentaires de sidenotes {#sidenotes}
       + [Commentaires de sidenotes](c-about-apps/c-sidenotes-app/c-sidenotes-app.md)
       + [Fonctionnalités des tableaux de bord](c-about-apps/c-sidenotes-app/r-sidenotes-features.md)
@@ -72,19 +72,19 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [Options de configuration](c-about-apps/c-storify2/c-configuration-options.md)
       + [Paramètres Storify](c-about-apps/c-storify2/c-storify-settings.md)
       + [Utilisation de Google AMP avec Storify 2](c-about-apps/c-storify2/t-use-google-amp-with-storify-2.md)
-      + [Création d'un article](c-about-apps/c-storify2/t-create-a-story.md)
+      + [Création d&#39;un article](c-about-apps/c-storify2/t-create-a-story.md)
       + [Ajout de contenu social](c-about-apps/c-storify2/t-add-social-content.md)
       + [Ajouter du texte](c-about-apps/c-storify2/t-add-local-content.md)
-      + [Aperçu d'un article](c-about-apps/c-storify2/t-preview-a-story.md)
-      + [Publication d'un article](c-about-apps/c-storify2/t-publish-a-story.md)
+      + [Aperçu d&#39;un article](c-about-apps/c-storify2/t-preview-a-story.md)
+      + [Publication d&#39;un article](c-about-apps/c-storify2/t-publish-a-story.md)
       + [Historique des révisions](c-about-apps/c-storify2/t-review-storify2-history.md)
       + [Utilisation de plusieurs éditeurs sur le même article](c-about-apps/c-storify2/t-working-with-multiple-editors-on-same-story.md)
       + [Utiliser les flux pour ajouter du contenu social à votre récit](c-about-apps/c-storify2/t-use-streams-to-add-social-content.md)
       + [Epingler une publication à Storify 2](c-about-apps/c-storify2/t-pin-posts-to-storify2.md)
       + Guide de navigation {#navigation-guide}
          + [Guide de navigation](c-about-apps/c-storify2/c-navigation-guide.md)
-         + [Ajout d'un guide de navigation à un Storify 2](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
-         + [Ajout d'un titre au Guide de navigation](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
+         + [Ajout d&#39;un guide de navigation à un Storify 2](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
+         + [Ajout d&#39;un titre au Guide de navigation](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
          + [Ajout de publications au Guide de navigation](c-about-apps/c-storify2/t-add-posts-to-the-navigation-guide.md)
          + [Définition du nombre de publications dans le Guide de navigation](c-about-apps/c-storify2/t-set-the-number-of-posts-nav-guide.md)
          + [Rendre le guide de navigation attractif](c-about-apps/c-storify2/t-make-nav-guide-sticky.md)
@@ -97,10 +97,10 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [Bouton Télécharger](c-about-apps/c-upload-button-app/c-upload-button-app.md)
       + [Personnalisations des boutons de téléchargement](c-about-apps/c-upload-button-app/r-upload-button-customizations.md)
       + [Chaînes de texte du bouton Télécharger](c-about-apps/c-upload-button-app/c-upload-button-text-strings.md)
-+ Fonctionnalités de l'application {#app-features}
-   + [Fonctionnalités d'accessibilité](c-features-livefyre/c-accessibility-features.md)
-   + [Fonctions d'authentification](c-features-livefyre/c-authentication.md)
-   + [Bouton Appel à l'action personnalisé](c-features-livefyre/c-call-to-action-button.md)
++ Fonctionnalités de l&#39;application {#app-features}
+   + [Fonctionnalités d&#39;accessibilité](c-features-livefyre/c-accessibility-features.md)
+   + [Fonctions d&#39;authentification](c-features-livefyre/c-authentication.md)
+   + [Bouton Appel à l&#39;action personnalisé](c-features-livefyre/c-call-to-action-button.md)
    + Fonctions du comportement du contenu {#content-behavior-features}
       + [Fonctions du comportement du contenu](c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md)
       + [Chargement de photos](c-features-livefyre/c-content-behavior-features/c-photo-upload.md)
@@ -122,8 +122,8 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [Incorporer le code HTML personnalisé dans les commentaires](c-features-livefyre/c-custom-html/t-embed-custom-html.md)
       + [Incorporer des sondages dans les commentaires](c-features-livefyre/c-custom-html/t-embed-polls-in-comments.md)
       + [Affichage des commentaires HTML personnalisés dans Studio](c-features-livefyre/c-custom-html/t-view-custom-html-comments-in-studio.md)
-   + [Fonctions d'administration](c-features-livefyre/c-enagement-features.md)
-   + [Nombre d'écouteurs](c-features-livefyre/c-listener-count.md)
+   + [Fonctions d&#39;administration](c-features-livefyre/c-enagement-features.md)
+   + [Nombre d&#39;écouteurs](c-features-livefyre/c-listener-count.md)
    + [Fonctionnalités diverses](c-features-livefyre/c-miscellaneous-features.md)
    + Modération et filtrage {#moderation-filtering}
       + [Définition - Modération consécutive](c-features-livefyre/c-about-moderation/c-setting-up-moderation.md)
@@ -131,11 +131,11 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [Interdiction des adresses IP](c-features-livefyre/c-about-moderation/t-set-up-bans.md)
       + [Utilisation du filtre de profilage](c-features-livefyre/c-about-moderation/c-profanity-filter.md)
       + [Modérer les utilisateurs](c-features-livefyre/c-about-moderation/t-moderate-users-modq.md)
-      + [Modérer le contenu à l'aide de modq](c-features-livefyre/c-about-moderation/c-modq.md)
-      + [Ajout d'un élément enfoncé à une application](c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md)
+      + [Modérer le contenu à l&#39;aide de modq](c-features-livefyre/c-about-moderation/c-modq.md)
+      + [Ajout d&#39;un élément enfoncé à une application](c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md)
       + [Raccourcis clavier de modq](c-features-livefyre/c-about-moderation/r-modq-keyboard-shortcuts.md)
-      + [Modérer le contenu d'un flux](c-features-livefyre/c-about-moderation/c-moderate-inline.md)
-      + [Modérer le contenu à l'aide du contenu de l'application](c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md)
+      + [Modérer le contenu d&#39;un flux](c-features-livefyre/c-about-moderation/c-moderate-inline.md)
+      + [Modérer le contenu à l&#39;aide du contenu de l&#39;application](c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md)
       + [Règles SAFE](c-features-livefyre/c-about-moderation/c-moderation.md)
    + Fonctionnalités de notifications {#notifications-features}
       + [Notification de commentaire](c-features-livefyre/c-notifications-features/c-comment-notifier.md)
@@ -160,7 +160,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [Gestion de médias incorporés](c-features-livefyre/c-styling-features/c-manage-embedded-media.md)
       + [Avatars](c-features-livefyre/c-styling-features/c-avatars.md)
       + [Hovercards](c-features-livefyre/c-styling-features/c-hovercards.md)
-      + [Badges d'utilisateur](c-features-livefyre/c-styling-features/c-user-badges.md)
+      + [Badges d&#39;utilisateur](c-features-livefyre/c-styling-features/c-user-badges.md)
       + [Ajout de balises utilisateur à un compte](c-features-livefyre/c-styling-features/t-add-user-tags.md)
    + [Chaînes de traduction et de texte personnalisé](c-features-livefyre/c-custom-text-strings.md)
    + [Commerce UGC](c-features-livefyre/c-ugc-commerce.md)
@@ -171,7 +171,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [Assets](c-library/c-assets/c-assets.md)
       + [Création de dossiers de fichiers](c-library/c-assets/t-create-folders.md)
       + [Gestion des dossiers de fichiers](c-library/c-assets/t-manage-folders.md)
-      + [Afficher les détails d'un fichier](c-library/c-assets/t-manage-assets.md)
+      + [Afficher les détails d&#39;un fichier](c-library/c-assets/t-manage-assets.md)
       + [Publier des fichiers dans des applications](c-library/c-assets/t-publish-assets-to-apps.md)
       + [Recherche de fichiers enregistrés dans la bibliothèque](c-library/c-assets/t-search-for-assets.md)
       + [Télécharger des photos](c-features-livefyre/c-content-behavior-features/t-upload-photos.md)
@@ -181,12 +181,12 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
    + [Recherche de contenu Instagram](c-library/t-search-for-content.md)
    + [Afficher les détails du contenu](c-library/c-view-content-details.md)
    + [Enregistrer le contenu dans la bibliothèque de fichiers](c-library/t-save-content-to-asset-library.md)
-   + [Associer des produits à un contenu à l'aide de la bibliothèque](c-library/t-associate-products-with-content-using-the-library.md)
+   + [Associer des produits à un contenu à l&#39;aide de la bibliothèque](c-library/t-associate-products-with-content-using-the-library.md)
    + [Publier du contenu](c-library/t-publish-content.md)
-   + [Onglet Contenu de l'application](c-library/c-app-content.md)
+   + [Onglet Contenu de l&#39;application](c-library/c-app-content.md)
    + [Utiliser Adobe Experience Manager Livefyre avec Hootsuite](c-library/c-hootsuite-livefyre.md)
-   + [Utilisation d'Adobe Experience Manager Livefyre avec Adobe Target](c-library/livefyre-target.md)
-   + [Utilisation d'Adobe Launch Livefyre Extension](c-library/launch-extension.md)
+   + [Utilisation d&#39;Adobe Experience Manager Livefyre avec Adobe Target](c-library/livefyre-target.md)
+   + [Utilisation d&#39;Adobe Launch Livefyre Extension](c-library/launch-extension.md)
 + Flux {#streams}
    + [Flux](c-streams/c-streams.md)
    + [Créer un flux](c-streams/t-create-a-new-stream.md)
@@ -208,38 +208,38 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
    + [Configuration de Rights Management](c-how-requesting-rights-works/t-set-up-rights-management.md)
    + [Envoyer une demande de droits Twitter](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
    + [Envoyer une demande de droits Instagram partiellement automatisée](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
-   + [Afficher l'historique des activités des droits](c-how-requesting-rights-works/c-view-rights-activity-history.md)
+   + [Afficher l&#39;historique des activités des droits](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Gestion du contenu avec des demandes de droits en attente à partir de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
-   + [Octroi manuel ou révocation des droits d'un fichier à partir de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
+   + [Octroi manuel ou révocation des droits d&#39;un fichier à partir de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
 + Utilisateurs : Gestion des utilisateurs du réseau Studio et Livefyre {#users-managing}
    + [Utilisateurs : Gestion des utilisateurs du réseau Studio et Livefyre](c-users/c-users.md)
    + [Rechercher des utilisateurs](c-users/t-search-for-users.md)
    + [Affichage des détails du compte](c-users/c-viewing-account-details.md)
    + [Interdire un utilisateur](c-users/t-ban-a-user.md)
    + [Liste blanche un utilisateur](c-users/t-whitelist-a-user.md)
-   + [Lier les comptes d'utilisateurs](c-users/t-link-user-accounts.md)
+   + [Lier les comptes d&#39;utilisateurs](c-users/t-link-user-accounts.md)
    + [Utilisateurs permutés](c-users/c-users-switching-networks.md)
    + [Synchronisation des utilisateurs](c-users/t-set-up-user-sync.md)
 + Utilisateurs : Création de comptes utilisateur {#users-creating-accounts}
    + [Utilisateurs : Création de comptes utilisateur](c-users-creating-accounts-with-studio-access/c-users-creating-accounts-with-studio-access.md)
-   + [Invitation d'un utilisateur à créer un compte Studio](c-users-creating-accounts-with-studio-access/t-invite-a-user-to-create-a-studio-account.md)
-   + [Acceptation d'une invitation à créer un compte Studio](c-users-creating-accounts-with-studio-access/t-accept-an-invitation-to-create-a-studio-account.md)
+   + [Invitation d&#39;un utilisateur à créer un compte Studio](c-users-creating-accounts-with-studio-access/t-invite-a-user-to-create-a-studio-account.md)
+   + [Acceptation d&#39;une invitation à créer un compte Studio](c-users-creating-accounts-with-studio-access/t-accept-an-invitation-to-create-a-studio-account.md)
    + [Connectez-vous à Studio](c-users-creating-accounts-with-studio-access/t-log-into-studio.md)
    + [Gérer les permissions Studio pour les utilisateurs](c-users-creating-accounts-with-studio-access/t-manage-studio-permissions-for-users.md)
    + [Rôles utilisateur et autorisations](c-users-creating-accounts-with-studio-access/c-user-types.md)
-   + Ajout d'un compte Social {#add-social-account}
-      + [Ajout d'un compte Social](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
+   + Ajout d&#39;un compte Social {#add-social-account}
+      + [Ajout d&#39;un compte Social](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
       + [A propos des comptes Instagram](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
-      + [Actualisation d'un jeton pour un compte Social](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
+      + [Actualisation d&#39;un jeton pour un compte Social](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
 + Paramètres : Autre {#settings-other}
-   + [Configurer les informations d'identification](c-settings-other/t-set-up-credentials.md)
-   + [Ajout d'un site à un réseau](c-settings-other/t-add-a-site.md)
+   + [Configurer les informations d&#39;identification](c-settings-other/t-set-up-credentials.md)
+   + [Ajout d&#39;un site à un réseau](c-settings-other/t-add-a-site.md)
    + Visionneuses de traduction {#translation-sets}
       + [Visionneuses de traduction](c-settings-other/c-translation-sets/c-translation-sets.md)
       + [Création et modification des visionneuses de traduction](c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
-      + [Application d'un jeu de traduction à un réseau](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-network.md)
+      + [Application d&#39;un jeu de traduction à un réseau](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-network.md)
       + [Appliquer un jeu de traduction à un site](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-site.md)
-      + [Suppression d'une visionneuse de traduction](c-settings-other/c-translation-sets/t-delete-a-translation-set.md)
+      + [Suppression d&#39;une visionneuse de traduction](c-settings-other/c-translation-sets/t-delete-a-translation-set.md)
       + [Localiser les chaînes](c-settings-other/c-translation-sets/c-localize-strings.md)
       + [Révision des chaînes de texte](c-settings-other/c-translation-sets/c-review-text-strings.md)
       + [Chaînes de texte avec lettres](c-settings-other/c-translation-sets/c-sidenotes-text-strings.md)
@@ -249,8 +249,8 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
    + Demandes de confidentialité {#privacy-requests}
       + [Demandes de confidentialité (GDPR-Ready)](c-settings-other/c-gdpr-compliance/c-gdpr-compliance.md)
       + [FAQ sur la demande de confidentialité](c-settings-other/c-gdpr-compliance/c-privacy-request-faqs.md)
-      + [Création d'une demande de confidentialité](c-settings-other/c-gdpr-compliance/c-privacy-requests.md)
-      + [Affichage d'un rapport de confidentialité](c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md)
+      + [Création d&#39;une demande de confidentialité](c-settings-other/c-gdpr-compliance/c-privacy-requests.md)
+      + [Affichage d&#39;un rapport de confidentialité](c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md)
 + Notes de mise à jour {#release-notes}
    + [Dernières notes de mise à jour](c-rn/c-rn.md)
    + Notes de mise à jour 2019 {#rn2019}

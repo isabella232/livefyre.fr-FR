@@ -10,28 +10,28 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 ---
 
 
-# Modérer le contenu d'un flux{#moderate-content-from-a-stream}
+# Modérer le contenu d&#39;un flux{#moderate-content-from-a-stream}
 
-Modérez le contenu provenant d'un flux à l'aide de la bibliothèque.
+Modérez le contenu provenant d&#39;un flux à l&#39;aide de la bibliothèque.
 
-Les modérateurs peuvent approuver ou rejeter les commentaires en attente directement depuis le flux, à l'aide de la bibliothèque.
+Les modérateurs peuvent approuver ou rejeter les commentaires en attente directement depuis le flux, à l&#39;aide de la bibliothèque.
 
 Pour modérer le contenu en attente, il suffit de pointer sur **[!UICONTROL Pending]** le bouton.
 
 Le **[!UICONTROL Pending]** bouton change et vous pouvez choisir Refuser ( **[!UICONTROL x]**) ou Approuver ( **[!UICONTROL ✓]**) le commentaire.
 
-Placez le pointeur de la souris sur l'espace de commentaires et les options de modération suivantes s'affichent :
+Placez le pointeur de la souris sur l&#39;espace de commentaires et les options de modération suivantes s&#39;affichent :
 
-* **[!UICONTROL Ban user:]** empêche l'utilisateur d'ajouter du contenu au site.
+* **[!UICONTROL Ban user:]** empêche l&#39;utilisateur d&#39;ajouter du contenu au site.
 
    >[!NOTE]
    >
-   >Cette option est spécifique au site et n'interdit pas l'utilisateur de l'ensemble de votre réseau. Pour les tableaux de sidenom, les utilisateurs peuvent être interdits uniquement dans Studio, et non dans le flux.
+   >Cette option est spécifique au site et n&#39;interdit pas l&#39;utilisateur de l&#39;ensemble de votre réseau. Pour les tableaux de sidenom, les utilisateurs peuvent être interdits uniquement dans Studio, et non dans le flux.
 
-* **[!UICONTROL Bozo:]** Bozos l'auteur du contenu. Pour les tableaux de sidenotes, les utilisateurs peuvent être Bozo'd uniquement depuis Studio, et non dans le flux.
+* **[!UICONTROL Bozo:]** Bozos l&#39;auteur du contenu. Pour les tableaux de sidenotes, les utilisateurs peuvent être Bozo&#39;d uniquement depuis Studio, et non dans le flux.
 * **[!UICONTROL Delete:]** Supprime le contenu du thread.
-* **[!UICONTROL Flag:]** Ouvre un modal de drapeau, vous permettant de sélectionner un indicateur pour le contenu (indésirable, injurieux, non-rubrique ou hors rubrique), de saisir une adresse électronique à associer à l'indicateur, le cas échéant, et d'ajouter une note.
-* **[!UICONTROL Share:]** Ouvre un modale de partage qui vous permet de partager sur Facebook ou Twitter, de modifier le texte et d'inclure un lien permalink dans le contenu lui-même.
+* **[!UICONTROL Flag:]** Ouvre un modal de drapeau, vous permettant de sélectionner un indicateur pour le contenu (indésirable, injurieux, non-rubrique ou hors rubrique), de saisir une adresse électronique à associer à l&#39;indicateur, le cas échéant, et d&#39;ajouter une note.
+* **[!UICONTROL Share:]** Ouvre un modale de partage qui vous permet de partager sur Facebook ou Twitter, de modifier le texte et d&#39;inclure un lien permalink dans le contenu lui-même.
 * **[!UICONTROL Feature:]** Présente le contenu.
 
 

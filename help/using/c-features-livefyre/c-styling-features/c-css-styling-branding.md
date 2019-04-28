@@ -1,8 +1,6 @@
 ---
-description: Utilisez CSS pour styliser les éléments d'une application Livefyre en
-  fonction de votre marque.
-seo-description: Utilisez CSS pour styliser les éléments d'une application Livefyre
-  en fonction de votre marque.
+description: Utilisez CSS pour styliser les éléments d'une application Livefyre en fonction de votre marque.
+seo-description: Utilisez CSS pour styliser les éléments d'une application Livefyre en fonction de votre marque.
 seo-title: Style CSS et marque
 title: Style CSS et marque
 uuid: 729 a 2780-f 757-4 c 54-b 446-ff 832 cecf 620
@@ -14,17 +12,17 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Style CSS et marque{#css-styling-and-branding}
 
-Utilisez CSS pour styliser les éléments d'une application Livefyre en fonction de votre marque.
+Utilisez CSS pour styliser les éléments d&#39;une application Livefyre en fonction de votre marque.
 
 Les applications Livefyre offrent une interface de style CSS étendue qui vous permet de personnaliser votre expérience utilisateur en fonction de vos normes de conception actuelles.
 
 Les options de style incluent :
 
-* **[!UICONTROL Styling the Stream:]** Les flux Livefyre peuvent être mis en forme et personnalisés pour s'adapter à votre marque et au reste de votre site. Pour plus d'informations, voir Personnalisations CSS.
-* **[!UICONTROL Styling the Comment Editor:]** L'éditeur de commentaires peut être personnalisé en modifiant la couleur, la taille et la famille de la police, ou en modifiant la couleur d'arrière-plan de la zone de commentaire. Pour plus d'informations, voir Editeur CSS.
-* **[!UICONTROL Moving the Livefyre Logo:]** Bien que l'emplacement par défaut du logo Livefyre se trouve en haut du flux, cette image peut être supprimée et remplacée par un logo « Powered by Livefyre » plus petit au bas du flux. Pour plus d'informations, voir Déplacement du logo Livefyre.
-* **[!UICONTROL Hiding elements of the stream:]** Les éléments du flux peuvent être masqués s'ils ne sont pas pertinents pour votre communauté. Les éléments qui peuvent être supprimés incluent le bouton de réponse, le menu de profil, le menu déconnexion, la notification de commentaire et les avatars utilisateur. Pour plus d'informations sur la suppression de ces éléments, voir Masquer les éléments d'application.
-* **[!UICONTROL Customizing the Friend Tagging Logo:]** Par défaut, le logo Livefyre s'affiche dans la liste déroulante des balises d'amis pour tous les utilisateurs qui ont commenté le flux dans la page. Pour remplacer cette image par votre propre logo, reportez-vous à la section Marque dans Studio.
+* **[!UICONTROL Styling the Stream:]** Les flux Livefyre peuvent être mis en forme et personnalisés pour s&#39;adapter à votre marque et au reste de votre site. Pour plus d&#39;informations, voir Personnalisations CSS.
+* **[!UICONTROL Styling the Comment Editor:]** L&#39;éditeur de commentaires peut être personnalisé en modifiant la couleur, la taille et la famille de la police, ou en modifiant la couleur d&#39;arrière-plan de la zone de commentaire. Pour plus d&#39;informations, voir Editeur CSS.
+* **[!UICONTROL Moving the Livefyre Logo:]** Bien que l&#39;emplacement par défaut du logo Livefyre se trouve en haut du flux, cette image peut être supprimée et remplacée par un logo « Powered by Livefyre » plus petit au bas du flux. Pour plus d&#39;informations, voir Déplacement du logo Livefyre.
+* **[!UICONTROL Hiding elements of the stream:]** Les éléments du flux peuvent être masqués s&#39;ils ne sont pas pertinents pour votre communauté. Les éléments qui peuvent être supprimés incluent le bouton de réponse, le menu de profil, le menu déconnexion, la notification de commentaire et les avatars utilisateur. Pour plus d&#39;informations sur la suppression de ces éléments, voir Masquer les éléments d&#39;application.
+* **[!UICONTROL Customizing the Friend Tagging Logo:]** Par défaut, le logo Livefyre s&#39;affiche dans la liste déroulante des balises d&#39;amis pour tous les utilisateurs qui ont commenté le flux dans la page. Pour remplacer cette image par votre propre logo, reportez-vous à la section Marque dans Studio.
 
 Applications utilisant cette fonctionnalité :
 

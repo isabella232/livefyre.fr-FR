@@ -45,9 +45,9 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
-| Bogue | Bibliothèque/Recherche | Correction d'un problème en raison duquel les vidéos Instagram ne s'affichaient pas correctement dans la fonction de recherche sociale ou de contenu de l'application. |
-| Bogue | Balises dynamiques | Correction d'un problème en raison duquel les balises dynamiques ne s'affichaient pas pour le contenu rassemblé à partir d'Instagram. |
+| Bogue | Bibliothèque/Recherche | Correction d&#39;un problème en raison duquel les vidéos Instagram ne s&#39;affichaient pas correctement dans la fonction de recherche sociale ou de contenu de l&#39;application. |
+| Bogue | Balises dynamiques | Correction d&#39;un problème en raison duquel les balises dynamiques ne s&#39;affichaient pas pour le contenu rassemblé à partir d&#39;Instagram. |
 
 ## Version UAT
 
-Aucune note de mise à jour UAT n'est disponible pour cette version.
+Aucune note de mise à jour UAT n&#39;est disponible pour cette version.

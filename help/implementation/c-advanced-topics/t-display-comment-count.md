@@ -1,8 +1,6 @@
 ---
-description: Prenez la publication et le nombre de commentaires pour que certaines
-  collections s'affichent sur vos pages d'index.
-seo-description: Prenez la publication et le nombre de commentaires pour que certaines
-  collections s'affichent sur vos pages d'index.
+description: Prenez la publication et le nombre de commentaires pour que certaines collections s'affichent sur vos pages d'index.
+seo-description: Prenez la publication et le nombre de commentaires pour que certaines collections s'affichent sur vos pages d'index.
 seo-title: Afficher le nombre de commentaires
 solution: Experience Manager
 title: Afficher le nombre de commentaires
@@ -15,13 +13,13 @@ source-git-commit: c287e7a880f956f0444af746adee682571fe5a72
 
 # Afficher le nombre de commentaires{#display-comment-count}
 
-Prenez la publication et le nombre de commentaires pour que certaines collections s'affichent sur vos pages d'index.
+Prenez la publication et le nombre de commentaires pour que certaines collections s&#39;affichent sur vos pages d&#39;index.
 
-Livefyre `CommentCount.js` vous permet de récupérer le nombre de contenus pour les collections de votre site. Bien que les applications affichent le nombre de commentaires pour la collection actuelle, la présence de ces comptes syndicés sur votre site peut s'avérer utile. Cette fonctionnalité est particulièrement utile si vous n'avez pas conservé le contenu de votre base de données (ou si votre base de données CMS n'est pas synchronisée avec Livefyre).
+Livefyre `CommentCount.js` vous permet de récupérer le nombre de contenus pour les collections de votre site. Bien que les applications affichent le nombre de commentaires pour la collection actuelle, la présence de ces comptes syndicés sur votre site peut s&#39;avérer utile. Cette fonctionnalité est particulièrement utile si vous n&#39;avez pas conservé le contenu de votre base de données (ou si votre base de données CMS n&#39;est pas synchronisée avec Livefyre).
 
 1. Chargez le code JavaScript.
 
-   Pour ce faire, `CommentCount.js`incluez d'abord le fichier JavaScript dans la `<head>` section de la page ou du modèle dans lequel vous souhaitez l'utiliser.
+   Pour ce faire, `CommentCount.js`incluez d&#39;abord le fichier JavaScript dans la `<head>` section de la page ou du modèle dans lequel vous souhaitez l&#39;utiliser.
 
    ```
    <script 
@@ -31,11 +29,11 @@ Livefyre `CommentCount.js` vous permet de récupérer le nombre de contenus pour
    </script>
    ```
 
-1. Liez l'élément HTML.
+1. Liez l&#39;élément HTML.
 
    Once the script is loaded, it will attempt to find other elements on the page with a class name of `livefyre-commentcount`. Pour chacun de ces éléments, le script recherche `data-lf-site-id` et utilise des attributs `data-lf-article-id` HTML et les utilise pour récupérer le contenu de Livefyre et mettre à jour chaque élément avec la dernière valeur.
 
-   Par exemple, l'élément suivant serait mis à jour :
+   Par exemple, l&#39;élément suivant serait mis à jour :
 
    ```
    <span class="livefyre-commentcount" data-lf-site-id="{site_id}" data-lf-article-id="{article_id}"> 
@@ -47,7 +45,7 @@ Livefyre `CommentCount.js` vous permet de récupérer le nombre de contenus pour
    >
    >`CommentCount.js` Le code recherche une valeur numérique à mettre à jour avec le nombre réel. Veillez à inclure une valeur numérique entre les balises.
 
-   **Exemple 1** (Utilisation de l'URL comme ID d'article) :
+   **Exemple 1** (Utilisation de l&#39;URL comme ID d&#39;article) :
 
    ```
    <span class="livefyre-commentcount" data-lf-site-id="311458" data-lf-article-id="https://mikesoldner.com/blog.php">  
@@ -55,7 +53,7 @@ Livefyre `CommentCount.js` vous permet de récupérer le nombre de contenus pour
    </span>
    ```
 
-   **Exemple 2** (Utilisation d'un système numéroté comme ID d'article) :
+   **Exemple 2** (Utilisation d&#39;un système numéroté comme ID d&#39;article) :
 
    ```
    <span class="livefyre-commentcount" data-lf-site-id="311458" data-lf-article-id="25"> 0 Comments </span>
@@ -63,7 +61,7 @@ Livefyre `CommentCount.js` vous permet de récupérer le nombre de contenus pour
 
 1. Configuration des options.
 
-   Pour plus de contrôle sur le remplacement du nombre de contenus, appelez `LF.CommentCount()` et transmettez un objet contenant les options de configuration. Veillez à appeler la fonction après l'utilisation de tous les éléments à remplacer dans le modèle DOM. Le meilleur emplacement pour appeler cette méthode réside dans le pied de page ; il se produit donc lorsque le DOM est chargé, mais avant les événements ready de document et de fenêtre.
+   Pour plus de contrôle sur le remplacement du nombre de contenus, appelez `LF.CommentCount()` et transmettez un objet contenant les options de configuration. Veillez à appeler la fonction après l&#39;utilisation de tous les éléments à remplacer dans le modèle DOM. Le meilleur emplacement pour appeler cette méthode réside dans le pied de page ; il se produit donc lorsque le DOM est chargé, mais avant les événements ready de document et de fenêtre.
 
    Les options de configuration suivantes sont autorisées :
 
@@ -74,7 +72,7 @@ Livefyre `CommentCount.js` vous permet de récupérer le nombre de contenus pour
    **element :** Elément HTML en cours de mise à jour.
    **count :** Nombre de contenus pour cet élément.
 
-* **regex :** Utilisé pour déterminer la partie du texte de l'élément qui doit être remplacée par le nombre.
+* **regex :** Utilisé pour déterminer la partie du texte de l&#39;élément qui doit être remplacée par le nombre.
 
    **Exemple**:
 

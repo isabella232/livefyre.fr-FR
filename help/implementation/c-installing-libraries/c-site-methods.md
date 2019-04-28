@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Méthodes de classe du site{#site-class-methods}
 
-Créez un objet de site à l'aide des méthodes de classe du site.
+Créez un objet de site à l&#39;aide des méthodes de classe du site.
 
-Voir la classe réseau pour obtenir des instructions sur la création d'un objet Site. Instanciez un objet de site dans votre session avant d'utiliser les méthodes de classe du site.
+Voir la classe réseau pour obtenir des instructions sur la création d&#39;un objet Site. Instanciez un objet de site dans votre session avant d&#39;utiliser les méthodes de classe du site.
 
 * [Méthode du site buildblogcollection](../c-installing-libraries/r-buildblogcollection-site-method.md#r_buildblogcollection_site_method)
 * [Méthode du site buildchatcollection](../c-installing-libraries/r-buildchatcollection-site-method.md#r_buildchatcollection_site_method)

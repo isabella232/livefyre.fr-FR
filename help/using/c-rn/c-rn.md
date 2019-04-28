@@ -15,13 +15,13 @@ source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
 
 >[!NOTE]
 >
->Livefyre mettra fin à la prise en charge de TLS 1.1 (et versions antérieures) conformément aux normes Adobe Security Standards le 11 avril 2019. Veuillez contacter prioritysupport@livefyre.com si vous rencontrez des problèmes avec votre intégration. Veuillez consulter les notes de mise à jour suivantes pour connaître la date de l'abandon HTTP final.
+>Livefyre mettra fin à la prise en charge de TLS 1.1 (et versions antérieures) conformément aux normes Adobe Security Standards le 11 avril 2019. Veuillez contacter prioritysupport@livefyre.com si vous rencontrez des problèmes avec votre intégration. Veuillez consulter les notes de mise à jour suivantes pour connaître la date de l&#39;abandon HTTP final.
 
 ## Améliorations
 
-* Mise en œuvre de l'activation du bouton Call to Action par défaut.
+* Mise en œuvre de l&#39;activation du bouton Call to Action par défaut.
 
 
 ## Corrections de bogues
 
-* Correction d'un problème en raison duquel les publications Instagram non définies dans modq ne peuvent pas être supprimées.
+* Correction d&#39;un problème en raison duquel les publications Instagram non définies dans modq ne peuvent pas être supprimées.

@@ -9,9 +9,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Incorporation d'une application{#embed-an-app}
+# Incorporation d&#39;une application{#embed-an-app}
 
-Ajoutez des applications Livefyre à vos pages Web à l'aide de la structure de code intégré Livefyre. js.
+Ajoutez des applications Livefyre à vos pages Web à l&#39;aide de la structure de code intégré Livefyre. js.
 
 Cette documentation est destinée à une audience technique. Pour [des informations non techniques sur les applications](/help/using/c-about-apps/c-about-apps.md).
 
@@ -19,7 +19,7 @@ Cette section décrit la structure de code que vous devez inclure dans votre mod
 
 1. Créez un fichier.html avec un espace réservé Livefyre.
 
-   Créez un fichier.html dans l'éditeur de texte de votre choix. Créez un élément Livefyre `<div>` fictif dans lequel l'application sera incorporée.
+   Créez un fichier.html dans l&#39;éditeur de texte de votre choix. Créez un élément Livefyre `<div>` fictif dans lequel l&#39;application sera incorporée.
 
    ```
    <html> 
@@ -32,7 +32,7 @@ Cette section décrit la structure de code que vous devez inclure dans votre mod
 
 1. Incluez la bibliothèque Livefyre. js.
 
-   Incluez ensuite la bibliothèque JS Livefyre. Placez la référence suivante dans un `<script>` élément de votre `<head>` élément. Ouvrez ensuite votre page dans un navigateur et utilisez l'inspecteur Web de votre navigateur pour vérifier que Livefyre est chargé.
+   Incluez ensuite la bibliothèque JS Livefyre. Placez la référence suivante dans un `<script>` élément de votre `<head>` élément. Ouvrez ensuite votre page dans un navigateur et utilisez l&#39;inspecteur Web de votre navigateur pour vérifier que Livefyre est chargé.
 
    ```
    <head> 
@@ -40,9 +40,9 @@ Cette section décrit la structure de code que vous devez inclure dans votre mod
    </head> 
    ```
 
-1. Générez l'application Livefyre.
+1. Générez l&#39;application Livefyre.
 
-   Utilisez cette option pour `Livefyre.require` créer des applications de base et de SDK en transmettant le ou les packs Livefyre que vous prévoyez d'utiliser.
+   Utilisez cette option pour `Livefyre.require` créer des applications de base et de SDK en transmettant le ou les packs Livefyre que vous prévoyez d&#39;utiliser.
 
    1. Créez une application de base.
 
@@ -74,6 +74,6 @@ Cette section décrit la structure de code que vous devez inclure dans votre mod
       }); 
       ```
 
-      Voir [plus d'informations sur les applications spécifiques](/help/using/c-about-apps/c-about-apps.md). Il est recommandé d'épingler la dernière version majeure du pack (qui est disponible via [Livefyre. require)](https://cdn.livefyre.com/packages.html)pour éviter les intégrations rompues inattendues.
+      Voir [plus d&#39;informations sur les applications spécifiques](/help/using/c-about-apps/c-about-apps.md). Il est recommandé d&#39;épingler la dernière version majeure du pack (qui est disponible via [Livefyre. require)](https://cdn.livefyre.com/packages.html)pour éviter les intégrations rompues inattendues.
 
 Suivant : Ajoutez une authentification à votre site pour permettre à vos utilisateurs de publier des commentaires.

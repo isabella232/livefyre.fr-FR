@@ -14,4 +14,4 @@ source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 Intégrer Livefyre dans votre intégration AEM.
 
-Pour plus d'informations, voir [Intégration de Livefyre avec AEM](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html).
+Pour plus d&#39;informations, voir [Intégration de Livefyre avec AEM](https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html).

@@ -1,8 +1,6 @@
 ---
-description: Personnalisez les chaînes de texte de l'application pour l'internationalisation
-  ou la marque.
-seo-description: Personnalisez les chaînes de texte de l'application pour l'internationalisation
-  ou la marque.
+description: Personnalisez les chaînes de texte de l'application pour l'internationalisation ou la marque.
+seo-description: Personnalisez les chaînes de texte de l'application pour l'internationalisation ou la marque.
 seo-title: Chaînes de traduction et de texte personnalisé
 solution: Experience Manager
 title: Chaînes de traduction et de texte personnalisé
@@ -15,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Chaînes de traduction et de texte personnalisé{#translation-and-custom-text-strings}
 
-Personnalisez les chaînes de texte de l'application pour l'internationalisation ou la marque.
+Personnalisez les chaînes de texte de l&#39;application pour l&#39;internationalisation ou la marque.
 
-Pour améliorer l'expérience de votre communauté, vous pouvez personnaliser la chaîne de texte pour n'importe quelle étiquette de texte en fonction de la langue ou de la marque de votre site. Par exemple, vous pouvez remplacer « J'aime » par « Recommander » ou « Supprimer » par « Borrar ».  » »
+Pour améliorer l&#39;expérience de votre communauté, vous pouvez personnaliser la chaîne de texte pour n&#39;importe quelle étiquette de texte en fonction de la langue ou de la marque de votre site. Par exemple, vous pouvez remplacer « J&#39;aime » par « Recommander » ou « Supprimer » par « Borrar ».  » »
 
-Pour plus d'informations, voir [](../c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets).
+Pour plus d&#39;informations, voir [](../c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets).
 
 Applications utilisant cette fonctionnalité :
 

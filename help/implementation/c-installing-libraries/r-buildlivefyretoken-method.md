@@ -1,8 +1,6 @@
 ---
-description: Renvoie un jeton Livefyre chiffré chiffré qui peut être utilisé pour
-  interagir avec d'autres API Livefyre pour le réseau à partir duquel il est appelé.
-seo-description: Renvoie un jeton Livefyre chiffré chiffré qui peut être utilisé pour
-  interagir avec d'autres API Livefyre pour le réseau à partir duquel il est appelé.
+description: Renvoie un jeton Livefyre chiffré chiffré qui peut être utilisé pour interagir avec d'autres API Livefyre pour le réseau à partir duquel il est appelé.
+seo-description: Renvoie un jeton Livefyre chiffré chiffré qui peut être utilisé pour interagir avec d'autres API Livefyre pour le réseau à partir duquel il est appelé.
 seo-title: Méthode de réseau buildlivefyretoken
 solution: Experience Manager
 title: Méthode de réseau buildlivefyretoken
@@ -15,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Méthode de réseau buildlivefyretoken{#buildlivefyretoken-network-method}
 
-Renvoie un jeton Livefyre chiffré chiffré qui peut être utilisé pour interagir avec d'autres API Livefyre pour le réseau à partir duquel il est appelé.
+Renvoie un jeton Livefyre chiffré chiffré qui peut être utilisé pour interagir avec d&#39;autres API Livefyre pour le réseau à partir duquel il est appelé.
 
-Renvoie un jeton Livefyre chiffré chiffré qui peut être utilisé pour interagir avec d'autres API Livefyre pour le réseau à partir duquel il est appelé.
+Renvoie un jeton Livefyre chiffré chiffré qui peut être utilisé pour interagir avec d&#39;autres API Livefyre pour le réseau à partir duquel il est appelé.
 
 Par défaut, ce jeton est défini pour expirer dans 24 heures à compter de sa création.
 

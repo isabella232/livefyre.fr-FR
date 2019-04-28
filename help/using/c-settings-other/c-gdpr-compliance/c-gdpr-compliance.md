@@ -1,12 +1,6 @@
 ---
-description: Découvrez le GDPR (General Data Protection Regulation) et les demandes
-  d'accès et de suppression autorisées sous GDPR, pour les données collectées dans
-  votre utilisation de Livefyre, ainsi que les autres contrôles de confidentialité
-  associés.
-seo-description: Découvrez le GDPR (General Data Protection Regulation) et les demandes
-  d'accès et de suppression autorisées sous GDPR, pour les données collectées dans
-  votre utilisation de Livefyre, ainsi que les autres contrôles de confidentialité
-  associés.
+description: Découvrez le GDPR (General Data Protection Regulation) et les demandes d'accès et de suppression autorisées sous GDPR, pour les données collectées dans votre utilisation de Livefyre, ainsi que les autres contrôles de confidentialité associés.
+seo-description: Découvrez le GDPR (General Data Protection Regulation) et les demandes d'accès et de suppression autorisées sous GDPR, pour les données collectées dans votre utilisation de Livefyre, ainsi que les autres contrôles de confidentialité associés.
 seo-title: Demandes de confidentialité (GDPR-Ready)
 solution: Experience Manager
 title: Demandes de confidentialité (GDPR-Ready)
@@ -19,6 +13,6 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Demandes de confidentialité (GDPR-Ready){#privacy-requests-gdpr-ready}
 
-Découvrez le GDPR (General Data Protection Regulation) et les demandes d'accès et de suppression autorisées sous GDPR, pour les données collectées dans votre utilisation de Livefyre, ainsi que les autres contrôles de confidentialité associés.
+Découvrez le GDPR (General Data Protection Regulation) et les demandes d&#39;accès et de suppression autorisées sous GDPR, pour les données collectées dans votre utilisation de Livefyre, ainsi que les autres contrôles de confidentialité associés.
 
-Le GDPR ( [](https://adobe.io/apis/cloudplatform/gdpr.html) General Data Protection Regulations) est un règlement destiné à renforcer et à unifier la protection des données pour les personnes de l'Union européenne (UE). Outre les autres contrôles de confidentialité qui permettent de répondre aux demandes d'accès et de suppression que vous pouvez recevoir de votre part - utilisateurs (sujets de données), Adobe a préparé une solution GDPR prête à l'emploi pour la fonctionnalité intégrée Livefyre qui vous permet de demander ou de supprimer des données collectées dans Livefyre.
+Le GDPR ( [](https://adobe.io/apis/cloudplatform/gdpr.html) General Data Protection Regulations) est un règlement destiné à renforcer et à unifier la protection des données pour les personnes de l&#39;Union européenne (UE). Outre les autres contrôles de confidentialité qui permettent de répondre aux demandes d&#39;accès et de suppression que vous pouvez recevoir de votre part - utilisateurs (sujets de données), Adobe a préparé une solution GDPR prête à l&#39;emploi pour la fonctionnalité intégrée Livefyre qui vous permet de demander ou de supprimer des données collectées dans Livefyre.

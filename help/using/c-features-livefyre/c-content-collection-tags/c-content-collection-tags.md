@@ -1,8 +1,6 @@
 ---
-description: Ajoutez des balises mot-clé aux collections et au contenu, afin de classer
-  et organiser le contenu pour une récupération facile.
-seo-description: Ajoutez des balises mot-clé aux collections et au contenu, afin de
-  classer et organiser le contenu pour une récupération facile.
+description: Ajoutez des balises mot-clé aux collections et au contenu, afin de classer et organiser le contenu pour une récupération facile.
+seo-description: Ajoutez des balises mot-clé aux collections et au contenu, afin de classer et organiser le contenu pour une récupération facile.
 seo-title: Balises de collection et de contenu
 solution: Experience Manager
 title: Balises de collection et de contenu
@@ -17,9 +15,9 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Ajoutez des balises mot-clé aux collections et au contenu, afin de classer et organiser le contenu pour une récupération facile.
 
-L'affectation de balises permet de filtrer les recherches selon une balise spécifique et d'extraire des données pour l'API d'index thermique.
+L&#39;affectation de balises permet de filtrer les recherches selon une balise spécifique et d&#39;extraire des données pour l&#39;API d&#39;index thermique.
 
-Vous pouvez ajouter des balises à l'aide des **[!UICONTROL Content]** panneaux et **[!UICONTROL Collections]** des panneaux dans Studio, ou directement aux métadonnées de collection (à l'aide de l'objet collectionmeta) lors de l'initialisation ou de la mise à jour de la collection avec Livefyre.
+Vous pouvez ajouter des balises à l&#39;aide des **[!UICONTROL Content]** panneaux et **[!UICONTROL Collections]** des panneaux dans Studio, ou directement aux métadonnées de collection (à l&#39;aide de l&#39;objet collectionmeta) lors de l&#39;initialisation ou de la mise à jour de la collection avec Livefyre.
 
 Applications utilisant cette fonctionnalité :
 
@@ -37,11 +35,11 @@ Applications utilisant cette fonctionnalité :
 * [Tendances](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [Bouton Télécharger](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
 
-## Utilisation des balises de collection avec l'API d'index thermique {#section_uhd_frk_wy}
+## Utilisation des balises de collection avec l&#39;API d&#39;index thermique {#section_uhd_frk_wy}
 
-L'API d'index thermique accepte un paramètre de balise, ce qui vous permet de récupérer la puissance relative d'une collection avec cette balise, sur un site ou sur un réseau entier.
+L&#39;API d&#39;index thermique accepte un paramètre de balise, ce qui vous permet de récupérer la puissance relative d&#39;une collection avec cette balise, sur un site ou sur un réseau entier.
 
-Pour plus d'informations sur l'implémentation, reportez-vous à la documentation technique de l'API d'index thermique.
+Pour plus d&#39;informations sur l&#39;implémentation, reportez-vous à la documentation technique de l&#39;API d&#39;index thermique.
 
 Applications utilisant cette fonctionnalité :
 

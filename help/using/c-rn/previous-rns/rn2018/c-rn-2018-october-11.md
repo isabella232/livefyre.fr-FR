@@ -19,7 +19,7 @@ Notes de mise à jour de la version du 11 octobre 2018.
 
 Les nouvelles fonctionnalités suivantes ont été publiées dans la version de production de cette version :
 
-* Lorsqu'un utilisateur supprime un compte de Twitter, dans un délai de 24 heures, le contenu de ce compte est également supprimé de toutes les sources dans Livefyre.
+* Lorsqu&#39;un utilisateur supprime un compte de Twitter, dans un délai de 24 heures, le contenu de ce compte est également supprimé de toutes les sources dans Livefyre.
 
 ## Problèmes {#section_ehw_ndt_wcb}
 
@@ -29,11 +29,11 @@ Les problèmes des tableaux suivants ont été résolus dans la version de produ
 
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
-| Bogue | AEM | Correction d'un problème en raison duquel les tweets importés dans AEM Assets via Livefyre étaient rompus. |
-| Amélioration | API | Ajout de l'étiquette « audio » pour les fichiers audio enregistrés dans une collection. |
-| Bogue | Bibliothèque/Recherche | Correction d'un problème en raison duquel les ressources Twitter n'étaient pas enregistrées dans un dossier spécifique lorsqu'elles étaient glissées et perdues à partir de la recherche sociale. |
-| Bogue | Bibliothèque/Recherche | Correction d'un problème en raison duquel une image n'apparaissait pas lors de l'utilisation de comptes commerciaux IG valides pour les détails de la ressource, la bibliothèque et les applications publiées. |
-| Bogue | Flux | Correction d'un problème qui empêchait l'enregistrement des règles de flux YouTube. |
+| Bogue | AEM | Correction d&#39;un problème en raison duquel les tweets importés dans AEM Assets via Livefyre étaient rompus. |
+| Amélioration | API | Ajout de l&#39;étiquette « audio » pour les fichiers audio enregistrés dans une collection. |
+| Bogue | Bibliothèque/Recherche | Correction d&#39;un problème en raison duquel les ressources Twitter n&#39;étaient pas enregistrées dans un dossier spécifique lorsqu&#39;elles étaient glissées et perdues à partir de la recherche sociale. |
+| Bogue | Bibliothèque/Recherche | Correction d&#39;un problème en raison duquel une image n&#39;apparaissait pas lors de l&#39;utilisation de comptes commerciaux IG valides pour les détails de la ressource, la bibliothèque et les applications publiées. |
+| Bogue | Flux | Correction d&#39;un problème qui empêchait l&#39;enregistrement des règles de flux YouTube. |
 
 ## Version UAT {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
 
@@ -41,5 +41,5 @@ Les problèmes des tableaux suivants ont été résolus dans la version UAT de c
 
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
-| Bogue | AEM | Correction d'un problème en raison duquel les tweets importés dans AEM Assets via Livefyre étaient rompus. |
+| Bogue | AEM | Correction d&#39;un problème en raison duquel les tweets importés dans AEM Assets via Livefyre étaient rompus. |
 

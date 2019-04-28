@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Compteur social{#social-counter}
 
-Comptez le nombre d'éléments sociaux organisés. Pour obtenir la liste complète des points de fin disponibles, consultez la section [Référence](https://api.livefyre.com/docs) de l'API Livefyre.
+Comptez le nombre d&#39;éléments sociaux organisés. Pour obtenir la liste complète des points de fin disponibles, consultez la section [Référence](https://api.livefyre.com/docs) de l&#39;API Livefyre.
 
-L'API de compteur Social renvoie le nombre de règles de traitement correspondantes dans une collection donnée pour les intervalles sur une période donnée.
+L&#39;API de compteur Social renvoie le nombre de règles de traitement correspondantes dans une collection donnée pour les intervalles sur une période donnée.
 
 >[!NOTE]
 >
@@ -34,17 +34,17 @@ GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{q
 ```
 
 * **Networkname :** Votre nom de réseau fourni par Livefyre. Par exemple : *labs* in `labs.fyre.co`.
-* **query :** Hachage encodé en base 64 de tout le site, ID d'article, tuple de type règle pour lequel les informations du nombre doivent être récupérées (pré-codées)
+* **query :** Hachage encodé en base 64 de tout le site, ID d&#39;article, tuple de type règle pour lequel les informations du nombre doivent être récupérées (pré-codées)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
    ```
 
    >[!NOTE]
-   >La requête est limitée à 10 site, ID d'article, tuples de type règle. (L'exemple précédent contient 3 tuples.)
+   >La requête est limitée à 10 site, ID d&#39;article, tuples de type règle. (L&#39;exemple précédent contient 3 tuples.)
 
 * **from** `(optional)` specifies the relative or absolute time period to graph ; from specifies the start and defaults to 24 hours if omitted.
-* **jusqu'à** `(optional)` ce que la période absolue ou absolue soit définie sur graphique ; jusqu'à ce que le début et la valeur par défaut correspondent à l'heure actuelle (maintenant), s'ils sont omis.
+* **jusqu&#39;à** `(optional)` ce que la période absolue ou absolue soit définie sur graphique ; jusqu&#39;à ce que le début et la valeur par défaut correspondent à l&#39;heure actuelle (maintenant), s&#39;ils sont omis.
 
 ### Heure relative
 
@@ -70,7 +70,7 @@ FORMAT : HH : MM_ AAAAMMJJ
 
 | Abréviation | Signification |
 |---|---|
-| HH | Heures (format d'horloge 24 h) |
+| HH | Heures (format d&#39;horloge 24 h) |
 | MM | Minutes |
 | AAAA | Année à 4 chiffres |
 | MM | Mois |
@@ -90,7 +90,7 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 Exemple :
 
-Pour obtenir le décompte sur la dernière minute pour l'ID de site `123456` et d'article `some-article-id` et le type de règle `2`, par exemple : `123456:some-article-id;2:`
+Pour obtenir le décompte sur la dernière minute pour l&#39;ID de site `123456` et d&#39;article `some-article-id` et le type de règle `2`, par exemple : `123456:some-article-id;2:`
 
 ```
 curl -XGET "https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2OnNvbWUtYXJ0aWNsZS1pZDsy.json&from=-1min" 

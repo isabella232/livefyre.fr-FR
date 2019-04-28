@@ -1,8 +1,6 @@
 ---
-description: Utilisez les classes CSS disponibles pour mettre en forme le contenu
-  incitatif différemment des autres contenus de votre application.
-seo-description: Utilisez les classes CSS disponibles pour mettre en forme le contenu
-  incitatif différemment des autres contenus de votre application.
+description: Utilisez les classes CSS disponibles pour mettre en forme le contenu incitatif différemment des autres contenus de votre application.
+seo-description: Utilisez les classes CSS disponibles pour mettre en forme le contenu incitatif différemment des autres contenus de votre application.
 seo-title: Utiliser CSS pour mettre en forme le contenu incitatif
 solution: Experience Manager
 title: Utiliser CSS pour mettre en forme le contenu incitatif
@@ -25,8 +23,8 @@ Les classes suivantes peuvent être utilisées pour le contenu incitatif.
 |---|---|
 | . fyre-incitatif-content-wrapper | Balise div de conteneur pour le lecteur. |
 | . fyre-feature-header | Barre de titre de début. |
-| . fyre-feature-header-icon | Icône en forme de quill de l'en-tête. |
-| . fyre-feature-title | Texte d'en-tête. |
+| . fyre-feature-header-icon | Icône en forme de quill de l&#39;en-tête. |
+| . fyre-feature-title | Texte d&#39;en-tête. |
 | . fyre-feature-body | Balise div du conteneur pour le contenu phare dans le lecteur. |
 | devis-devis | Icône de guillemets qui commence chaque élément de contenu. |
 

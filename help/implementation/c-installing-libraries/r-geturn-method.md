@@ -13,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Méthode réseau geturn{#geturn-network-method}
 
-Cette méthode renvoie l'URN pour ce réseau.
+Cette méthode renvoie l&#39;URN pour ce réseau.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 

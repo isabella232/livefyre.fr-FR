@@ -1,8 +1,6 @@
 ---
-description: Liste des navigateurs et des périphériques pris en charge par la suite
-  de l'application Livefyre.
-seo-description: Liste des navigateurs et des périphériques pris en charge par la
-  suite de l'application Livefyre.
+description: Liste des navigateurs et des périphériques pris en charge par la suite de l'application Livefyre.
+seo-description: Liste des navigateurs et des périphériques pris en charge par la suite de l'application Livefyre.
 seo-title: Prise en charge du périphérique et du navigateur
 title: Prise en charge du périphérique et du navigateur
 uuid: 338 f 78 b 2-051 d -4831-a 0 b 9-e 987 f 92660 ce
@@ -14,9 +12,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Prise en charge du périphérique et du navigateur{#device-and-browser-support}
 
-Liste des navigateurs et des périphériques pris en charge par la suite de l'application Livefyre.
+Liste des navigateurs et des périphériques pris en charge par la suite de l&#39;application Livefyre.
 
-Livefyre prend en charge les périphériques, systèmes d'exploitation et navigateurs suivants.
+Livefyre prend en charge les périphériques, systèmes d&#39;exploitation et navigateurs suivants.
 
 |  | Applications principales | Storify 2 | Studio | Modq |
 |---|---|---|---|---|
@@ -30,8 +28,8 @@ Livefyre prend en charge les périphériques, systèmes d'exploitation et naviga
 | **Périphériques** |  |  |  |  |
 | Navigateur Android 2.3 + | Limité | Limité | N/O | Limité |
 | Google Chrome sur Android 4.1 + | Limité | Limité | N/O | Limité |
-| Versions antérieures d'ios (iphone 4 S +/ipad 2 +) | Limité | Limité | N/O | Limité |
-| Version actuelle d'ios (iphone 4 S +/ipad 2 +) | ✓ | ✓ | N/O | ✓ |
+| Versions antérieures d&#39;ios (iphone 4 S +/ipad 2 +) | Limité | Limité | N/O | Limité |
+| Version actuelle d&#39;ios (iphone 4 S +/ipad 2 +) | ✓ | ✓ | N/O | ✓ |
 
 >[!NOTE]
 >
@@ -39,5 +37,5 @@ Livefyre prend en charge les périphériques, systèmes d'exploitation et naviga
 
 >[!NOTE]
 >
->En raison de la fin de la prise en charge de Microsoft, Livefyre n'est pas pris en charge dans les versions d'Internet Explorer antérieures à Internet Explorer 11.
+>En raison de la fin de la prise en charge de Microsoft, Livefyre n&#39;est pas pris en charge dans les versions d&#39;Internet Explorer antérieures à Internet Explorer 11.
 

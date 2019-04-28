@@ -17,13 +17,13 @@ Notes de mise à jour de la version du 31 janvier 2019.
 
 ## Améliorations
 
-* Mise en œuvre d'une icône Afficher pour les cartes vidéo dans les vues de la recherche sociale et de la bibliothèque.
-* Mise en œuvre d'un paramètre Designer pour désactiver la molette de la souris dans Carousel.
+* Mise en œuvre d&#39;une icône Afficher pour les cartes vidéo dans les vues de la recherche sociale et de la bibliothèque.
+* Mise en œuvre d&#39;un paramètre Designer pour désactiver la molette de la souris dans Carousel.
 
 ## Corrections de bogues
 
-* Correction d'un problème dans Mosaics en raison duquel des descriptions s'affichaient incorrectement derrière les mosaïques pour certains contenus Twitter à l'aide de l'option Interaction *avec les clics* .
-* Correction d'un problème en raison duquel le contenu Instagram supprimé s'affichait dans certaines applications.
-* Correction d'un problème en raison duquel une fois certaines publications vidéo visionnées, le modal passe d'une vue horizontale à une vue verticale.
-* Correction d'un problème en raison duquel l'accès à des sections de Studio en tant qu'utilisateur ne disposant pas des autorisations appropriées affichait une page incorrecte.
-* Correction d'un problème dans Internet Explorer v 11, en raison duquel les vidéos Instagram n'étaient pas lues dans Mosaic.
+* Correction d&#39;un problème dans Mosaics en raison duquel des descriptions s&#39;affichaient incorrectement derrière les mosaïques pour certains contenus Twitter à l&#39;aide de l&#39;option Interaction *avec les clics* .
+* Correction d&#39;un problème en raison duquel le contenu Instagram supprimé s&#39;affichait dans certaines applications.
+* Correction d&#39;un problème en raison duquel une fois certaines publications vidéo visionnées, le modal passe d&#39;une vue horizontale à une vue verticale.
+* Correction d&#39;un problème en raison duquel l&#39;accès à des sections de Studio en tant qu&#39;utilisateur ne disposant pas des autorisations appropriées affichait une page incorrecte.
+* Correction d&#39;un problème dans Internet Explorer v 11, en raison duquel les vidéos Instagram n&#39;étaient pas lues dans Mosaic.

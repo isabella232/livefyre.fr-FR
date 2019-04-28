@@ -15,9 +15,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Activez la messagerie instantanée sur vos sites.
 
-La conversation permet aux audiences de discuter en temps réel autour des événements, annonces ou programmes en direct. Le contenu s'affiche sous la forme d'un flux continu de conversations non threads pour faciliter l'engagement et renforcer l'activité sur la page.
+La conversation permet aux audiences de discuter en temps réel autour des événements, annonces ou programmes en direct. Le contenu s&#39;affiche sous la forme d&#39;un flux continu de conversations non threads pour faciliter l&#39;engagement et renforcer l&#39;activité sur la page.
 
-Fox News utilisait Chat pour capturer l'opinion et le reflet de l'audience autour de l'élection de Pope Bergoglio. Sachant qu'il y aurait une recrue de participation pertinente et active, Fox News a lancé une conversation quelques minutes après l'annonce pour créer une conversation immédiate.
+Fox News utilisait Chat pour capturer l&#39;opinion et le reflet de l&#39;audience autour de l&#39;élection de Pope Bergoglio. Sachant qu&#39;il y aurait une recrue de participation pertinente et active, Fox News a lancé une conversation quelques minutes après l&#39;annonce pour créer une conversation immédiate.
 
 ![](assets/chat_example.png)
 

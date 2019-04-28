@@ -13,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Déplacement du Guide de navigation{#move-the-navigation-guide}
 
-Indiquez l'emplacement du Guide de navigation à l'écran.
+Indiquez l&#39;emplacement du Guide de navigation à l&#39;écran.
 
-1. Dans l'application Storify 2 App Designer, basculez sur **[!UICONTROL Navigation Guide]** la bascule.
+1. Dans l&#39;application Storify 2 App Designer, basculez sur **[!UICONTROL Navigation Guide]** la bascule.
 1. Sélectionnez Haut, Gauche ou Droite dans la **[!UICONTROL Orientation]** liste déroulante.

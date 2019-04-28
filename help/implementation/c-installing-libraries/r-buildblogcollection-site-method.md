@@ -1,9 +1,6 @@
 ---
-description: Renvoie un objet Collection instancié comme type de blog. Exécutez create_
-  or_ update () à partir de l'objet Collection pour terminer le processus de création.
-seo-description: Renvoie un objet Collection instancié comme type de blog. Exécutez
-  create_ or_ update () à partir de l'objet Collection pour terminer le processus
-  de création.
+description: Renvoie un objet Collection instancié comme type de blog. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
+seo-description: Renvoie un objet Collection instancié comme type de blog. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
 seo-title: Méthode du site buildblogcollection
 solution: Experience Manager
 title: Méthode du site buildblogcollection
@@ -16,12 +13,12 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Méthode du site buildblogcollection{#buildblogcollection-site-method}
 
-Renvoie un objet Collection instancié comme type de blog. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
+Renvoie un objet Collection instancié comme type de blog. Exécutez create_ or_ update () à partir de l&#39;objet Collection pour terminer le processus de création.
 
 | Variable | Type | Description |
 |--- |--- |--- |
 | titre | Chaîne | Titre de la collection. |
-| Articleid | Chaîne | Identifiant d'article unique choisi pour identifier une collection sur votre site. |
+| Articleid | Chaîne | Identifiant d&#39;article unique choisi pour identifier une collection sur votre site. |
 | url | Chaîne | URL absolue canonique pour cette collection. |
 
 ## Exemple Java {#section_nyl_ycs_rz}

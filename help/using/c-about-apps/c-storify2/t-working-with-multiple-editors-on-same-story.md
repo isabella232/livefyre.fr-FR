@@ -1,8 +1,6 @@
 ---
-description: Storify gère plusieurs éditeurs simultanés, empêche les remplacements
-  accidentels ou les modifications perdues.
-seo-description: Storify gère plusieurs éditeurs simultanés, empêche les remplacements
-  accidentels ou les modifications perdues.
+description: Storify gère plusieurs éditeurs simultanés, empêche les remplacements accidentels ou les modifications perdues.
+seo-description: Storify gère plusieurs éditeurs simultanés, empêche les remplacements accidentels ou les modifications perdues.
 seo-title: Utilisation de plusieurs éditeurs sur le même article
 solution: Experience Manager
 title: Utilisation de plusieurs éditeurs sur le même article
@@ -17,13 +15,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Storify gère plusieurs éditeurs simultanés, empêche les remplacements accidentels ou les modifications perdues.
 
-Storify permet à plusieurs éditeurs de collaborer, de modifier et de traiter du contenu pour un seul article. Les modifications sont visibles en temps réel et balisées avec le nom d'utilisateur et l'avatar de l'éditeur.
+Storify permet à plusieurs éditeurs de collaborer, de modifier et de traiter du contenu pour un seul article. Les modifications sont visibles en temps réel et balisées avec le nom d&#39;utilisateur et l&#39;avatar de l&#39;éditeur.
 
-Plusieurs éditeurs travaillant sur un seul article verront les autres travailler sur la page en temps réel. Les nouveaux éléments, modifications de texte et modifications de formatage s'affichent à mesure qu'ils sont ajoutés, avec l'emplacement de leur éditeur sur la page indiquée avec une sélection de texte codée en couleur, un nom de bannière et un avatar (le cas échéant).
+Plusieurs éditeurs travaillant sur un seul article verront les autres travailler sur la page en temps réel. Les nouveaux éléments, modifications de texte et modifications de formatage s&#39;affichent à mesure qu&#39;ils sont ajoutés, avec l&#39;emplacement de leur éditeur sur la page indiquée avec une sélection de texte codée en couleur, un nom de bannière et un avatar (le cas échéant).
 
 Tous les éditeurs possèdent tous les droits et privilèges nécessaires pour modifier votre récit, notamment le droit à :
 
-* Annuler et rétablir le travail d'autres utilisateurs.
+* Annuler et rétablir le travail d&#39;autres utilisateurs.
 * Publication de nouveaux contenus ou changements
 * Suppression de contenu
 * Modifiez les blocs de texte.

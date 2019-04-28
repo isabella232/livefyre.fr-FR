@@ -13,11 +13,11 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 # Fonctionnalités de Mosaic{#mosaic-features}
 
-L'application Mosaic propose ces fonctionnalités pour votre site.
+L&#39;application Mosaic propose ces fonctionnalités pour votre site.
 
 
 
-L'application Mosaic dispose des fonctionnalités suivantes :
+L&#39;application Mosaic dispose des fonctionnalités suivantes :
 
 * [Avatars](/help/using/c-features-livefyre/c-styling-features/c-avatars.md#c_avatars)
 * [Style CSS](/help/using/c-features-livefyre/c-styling-features/c-css-styling-branding.md#c_css_styling_branding)
@@ -31,7 +31,7 @@ L'application Mosaic dispose des fonctionnalités suivantes :
 * [Flux continu en continu - temps](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_emd_syl_d1b)
 * [Fonctionnalités de style](/help/using/c-features-livefyre/c-styling-features/c-styling-features.md#c_styling_features)
 * [Visionneuses de traduction](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
-* [Boutons d'action Twitter](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
+* [Boutons d&#39;action Twitter](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
 * [Commerce UGC](/help/using/c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce)
 * [Fonctions de contribution sur site](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_vzs_t2s_d1b)
 

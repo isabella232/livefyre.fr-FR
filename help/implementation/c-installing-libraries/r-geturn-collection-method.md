@@ -1,8 +1,6 @@
 ---
-description: Cette méthode renvoie l'URN pour cette collection. Vous devez exécuter
-  createorupdate () avant d'exécuter cette méthode.
-seo-description: Cette méthode renvoie l'URN pour cette collection. Vous devez exécuter
-  createorupdate () avant d'exécuter cette méthode.
+description: Cette méthode renvoie l'URN pour cette collection. Vous devez exécuter createorupdate () avant d'exécuter cette méthode.
+seo-description: Cette méthode renvoie l'URN pour cette collection. Vous devez exécuter createorupdate () avant d'exécuter cette méthode.
 seo-title: Méthode de collecte geturn
 solution: Experience Manager
 title: Méthode de collecte geturn
@@ -15,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Méthode de collecte geturn{#geturn-collection-method}
 
-Cette méthode renvoie l'URN pour cette collection. Vous devez exécuter createorupdate () avant d'exécuter cette méthode.
+Cette méthode renvoie l&#39;URN pour cette collection. Vous devez exécuter createorupdate () avant d&#39;exécuter cette méthode.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 

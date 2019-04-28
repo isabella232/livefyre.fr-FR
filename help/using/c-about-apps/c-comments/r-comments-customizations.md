@@ -1,8 +1,6 @@
 ---
-description: Personnalisez les commentaires pour incorporer des conversations en temps
-  réel sur votre site.
-seo-description: Personnalisez les commentaires pour incorporer des conversations
-  en temps réel sur votre site.
+description: Personnalisez les commentaires pour incorporer des conversations en temps réel sur votre site.
+seo-description: Personnalisez les commentaires pour incorporer des conversations en temps réel sur votre site.
 seo-title: Personnalisations des commentaires
 solution: Experience Manager
 title: Personnalisations des commentaires
@@ -31,23 +29,23 @@ Utilisez les options disponibles pour permettre aux utilisateurs de partager du 
 
 * **[!UICONTROL Posts appear in cards]**
 
-   Si cette option est activée, les publications s'affichent dans un cadre environnant et la couleur d'arrière-plan dépend de **[!UICONTROL Theme]** la sélection appliquée.
+   Si cette option est activée, les publications s&#39;affichent dans un cadre environnant et la couleur d&#39;arrière-plan dépend de **[!UICONTROL Theme]** la sélection appliquée.
 
 * **[!UICONTROL Expand media]**
 
-   S'il est activé, les pièces jointes multimédia s'affichent en tant que médias entièrement développés dans le flux. Si cette option est désactivée, le support est affiché sous forme de liens uniquement.
+   S&#39;il est activé, les pièces jointes multimédia s&#39;affichent en tant que médias entièrement développés dans le flux. Si cette option est désactivée, le support est affiché sous forme de liens uniquement.
 
 * **[!UICONTROL Number of listeners]**
 
-   S'il est activé, le nombre d'utilisateurs actifs sur la page s'affiche.
+   S&#39;il est activé, le nombre d&#39;utilisateurs actifs sur la page s&#39;affiche.
 
 * **[!UICONTROL User tags]**
 
-   S'il est activé, les balises utilisateur s'affichent avec le contenu publié.
+   S&#39;il est activé, les balises utilisateur s&#39;affichent avec le contenu publié.
 
 * **[!UICONTROL User avatars]**
 
-   S'il est activé, les avatars des utilisateurs s'affichent avec le contenu publié.
+   S&#39;il est activé, les avatars des utilisateurs s&#39;affichent avec le contenu publié.
 
 * **[!UICONTROL Number of replies to load]**
 
@@ -59,23 +57,23 @@ Utilisez les options disponibles pour permettre aux utilisateurs de partager du 
 
 * **[!UICONTROL Users may share posts]**
 
-   Si les utilisateurs activés peuvent partager des publications. Si cette option est activée, les utilisateurs peuvent partager du contenu publié sur Twitter, Facebook ou linkedin. Pour plus d'informations sur l'activation du partage, voir Paramètres > Paramètres d'intégration > Partage sur les réseaux sociaux.
+   Si les utilisateurs activés peuvent partager des publications. Si cette option est activée, les utilisateurs peuvent partager du contenu publié sur Twitter, Facebook ou linkedin. Pour plus d&#39;informations sur l&#39;activation du partage, voir Paramètres &gt; Paramètres d&#39;intégration &gt; Partage sur les réseaux sociaux.
 
 * **[!UICONTROL Featured content at top of stream]**
 
-   Lorsque cette option est activée, le contenu incitatif s'affiche au-dessus de l'éditeur dans l'application.
+   Lorsque cette option est activée, le contenu incitatif s&#39;affiche au-dessus de l&#39;éditeur dans l&#39;application.
 
 * **[!UICONTROL High velocity comment queuing]**
 
-   Permet de contrôler la vitesse d'affichage des commentaires sur la page et d'utiliser les conversations à vitesse élevée. Lorsque cette option est activée, Livefyre répertorie le nombre de nouveaux commentaires au haut du flux, plutôt que d'afficher entièrement le contenu. Cliquez sur ce nombre pour afficher les 10 commentaires les plus anciens du flux.
+   Permet de contrôler la vitesse d&#39;affichage des commentaires sur la page et d&#39;utiliser les conversations à vitesse élevée. Lorsque cette option est activée, Livefyre répertorie le nombre de nouveaux commentaires au haut du flux, plutôt que d&#39;afficher entièrement le contenu. Cliquez sur ce nombre pour afficher les 10 commentaires les plus anciens du flux.
 
 * **[!UICONTROL Most liked comment sort]**
 
    Si cette option est activée, les utilisateurs peuvent effectuer un tri par **[!UICONTROL Top Comments]** ou **[!UICONTROL Hot Threads]** (en plus des options par défaut **[!UICONTROL Newest]** et **[!UICONTROL Oldest]** de tri).
 
-Vous pouvez personnaliser les commentaires à l'aide de :
+Vous pouvez personnaliser les commentaires à l&#39;aide de :
 
-* **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]**la section. Voir Personnalisation des applications pour plus d'informations sur la norme **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]**la section.
+* **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]** la section. Voir Personnalisation des applications pour plus d&#39;informations sur la norme **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]** la section.
 
-* **[!UICONTROL Integration tools]**. Pour plus d'informations sur la personnalisation des commentaires à l'aide des outils d'intégration, reportez-vous à la section Commentaires.
+* **[!UICONTROL Integration tools]**. Pour plus d&#39;informations sur la personnalisation des commentaires à l&#39;aide des outils d&#39;intégration, reportez-vous à la section Commentaires.
 

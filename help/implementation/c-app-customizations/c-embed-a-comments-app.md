@@ -1,8 +1,6 @@
 ---
-description: L'incorporation de l'application de commentaires suit le processus d'incorporation
-  d'une application de base.
-seo-description: L'incorporation de l'application de commentaires suit le processus
-  d'incorporation d'une application de base.
+description: L'incorporation de l'application de commentaires suit le processus d'incorporation d'une application de base.
+seo-description: L'incorporation de l'application de commentaires suit le processus d'incorporation d'une application de base.
 seo-title: Incorporation d'une application de commentaires
 solution: Experience Manager
 title: Incorporation d'une application de commentaires
@@ -13,11 +11,11 @@ source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
 ---
 
 
-# Incorporation d'une application de commentaires{#embed-a-comments-app}
+# Incorporation d&#39;une application de commentaires{#embed-a-comments-app}
 
-L'incorporation de l'application de commentaires suit le processus d'incorporation d'une application de base.
+L&#39;incorporation de l&#39;application de commentaires suit le processus d&#39;incorporation d&#39;une application de base.
 
-Incorporation de l'application de commentaires Suit le processus d'incorporation d'une application de base décrite dans [Incorporation d'une application](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+Incorporation de l&#39;application de commentaires Suit le processus d&#39;incorporation d&#39;une application de base décrite dans [Incorporation d&#39;une application](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
 
 ## Exemple
 
@@ -56,7 +54,7 @@ Incorporation de l'application de commentaires Suit le processus d'incorporation
 </html>
 ```
 
-Comme indiqué dans la section Building collectionmeta, collectionmeta est un objet JSON codé. Dans l'exemple ci-dessus, l'objet JSON adopte le format suivant avant son codage JWT :
+Comme indiqué dans la section Building collectionmeta, collectionmeta est un objet JSON codé. Dans l&#39;exemple ci-dessus, l&#39;objet JSON adopte le format suivant avant son codage JWT :
 
 ```
 { 

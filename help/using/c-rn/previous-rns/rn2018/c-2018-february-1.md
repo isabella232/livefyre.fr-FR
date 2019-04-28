@@ -19,18 +19,18 @@ Notes de mise à jour pour la version du 1 er février 2018.
 
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
-| Bogue | Mur multimédia | Correction d'un problème en raison duquel certaines vidéos n'étaient pas lues dans un mur multimédia. |
-| Amélioration | Flux | Création d'une fonctionnalité permettant de filtrer les flux par balises dynamiques. |
-| Bogue | Flux | Correction d'un problème en raison duquel les règles de flux Instagram ne reconnaissaient pas les caractères japonais. |
+| Bogue | Mur multimédia | Correction d&#39;un problème en raison duquel certaines vidéos n&#39;étaient pas lues dans un mur multimédia. |
+| Amélioration | Flux | Création d&#39;une fonctionnalité permettant de filtrer les flux par balises dynamiques. |
+| Bogue | Flux | Correction d&#39;un problème en raison duquel les règles de flux Instagram ne reconnaissaient pas les caractères japonais. |
 | Amélioration | Flux | Le contenu en flux continu est désormais automatiquement balisé par Adobe Sensei, car il est enregistré dans un dossier ou publié dans une application. |
-| Bogue | Studio | Correction d'un bogue rapporté par Nat Geo, qui présentait des caractères spéciaux dans les noms au format HTML. |
+| Bogue | Studio | Correction d&#39;un bogue rapporté par Nat Geo, qui présentait des caractères spéciaux dans les noms au format HTML. |
 
 ## Version UAT
 
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
-| Amélioration | Contenu de l'application | Ajout de la capacité de baliser plusieurs éléments de contenu à la fois dans le contenu de l'application. |
-| Amélioration | Applications | Ajout d'un nouveau basculement de Designer pour activer/désactiver un bouton d'appel à l'action personnalisé dans la mosaïque, le film fixe, le mur multimédia, la carte de fonctionnalités et le carrousel. |
-| Amélioration | Commentaires | Ajout de la capacité de placer de nouveaux formats de fichier audio dans les commentaires et d'utiliser un bouton Télécharger. |
-| Bogue | Flux | Correction d'un bogue en raison duquel les cases à cocher Règles SAFE ne cochaient pas/ne décochaient pas correctement. |
+| Amélioration | Contenu de l&#39;application | Ajout de la capacité de baliser plusieurs éléments de contenu à la fois dans le contenu de l&#39;application. |
+| Amélioration | Applications | Ajout d&#39;un nouveau basculement de Designer pour activer/désactiver un bouton d&#39;appel à l&#39;action personnalisé dans la mosaïque, le film fixe, le mur multimédia, la carte de fonctionnalités et le carrousel. |
+| Amélioration | Commentaires | Ajout de la capacité de placer de nouveaux formats de fichier audio dans les commentaires et d&#39;utiliser un bouton Télécharger. |
+| Bogue | Flux | Correction d&#39;un bogue en raison duquel les cases à cocher Règles SAFE ne cochaient pas/ne décochaient pas correctement. |
 

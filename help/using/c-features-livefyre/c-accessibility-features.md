@@ -1,11 +1,6 @@
 ---
-description: L'identité et les applications Livefyre contiennent des fonctions d'accessibilité
-  permettant à tous les visiteurs du site d'interagir avec le contenu, notamment ceux
-  qui peuvent utiliser des lecteurs d'écran et d'autres dispositifs d'assistance.
-seo-description: L'identité et les applications Livefyre contiennent des fonctions
-  d'accessibilité permettant à tous les visiteurs du site d'interagir avec le contenu,
-  notamment ceux qui peuvent utiliser des lecteurs d'écran et d'autres dispositifs
-  d'assistance.
+description: L'identité et les applications Livefyre contiennent des fonctions d'accessibilité permettant à tous les visiteurs du site d'interagir avec le contenu, notamment ceux qui peuvent utiliser des lecteurs d'écran et d'autres dispositifs d'assistance.
+seo-description: L'identité et les applications Livefyre contiennent des fonctions d'accessibilité permettant à tous les visiteurs du site d'interagir avec le contenu, notamment ceux qui peuvent utiliser des lecteurs d'écran et d'autres dispositifs d'assistance.
 seo-title: Fonctionnalités d'accessibilité
 solution: Experience Manager
 title: Fonctionnalités d'accessibilité
@@ -16,18 +11,18 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 ---
 
 
-# Fonctionnalités d'accessibilité{#accessibility-features}
+# Fonctionnalités d&#39;accessibilité{#accessibility-features}
 
-L'identité et les applications Livefyre contiennent des fonctions d'accessibilité permettant à tous les visiteurs du site d'interagir avec le contenu, notamment ceux qui peuvent utiliser des lecteurs d'écran et d'autres dispositifs d'assistance.
+L&#39;identité et les applications Livefyre contiennent des fonctions d&#39;accessibilité permettant à tous les visiteurs du site d&#39;interagir avec le contenu, notamment ceux qui peuvent utiliser des lecteurs d&#39;écran et d&#39;autres dispositifs d&#39;assistance.
 
-Livefyre souligne les zones suivantes pour s'assurer que les visiteurs du site ont accès à Livefyre Identity et aux applications :
+Livefyre souligne les zones suivantes pour s&#39;assurer que les visiteurs du site ont accès à Livefyre Identity et aux applications :
 
 * Structure
-   * Les pages utilisent les balises de titre de page et d'en-tête que les lecteurs d'écran peuvent lire
+   * Les pages utilisent les balises de titre de page et d&#39;en-tête que les lecteurs d&#39;écran peuvent lire
    * Ordre de tabulation des éléments suit une commande logique
 * Clavier et cible
-   * Les éléments sont mis au point et visibles lors de l'utilisation du clavier
-   * L'ordre de focus est intuitif
+   * Les éléments sont mis au point et visibles lors de l&#39;utilisation du clavier
+   * L&#39;ordre de focus est intuitif
 * Contenu
    * Tous les liens et le contenu sans texte disposent de libellés ARIA uniques et de texte alternatif
 * Présentation :
@@ -38,13 +33,13 @@ Livefyre souligne les zones suivantes pour s'assurer que les visiteurs du site o
 
 >[!NOTE]
 >
->Les fonctionnalités d'accessibilité pour les applications Livefyre s'appliquent uniquement aux applications elles-mêmes. L'UGC dans les applications (par exemple, le sous-titrage vidéo et les descriptions d'image) ne sont accessibles que si le propriétaire du contenu a ajouté ces fonctions d'accessibilité au contenu.
+>Les fonctionnalités d&#39;accessibilité pour les applications Livefyre s&#39;appliquent uniquement aux applications elles-mêmes. L&#39;UGC dans les applications (par exemple, le sous-titrage vidéo et les descriptions d&#39;image) ne sont accessibles que si le propriétaire du contenu a ajouté ces fonctions d&#39;accessibilité au contenu.
 
-Pour tester le fonctionnement d'une application avec les fonctions d'accessibilité, vous pouvez :
+Pour tester le fonctionnement d&#39;une application avec les fonctions d&#39;accessibilité, vous pouvez :
 
-* Activez un lecteur d'écran (par exemple [, Voiceover](https://www.apple.com/accessibility/mac/vision/) sur un périphérique Mac ou Apple ou [un narrateur](https://www.microsoft.com/en-us/accessibility/windows) sur un PC) pour lire la page qui contient l'application. L'utilisation d'un lecteur d'écran vérifie que le contenu est disponible
+* Activez un lecteur d&#39;écran (par exemple [, Voiceover](https://www.apple.com/accessibility/mac/vision/) sur un périphérique Mac ou Apple ou [un narrateur](https://www.microsoft.com/en-us/accessibility/windows) sur un PC) pour lire la page qui contient l&#39;application. L&#39;utilisation d&#39;un lecteur d&#39;écran vérifie que le contenu est disponible
 
-* Tabulation via une application et tentez de l'utiliser uniquement au clavier pour vérifier que vous pouvez accéder à chaque bouton ou lien de manière logique.
+* Tabulation via une application et tentez de l&#39;utiliser uniquement au clavier pour vérifier que vous pouvez accéder à chaque bouton ou lien de manière logique.
 * Modifiez les taux de zoom et de contraste pour déterminer si le rendu du contenu est lisible et facile à afficher.
 
 Applications et fonctionnalités Livefyre accessibles :

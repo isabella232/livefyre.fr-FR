@@ -1,8 +1,6 @@
 ---
-description: Permet aux utilisateurs de cliquer sur les collections à partir d'une
-  seule mise en page et d'une URL.
-seo-description: Permet aux utilisateurs de cliquer sur les collections à partir d'une
-  seule mise en page et d'une URL.
+description: Permet aux utilisateurs de cliquer sur les collections à partir d'une seule mise en page et d'une URL.
+seo-description: Permet aux utilisateurs de cliquer sur les collections à partir d'une seule mise en page et d'une URL.
 seo-title: Modifier la collection
 solution: Experience Manager
 title: Modifier la collection
@@ -15,13 +13,13 @@ source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 # Modifier la collection {#change-collection}
 
-Permet aux utilisateurs de cliquer sur les collections à partir d'une seule mise en page et d'une URL.
+Permet aux utilisateurs de cliquer sur les collections à partir d&#39;une seule mise en page et d&#39;une URL.
 
-Utilisez le délégué de collection Modifier la collection pour modifier la collection affichée sur une page sans modifier l'URL, alors qu'une application Livefyre est déjà chargée. Utilisez cette fonction pour afficher les galeries de photos ou de vidéos, ou d'autres applications dans lesquelles la collection affichée doit changer après une action de l'utilisateur.
+Utilisez le délégué de collection Modifier la collection pour modifier la collection affichée sur une page sans modifier l&#39;URL, alors qu&#39;une application Livefyre est déjà chargée. Utilisez cette fonction pour afficher les galeries de photos ou de vidéos, ou d&#39;autres applications dans lesquelles la collection affichée doit changer après une action de l&#39;utilisateur.
 
-Par exemple, cliquer sur une vidéo ou une photo dans une galerie chargera une collection spécifique à cette sélection, tandis que l'URL de la page ne change pas.
+Par exemple, cliquer sur une vidéo ou une photo dans une galerie chargera une collection spécifique à cette sélection, tandis que l&#39;URL de la page ne change pas.
 
-[Pour charger l'une des trois collections à partir d'une seule page](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):
+[Pour charger l&#39;une des trois collections à partir d&#39;une seule page](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count):
 
 ```
 <html> 

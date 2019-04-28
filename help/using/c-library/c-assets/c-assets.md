@@ -1,8 +1,6 @@
 ---
-description: Rassemblez, organisez et conservez le contenu sélectionné à utiliser
-  dans vos applications Livefyre.
-seo-description: Rassemblez, organisez et conservez le contenu sélectionné à utiliser
-  dans vos applications Livefyre.
+description: Rassemblez, organisez et conservez le contenu sélectionné à utiliser dans vos applications Livefyre.
+seo-description: Rassemblez, organisez et conservez le contenu sélectionné à utiliser dans vos applications Livefyre.
 seo-title: Assets
 solution: Experience Manager
 title: Assets
@@ -19,8 +17,8 @@ Rassemblez, organisez et conservez le contenu sélectionné à utiliser dans vos
 
 Les ressources sont des contenus qui ont été enregistrés dans votre bibliothèque. Les ressources peuvent être recherchées et réutilisables et peuvent inclure des informations supplémentaires, notamment des balises et des droits de réutilisation.
 
-La bibliothèque vous permet d'organiser et de gérer le contenu sélectionné en tant que ressources pour l'utiliser dans toutes vos applications Livefyre.
+La bibliothèque vous permet d&#39;organiser et de gérer le contenu sélectionné en tant que ressources pour l&#39;utiliser dans toutes vos applications Livefyre.
 
-La bibliothèque vous permet également de demander des droits de réutilisation de contenu social collecté, d'ajouter des balises afin d'enrichir les informations stockées avec les ressources et d'organiser ces éléments dans des dossiers, prêts à être publiés dans des applications.
+La bibliothèque vous permet également de demander des droits de réutilisation de contenu social collecté, d&#39;ajouter des balises afin d&#39;enrichir les informations stockées avec les ressources et d&#39;organiser ces éléments dans des dossiers, prêts à être publiés dans des applications.
 
-La bibliothèque fournit une vue de structure de dossiers de Tous les actifs, ce qui vous permet de rechercher et d'organiser vos ressources.
+La bibliothèque fournit une vue de structure de dossiers de Tous les actifs, ce qui vous permet de rechercher et d&#39;organiser vos ressources.

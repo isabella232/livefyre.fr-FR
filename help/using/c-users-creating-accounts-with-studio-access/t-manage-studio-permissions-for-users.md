@@ -1,8 +1,6 @@
 ---
-description: Modifiez l'autorisation de différents niveaux d'utilisateurs, y compris
-  les administrateurs, les modérateurs et les visiteurs du site.
-seo-description: Modifiez l'autorisation de différents niveaux d'utilisateurs, y compris
-  les administrateurs, les modérateurs et les visiteurs du site.
+description: Modifiez l'autorisation de différents niveaux d'utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
+seo-description: Modifiez l'autorisation de différents niveaux d'utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
 seo-title: Gérer les permissions Studio pour les utilisateurs
 solution: Experience Manager
 title: Gérer les permissions Studio pour les utilisateurs
@@ -15,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Gérer les permissions Studio pour les utilisateurs{#manage-studio-permissions-for-users}
 
-Modifiez l'autorisation de différents niveaux d'utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
+Modifiez l&#39;autorisation de différents niveaux d&#39;utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
 
-Les administrateurs Studio et les gestionnaires de studio peuvent afficher et modifier un autre rôle attribué par l'utilisateur Studio.
+Les administrateurs Studio et les gestionnaires de studio peuvent afficher et modifier un autre rôle attribué par l&#39;utilisateur Studio.
 
-Les gestionnaires d'utilisateurs peuvent afficher et gérer les comptes de fin - utilisateur (visiteur du site).
+Les gestionnaires d&#39;utilisateurs peuvent afficher et gérer les comptes de fin - utilisateur (visiteur du site).
 
-1. Cliquez sur **[!UICONTROL Studio Access]** l'onglet pour afficher et gérer les autorisations de l'utilisateur.
+1. Cliquez sur **[!UICONTROL Studio Access]** l&#39;onglet pour afficher et gérer les autorisations de l&#39;utilisateur.
 1. Sélectionnez ou désélectionnez les options répertoriées pour modifier les rôles affectés.

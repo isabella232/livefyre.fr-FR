@@ -1,8 +1,6 @@
 ---
-description: Vous pouvez créer des règles de diffusion en continu qui extraient le
-  contenu de Tumblr.
-seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient
-  le contenu de Tumblr.
+description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu de Tumblr.
+seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu de Tumblr.
 seo-title: Règles Tumblr
 solution: Experience Manager
 title: Règles Tumblr
@@ -17,15 +15,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Vous pouvez créer des règles de diffusion en continu qui extraient le contenu de Tumblr.
 
-Créez des règles Tumblr basées sur un blog Tumblr et filtrées par balise. Les flux Tumblr mettent à jour toutes les 5 minutes, en recherchant le contenu qui n'existe pas déjà dans Livefyre à partir des 20 premiers éléments du flux. Livefyre ignore tout ce qui dépasse les 20 premiers éléments du flux.
+Créez des règles Tumblr basées sur un blog Tumblr et filtrées par balise. Les flux Tumblr mettent à jour toutes les 5 minutes, en recherchant le contenu qui n&#39;existe pas déjà dans Livefyre à partir des 20 premiers éléments du flux. Livefyre ignore tout ce qui dépasse les 20 premiers éléments du flux.
 
 Pour créer des règles Tumblr pour extraire du contenu de Tumblr dans votre application ou dossier, vous pouvez filtrer par :
 
 * **[!UICONTROL Blog]**
 
-   * Entrez le **[!UICONTROL Blog Name]** blog de Tumblr. Saisissez l'URL (*staff.tumblr.com*) ou le nom du blog (*personnel*).
+   * Entrez le **[!UICONTROL Blog Name]** blog de Tumblr. Saisissez l&#39;URL (*staff.tumblr.com*) ou le nom du blog (*personnel*).
 
-   * Incluez jusqu'à un **[!UICONTROL Tag]** pour filtrer les résultats par publications, y compris une balise donnée.
+   * Incluez jusqu&#39;à un **[!UICONTROL Tag]** pour filtrer les résultats par publications, y compris une balise donnée.
 
 * **[!UICONTROL Include recent items.]** Si cette valeur est définie sur :
 

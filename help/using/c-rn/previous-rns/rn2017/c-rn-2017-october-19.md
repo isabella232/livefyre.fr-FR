@@ -19,15 +19,15 @@ Notes de mise à jour de la version du 19 octobre 2017.
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
 | Bogue | Paramètres | La modification de la couleur dans le paramètre « Couleur de marque » dans Paramètres Studio fonctionne désormais comme prévu. |
-| Bogue | Rights Management | Correction d'un bogue de l'affichage des longs noms d'utilisateur dans l'onglet Droits des droits. |
+| Bogue | Rights Management | Correction d&#39;un bogue de l&#39;affichage des longs noms d&#39;utilisateur dans l&#39;onglet Droits des droits. |
 
 ## Version UAT
 
 | **Type de publication** | **Composant** | **Note de version** |
 |---|---|---|
-| Amélioration | Contenu de l'application | Possibilité de lire des fichiers audio téléchargés à partir du contenu de l'application. |
-| Amélioration | Contenu de l'application | Les clients peuvent désormais télécharger des fichiers audio via l'API de transfert qui peuvent être visualisés et téléchargés via le contenu de l'application. |
-| Amélioration | Contenu de l'application | Ajout de la capacité de télécharger un fichier audio à partir du contenu de l'application. |
-| Bogue | Rights Management | Correction d'un bogue qui n'affichait pas de message d'erreur correct lorsqu'un utilisateur tentait d'enregistrer le contenu dans la recherche sociale après sa suppression de Twitter ou d'Instagram. |
+| Amélioration | Contenu de l&#39;application | Possibilité de lire des fichiers audio téléchargés à partir du contenu de l&#39;application. |
+| Amélioration | Contenu de l&#39;application | Les clients peuvent désormais télécharger des fichiers audio via l&#39;API de transfert qui peuvent être visualisés et téléchargés via le contenu de l&#39;application. |
+| Amélioration | Contenu de l&#39;application | Ajout de la capacité de télécharger un fichier audio à partir du contenu de l&#39;application. |
+| Bogue | Rights Management | Correction d&#39;un bogue qui n&#39;affichait pas de message d&#39;erreur correct lorsqu&#39;un utilisateur tentait d&#39;enregistrer le contenu dans la recherche sociale après sa suppression de Twitter ou d&#39;Instagram. |
 | Amélioration | SAFE | Les administrateurs studio peuvent désormais ajouter une nouvelle règle SAFE dans les paramètres appelés Rejet intelligent, qui active la fonction Mod intelligent. |
 

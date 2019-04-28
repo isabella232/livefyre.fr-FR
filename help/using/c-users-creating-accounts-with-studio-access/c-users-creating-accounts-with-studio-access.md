@@ -1,10 +1,6 @@
 ---
-description: Studio vous permet d'accéder à tous les composants Studio pour lesquels
-  vous disposez d'autorisations, notamment la création d'applications, la modération
-  de contenu et la gestion des utilisateurs.
-seo-description: Studio vous permet d'accéder à tous les composants Studio pour lesquels
-  vous disposez d'autorisations, notamment la création d'applications, la modération
-  de contenu et la gestion des utilisateurs.
+description: Studio vous permet d'accéder à tous les composants Studio pour lesquels vous disposez d'autorisations, notamment la création d'applications, la modération de contenu et la gestion des utilisateurs.
+seo-description: Studio vous permet d'accéder à tous les composants Studio pour lesquels vous disposez d'autorisations, notamment la création d'applications, la modération de contenu et la gestion des utilisateurs.
 seo-title: Utilisateurs créant des comptes utilisateur
 solution: Experience Manager
 title: Utilisateurs créant des comptes utilisateur
@@ -17,8 +13,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Utilisateurs : Création de comptes utilisateur{#users-creating-user-accounts}
 
-Studio vous permet d'accéder à tous les composants Studio pour lesquels vous disposez d'autorisations, notamment la création d'applications, la modération de contenu et la gestion des utilisateurs.
+Studio vous permet d&#39;accéder à tous les composants Studio pour lesquels vous disposez d&#39;autorisations, notamment la création d&#39;applications, la modération de contenu et la gestion des utilisateurs.
 
-Les utilisateurs de studio ayant accès à plusieurs réseaux pourront gérer ces réseaux à partir d'un seul compte.
+Les utilisateurs de studio ayant accès à plusieurs réseaux pourront gérer ces réseaux à partir d&#39;un seul compte.
 
-Les comptes Studio permettent l'accès à Livefyre Studio et diffèrent des comptes utilisateur utilisés pour interagir avec les applications Livefyre.
+Les comptes Studio permettent l&#39;accès à Livefyre Studio et diffèrent des comptes utilisateur utilisés pour interagir avec les applications Livefyre.

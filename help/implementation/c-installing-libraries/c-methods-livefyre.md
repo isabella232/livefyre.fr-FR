@@ -1,8 +1,6 @@
 ---
-description: Liaisons de langue pour les méthodes de bibliothèque côté serveur de
-  Livefyre.
-seo-description: Liaisons de langue pour les méthodes de bibliothèque côté serveur
-  de Livefyre.
+description: Liaisons de langue pour les méthodes de bibliothèque côté serveur de Livefyre.
+seo-description: Liaisons de langue pour les méthodes de bibliothèque côté serveur de Livefyre.
 seo-title: Classes et méthodes
 solution: Experience Manager
 title: Classes et méthodes
@@ -19,7 +17,7 @@ Liaisons de langue pour les méthodes de bibliothèque côté serveur de Livefyr
 
 Il existe les classes de méthodes suivantes pour interagir avec Livefyre :
 
-* [Installation](../c-installing-libraries/c-installing-libraries.md). Interface permettant d'interagir avec l'API au niveau du réseau Livefyre.
-* [Collection](../c-installing-libraries/c-collection-methods.md#c_collection_methods). Interface permettant d'interagir avec l'API de niveau Collection Livefyre.
-* [Site](../c-installing-libraries/c-site-methods.md#c_site_methods). Interface permettant d'interagir avec l'API au niveau du site Livefyre.
+* [Installation](../c-installing-libraries/c-installing-libraries.md). Interface permettant d&#39;interagir avec l&#39;API au niveau du réseau Livefyre.
+* [Collection](../c-installing-libraries/c-collection-methods.md#c_collection_methods). Interface permettant d&#39;interagir avec l&#39;API de niveau Collection Livefyre.
+* [Site](../c-installing-libraries/c-site-methods.md#c_site_methods). Interface permettant d&#39;interagir avec l&#39;API au niveau du site Livefyre.
 

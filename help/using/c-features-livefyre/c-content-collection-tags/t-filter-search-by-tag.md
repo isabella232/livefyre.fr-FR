@@ -18,4 +18,4 @@ Filtrez le contenu dans la balise Studio par Collection.
 1. Sélectionnez **[!UICONTROL Tag]** dans la liste déroulante des recherches du **[!UICONTROL Collections]** panneau.
 1. Entrez la balise pour votre recherche ou cliquez sur la **[!UICONTROL Tag]** liste répertoriée sous une collection.
 
-   Toutes les collections avec la balise sélectionnée s'affichent dans la liste.
+   Toutes les collections avec la balise sélectionnée s&#39;affichent dans la liste.

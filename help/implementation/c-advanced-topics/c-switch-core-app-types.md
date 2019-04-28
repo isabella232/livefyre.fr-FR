@@ -11,13 +11,13 @@ source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 ---
 
 
-# Basculer les types d'application principaux{#switch-core-app-types}
+# Basculer les types d&#39;application principaux{#switch-core-app-types}
 
-Découvrez comment passer d'un type de conversation Type à un autre.
+Découvrez comment passer d&#39;un type de conversation Type à un autre.
 
-Lifefyre vous permet de modifier les collections d'un type d'application principal Livefyre vers un autre (commentaires, blog en direct ou chat) en modifiant simplement certains paramètres de `collectionMeta` vos données.
+Lifefyre vous permet de modifier les collections d&#39;un type d&#39;application principal Livefyre vers un autre (commentaires, blog en direct ou chat) en modifiant simplement certains paramètres de `collectionMeta` vos données.
 
-Pour mettre en œuvre un type spécifique d'application, ajoutez un nouveau champ à `collectionMeta` votre objet. Les commentaires sont la valeur par défaut ; vous n'aurez donc pas à effectuer ces mises à jour si c'est votre application souhaitée. Pour passer à une autre application après la création d'une collection, transmettez une valeur de somme de contrôle lors de l'initialisation de l'application. En savoir plus sur la création d'une valeur de somme de contrôle dans la `collectionMeta` documentation de notre jeton.
+Pour mettre en œuvre un type spécifique d&#39;application, ajoutez un nouveau champ à `collectionMeta` votre objet. Les commentaires sont la valeur par défaut ; vous n&#39;aurez donc pas à effectuer ces mises à jour si c&#39;est votre application souhaitée. Pour passer à une autre application après la création d&#39;une collection, transmettez une valeur de somme de contrôle lors de l&#39;initialisation de l&#39;application. En savoir plus sur la création d&#39;une valeur de somme de contrôle dans la `collectionMeta` documentation de notre jeton.
 
 ## Blog en direct {#section_kvj_3jj_11b}
 

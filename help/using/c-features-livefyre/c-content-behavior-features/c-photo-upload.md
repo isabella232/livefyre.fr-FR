@@ -1,8 +1,6 @@
 ---
-description: Téléchargez des images dans un flux de type Blog en direct, Chat, Révision
-  ou Commentaires.
-seo-description: Téléchargez des images dans un flux de type Blog en direct, Chat,
-  Révision ou Commentaires.
+description: Téléchargez des images dans un flux de type Blog en direct, Chat, Révision ou Commentaires.
+seo-description: Téléchargez des images dans un flux de type Blog en direct, Chat, Révision ou Commentaires.
 seo-title: Chargement de photos
 solution: Experience Manager
 title: Chargement de photos
@@ -17,9 +15,9 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 Téléchargez des images dans un flux de type Blog en direct, Chat, Révision ou Commentaires.
 
-Les photos peuvent être téléchargées directement dans n'importe quelle application à partir de la bibliothèque de photos mobiles d'un utilisateur, du disque dur de l'ordinateur ou de comptes réseau sociaux.
+Les photos peuvent être téléchargées directement dans n&#39;importe quelle application à partir de la bibliothèque de photos mobiles d&#39;un utilisateur, du disque dur de l&#39;ordinateur ou de comptes réseau sociaux.
 
-Les Paramètres d'une collection ou d'un site permettent de définir si les utilisateurs peuvent télécharger des photos dans une application. Cette option peut être activée au niveau du réseau, du site ou de la collection. Les propriétaires et les modérateurs peuvent toujours télécharger des photos dans n'importe quelle application.
+Les Paramètres d&#39;une collection ou d&#39;un site permettent de définir si les utilisateurs peuvent télécharger des photos dans une application. Cette option peut être activée au niveau du réseau, du site ou de la collection. Les propriétaires et les modérateurs peuvent toujours télécharger des photos dans n&#39;importe quelle application.
 
 Cette fonction de chargement de photos peut être utilisée conjointement avec le paramètre « Prémodéré ».
 

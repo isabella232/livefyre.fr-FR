@@ -1,8 +1,6 @@
 ---
-description: Personnalisez le style et la manière dont les commentaires s'affichent
-  sur votre blog en direct.
-seo-description: Personnalisez le style et la manière dont les commentaires s'affichent
-  sur votre blog en direct.
+description: Personnalisez le style et la manière dont les commentaires s'affichent sur votre blog en direct.
+seo-description: Personnalisez le style et la manière dont les commentaires s'affichent sur votre blog en direct.
 seo-title: Personnalisations de blog en direct
 solution: Experience Manager
 title: Personnalisations de blog en direct
@@ -15,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Personnalisations de blog en direct{#live-blog-customizations}
 
-Personnalisez le style et la manière dont les commentaires s'affichent sur votre blog en direct.
+Personnalisez le style et la manière dont les commentaires s&#39;affichent sur votre blog en direct.
 
 
 
-Utilisez le blog en direct pour publier des mises à jour en temps réel des articles en cours, transformer votre site en une source d'actualités en direct attrayante.
+Utilisez le blog en direct pour publier des mises à jour en temps réel des articles en cours, transformer votre site en une source d&#39;actualités en direct attrayante.
 
 * **[!UICONTROL Number of comments to load]**
 
@@ -27,27 +25,27 @@ Utilisez le blog en direct pour publier des mises à jour en temps réel des art
 
 * **[!UICONTROL Comments appear in cards]**
 
-   Si cette option est activée, les publications s'affichent avec une zone environnante et la couleur d'arrière-plan dépend de la sélection **du thème** appliquée.
+   Si cette option est activée, les publications s&#39;affichent avec une zone environnante et la couleur d&#39;arrière-plan dépend de la sélection **du thème** appliquée.
 
 * **[!UICONTROL Nest levels for replies]**
 
-   Définit le nombre de niveaux d'imbrication affichés pour les réponses (2 ou 3).
+   Définit le nombre de niveaux d&#39;imbrication affichés pour les réponses (2 ou 3).
 
 * **[!UICONTROL Expand media]**
 
-   S'il est activé, les pièces jointes multimédia s'affichent en tant que médias entièrement développés dans le flux. Si cette option est désactivée, le support est affiché sous forme de liens uniquement.
+   S&#39;il est activé, les pièces jointes multimédia s&#39;affichent en tant que médias entièrement développés dans le flux. Si cette option est désactivée, le support est affiché sous forme de liens uniquement.
 
 * **[!UICONTROL Number of listeners]**
 
-   S'il est activé, le nombre d'utilisateurs actifs sur la page s'affiche.
+   S&#39;il est activé, le nombre d&#39;utilisateurs actifs sur la page s&#39;affiche.
 
 * **[!UICONTROL User tags]**
 
-   S'il est activé, les balises utilisateur s'affichent avec le contenu publié.
+   S&#39;il est activé, les balises utilisateur s&#39;affichent avec le contenu publié.
 
 * **[!UICONTROL User avatars]**
 
-   S'il est activé, les avatars des utilisateurs s'affichent avec le contenu publié.
+   S&#39;il est activé, les avatars des utilisateurs s&#39;affichent avec le contenu publié.
 
 * **[!UICONTROL Users can reply to posts]**
 
@@ -59,11 +57,11 @@ Utilisez le blog en direct pour publier des mises à jour en temps réel des art
 
 * **[!UICONTROL Users may share comments]**
 
-   Si cette option est activée, les utilisateurs peuvent partager du contenu publié sur Twitter, Facebook ou linkedin. Pour plus d'informations sur l'activation du partage, voir Paramètres > Paramètres d'intégration > Partage sur les réseaux sociaux.
+   Si cette option est activée, les utilisateurs peuvent partager du contenu publié sur Twitter, Facebook ou linkedin. Pour plus d&#39;informations sur l&#39;activation du partage, voir Paramètres &gt; Paramètres d&#39;intégration &gt; Partage sur les réseaux sociaux.
 
-Vous pouvez personnaliser le blog en direct à l'aide de :
+Vous pouvez personnaliser le blog en direct à l&#39;aide de :
 
-* **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]**la section. Voir Personnalisation des applications pour plus d'informations sur la norme **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]**la section.
+* **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]** la section. Voir Personnalisation des applications pour plus d&#39;informations sur la norme **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]** la section.
 
-* Outils d'intégration. Voir Blog en direct pour en savoir plus sur la personnalisation des applications à l'aide des outils d'intégration.
+* Outils d&#39;intégration. Voir Blog en direct pour en savoir plus sur la personnalisation des applications à l&#39;aide des outils d&#39;intégration.
 

@@ -19,9 +19,9 @@ Insérez des publicités dans votre flux de commentaires.
 
 Insérez des publicités dans votre flux de commentaires.
 
-La fonction Publicités Livefyre de commentaires permet d'insérer des publicités dans votre flux de commentaires, de définir la fréquence à laquelle les publicités apparaissent dans le flux et de créer des délégués d'injection asynchrones et asynchrones.
+La fonction Publicités Livefyre de commentaires permet d&#39;insérer des publicités dans votre flux de commentaires, de définir la fréquence à laquelle les publicités apparaissent dans le flux et de créer des délégués d&#39;injection asynchrones et asynchrones.
 
-Livefyre fournit le conteneur par lequel vous pouvez injecter une publicité à l'aide de votre fournisseur de solutions de gestion des publicités.
+Livefyre fournit le conteneur par lequel vous pouvez injecter une publicité à l&#39;aide de votre fournisseur de solutions de gestion des publicités.
 
 Pour insérer une publicité, transmettez deux valeurs Livefyre :
 
@@ -30,67 +30,67 @@ Pour insérer une publicité, transmettez deux valeurs Livefyre :
 
 >[!NOTE]
 >
->Les publicités ne seront rendues que lorsque le placement de la publicité se trouve dans la fenêtre d'affichage. Les publicités ne s'afficheront qu'après des commentaires parents (et non dans des threads) et les utilisateurs ne pourront pas commenter ces publicités. Cette API ne vous permet pas de spécifier la taille de l'élément dans lequel vos publicités seront placées.
+>Les publicités ne seront rendues que lorsque le placement de la publicité se trouve dans la fenêtre d&#39;affichage. Les publicités ne s&#39;afficheront qu&#39;après des commentaires parents (et non dans des threads) et les utilisateurs ne pourront pas commenter ces publicités. Cette API ne vous permet pas de spécifier la taille de l&#39;élément dans lequel vos publicités seront placées.
 
 ## Analytics{#concept_C99029E618EC49779E3117D2C303E4F1}
 
 Pour utiliser cette fonctionnalité, créez un élément div sur la page dans laquelle les publicités seront placées, puis transmettez le code HTML de votre fournisseur de publicités.
 
-Livefyre fournit deux types de placement publicitaire : synchrone et asynchrone. Les deux types ne chargent vos publicités que lorsque l'utilisateur fait défiler la page de telle sorte que sa position soit dans l'affichage. Vous devez également renvoyer un élément DOM (iframe ou div).
+Livefyre fournit deux types de placement publicitaire : synchrone et asynchrone. Les deux types ne chargent vos publicités que lorsque l&#39;utilisateur fait défiler la page de telle sorte que sa position soit dans l&#39;affichage. Vous devez également renvoyer un élément DOM (iframe ou div).
 
-Pour obtenir la publicité, les appels de méthode synchrones sont appelés dans un référentiel local, alors qu'appels asynchrones à un service externe.
+Pour obtenir la publicité, les appels de méthode synchrones sont appelés dans un référentiel local, alors qu&#39;appels asynchrones à un service externe.
 
 ### Synchrone
 
-Pour créer un placement synchrone, incluez la publicité dans le délégué et renvoyez l'élément publicitaire lui-même. La méthode synchrone appelle un référentiel local, ce qui vous permet de gérer votre propre génération de publicité.
+Pour créer un placement synchrone, incluez la publicité dans le délégué et renvoyez l&#39;élément publicitaire lui-même. La méthode synchrone appelle un référentiel local, ce qui vous permet de gérer votre propre génération de publicité.
 
 ### Asynchrone
 
-La méthode asynchrone requiert que l'élément soit inséré dans le DOM avant d'appeler le fournisseur d'annonces. Votre fournisseur détermine ensuite la publicité à envoyer et la renvoie.
+La méthode asynchrone requiert que l&#39;élément soit inséré dans le DOM avant d&#39;appeler le fournisseur d&#39;annonces. Votre fournisseur détermine ensuite la publicité à envoyer et la renvoie.
 
-Pour implémenter des publicités asynchrones, créez un délégué qui renvoie un élément dans lequel la publicité sera placée, ainsi qu'un rappel qui exécutera le placement de la publicité. L'élément renvoyé dans le délégué doit avoir un identifiant unique pour que la publicité cible. Le rappel insère la publicité dans l'élément fourni par l'ID unique.
+Pour implémenter des publicités asynchrones, créez un délégué qui renvoie un élément dans lequel la publicité sera placée, ainsi qu&#39;un rappel qui exécutera le placement de la publicité. L&#39;élément renvoyé dans le délégué doit avoir un identifiant unique pour que la publicité cible. Le rappel insère la publicité dans l&#39;élément fourni par l&#39;ID unique.
 
 >[!NOTE]
 >
->Selon votre fournisseur d'annonces, le rappel se comporte différemment.
+>Selon votre fournisseur d&#39;annonces, le rappel se comporte différemment.
 
-Lorsque la page se charge, les publicités dans les commentaires atteignent le délégué, injectent l'élément, puis appelle le rappel qui met à jour l'élément (précédemment défini) avec la publicité.
+Lorsque la page se charge, les publicités dans les commentaires atteignent le délégué, injectent l&#39;élément, puis appelle le rappel qui met à jour l&#39;élément (précédemment défini) avec la publicité.
 
 ## Paramètres {#concept_D7E27B0C21EF405C8EB826083DBB53EC}
 
 Les paramètres suivants peuvent être utilisés avec cet appel.
 
-Pour l'objet ad :
+Pour l&#39;objet ad :
 
-* **delay :****(facultatif) integer** : définit le nombre de commentaires après lesquels la première publicité s'affiche. La valeur par défaut est 10.
+* **delay :****(facultatif) integer** : définit le nombre de commentaires après lesquels la première publicité s&#39;affiche. La valeur par défaut est 10.
 * **fréquence : (facultatif) integer** : définit le nombre de commentaires après lesquels chaque publicité suivante sera affichée. Par exemple : Saisissez 2 pour afficher une publicité sous la forme de tous les trois commentaires. La valeur par défaut est 10.
 * **delegate :*****fonction requise*** - Fonction appelée pour insérer des publicités dans le flux Commentaires.
 
-L'objet délégué prend en charge les appels publicitaires asynchrones et asynchrones. Le paramètre attribué à la fonction déléguée, aux données, contiendra :
+L&#39;objet délégué prend en charge les appels publicitaires asynchrones et asynchrones. Le paramètre attribué à la fonction déléguée, aux données, contiendra :
 
 * **title :****string** - Titre de la collection.
 * **balises :****tableau** - Liste des balises associées à la collection.
-* **id :****chaîne** - Identifiant de l'article de la collection.
+* **id :****chaîne** - Identifiant de l&#39;article de la collection.
 * **url :****chaîne** - URL de la collection.
 * **Networkid :****string** - Identifiant réseau de la collection.
 * **Siteid :****int** - Identifiant de site de la collection.
 
-Ces éléments sont transmis par l'intermédiaire de l'objet convconfig dans notre exemple ; ils sont expliqués plus en détail dans la [section Prise en main](/help/implementation/c-app-integrations/c-comments-integration/c-comments-integration.md#section_656AAC97903F485084650269A6C7EBCE) .
+Ces éléments sont transmis par l&#39;intermédiaire de l&#39;objet convconfig dans notre exemple ; ils sont expliqués plus en détail dans la [section Prise en main](/help/implementation/c-app-integrations/c-comments-integration/c-comments-integration.md#section_656AAC97903F485084650269A6C7EBCE) .
 
 ### Synchrone
 
 Le délégué renvoie un objet contenant :
 
-* **element :*****élément* DOM requis** : élément contenant la publicité à insérer dans l'application.
+* **element :*****élément*DOM requis** : élément contenant la publicité à insérer dans l&#39;application.
 
 **Asynchrone**: Le délégué renvoie un objet contenant : Le délégué renvoie un objet contenant deux propriétés : élément et rappel :
 
-* **element :*****élément* DOM requis** : élément contenant la publicité à insérer dans l'application.
-* **rappel :*****fonction requise*** - Rappel qui traitera l'insertion de la publicité dans l'élément DOM ci-dessus.
+* **element :*****élément*DOM requis** : élément contenant la publicité à insérer dans l&#39;application.
+* **rappel :*****fonction requise*** - Rappel qui traitera l&#39;insertion de la publicité dans l&#39;élément DOM ci-dessus.
 
-Pour `Conv` l'objet, vous pouvez transmettre une chaîne pour représenter le titre de la section de publicité :
+Pour `Conv` l&#39;objet, vous pouvez transmettre une chaîne pour représenter le titre de la section de publicité :
 
-* **chaînes :****(facultatif)** - Utilisé pour personnaliser le texte d'en-tête de vos publicités. « Sponsorisé » par défaut.
+* **chaînes :****(facultatif)** - Utilisé pour personnaliser le texte d&#39;en-tête de vos publicités. « Sponsorisé » par défaut.
 
 ## Exemple synchrone {#concept_E733E4431D9948638B8102ADE398735F}
 
