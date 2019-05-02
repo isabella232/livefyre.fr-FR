@@ -3,7 +3,7 @@ product: livefyre
 audience: utilisateur final
 user-guide-title: Guide de l'utilisateur d'Experience Manager Livefyre
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
 
 ---
 
@@ -208,6 +208,7 @@ source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
    + [Configuration de Rights Management](c-how-requesting-rights-works/t-set-up-rights-management.md)
    + [Envoyer une demande de droits Twitter](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
    + [Envoyer une demande de droits Instagram partiellement automatisée](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
+   + [Envoi manuel des droits Instagram](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
    + [Afficher l&#39;historique des activités des droits](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Gestion du contenu avec des demandes de droits en attente à partir de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [Octroi manuel ou révocation des droits d&#39;un fichier à partir de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
@@ -251,6 +252,7 @@ source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
       + [FAQ sur la demande de confidentialité](c-settings-other/c-gdpr-compliance/c-privacy-request-faqs.md)
       + [Création d&#39;une demande de confidentialité](c-settings-other/c-gdpr-compliance/c-privacy-requests.md)
       + [Affichage d&#39;un rapport de confidentialité](c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md)
+      + [Userprivacyoptout](c-settings-other/c-gdpr-compliance/c-userprivacyoptout.md)
 + Notes de mise à jour {#release-notes}
    + [Dernières notes de mise à jour](c-rn/c-rn.md)
    + Notes de mise à jour 2019 {#rn2019}
