@@ -5,7 +5,7 @@ seo-title: Envoi manuel des droits Instagram
 title: Envoi manuel des droits Instagram
 uuid: c 07 b 3 f 6 f-c 14 c -4 e 62-b 18 b -25934 ebe 45 bf
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
 
 ---
 
@@ -18,7 +18,7 @@ Avant de pouvoir envoyer une demande de droits, vous devez :
 
 * Ajoutez un compte social Instagram. Pour plus d&#39;informations sur la configuration d&#39;un compte social, voir [Ajout d&#39;un compte Social](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md#t_configure_social_accout_instagram). Pour envoyer une demande de droits manuelle ou partiellement automatisée, vous devez configurer un compte d&#39;entreprise Instagram. Pour plus d&#39;informations sur les comptes Instagram, voir [A propos des comptes Instagram.](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)
 
-* Configuration de Rights Management. Pour plus d&#39;informations sur la configuration de la gestion des droits, voir [Demande de droits](../c-how-requesting-rights-works/c-how-requesting-rights-works.md#c_how_requesting_rights_works).
+* Configuration de Rights Management. Pour plus d&#39;informations sur la configuration de la gestion des droits, voir [Demande de droits](../c-how-requesting-rights-works/c-how-requesting-rights-works.md).
 
 Pour envoyer une demande de droits manuelle pour le contenu Instagram :
 
