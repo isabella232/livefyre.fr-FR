@@ -4,7 +4,7 @@ seo-description: Dernières notes de mise à jour pour Adobe Livefyre.
 seo-title: Dernières notes de mise à jour pour Adobe Livefyre
 title: Dernières notes de mise à jour pour Livefyre
 translation-type: tm+mt
-source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
+source-git-commit: 9500a4ac5d3cdaeb5909c06d406b006108d39fee
 
 ---
 
@@ -15,7 +15,7 @@ source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
 
 >[!NOTE]
 >
->Livefyre mettra fin à la prise en charge de TLS 1.1 (et versions antérieures) conformément aux normes Adobe Security Standards le 11 avril 2019. Veuillez contacter prioritysupport@livefyre.com si vous rencontrez des problèmes avec votre intégration. Veuillez consulter les notes de mise à jour suivantes pour connaître la date de l&#39;abandon HTTP final.
+>Livefyre désactivera le protocole HTTP (port 80) dans notre environnement Production le jeudi 23 mai. Les mises à jour de sécurité sont ainsi conformes aux normes de sécurité d&#39;Adobe. Veuillez contacter [prioritysupport@livefyre.com](mailto:prioritysupport@livefyre.com) si vous rencontrez des problèmes avec votre intégration.
 
 ## Améliorations
 
