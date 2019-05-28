@@ -5,7 +5,7 @@ seo-title: Prise en charge du périphérique et du navigateur
 title: Prise en charge du périphérique et du navigateur
 uuid: 338 f 78 b 2-051 d -4831-a 0 b 9-e 987 f 92660 ce
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: fc4a7e50b936211a6e7c338715b410e221f0b5f7
 
 ---
 
@@ -21,15 +21,15 @@ Livefyre prend en charge les périphériques, systèmes d&#39;exploitation et na
 | **Navigateurs de bureau** |  |  |  |  |
 | Chrome | ✓ | ✓ | ✓ | ✓ |
 | Edge | ✓ | ✓ | ✓ | ✓ |
-| IE 11 | ✓ | ✓ | ✓ | ✓ |
+| IE 11 | ✓ | ✓ | X | ✓ |
 | Firefox 14 + | ✓ | ✓ | ✓ | ✓ |
 | Safari 7. x | ✓ | ✓ | ✓ | ✓ |
 |  |  |  |  |  |
 | **Périphériques** |  |  |  |  |
-| Navigateur Android 2.3 + | Limité | Limité | N/O | Limité |
-| Google Chrome sur Android 4.1 + | Limité | Limité | N/O | Limité |
-| Versions antérieures d&#39;ios (iphone 4 S +/ipad 2 +) | Limité | Limité | N/O | Limité |
-| Version actuelle d&#39;ios (iphone 4 S +/ipad 2 +) | ✓ | ✓ | N/O | ✓ |
+| Navigateur Android 2.3 + | Limité | Limité | S.o. | Limité |
+| Google Chrome sur Android 4.1 + | Limité | Limité | S.o. | Limité |
+| Versions antérieures d&#39;ios (iphone 4 S +/ipad 2 +) | Limité | Limité | S.o. | Limité |
+| Version actuelle d&#39;ios (iphone 4 S +/ipad 2 +) | ✓ | ✓ | S.o. | ✓ |
 
 >[!NOTE]
 >
