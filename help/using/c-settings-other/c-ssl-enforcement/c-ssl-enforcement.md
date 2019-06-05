@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Application SSL
 uuid: e 64 af 8 c 2-3 ab 6-4034-b 385-0 e 552 d 828 c 6 e
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
 
 ---
 
@@ -19,7 +19,7 @@ Pour garantir que vos données restent sécurisées, nous abandonnons le HTTP en
 
 Cela peut avoir une incidence sur les clients Livefyre qui possèdent :
 
-* Appels serveur à serveur à partir de leur CRM, CMS, Wordpress ou d&#39;un autre client.
+* Appels serveur à serveur à partir de leur CRM, CMS, wordpress ou d&#39;un autre client.
 * Intégrations mobiles (applications Android et ios)
 * Applications personnalisées ou code personnalisé
 
@@ -27,7 +27,7 @@ Cela peut avoir une incidence sur les clients Livefyre qui possèdent :
 
 1. Tous les clients Livefyre doivent communiquer avec toutes les API via HTTPS pour tout le trafic, notamment :
 
-   * Server to Server Integrations (CRM, CMS, Wordpress, etc.)
+   * Server to Server Integrations (CRM, CMS, wordpress, etc.)
    * Intégrations mobiles (applications Android et ios)
    * Applications personnalisées (SDK Streamhub ou directement codées).
 
