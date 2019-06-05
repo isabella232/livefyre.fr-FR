@@ -6,14 +6,27 @@ solution: Experience Manager
 title: Annonces
 uuid: c 05963 db -4 d 96-494 e-bdb 3-da 3570 a 14 dfe
 translation-type: tm+mt
-source-git-commit: 2e2c1a018e5ec58a3649bc27679d53390ffcc8ca
+source-git-commit: df47087c69f2bdc8d97226d2013db80703f2e091
 
 ---
 
 
 # Annonces{#announcements}
 
-Annonces pour Livefyre et Livefyre Studio. Actuel à compter du 15 novembre 2018.
+Annonces pour Livefyre et Livefyre Studio. Actuel à compter du 5 juin 2019.
+
+## 5 juin 2019
+
+Bien que Facebook fournisse généralement un avis avancé de modifications chaque fois que cela est possible, il a décidé hier de désactiver l&#39;accès au contenu Facebook et Instagram dans Livefyre. En raison de cette modification, vous ne pouvez pas diffuser, rechercher ou partager du contenu Facebook ou Instagram. Nous nous excusons sincèrement de ne pas pouvoir vous fournir une tête de conduite sur cette modification.
+
+N&#39;oubliez pas qu&#39;il existe encore des moyens d&#39;accéder au contenu Facebook et Instagram pour le moment :
+
+* Le contenu déjà publié sur votre site Web n&#39;est pas concerné
+* Le contenu déjà présent dans le dossier Flux est toujours disponible pour utilisation
+
+Nous collaborons étroitement avec Facebook pour rétablir cette fonctionnalité et espérons bientôt une résolution. Merci, dites-moi si je peux répondre à n&#39;importe quelle question. Nous voulons étendre notre appréciation permanente à votre patience et votre partenariat.
+
+
 
 ## 15 novembre 2018 {#section_yx3_hnp_5fb}
 
@@ -31,7 +44,7 @@ Deux fonctions supplémentaires qui traitent des abandons de l&#39;API Instagram
 
 Nous sommes heureux de vous annoncer que la possibilité de rechercher du contenu vidéo dans Instagram a été rétablie.
 
-## 14 juin 2018 {#section_kk5_qpz_d2b}
+## 14 juin 2018 {#section_kk5_qpz_d2b}
 
 Veuillez lire les dernières mises à jour sur l&#39;état des fonctionnalités liées aux abandons de l&#39;API Instagram :
 
