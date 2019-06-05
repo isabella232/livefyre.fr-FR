@@ -5,7 +5,7 @@ seo-title: Avatars
 title: Avatars
 uuid: bf 20 f 3 bc -3 dcc -4 e 16-a 629-3380 d 1 a 7 a 3 f 2
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
 
 ---
 
@@ -29,15 +29,6 @@ Les avatars sont chargés de manière asynchrone dans Livefyre. Lorsqu&#39;un ut
 ## Gravatars {#section_mqh_p1f_wy}
 
 Livefyre prend en charge l&#39;utilisation de Gravatars. Si un utilisateur ne dispose pas d&#39;un avatar personnalisé dans le cadre de son profil utilisateur, Livefyre recherche un gravatar pour cet utilisateur. S&#39;il n&#39;existe aucune gravatar, l&#39;avatar par défaut est utilisé.
-
-Si les commentaires ont été incorporés à l&#39;aide du module externe Livefyre wordpress, la gravure de l&#39;utilisateur est utilisée si les conditions suivantes sont remplies :
-
-* La gravure a été activée dans le panneau d&#39;administration wordpress et
-* l&#39;utilisateur dispose d&#39;un compte Gravatar et
-* un avatar personnalisé n&#39;est pas fourni.
-
-Pour plus d&#39;informations, reportez-vous à la documentation wordpress Gravatar.
-
 
 
 Applications utilisant cette fonctionnalité :
