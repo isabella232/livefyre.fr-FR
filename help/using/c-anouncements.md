@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Annonces
 uuid: c 05963 db -4 d 96-494 e-bdb 3-da 3570 a 14 dfe
 translation-type: tm+mt
-source-git-commit: 8624bacfaf584f305e6bbfc444653d179fdd34dc
+source-git-commit: 1319d79718960b112f7c711b5afabfa04dc2a5c0
 
 ---
 
@@ -14,6 +14,18 @@ source-git-commit: 8624bacfaf584f305e6bbfc444653d179fdd34dc
 # Annonces{#announcements}
 
 Annonces pour Livefyre et Livefyre Studio. Actuel à compter du 5 juin 2019.
+
+## 7 juin 2019
+
+Nous sommes heureux de signaler que les flux Instagram et la recherche ont été restaurés dans Livefyre. Vous pouvez reprendre l&#39;utilisation de la recherche social pour le contenu Instagram et reprendre la diffusion en flux continu du contenu Instagram en dossiers et applications. Pour relancer le contenu en flux continu, procédez comme suit :
+* Connexion à Livefyre
+* Paramètres de visite pour réautoriser et actualiser les jetons d&#39;accès liés à votre compte d&#39;entreprise Instagram
+* Attendre une à deux heures pour que le contenu démarre à nouveau en flux continu
+* Assistance pour les contacts Si vous rencontrez des problèmes
+
+Les flux Facebook n&#39;ont pas encore été restaurés, mais nous travaillons toujours activement avec Facebook pour rétablir cette fonctionnalité et vous mettrons à jour dès que nous en aurons connaissance.
+
+Merci d&#39;avoir continué à patienter avec cette interruption inattendue de service.
 
 ## 5 juin 2019
 
