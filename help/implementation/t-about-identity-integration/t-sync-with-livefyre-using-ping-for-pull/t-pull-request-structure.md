@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Extraire la structure de demande
 uuid: bf 6 b 9 e 45-d 08 a -48 e 6-acc 6-e 4 fa 56428 d 25
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: cf447db2cb3498fcb01b511848faeee4d1e48481
 
 ---
 
@@ -40,4 +40,3 @@ où `lftoken` est un jeton Web JSON signé avec votre clé réseau. **[!UICONTRO
    * Si `lftoken` le paramètre est absent ou échoue, n&#39;autorisez pas votre point de fin à répondre aux informations de profil. Répondez plutôt à un code d&#39;état 403 (Interdit) et sans corps de réponse.
 
 1. `userAuthToken` est générée par la méthode Livefyre `buildUserAuthToken` pour l&#39;utilisateur, avec user - id « system ». Cet utilisateur est le premier utilisateur créé pour chaque nouveau réseau.
-1. Pour tester votre page, utilisez le [test Ping pour pull](https://livefyre-p4p-wizard.herokuapp.com/home) pour vérifier que tout fonctionne comme prévu.
