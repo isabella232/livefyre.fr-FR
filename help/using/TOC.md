@@ -1,23 +1,23 @@
 ---
 product: livefyre
-audience: utilisateur final
+audience: end-user
 user-guide-title: Guide de l'utilisateur d'Experience Manager Livefyre
 translation-type: tm+mt
-source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
+source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
 
 ---
 
 
-# Guide de l&#39;utilisateur d&#39;Experience Manager Livefyre {#using}
+# Experience Manager Livefyre User Guide {#using}
 
 + [Aide Livefyre](home.md)
 + [Annonces](c-anouncements.md)
 + [Accéder aux vidéos de formation](c-access-training-videos.md)
 + [A propos de Livefyre](c-product.md)
-+ Applications {#apps}
++ Apps {#apps}
    + [Applications](c-about-apps/c-about-apps.md)
    + [Création d&#39;une application](c-about-apps/c-create-an-app.md)
-   + Carrousel {#carousel}
+   + Carousel {#carousel}
       + [Carrousel](c-about-apps/c-carousel-app/c-carousel-app.md)
       + [Fonctionnalités du carrousel](c-about-apps/c-carousel-app/r-carousel-features.md)
       + [Personnalisation d&#39;un carrousel avec Studio](c-about-apps/c-carousel-app/t-customize-carousel-studio.md)
@@ -26,26 +26,26 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [Chat](c-about-apps/c-chat-app/c-chat-app.md)
       + [Fonctions de messagerie instantanée](c-about-apps/c-chat-app/r-chat-features.md)
       + [Personnalisations de conversation](c-about-apps/c-chat-app/r-customize-chat.md)
-   + Commentaires {#comments}
+   + Comments {#comments}
       + [Commentaires](c-about-apps/c-comments/c-comments.md)
       + [Fonctionnalités des commentaires](c-about-apps/c-comments/r-comments-features.md)
       + [Personnalisations des commentaires](c-about-apps/c-comments/r-comments-customizations.md)
-   + Carte de fonctionnalités {#featurecard}
+   + Feature Card {#featurecard}
       + [Carte de fonctionnalités](c-about-apps/c-feature-card-app/c-feature-card-app.md)
       + [Personnalisations de carte de fonctionnalités](c-about-apps/c-feature-card-app/r-feature-card-customizations.md)
-   + Film fixe {#filmstrip}
+   + Filmstrip {#filmstrip}
       + [Film fixe](c-about-apps/c-filmstrip-app/c-filmstrip-app.md)
       + [Fonctionnalités du film fixe](c-about-apps/c-filmstrip-app/c-filmstrip-features.md)
       + [Personnalisations du film fixe](c-about-apps/c-filmstrip-app/c-filmstrip-customizations.md)
-   + Blog en direct {#liveblog}
+   + Live Blog {#liveblog}
       + [Blog en direct](c-about-apps/c-liveblog-app/c-liveblog-app.md)
       + [Fonctionnalités du blog en direct](c-about-apps/c-liveblog-app/r-live-blog-features.md)
       + [Personnalisations de blog en direct](c-about-apps/c-liveblog-app/r-live-blog-customizations.md)
-   + Carte {#map}
+   + Map {#map}
       + [Carte](c-about-apps/c-map-app/c-map-app.md)
       + [Fonctionnalités de carte](c-about-apps/c-map-app/r-map-features.md)
       + [Personnalisation des personnalisations](c-about-apps/c-map-app/r-map-customizations.md)
-   + Mur multimédia {#mediawall}
+   + Media Wall {#mediawall}
       + [Mur multimédia](c-about-apps/c-media-wall-app/c-media-wall-app.md)
       + [Fonctionnalités du mur multimédia](c-about-apps/c-media-wall-app/r-media-wall-features.md)
       + [Personnalisations du mur multimédia](c-about-apps/c-media-wall-app/r-media-wall-customizations.md)
@@ -53,16 +53,16 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [Mosaic](c-about-apps/c-mosaic-app/c-mosaic-app.md)
       + [Fonctionnalités de Mosaic](c-about-apps/c-mosaic-app/r-mosaic-features.md)
       + [Personnalisations de Mosaic](c-about-apps/c-mosaic-app/c-mosaic-customizations.md)
-   + Sondages {#polls}
+   + Polls {#polls}
       + [Sondages](c-about-apps/c-polls-app/c-polls-app.md)
       + [Ajout d&#39;un sondage à une application de commentaires ou de blog en direct](c-about-apps/c-polls-app/t-integrate-poll-site.md)
       + [Ajout d&#39;images à un sondage](c-about-apps/c-polls-app/t-add-images-to-a-poll.md)
       + [Personnalisations des sondages](c-about-apps/c-polls-app/r-polls-customizations.md)
-   + Révisions {#reviews}
+   + Reviews {#reviews}
       + [Révisions](c-about-apps/c-reviews-app/c-reviews-app.md)
       + [Création d&#39;une application de révision](c-about-apps/c-reviews-app/c-creating-reviews.md)
       + [Publication d&#39;une révision](c-about-apps/c-reviews-app/t-using-reviews.md)
-   + Commentaires de sidenotes {#sidenotes}
+   + Sidenotes {#sidenotes}
       + [Commentaires de sidenotes](c-about-apps/c-sidenotes-app/c-sidenotes-app.md)
       + [Fonctionnalités des tableaux de bord](c-about-apps/c-sidenotes-app/r-sidenotes-features.md)
       + [Personnalisations des balises](c-about-apps/c-sidenotes-app/r-sidenotes-customizations.md)
@@ -81,7 +81,7 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [Utilisation de plusieurs éditeurs sur le même article](c-about-apps/c-storify2/t-working-with-multiple-editors-on-same-story.md)
       + [Utiliser les flux pour ajouter du contenu social à votre récit](c-about-apps/c-storify2/t-use-streams-to-add-social-content.md)
       + [Epingler une publication à Storify 2](c-about-apps/c-storify2/t-pin-posts-to-storify2.md)
-      + Guide de navigation {#navigation-guide}
+      + Navigation Guide {#navigation-guide}
          + [Guide de navigation](c-about-apps/c-storify2/c-navigation-guide.md)
          + [Ajout d&#39;un guide de navigation à un Storify 2](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
          + [Ajout d&#39;un titre au Guide de navigation](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
@@ -89,7 +89,7 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
          + [Définition du nombre de publications dans le Guide de navigation](c-about-apps/c-storify2/t-set-the-number-of-posts-nav-guide.md)
          + [Rendre le guide de navigation attractif](c-about-apps/c-storify2/t-make-nav-guide-sticky.md)
          + [Déplacement du Guide de navigation](c-about-apps/c-storify2/t-move-navigation-guide.md)
-   + Tendances {#trending}
+   + Trending {#trending}
       + [Tendances](c-about-apps/c-trending-app/c-trending-app.md)
       + [Fonctionnalités de tendances](c-about-apps/c-trending-app/r-trending-features.md)
       + [Personnalisations des tendances](c-about-apps/c-trending-app/r-trending-customizations.md)
@@ -97,15 +97,15 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [Bouton Télécharger](c-about-apps/c-upload-button-app/c-upload-button-app.md)
       + [Personnalisations des boutons de téléchargement](c-about-apps/c-upload-button-app/r-upload-button-customizations.md)
       + [Chaînes de texte du bouton Télécharger](c-about-apps/c-upload-button-app/c-upload-button-text-strings.md)
-+ Fonctionnalités de l&#39;application {#app-features}
++ App Features {#app-features}
    + [Fonctionnalités d&#39;accessibilité](c-features-livefyre/c-accessibility-features.md)
    + [Fonctions d&#39;authentification](c-features-livefyre/c-authentication.md)
    + [Bouton Appel à l&#39;action personnalisé](c-features-livefyre/c-call-to-action-button.md)
-   + Fonctions du comportement du contenu {#content-behavior-features}
+   + Content Behavior Features {#content-behavior-features}
       + [Fonctions du comportement du contenu](c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md)
       + [Chargement de photos](c-features-livefyre/c-content-behavior-features/c-photo-upload.md)
       + [Publications utilisateur](c-features-livefyre/c-content-behavior-features/c-user-posts.md)
-   + Balises de collection et de contenu {#collection-content-tags}
+   + Collection and Content Tags {#collection-content-tags}
       + [Balises de collection et de contenu](c-features-livefyre/c-content-collection-tags/c-content-collection-tags.md)
       + [Modifier la collection](c-features-livefyre/c-content-collection-tags/c-change-collection.md)
       + [Filtrage de la recherche par collection ou par balise de contenu](c-features-livefyre/c-content-collection-tags/t-filter-search-by-tag.md)
@@ -117,7 +117,7 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [Sélectionner le contenu à présenter dans une application](c-features-livefyre/c-content-collection-tags/t-select-content-to-feature.md)
       + [Activer la présentation du contenu dans Studio](c-features-livefyre/c-content-collection-tags/t-enable-featuring-content-in-studio.md)
       + [Permalinks](c-features-livefyre/c-content-collection-tags/c-permalinks.md)
-   + Code HTML personnalisé {#custom-html}
+   + Custom HTML {#custom-html}
       + [Code HTML personnalisé](c-features-livefyre/c-custom-html/c-custom-html.md)
       + [Incorporer le code HTML personnalisé dans les commentaires](c-features-livefyre/c-custom-html/t-embed-custom-html.md)
       + [Incorporer des sondages dans les commentaires](c-features-livefyre/c-custom-html/t-embed-polls-in-comments.md)
@@ -125,7 +125,7 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
    + [Fonctions d&#39;administration](c-features-livefyre/c-enagement-features.md)
    + [Nombre d&#39;écouteurs](c-features-livefyre/c-listener-count.md)
    + [Fonctionnalités diverses](c-features-livefyre/c-miscellaneous-features.md)
-   + Modération et filtrage {#moderation-filtering}
+   + Moderation and Filtering {#moderation-filtering}
       + [Définition - Modération consécutive](c-features-livefyre/c-about-moderation/c-setting-up-moderation.md)
       + [Restreindre le contenu des utilisateurs Twitter](c-features-livefyre/c-about-moderation/t-moderate-streams.md)
       + [Interdiction des adresses IP](c-features-livefyre/c-about-moderation/t-set-up-bans.md)
@@ -137,23 +137,23 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [Modérer le contenu d&#39;un flux](c-features-livefyre/c-about-moderation/c-moderate-inline.md)
       + [Modérer le contenu à l&#39;aide du contenu de l&#39;application](c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md)
       + [Règles SAFE](c-features-livefyre/c-about-moderation/c-moderation.md)
-   + Fonctionnalités de notifications {#notifications-features}
+   + Notifications Features {#notifications-features}
       + [Notification de commentaire](c-features-livefyre/c-notifications-features/c-comment-notifier.md)
       + [Notifications électroniques](c-features-livefyre/c-notifications-features/c-email-notifications.md)
       + [Configuration du courrier électronique réseau](c-features-livefyre/c-notifications-features/t-set-up-network-email.md)
    + [Fonctions de contribution sur site](c-features-livefyre/c-on-site-contribution-features.md)
    + [Suivi des références](c-features-livefyre/c-referral-tracking.md)
-   + Balises dynamiques {#smart-tags}
+   + Smart Tags {#smart-tags}
       + [Balises dynamiques](c-features-livefyre/c-smart-tags/c-smart-tags.md)
       + [Affichage des balises dynamiques](c-features-livefyre/c-smart-tags/c-view-smart-tags.md)
-   + Partage sur les réseaux sociaux {#social-sharing}
+   + Social Sharing {#social-sharing}
       + [Partage sur les réseaux sociaux](c-features-livefyre/c-social-sharing/c-social-sharing.md)
       + [Définition - Partage sur les réseaux sociaux](c-features-livefyre/c-social-sharing/c-setting-up-social-sharing.md)
-   + Tri des fonctions {#sort-features}
+   + Sort Features {#sort-features}
       + [Tri des fonctions](c-features-livefyre/c-sort-features-composite/c-sort-features-composite.md)
       + [Principaux commentaires](c-features-livefyre/c-sort-features-composite/c-top-comments.md)
       + [Threads logiciels](c-features-livefyre/c-sort-features-composite/c-hot-threads.md)
-   + Fonctionnalités de style {#styling-features}
+   + Styling Features {#styling-features}
       + [Fonctionnalités de style](c-features-livefyre/c-styling-features/c-styling-features.md)
       + [Style CSS et marque](c-features-livefyre/c-styling-features/c-css-styling-branding.md)
       + [Date et horodatage](c-features-livefyre/c-styling-features/c-date-and-timestamp.md)
@@ -166,7 +166,7 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
    + [Commerce UGC](c-features-livefyre/c-ugc-commerce.md)
    + [Traiter et afficher UGC](c-features-livefyre/curate-display-ugc.md)
    + [Filtrage UGC par - ID du produit](c-features-livefyre/filter-ugc-product-id.md)
-+ Bibliothèque {#library}
++ Library {#library}
    + Assets {#assets}
       + [Assets](c-library/c-assets/c-assets.md)
       + [Création de dossiers de fichiers](c-library/c-assets/t-create-folders.md)
@@ -187,7 +187,7 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
    + [Utiliser Adobe Experience Manager Livefyre avec Hootsuite](c-library/c-hootsuite-livefyre.md)
    + [Utilisation d&#39;Adobe Experience Manager Livefyre avec Adobe Target](c-library/livefyre-target.md)
    + [Utilisation d&#39;Adobe Launch Livefyre Extension](c-library/launch-extension.md)
-+ Flux {#streams}
++ Streams {#streams}
    + [Flux](c-streams/c-streams.md)
    + [Créer un flux](c-streams/t-create-a-new-stream.md)
    + [Ajout de règles pour votre flux](c-streams/t-add-rules-for-your-stream.md)
@@ -202,7 +202,7 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
    + [Règles Twitter](c-streams/c-twitter-rules.md)
    + [Limitation et fréquence des tweets](c-streams/c-throttling-and-frequency-of-tweets.md)
    + [Règles YouTube](c-streams/c-youtube-rules/c-youtube-rules.md)
-+ Requêtes de droits {#rights-requests}
++ Rights Requests {#rights-requests}
    + [Demande de droits](c-how-requesting-rights-works/c-how-requesting-rights-works.md)
    + [Gestion des requêtes de droits](c-how-requesting-rights-works/c-managing-rights-requests.md)
    + [Configuration de Rights Management](c-how-requesting-rights-works/t-set-up-rights-management.md)
@@ -212,7 +212,7 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
    + [Afficher l&#39;historique des activités des droits](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Gestion du contenu avec des demandes de droits en attente à partir de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [Octroi manuel ou révocation des droits d&#39;un fichier à partir de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
-+ Utilisateurs : Gestion des utilisateurs du réseau Studio et Livefyre {#users-managing}
++ Users: Managing Studio and Livefyre Network Users {#users-managing}
    + [Utilisateurs : Gestion des utilisateurs du réseau Studio et Livefyre](c-users/c-users.md)
    + [Rechercher des utilisateurs](c-users/t-search-for-users.md)
    + [Affichage des détails du compte](c-users/c-viewing-account-details.md)
@@ -221,21 +221,21 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
    + [Lier les comptes d&#39;utilisateurs](c-users/t-link-user-accounts.md)
    + [Utilisateurs permutés](c-users/c-users-switching-networks.md)
    + [Synchronisation des utilisateurs](c-users/t-set-up-user-sync.md)
-+ Utilisateurs : Création de comptes utilisateur {#users-creating-accounts}
++ Users: Creating User Accounts {#users-creating-accounts}
    + [Utilisateurs : Création de comptes utilisateur](c-users-creating-accounts-with-studio-access/c-users-creating-accounts-with-studio-access.md)
    + [Invitation d&#39;un utilisateur à créer un compte Studio](c-users-creating-accounts-with-studio-access/t-invite-a-user-to-create-a-studio-account.md)
    + [Acceptation d&#39;une invitation à créer un compte Studio](c-users-creating-accounts-with-studio-access/t-accept-an-invitation-to-create-a-studio-account.md)
    + [Connectez-vous à Studio](c-users-creating-accounts-with-studio-access/t-log-into-studio.md)
    + [Gérer les permissions Studio pour les utilisateurs](c-users-creating-accounts-with-studio-access/t-manage-studio-permissions-for-users.md)
    + [Rôles utilisateur et autorisations](c-users-creating-accounts-with-studio-access/c-user-types.md)
-   + Ajout d&#39;un compte Social {#add-social-account}
+   + Add a Social Account {#add-social-account}
       + [Ajout d&#39;un compte Social](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
       + [A propos des comptes Instagram](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
       + [Actualisation d&#39;un jeton pour un compte Social](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
-+ Paramètres : Autre {#settings-other}
++ Settings: Other {#settings-other}
    + [Configurer les informations d&#39;identification](c-settings-other/t-set-up-credentials.md)
    + [Ajout d&#39;un site à un réseau](c-settings-other/t-add-a-site.md)
-   + Visionneuses de traduction {#translation-sets}
+   + Translation Sets {#translation-sets}
       + [Visionneuses de traduction](c-settings-other/c-translation-sets/c-translation-sets.md)
       + [Création et modification des visionneuses de traduction](c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
       + [Application d&#39;un jeu de traduction à un réseau](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-network.md)
@@ -244,10 +244,10 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [Localiser les chaînes](c-settings-other/c-translation-sets/c-localize-strings.md)
       + [Révision des chaînes de texte](c-settings-other/c-translation-sets/c-review-text-strings.md)
       + [Chaînes de texte avec lettres](c-settings-other/c-translation-sets/c-sidenotes-text-strings.md)
-   + Application SSL {#ssl-enforcement}
+   + SSL Enforcement {#ssl-enforcement}
       + [Application SSL](c-settings-other/c-ssl-enforcement/c-ssl-enforcement.md)
       + [Liste de contrôle SSL](c-settings-other/c-ssl-enforcement/c-ssl-checklist.md)
-   + Demandes de confidentialité {#privacy-requests}
+   + Privacy Requests {#privacy-requests}
       + [Demandes de confidentialité (GDPR-Ready)](c-settings-other/c-gdpr-compliance/c-gdpr-compliance.md)
       + [FAQ sur la demande de confidentialité](c-settings-other/c-gdpr-compliance/c-privacy-request-faqs.md)
       + [Création d&#39;une demande de confidentialité](c-settings-other/c-gdpr-compliance/c-privacy-requests.md)
@@ -255,13 +255,14 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [Userprivacyoptout](c-settings-other/c-gdpr-compliance/c-userprivacyoptout.md)
 + Notes de mise à jour {#release-notes}
    + [Dernières notes de mise à jour](c-rn/c-rn.md)
-   + Notes de mise à jour 2019 {#rn2019}
+   + Release Notes 2019 {#rn2019}
+      + [21 mars 2019](c-rn/previous-rns/rn2019/c-rn-2019-march-21.md)
       + [14 mars 2019](c-rn/previous-rns/rn2019/c-rn-2019-march-14.md)
       + [21 février 2019](c-rn/previous-rns/rn2019/c-rn-2019-february-21.md)
       + [7 février 2019](c-rn/previous-rns/rn2019/c-rn-2019-february-7.md)
       + [31 janvier 2019](c-rn/previous-rns/rn2019/c-rn-2019-january-31.md)
       + [17 janvier 2019](c-rn/previous-rns/rn2019/c-rn-2019-january-17.md)
-   + Notes de mise à jour 2018 {#rn2018}
+   + Release Notes 2018 {#rn2018}
       + [18 décembre 2018](c-rn/previous-rns/rn2018/c-rn-2018-december-18.md)
       + [13 décembre 2018](c-rn/previous-rns/rn2018/c-rn-2018-december-13.md)
       + [15 novembre 2018](c-rn/previous-rns/rn2018/c-rn-2018-november-15.md)
@@ -271,10 +272,10 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [6 septembre 2018](c-rn/previous-rns/rn2018/c-rn-2018-september-6.md)
       + [23 août 2018](c-rn/previous-rns/rn2018/c-rn-2018-august-23.md)
       + [9 août 2018](c-rn/previous-rns/rn2018/c-rn-2018-august-9.md)
-      + [14 juin 2018](c-rn/previous-rns/rn2018/c-rn-2018-june-14.md)
-      + [24 mai 2018](c-rn/previous-rns/rn2018/c-rn-2018-may-24.md)
+      + [14 juin 2018](c-rn/previous-rns/rn2018/c-rn-2018-june-14.md)
+      + [jeudi 24 mai 2018](c-rn/previous-rns/rn2018/c-rn-2018-may-24.md)
       + [17 mai 2018](c-rn/previous-rns/rn2018/c-rn-2018-may-17.md)
-      + [10 mai 2018](c-rn/previous-rns/rn2018/c-rn2018-may-10.md)
+      + [10 mai 2018 ](c-rn/previous-rns/rn2018/c-rn2018-may-10.md)
       + [26 avril 2018](c-rn/previous-rns/rn2018/c-rn-2018-april-26.md)
       + [12 avril 2018](c-rn/previous-rns/rn2018/c-rn-2018-april-12.md)
       + [23 mars 2018](c-rn/previous-rns/rn2018/c-rn-2018-march-23.md)
@@ -282,11 +283,11 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [15 février 2018](c-rn/previous-rns/rn2018/c-rn-2018-february-15.md)
       + [1 février 2018](c-rn/previous-rns/rn2018/c-2018-february-1.md)
       + [18 janvier 2018](c-rn/previous-rns/rn2018/c-rn-2018-january-18.md)
-   + Notes de mise à jour 2017 {#rn2017}
+   + Release Notes 2017 {#rn2017}
       + [16 novembre 2017](c-rn/previous-rns/rn2017/c-rn-2017-november-16.md)
       + [2 novembre 2017](c-rn/previous-rns/rn2017/c-rn-2017-november-2.md)
-      + [19 octobre 2017](c-rn/previous-rns/rn2017/c-rn-2017-october-19.md)
-      + [5 octobre 2017](c-rn/previous-rns/rn2017/c-rn-2017-october-5.md)
+      + [19 octobre 2017](c-rn/previous-rns/rn2017/c-rn-2017-october-19.md)
+      + [5 octobre 2017](c-rn/previous-rns/rn2017/c-rn-2017-october-5.md)
       + [28 septembre 2017](c-rn/previous-rns/rn2017/c-rn-2017-september-28.md)
       + [21 septembre 2017](c-rn/previous-rns/rn2017/2017-september-21.md)
       + [14 septembre 2017](c-rn/previous-rns/rn2017/c-2017-september-14.md)
@@ -298,7 +299,7 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
       + [29 juin 2017](c-rn/previous-rns/rn2017/c-rn-2017-june-29.md)
       + [15 juin 2017](c-rn/previous-rns/rn2017/c-rn-2017-june-15.md)
       + [1 er juin 2017](c-rn/previous-rns/rn2017/c-rn-2017-june-1.md)
-      + [18 mai 2017](c-rn/previous-rns/rn2017/c-rn-2017-may-18.md)
+      + [18 mai 2017](c-rn/previous-rns/rn2017/c-rn-2017-may-18.md)
       + [27 avril 2017](c-rn/previous-rns/rn2017/c-rn-2017-april-27.md)
       + [13 avril 2017](c-rn/previous-rns/rn2017/c-rn-2017-april-13.md)
       + [30 mars 2017](c-rn/previous-rns/rn2017/c-rn-2017-march-30.md)
