@@ -3,32 +3,32 @@ product: livefyre
 audience: utilisateur final
 user-guide-title: Guide d'implémentation d'Experience Manager Livefyre
 translation-type: tm+mt
-source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
+source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
 
 ---
 
 
-# Guide d&#39;implémentation d&#39;Experience Manager Livefyre {#implementation}
+# Guide d'implémentation d'Experience Manager Livefyre {#implementation}
 
 + [Guide de mise en œuvre Livefyre](home.md)
 + Prise en main {#getting-started}
-   + [Prise en main de l&#39;intégration Livefyre](c-getting-started/c-getting-started.md)
+   + [Prise en main de l'intégration Livefyre](c-getting-started/c-getting-started.md)
    + Processus de mise en œuvre {#implementation-process}
       + [Processus de mise en œuvre](c-getting-started/c-implementation-process/c-implementation-process.md)
-      + [Types d&#39;intégration de l&#39;application](c-getting-started/c-implementation-process/c-app-integration-types.md)
-      + [Implémentation de l&#39;application](c-getting-started/designer-app-implementation.md)
+      + [Types d'intégration de l'application](c-getting-started/c-implementation-process/c-app-integration-types.md)
+      + [Implémentation de l'application](c-getting-started/designer-app-implementation.md)
       + [Implémentation de Livefyre avec intégration tiers](c-app-integrations/implement-livefyre-3rd-party.md)
       + [Architecture](c-getting-started/c-implementation-process/c-architecture.md)
-      + [Incorporation d&#39;une application](c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
-      + [Ajout d&#39;une authentification à une application à l&#39;aide de Livefyre. js](c-getting-started/c-implementation-process/c-add-authetication-to-an-app-using-livefyre.js.md)
+      + [Incorporation d'une application](c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+      + [Ajout d'une authentification à une application à l'aide de Livefyre. js](c-getting-started/c-implementation-process/c-add-authetication-to-an-app-using-livefyre.js.md)
       + [Création de jetons côté serveur](c-getting-started/c-implementation-process/c-build-server-side-tokens.md)
       + [Collectionmeta Token](c-getting-started/c-implementation-process/c-collectionmeta-tokent.md)
       + [Jeton authentique utilisateur](c-getting-started/c-implementation-process/c-user-auth-token.md)
-      + [Création d&#39;une collection à l&#39;aide du jeton collectionmeta](t-create-a-collectionmeta-token.md)
-      + [Création d&#39;une somme de contrôle](c-creating-a-checksum.md)
-+ Intégration d&#39;identité {#identity-integration}
-   + [Intégration d&#39;identité](t-about-identity-integration/t-about-identity-integration.md)
-   + [Package d&#39;authentification](t-about-identity-integration/c-authorization-package.md)
+      + [Création d'une collection à l'aide du jeton collectionmeta](t-create-a-collectionmeta-token.md)
+      + [Création d'une somme de contrôle](c-creating-a-checksum.md)
++ Intégration d'identité {#identity-integration}
+   + [Intégration d'identité](t-about-identity-integration/t-about-identity-integration.md)
+   + [Package d'authentification](t-about-identity-integration/c-authorization-package.md)
    + [Authdelegate Object](t-about-identity-integration/c-building-an-auth-delegate.md)
    + [Publication des permissions utilisateur sur systèmes externes (facultatif)](t-about-identity-integration/c-posting-user-permissions-to-external-systems.md)
    + Mise en œuvre de la fonction SSO {#implementing-sso}
@@ -43,15 +43,15 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
       + [Créer le ping pour réponse pull](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/c-build-the-ping-for-pull-response.md)
 + Identité Livefyre {#livefyre-identity}
    + [Identité Livefyre](c-livefyre-identity-comp/c-livefyre-identity-comp.md)
-   + [Activer l&#39;identité Livefyre](c-livefyre-identity-comp/t-enable-livefyre-identity.md)
+   + [Activer l'identité Livefyre](c-livefyre-identity-comp/t-enable-livefyre-identity.md)
    + Utilisation des applications sociales avec Livefyre Identité {#use-social-apps-with-livefyre-identity}
       + [Création de vos applications sociales](c-livefyre-identity-comp/t-create-your-social-apps.md)
-      + [Création d&#39;une application Facebook à utiliser avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-facebook-app-for-use-with-livefyre-identity.md)
-      + [Création d&#39;une application Twitter pour une utilisation avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-twitter-app-for-use-with-livefyre-identity.md)
-      + [Création d&#39;un Application à utiliser avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-yahoo-app-for-use-with-livefyre-identity.md)
-      + [Création d&#39;une application d&#39;identité Microsoft Live pour une utilisation avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-microsoft-live-id-app-for-use-with-livefyre-identity.md)
-      + [Création d&#39;une application linkedin pour une utilisation avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-linkedin-app-for-use-with-livefyre-identity.md)
-      + [Création d&#39;une application d&#39;identité github pour une utilisation avec Livefyre Identité](c-livefyre-identity-comp/c-create-a-github-identity.md)
+      + [Création d'une application Facebook à utiliser avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-facebook-app-for-use-with-livefyre-identity.md)
+      + [Création d'une application Twitter pour une utilisation avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-twitter-app-for-use-with-livefyre-identity.md)
+      + [Création d'un Application à utiliser avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-yahoo-app-for-use-with-livefyre-identity.md)
+      + [Création d'une application d'identité Microsoft Live pour une utilisation avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-microsoft-live-id-app-for-use-with-livefyre-identity.md)
+      + [Création d'une application linkedin pour une utilisation avec Livefyre Identité](c-livefyre-identity-comp/t-create-a-linkedin-app-for-use-with-livefyre-identity.md)
+      + [Création d'une application d'identité github pour une utilisation avec Livefyre Identité](c-livefyre-identity-comp/c-create-a-github-identity.md)
       + [Utilisation de Studio pour connecter vos applications Adobe Social à votre implémentation Livefyre](c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md)
    + [Ajouter Livefyre. js à la page](c-livefyre-identity-comp/t-add-livefyre.js-to-the-page.md)
    + [Initialisation de Livefyre Identity](c-livefyre-identity-comp/t-initialize-livefyre-identity.md)
@@ -95,17 +95,16 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
       + [SDK Android](c-mobile-sdks/c-android-sdk.md)
 + [Livefyre. js](c-livefyre.js.md)
 + [Création de jetons Livefyre C #](c-creating-livefyre-tokens-c-.md)
-+ Intégrations d&#39;applications {#app-integrations}
++ Intégrations d'applications {#app-integrations}
    + [Chat](c-app-integrations/c-app-integratios-chat.md)
    + Commentaires {#comments}
       + [Commentaires](c-app-integrations/c-comments-integration/c-comments-integration.md)
-      + [Publicités dans les commentaires](c-app-integrations/c-comments-integration/c-ads-in-comments-integration.md)
    + [Blog en direct](c-app-integrations/c-live-blog-integration.md)
    + [Révisions](c-app-integrations/c-reviews-integration.md)
    + Commentaires de sidenotes {#sidenotes}
       + [Intégration des balises](c-app-integrations/c-sidenotes-integration/r-sidenotes-integration.md)
       + [Ajout de lignes annexes à une page](c-app-integrations/c-sidenotes-integration/r-adding-sidenotes-to-a-page.md)
-      + [Consignation des événements d&#39;application](c-app-integrations/c-sidenotes-integration/r-app-events.md)
+      + [Consignation des événements d'application](c-app-integrations/c-sidenotes-integration/r-app-events.md)
       + [Options de configuration des tableaux annexes](c-app-integrations/c-sidenotes-integration/r-configuration-options.md)
       + [Numéros personnalisés des styles personnalisés](c-app-integrations/c-sidenotes-integration/r-custom-styles.md)
       + [Chaînes personnalisées avec indicateur](c-app-integrations/c-sidenotes-integration/r-custom-strings.md)
@@ -113,19 +112,19 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
       + [Méthode updateanchors](c-app-integrations/c-sidenotes-integration/update-anchors-method.md)
    + [Carte](c-app-integrations/c-map-integration.md)
    + [Mur multimédia](c-app-integrations/c-media-wall-integration.md)
-   + [Tendances](c-app-integrations/c-trending-integration.md)
-+ Personnalisations de l&#39;application {#app-customizations}
-   + [Personnalisations de l&#39;application](c-app-customizations/c-app-customizations.md)
-   + [Modifier les options d&#39;affichage](c-app-customizations/c-change-display-options.md)
+   + [Suivi des tendances](c-app-integrations/c-trending-integration.md)
++ Personnalisations de l'application {#app-customizations}
+   + [Personnalisations de l'application](c-app-customizations/c-app-customizations.md)
+   + [Modifier les options d'affichage](c-app-customizations/c-change-display-options.md)
    + [Classes CSS](c-app-customizations/c-css-classes.md)
    + [Storify CSS Classes](c-app-customizations/c-storify-css-classes.md)
    + [Visionneuses de traduction](c-app-customizations/c-translation-sets.md)
    + [Déplacer le logo Livefyre](c-app-customizations/c-move-the-livefyre-logo.md)
    + [Restreindre le support](c-app-customizations/c-restrict-media.md)
-   + [Masquer les éléments d&#39;application](c-app-customizations/c-hide-app-elements.md)
+   + [Masquer les éléments d'application](c-app-customizations/c-hide-app-elements.md)
    + [Modifier l’icône de @mention](c-app-customizations/c-change-mention-icon.md)
    + [Mettre en surbrillance le contenu](c-app-customizations/c-highlight-content.md)
-   + [Personnalisation de la date et de l&#39;heure](c-app-customizations/c-date-time-stamp.md)
+   + [Personnalisation de la date et de l'heure](c-app-customizations/c-date-time-stamp.md)
    + Contenu des fonctionnalités {#feature-content}
       + [Contenu des fonctionnalités](c-app-customizations/t-feature-content.md)
       + [Activer la présentation du contenu dans Studio](c-app-customizations/t-enable-featuring-content-in-studio.md)
@@ -133,37 +132,37 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
       + [Sélectionner le contenu à présenter dans Studio](c-app-customizations/t-select-content-to-feature-from-studio.md)
       + [Utiliser CSS pour mettre en forme le contenu incitatif](c-app-customizations/c-use-css-to-style-featured-content.md)
       + [API de fonctionnalités](c-app-customizations/c-feature-apis.md)
-   + [Connexion de Janrain à Livefyre à l&#39;aide de authdelegate](c-app-customizations/c-connecting-janrain-to-livefyre-using-authdelegate.md)
-   + [Contenu incitatif agrégé à l&#39;aide des API présentées](c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md)
+   + [Connexion de Janrain à Livefyre à l'aide de authdelegate](c-app-customizations/c-connecting-janrain-to-livefyre-using-authdelegate.md)
+   + [Contenu incitatif agrégé à l'aide des API présentées](c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md)
    + Contenu du style {#style-content}
-      + [Contenu du groupe d&#39;utilisateurs Style](c-app-customizations/c-style-user-group-content.md)
-      + [Ajout d&#39;utilisateurs aux groupes](c-app-customizations/c-adding-users-to-groups.md)
+      + [Contenu du groupe d'utilisateurs Style](c-app-customizations/c-style-user-group-content.md)
+      + [Ajout d'utilisateurs aux groupes](c-app-customizations/c-adding-users-to-groups.md)
    + Appliquer des styles personnalisés {#apply-custom-styles}
       + [Application de styles personnalisés](c-app-customizations/c-applying-custom-styles-.md)
       + [Ajout de boutons personnalisés](c-app-customizations/t-add-custom-buttons.md)
    + Événements javascript {#javascript-events}
-      + [Définitions et exemples d&#39;événements JavaScript](c-app-customizations/c-javascript-events.md)
+      + [Définitions et exemples d'événements JavaScript](c-app-customizations/c-javascript-events.md)
       + [Événements javascript pour les applications de visualisation](c-app-customizations/c-javascript-events-for-visualization-apps.md)
       + [Événements javascript pour le mur multimédia](c-app-customizations/c-javascript-events-media-wall.md)
       + [Événements javascript pour les applications de conversation](c-app-customizations/c-javascript-events-for-conversation-apps.md)
-   + [Incorporation d&#39;une application de commentaires](c-app-customizations/c-embed-a-comments-app.md)
+   + [Incorporation d'une application de commentaires](c-app-customizations/c-embed-a-comments-app.md)
    + [Suivi des références](c-app-customizations/c-referral-tracking.md)
    + [Prise en charge du périphérique et du navigateur](c-app-customizations/c-device-and-browser-support.md)
-   + [Exigences d&#39;affichage Twitter](c-app-customizations/c-twitter-display-requirements.md)
+   + [Exigences d'affichage Twitter](c-app-customizations/c-twitter-display-requirements.md)
 + [Stratégie de test de contraintes](c-stress-test-policy.md)
 + Analytics {#analytics}
-   + [Analytics](livefyre-analytics/livefyre-analytics.md)
+   +  [Analytics](livefyre-analytics/livefyre-analytics.md)
    + [Utiliser Livefyre avec Adobe Analytics et Dynamic Tag Manager (DTM)](livefyre-analytics/c-use-livefyre-with-adobe-analytics.md)
-   + [Utiliser Livefyre avec d&#39;autres outils Analytics](livefyre-analytics/c-livefyre-analytics.md)
+   + [Utiliser Livefyre avec d'autres outils Analytics](livefyre-analytics/c-livefyre-analytics.md)
    + [Événements Livefyre Analytics](livefyre-analytics/c-livefyre-analytics-events.md)
 + [Intégration de Livefyre avec AEM](c-livefyre-aem-integration.md)
 + Rubriques avancées {#advanced-topics}
    + [Afficher le nombre de commentaires](c-advanced-topics/t-display-comment-count.md)
    + [Activation du partage sur les réseaux sociaux](c-advanced-topics/c-enabling-social-sharing.md)
-   + [Flux d&#39;activités](c-advanced-topics/c-activity-stream.md)
-   + [Code HTML d&#39;amorçage](c-advanced-topics/c-bootstrap-html.md)
+   + [Flux d'activités](c-advanced-topics/c-activity-stream.md)
+   + [Code HTML d'amorçage](c-advanced-topics/c-bootstrap-html.md)
    + [Modifier la collection](c-advanced-topics/c-change-collection.md)
    + [Collections multiples](c-advanced-topics/c-multiple-collections.md)
-   + [Basculer les types d&#39;application principaux](c-advanced-topics/c-switch-core-app-types.md)
+   + [Basculer les types d'application principaux](c-advanced-topics/c-switch-core-app-types.md)
    + [Compteur social](c-advanced-topics/c-social-counter.md)
-   + [Utilisation d&#39;un bootsrap et d&#39;API de diffusion en continu avec les applications Livefyre](c-advanced-topics/bootstrap-stream-api.md)
+   + [Utilisation d'un bootsrap et d'API de diffusion en continu avec les applications Livefyre](c-advanced-topics/bootstrap-stream-api.md)
