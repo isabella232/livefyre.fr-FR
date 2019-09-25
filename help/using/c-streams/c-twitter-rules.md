@@ -1,10 +1,10 @@
 ---
-description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu depuis Twitter.
-seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu depuis Twitter.
+description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu de Twitter.
+seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu de Twitter.
 seo-title: Règles Twitter
 solution: Experience Manager
 title: Règles Twitter
-uuid: a 7 fd 2398-fd 6 b -4 c 24-92 b 2-7471176 d 7648
+uuid: a7fd2398-fd6b-4c24-92b2-7471176d7648
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
@@ -13,49 +13,49 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 # Règles Twitter{#twitter-rules}
 
-Vous pouvez créer des règles de diffusion en continu qui extraient le contenu depuis Twitter.
+Vous pouvez créer des règles de diffusion en continu qui extraient le contenu de Twitter.
 
-Créez des règles Twitter basées sur des hashtags, mots-clés, @ mentions ou auteur.
+Créez des règles Twitter basées sur des hashtags, mots-clés, @mentions ou auteur.
 
-Ajouter **[!UICONTROL Words]** et a **[!UICONTROL Username]** pour votre règle renverra le contenu qui inclut les deux entrées.
+L’ajout **[!UICONTROL Words]** et un **[!UICONTROL Username]** pour votre règle renverront le contenu qui inclut les deux entrées.
 
 >[!NOTE]
 >
->Livefyre adhère aux directives d&#39;affichage Twitter et les clients sont chargés de respecter ces directives. Pour plus d&#39;informations, consultez la documentation de Twitter sur les exigences [d&#39;affichage](https://dev.twitter.com/terms/display-requirements).
+>Livefyre adhère aux directives d'affichage de Twitter, et les clients sont également responsables de respecter ces directives. Pour plus d’informations, reportez-vous à la documentation de Twitter sur leurs conditions d’ [affichage](https://dev.twitter.com/terms/display-requirements).
 
-Pour créer des règles Twitter pour extraire du contenu des flux Twitter vers votre application ou votre dossier, vous pouvez filtrer par :
+Pour créer des règles Twitter afin d’extraire du contenu des flux Twitter dans votre application ou dossier, vous pouvez filtrer par :
 
 * **[!UICONTROL Keywords]**
-   * Saisissez à **[!UICONTROL Keywords]** inclure ou à exclure de votre flux Twitter. La spécification des valeurs pour les **[!UICONTROL Contains any of these words]****[!UICONTROL Does not contain any of these words]** deux champs renvoie les tweets qui contiennent la première et ne contient pas la seconde. Il est possible de saisir plusieurs valeurs pour un champ unique et renvoie des résultats qui contiennent l&#39;une des valeurs. Pour utiliser l&#39;opérateur booléen ET pour rechercher des tweets avec deux mots ou plus, utilisez deux esperluettes (*&amp; &amp;*) pour séparer les deux mots.
-   * Par exemple, la saisie **[!UICONTROL Contains any of these words]** de mots-clés Giants, Posey et **[!UICONTROL Does not contain any of these words]** Dodger renvoie tous les tweets qui incluent le mot *Giants* ou *Posey* et n&#39;incluent pas le mot *Dodger*.
-Pour rechercher des tweets qui comprennent les termes *Giants* et *Posey*, saisissez « Giants &amp; &amp; Posey ». Cette fonctionnalité est prise en charge uniquement pour **[!UICONTROL Contains any of these words]** les **[!UICONTROL Does not contain any of these words]** champs et les champs des règles Twitter.
+   * Entrez **[!UICONTROL Keywords]** pour être inclus ou exclu de votre flux Twitter. Si vous spécifiez des valeurs pour les champs **[!UICONTROL Contains any of these words]** et **[!UICONTROL Does not contain any of these words]** les champs, les tweets qui contiennent le premier tweet seront renvoyés et ne contiennent pas le second. Vous pouvez entrer plusieurs valeurs pour un seul champ et renvoyer les résultats qui contiennent l’une des valeurs. Pour utiliser l’opérateur booléen ET pour rechercher des tweets contenant deux mots ou plus, utilisez deux esperluettes (*&amp;&amp;*) pour séparer les deux mots.
+   * Par exemple, la saisie de **[!UICONTROL Contains any of these words]** mots-clés Giants, Posey et **[!UICONTROL Does not contain any of these words]** Dodger renvoie tous les tweets qui contiennent le mot *Giants* ou *Posey* et ne contiennent pas le mot *Dodger.*
+Pour rechercher des tweets qui contiennent à la fois les mots *Giants* et *Posey*, saisissez "Giants &amp;&amp; Posey". Cette fonctionnalité est prise en charge uniquement pour les champs **[!UICONTROL Contains any of these words]** et **[!UICONTROL Does not contain any of these words]** les champs des règles Twitter.
 
 * **[!UICONTROL Hashtags]**.
-   * Saisissez à **[!UICONTROL Hashtags]** inclure ou à exclure de votre flux Twitter. La spécification des valeurs pour les **[!UICONTROL Contains any of these words]** deux **[!UICONTROL Does not contain any of these words]** champs renvoie les tweets qui contiennent des hashtags dans le premier champ et ne contient pas de hashtags dans le second champ. Vous pouvez saisir plusieurs valeurs pour un champ unique. Le flux renvoie les résultats qui contiennent l&#39;une des valeurs.
+   * Entrez **[!UICONTROL Hashtags]** pour être inclus ou exclu de votre flux Twitter. Si vous spécifiez des valeurs pour les champs **[!UICONTROL Contains any of these words]** et **[!UICONTROL Does not contain any of these words]** les champs, les tweets qui contiennent des hashtags dans le premier champ seront renvoyés et ne contiennent pas de hashtags dans le deuxième champ. Vous pouvez saisir plusieurs valeurs pour un seul champ. Le flux renvoie des résultats qui contiennent l’une des valeurs.
 
 * **[!UICONTROL Usernames]**
-   * Entrez **[!UICONTROL @mentions]** ou **[!UICONTROL authors]** appuyez sur le flux ou excluez du flux. Utilisez les cases à cocher pour définir si **[!UICONTROL Retweets]****[!UICONTROL replies]** les auteurs sélectionnés doivent également être inclus.
+   * Entrez **[!UICONTROL @mentions]** ou **[!UICONTROL authors]** extrayez dans le flux, ou excluez-le du flux. Utilisez les cases à cocher pour définir si les auteurs sélectionnés **[!UICONTROL Retweets]** ou **[!UICONTROL replies]** doivent également être inclus.
    >[!NOTE]
    >
-   >Vous pouvez inclure ou exclure des auteurs ; vous ne pouvez pas combiner ces deux champs dans une seule règle Twitter.
+   >Vous pouvez inclure ou exclure des auteurs ; vous ne pouvez pas combiner ces deux champs en une seule règle Twitter.
 
-* **[!UICONTROL Minimum number of followers.]** Sélectionnez le nombre minimum d&#39;abonnés dont l&#39;utilisateur doit extraire les informations à partir de ses publications.
+* **[!UICONTROL Minimum number of followers.]** Sélectionnez le nombre minimum d’abonnés que l’utilisateur doit obligatoirement extraire des informations de ses publications.
 * **[!UICONTROL Location]**
 
-   * Saisissez l&#39;emplacement (ville, zipcode, adresse ou geocode) dans le format de latitude/longitude commun (+/- 90, +/- 180)). Commencez à saisir un emplacement pour afficher un menu déroulant avec des suggestions. Sélectionnez un emplacement dans la liste déroulante. La carte affiche un coin de cet emplacement. Ajustez le curseur pour sélectionner un rayon d&#39;un kilomètre à 25 miles pour chaque emplacement. Si vous ne choisissez pas un rayon, Livefyre sélectionne automatiquement une valeur par défaut de huit miles.
+   * Entrez l’emplacement (ville, code postal, adresse ou code géographique au format de latitude/longitude commun (+/- 90, +/- 180) ). Commencez à saisir un emplacement pour afficher un menu déroulant contenant des suggestions. Sélectionnez un emplacement dans la liste déroulante. La carte affiche une épingle de cet emplacement. Réglez le curseur pour sélectionner un rayon d'un mille à 25 milles pour chaque emplacement. Si vous ne choisissez pas de rayon, Livefyre choisit automatiquement une valeur par défaut de 12 km.
    >[!NOTE]
    >
-   >Pour les deux champs, la distance est calculée à partir du centre de l&#39;emplacement d&#39;entrée.
+   >Pour les deux champs, la distance est calculée à partir du centre de l’emplacement d’entrée.
 
-   * Vous pouvez ajouter plusieurs emplacements et rayon. Vous pouvez supprimer un emplacement en cliquant sur le X en regard du nom d&#39;un emplacement dans la zone.
-   * Combinez les **[!UICONTROL Is near this location]** champs et **[!UICONTROL Is not near this location]** les champs pour extraire du contenu dans des emplacements dans **[!UICONTROL Is near this location]** le champ, mais pas à proximité des emplacements dans **[!UICONTROL Is not near this location]** le champ.
+   * Vous pouvez ajouter plusieurs emplacements et un rayon. Vous pouvez supprimer un emplacement en cliquant sur le X en regard du nom d’un emplacement dans la zone.
+   * Combinez les champs **[!UICONTROL Is near this location]** et **[!UICONTROL Is not near this location]** pour extraire le contenu dans les emplacements du **[!UICONTROL Is near this location]** champ, mais pas près des emplacements du **[!UICONTROL Is not near this location]** champ.
 
 
 * **[!UICONTROL Additional Filters]**
-   * Utilisez des filtres supplémentaires pour affiner davantage votre règle Twitter. Définissez si vous procédez comme suit :
-      * Inclure **[!UICONTROL Replies]** les tweets ciblés (si le flux devient une vitesse élevée, cette fonction est automatiquement désactivée).
-      * Inclure les tweets à partir de **[!UICONTROL Verified Twitter accounts only.]**
-      * Inclure **[!UICONTROL All Content]**, ou **[!UICONTROL Vines Only]** ou **[!UICONTROL Images Only.]**
-      * Incluez uniquement les tweets provenant de comptes dont la valeur est sélectionnée **[!UICONTROL Minimum number of followers]** (n&#39;importe lequel, 100, 500, 1000, 10 000 ou 100 000).
+   * Utilisez d’autres filtres pour affiner davantage votre règle Twitter. Indiquez si vous souhaitez :
+      * Inclure **[!UICONTROL Replies]** les tweets ciblés (si le flux devient à grande vitesse, cette fonction est automatiquement désactivée.)
+      * Inclure les tweets de **[!UICONTROL Verified Twitter accounts only.]**
+      * Inclure **[!UICONTROL All Content]**, ou **[!UICONTROL Vines Only]**, ou **[!UICONTROL Images Only.]**
+      * N’incluez que les tweets qui proviennent de comptes avec les utilisateurs sélectionnés **[!UICONTROL Minimum number of followers]** (n’importe quel, 100, 500, 1 000, 10 000 ou 100 000).
 
-Pour obtenir des options de règle de diffusion en continu pour toutes les règles de diffusion en continu, voir [Options de règle de diffusion en continu pour toutes les règles de diffusion en continu](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
+Pour obtenir des options de règle de diffusion en continu supplémentaires pour toutes les règles de diffusion en continu, voir Options de règle de [diffusion en continu pour toutes les règles](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de diffusion en continu.
