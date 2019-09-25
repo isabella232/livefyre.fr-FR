@@ -1,22 +1,22 @@
 ---
-description: Vous pouvez sélectionner le contenu à présenter depuis Studio au lieu d'une application.
-seo-description: Vous pouvez sélectionner le contenu à présenter depuis Studio au lieu d'une application.
-seo-title: Sélectionner le contenu à présenter dans Studio
+description: Vous pouvez sélectionner le contenu à utiliser dans Studio au lieu d’une application.
+seo-description: Vous pouvez sélectionner le contenu à utiliser dans Studio au lieu d’une application.
+seo-title: Sélectionner le contenu à utiliser depuis Studio
 solution: Experience Manager
-title: Sélectionner le contenu à présenter dans Studio
-uuid: 50 cb 620 c-ef 45-4 ccb -829 f-f 5 b 2 e 3 c 521 dd
+title: Sélectionner le contenu à utiliser depuis Studio
+uuid: 50cb620c-ef45-4ccb-829f-f5b2e3c521dd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Sélectionner le contenu à présenter dans Studio{#select-content-to-feature-from-studio}
+# Sélectionner le contenu à utiliser depuis Studio{#select-content-to-feature-from-studio}
 
-Vous pouvez sélectionner le contenu à présenter depuis Studio au lieu d&#39;une application.
+Vous pouvez sélectionner le contenu à utiliser dans Studio au lieu d’une application.
 
-1. Depuis Studio, cliquez sur **[!UICONTROL +]** le signe en regard d&#39;un élément de contenu.
-1. Sélectionnez **[!UICONTROL Featured]** la balise dans la liste déroulante.
-1. Cliquez sur **[!UICONTROL Enter]** Pour présenter l&#39;élément de contenu.
+1. Dans Studio, cliquez sur le **[!UICONTROL +]** signe en regard d’un élément de contenu.
+1. Sélectionnez la **[!UICONTROL Featured]** balise dans la liste déroulante.
+1. Cliquez sur **[!UICONTROL Enter]** pour présenter le contenu.
 
-   La balise sera enregistrée et affichée à côté de l&#39;élément de contenu. 1. Pour arrêter de présenter un élément de contenu, cliquez sur la **[!UICONTROL x]****[!UICONTROL Featured]** balise affichée sur l&#39;élément de contenu.
+   La balise sera enregistrée et affichée à côté de l’élément de contenu. 1. Pour arrêter d’afficher un élément de contenu, cliquez sur la **[!UICONTROL x]** balise **[!UICONTROL Featured]** qui s’affiche sur l’élément de contenu.
