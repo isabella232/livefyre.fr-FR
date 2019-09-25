@@ -1,10 +1,10 @@
 ---
-description: Créez un objet réseau.
-seo-description: Créez un objet réseau.
+description: Créez un objet Network.
+seo-description: Créez un objet Network.
 seo-title: Méthodes de classe réseau
 solution: Experience Manager
 title: Méthodes de classe réseau
-uuid: 4130 beda-dd 09-49 ae-aafb-f 6 b 956 e 30 b 51
+uuid: 4130beda-dd09-49ae-aafb-f6b956e30b51
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,18 +13,18 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Méthodes de classe réseau{#network-class-methods}
 
-Créez un objet réseau.
+Créez un objet Network.
 
-Lorsque vous créez un objet réseau, le reste de la page suppose que vous avez un objet réseau instancié dans votre session.
+Une fois que vous avez créé un objet réseau, le reste de la page suppose que vous avez un objet réseau instancié dans votre session.
 
 ## Objet réseau
 
 | Paramètre | Type | Description |
 |---|---|---|
-| *`network`* | Chaîne | Votre réseau Livefyre. Par exemple : « `labs.fyre.co` ». |
-| *`networkKey`* | Chaîne | Clé secrète fournie pour le réseau. |
+| *`network`* | Chaîne | Votre réseau Livefyre. For example: “`labs.fyre.co`”. |
+| *`networkKey`* | Chaîne | La clé secrète fournie par Livefyre pour le réseau. |
 
-## Java {#section_myk_dzs_kbb}
+## Java {#section_myk_dzs_kbb}
 
 ```
 import com.livefyre.Livefyre; 
@@ -32,7 +32,7 @@ import com.livefyre.Livefyre;
 Network network = Livefyre.getNetwork(network, networkKey); 
 ```
 
-## Nodejs {#section_nyk_dzs_kbb}
+## NodeJS {#section_nyk_dzs_kbb}
 
 ```
 var livefyre = require('livefyre'); 
