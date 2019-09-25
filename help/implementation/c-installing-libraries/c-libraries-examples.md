@@ -1,10 +1,10 @@
 ---
-description: Voici quelques exemples d'utilisation des bibliothèques.
-seo-description: Voici quelques exemples d'utilisation des bibliothèques.
+description: Exemples d’utilisation des bibliothèques.
+seo-description: Exemples d’utilisation des bibliothèques.
 seo-title: Exemples
 solution: Experience Manager
 title: Exemples
-uuid: 94 e 38 dab -6234-43 a 2-a 840-13 a 87 f 0237 f 1
+uuid: 94e38dab-6234-43a2-a840-13a87f0237f1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,7 +13,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Exemples{#examples}
 
-Voici quelques exemples d&#39;utilisation des bibliothèques.
+Exemples d’utilisation des bibliothèques.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
@@ -103,7 +103,7 @@ public static void main(String...args) {
 }
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 var Livefyre = require('./lib/livefyre');
