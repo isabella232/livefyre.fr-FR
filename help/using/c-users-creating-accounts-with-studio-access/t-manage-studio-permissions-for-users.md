@@ -1,23 +1,23 @@
 ---
-description: Modifiez l'autorisation de différents niveaux d'utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
-seo-description: Modifiez l'autorisation de différents niveaux d'utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
-seo-title: Gérer les permissions Studio pour les utilisateurs
+description: Modifiez les autorisations de différents niveaux d’utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
+seo-description: Modifiez les autorisations de différents niveaux d’utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
+seo-title: Gestion des autorisations Studio pour les utilisateurs
 solution: Experience Manager
-title: Gérer les permissions Studio pour les utilisateurs
-uuid: 15 c 395 c 8-a 9 bb -4 b 0 b -9586-61 ac 36810730
+title: Gestion des autorisations Studio pour les utilisateurs
+uuid: 15c395c8-a9bb-4b0b-9586-61ac36810730
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Gérer les permissions Studio pour les utilisateurs{#manage-studio-permissions-for-users}
+# Gestion des autorisations Studio pour les utilisateurs{#manage-studio-permissions-for-users}
 
-Modifiez l&#39;autorisation de différents niveaux d&#39;utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
+Modifiez les autorisations de différents niveaux d’utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
 
-Les administrateurs Studio et les gestionnaires de studio peuvent afficher et modifier un autre rôle attribué par l&#39;utilisateur Studio.
+Les administrateurs de Studio et les responsables de Studio peuvent afficher et modifier les rôles attribués à un autre utilisateur de Studio.
 
-Les gestionnaires d&#39;utilisateurs peuvent afficher et gérer les comptes de fin - utilisateur (visiteur du site).
+Les gestionnaires d’utilisateurs peuvent afficher et gérer les comptes des utilisateurs finaux (visiteurs du site).
 
-1. Cliquez sur **[!UICONTROL Studio Access]** l&#39;onglet pour afficher et gérer les autorisations de l&#39;utilisateur.
+1. Cliquez sur l’ **[!UICONTROL Studio Access]** onglet pour afficher et gérer les autorisations Studio de l’utilisateur.
 1. Sélectionnez ou désélectionnez les options répertoriées pour modifier les rôles affectés.
