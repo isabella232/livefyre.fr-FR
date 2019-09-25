@@ -1,23 +1,23 @@
 ---
-description: Renvoie un objet Collection instancié comme type de comptage. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
-seo-description: Renvoie un objet Collection instancié comme type de comptage. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
-seo-title: Méthode du site buildcountingcollection
-title: Méthode du site buildcountingcollection
-uuid: e 293 d 66 a -0025-4230-997 e -295 ce 4625713
+description: Renvoie un objet Collection instancié sous forme de type Comptage. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+seo-description: Renvoie un objet Collection instancié sous forme de type Comptage. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+seo-title: buildCountingCollection, méthode du site
+title: buildCountingCollection, méthode du site
+uuid: e293d66a-0025-4230-997e-295ce4625713
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode du site buildcountingcollection{#buildcountingcollection-site-method}
+# buildCountingCollection, méthode du site{#buildcountingcollection-site-method}
 
-Renvoie un objet Collection instancié comme type de comptage. Exécutez create_ or_ update () à partir de l&#39;objet Collection pour terminer le processus de création.
+Renvoie un objet Collection instancié sous forme de type Comptage. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| titre | Chaîne | Titre de la collection. |
-| Articleid | Chaîne | Identifiant d&#39;article unique choisi pour identifier une collection sur votre site. |
+| title | Chaîne | Titre de la collection. |
+| articleId | Chaîne | ID d’article unique que vous avez choisi d’identifier une collection sur votre site. |
 | url | Chaîne | URL absolue canonique pour cette collection. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
@@ -26,7 +26,7 @@ Renvoie un objet Collection instancié comme type de comptage. Exécutez create_
 Collection collection = site.buildCountingCollection(title, articleId, url); 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildCountingCollection(title, articleId, url); 
