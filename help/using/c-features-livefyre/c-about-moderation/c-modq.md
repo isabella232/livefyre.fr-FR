@@ -1,171 +1,171 @@
 ---
-description: Modérez le contenu à partir d'une interface intelligente et intelligente.
-seo-description: Modérez le contenu à partir d'une interface intelligente et intelligente.
-seo-title: Modérer le contenu à l'aide de modq
-title: Modérer le contenu à l'aide de modq
-uuid: c 630 fb 85-7 bd 0-4 da 0-ac 7 e -080 e 970 fb 4 f 9
+description: Modérez le contenu à partir d’une interface unique et intelligente.
+seo-description: Modérez le contenu à partir d’une interface unique et intelligente.
+seo-title: Modération du contenu à l’aide de ModQ
+title: Modération du contenu à l’aide de ModQ
+uuid: c630fb85-7bd0-4da0-ac7e-080e970fb4f9
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 
 
-# Modérer le contenu à l&#39;aide de modq{#moderate-content-using-modq}
+# Modération du contenu à l’aide de ModQ{#moderate-content-using-modq}
 
-Modérez le contenu à partir d&#39;une interface intelligente et intelligente.
+Modérez le contenu à partir d’une interface unique et intelligente.
 
-Modq crée une file d&#39;attente en temps réel de tout le contenu sur votre site ou réseau correspondant aux règles de prémodération que vous avez définies, ce qui permet à vos modérateurs de se concentrer uniquement sur le contenu qui requiert leur attention.
+ModQ crée une file d’attente en temps réel de tout le contenu de votre site ou réseau qui correspond aux règles de prémodération que vous avez définies, ce qui permet aux modérateurs de se concentrer uniquement sur le contenu qui nécessite leur attention.
 
-Une fois que vous avez défini les paramètres modq, le nouveau contenu entrant dans le flux ou le contenu existant marqué par vos utilisateurs sera ajouté à votre file d&#39;attente. Les modifications apportées à vos règles ne supprimeront pas le contenu de modq, mais ajouteront du nouveau contenu à la file d&#39;attente selon vos nouveaux paramètres.
+Une fois que vous avez défini les paramètres ModQ, le nouveau contenu entrant dans le flux ou le contenu existant marqué par vos utilisateurs est ajouté à votre file d’attente. Les modifications apportées à vos règles ne supprimeront pas le contenu du ModQ, mais ajouteront un nouveau contenu à la file d’attente en fonction de vos nouveaux paramètres.
 
-Modq vous permet de :
+ModQ vous permet de :
 
-* Modérez en contexte, affichez les threads entiers et Approuver, Corbeille ou Bozo, soit individuellement, soit en un seul clic.
-* Augmentez la vitesse et l&#39;efficacité de votre flux de travail.
-* Répondre au contenu, ce qui accroît votre implication dans votre communauté.
-* Permettre à plusieurs modérateurs de travailler dans le contenu sans en dupliquer chacun - le travail d&#39;autres utilisateurs.
+* Modérez en contexte, affichez des threads entiers et Approuvez, Corbeille ou Bozo en un seul clic ou en un seul morceau de contenu.
+* Augmentez la vitesse et l’efficacité de votre flux de travail.
+* Répondez au contenu et augmentez votre implication dans votre communauté.
+* Permettre à plusieurs modérateurs de travailler sur le contenu, sans dupliquer le travail de chacun.
 
-Le contenu Livefyre est répertorié dans modq pendant 6 semaines au maximum et le contenu prémodéré qui n&#39;a pas été corrigé est répertorié dans modq pendant 90 jours.
+Le contenu Livefyre est répertorié dans ModQ pendant 6 semaines au maximum et le contenu prémodéré en flux continu qui n’a pas été traité est répertorié dans ModQ pendant 90 jours.
 
 >[!NOTE]
 >
->Un seul élément de contenu peut être répertorié plusieurs fois s&#39;il correspond à plusieurs règles pour inclusion dans modq. Par exemple, si un élément de contenu déclenche une règle d&#39;indicateur d&#39;utilisateur pour Offensif, puis déclenche ultérieurement une autre règle pour Profane, elle est répertoriée à deux reprises dans modq.
+>Un seul élément de contenu peut être répertorié plusieurs fois s’il correspond à plusieurs règles à inclure dans ModQ. Par exemple, si un élément de contenu déclenche une règle d’indicateur d’utilisateur pour Offensive, puis déclenche une autre règle pour Profane, elle est répertoriée deux fois dans ModQ.
 
-Le contenu qui ne s&#39;affiche pas dans modq inclut :
+Le contenu qui ne s’affiche pas dans ModQ comprend :
 
-* Contenu coupé.
+* Contenu corrompu.
 * Contenu approuvé par un modérateur.
-* Contenu publié par un utilisateur interdit ou indicateur d&#39;utilisateur appliqué par un utilisateur interdit.
+* Contenu publié par un utilisateur interdit ou indicateurs d’utilisateur appliqués par un utilisateur interdit.
 
-## Navigation dans modq {#section_uv4_db2_yy}
+## Navigation dans ModQ {#section_uv4_db2_yy}
 
-Modq est divisé en deux panneaux à onglets :
+ModQ est divisé en deux panneaux à onglets :
 
-* **[!UICONTROL Items]** répertorie tous les contenus de synchronisation Livefyre et socialsync pour la modération. Cet onglet inclut tout contenu de recherche ou de flux social qui a été marqué ou modifié après la modération.
-* **[!UICONTROL Streams Premoderation]** répertorie tout le contenu entrant dans vos applications à partir de flux dont la fonction Prémodérée est activée. (Pour plus d&#39;informations, voir Création de flux.)
+* **[!UICONTROL Items]** répertorie tous les contenus Livefyre-natifs et SocialSync prévus pour la modération. Cet onglet comprend tout contenu de recherche ou de diffusion en continu sur Social qui a été marqué ou modifié après modération.
+* **[!UICONTROL Streams Premoderation]** répertorie tout le contenu entrant dans vos applications à partir de flux avec l’option Prémodéré activée. (Pour plus d’informations, voir Création de flux.)
 
-Les deux onglets proposent de nombreux filtres et outils de modération.
+Les deux onglets proposent de nombreux filtres et outils de modération identiques.
 
-* **[!UICONTROL Item Count]** Le nombre d&#39;éléments restant dans la file d&#39;attente s&#39;affiche dans le coin supérieur gauche de modq.
-* **[!UICONTROL Filter]** Cliquez sur **[!UICONTROL Filter]** pour définir les paramètres d&#39;affichage du contenu dans le volet.
-* **[!UICONTROL History]** Cliquez sur **[!UICONTROL History]** le bouton en haut à droite de l&#39;écran pour ouvrir la liste du contenu récemment modéré, ce qui vous permet de revoir votre travail ou de modifier une action de modération récente. Cliquez de nouveau sur le bouton pour revenir à votre contenu mis en file d&#39;attente. Seules les 100 actions les plus récentes s&#39;affichent. **L&#39;historique** ne répertorie pas les actions effectuées par un autre modérateur.
+* **[!UICONTROL Item Count]** Le nombre d’éléments restants dans la file d’attente s’affiche dans le coin supérieur gauche de ModQ.
+* **[!UICONTROL Filter]** Cliquez sur **[!UICONTROL Filter]** pour définir les paramètres par lesquels le contenu sera répertorié dans le volet.
+* **[!UICONTROL History]** Cliquez sur le **[!UICONTROL History]** bouton en haut à droite de l’écran pour ouvrir une liste du contenu modéré récemment, ce qui vous permet de revoir votre travail ou de modifier une action de modération récente. Cliquez de nouveau sur le bouton pour revenir au contenu en file d’attente. Seules les 100 actions les plus récentes s’affichent. **L’historique** ne répertorie pas les actions entreprises par un autre modérateur.
 
 * **[!UICONTROL User Pane]** Cliquez sur les boutons Développer ou Réduire en haut à droite de la page pour ouvrir ou fermer le volet Utilisateur.
 
-## Présentation du contenu modal {#section_oxm_kgz_y1b}
+## Présentation du contenu ModQ {#section_oxm_kgz_y1b}
 
-Chaque élément de contenu répertorié affiche les informations d&#39;aperçu, y compris le site où il a été publié et son auteur. La sélection d&#39;un élément affiche l&#39;ensemble du contenu, y compris les médias.
+Chaque élément de contenu répertorié affiche des informations d’aperçu, y compris le site sur lequel il a été publié et son auteur. La sélection d’un élément affiche l’intégralité du contenu, y compris tout média.
 
 >[!NOTE]
 >
->Le contenu Livefyre natif affiche plus d&#39;informations que le contenu ajouté à votre application par le biais de flux ou d&#39;autres sources de réseaux sociaux.
+>Le contenu natif de Livefyre affiche plus d’informations que le contenu ajouté à votre application par le biais de flux ou d’autres sources de médias sociaux.
 
-Les informations suivantes s&#39;affichent lorsque vous sélectionnez un élément :
+Les informations suivantes s’affichent lorsque vous sélectionnez un élément :
 
-* **[!UICONTROL Time in Queue:]** indique la durée d&#39;ajout de l&#39;élément de contenu à modq.
-* **[!UICONTROL App name:]** l&#39;application dans laquelle le contenu apparaît. Liens vers le site avec l&#39;application.
-* **[!UICONTROL Content Body:]** le texte et la vignette du média, le cas échéant.
-* **[!UICONTROL Status:]** l&#39;état actuel du contenu (En attente, Enfoncé, etc.).
-* **[!UICONTROL Author information:]** nom et nom d&#39;utilisateur de l&#39;auteur.
-* **[!UICONTROL Timestamp:]** horodatage relatif de la création du contenu. Permalinks à l&#39;élément de contenu de la page de contenu de l&#39;application Studio.
-* **[!UICONTROL Flag Type:]** Outrage, Désaccord, Indésirable, etc.
+* **[!UICONTROL Time in Queue:]** indique la durée pendant laquelle l’élément de contenu a été ajouté à ModQ.
+* **[!UICONTROL App name:]** l’application dans laquelle le contenu s’affiche. Liens vers le site avec l’application.
+* **[!UICONTROL Content Body:]** texte et miniature de média, le cas échéant.
+* **[!UICONTROL Status:]** l’état actuel du contenu (En attente, En tirets, etc.).
+* **[!UICONTROL Author information:]** le nom et le nom d’utilisateur de l’auteur.
+* **[!UICONTROL Timestamp:]** l’horodatage relatif de la création du contenu. Permet de créer un lien permanent vers le contenu de la page Contenu de l’application de Studio.
+* **[!UICONTROL Flag Type:]** Offensive, Désaccord, Indésirable, etc.
 
-   * INDICATEURS SAFE : Indésirable et bloc.
-   * Indicateur appliqué par votre réseau et votre liste de profil du site : Profility.
-   * Indicateurs appliqués par SAFE : Hate speech, PII (Personal Identification Information), Injurt et Profanity.
-   * Indicateurs d&#39;utilisateur : Indésirable, Hors rubrique, Offensif et Accord.
+   * Indicateurs SAFE : Indésirable et en masse.
+   * Indicateur appliqué par votre liste de profils réseau et site : Profanité.
+   * Indicateurs appliqués par SAFE : Discours de haine, informations personnelles identifiables, insultes et profanation.
+   * Indicateurs utilisateur : Indésirable, hors sujet, Offensif et En désaccord.
 
-* **[!UICONTROL Flag origin:]** source de l&#39;indicateur répertorié. Peut être SAFE, un nom d&#39;utilisateur ou Livefyre.
-* **[!UICONTROL More info:]** répertorie les détails du contenu, y compris le nombre de mentions J&#39;aime, d&#39;indicateurs d&#39;utilisateur, de réponses et de toutes les balises appliquées au contenu. Cliquer sur le site ouvre la page de niveau supérieur du site sur lequel se trouve le contenu. Cliquez sur l&#39;horodatage pour afficher une vue threads du contenu en contexte sur la page.
+* **[!UICONTROL Flag origin:]** la source de l’indicateur répertorié. Peut être SAFE, un nom d'utilisateur ou Livefyre.
+* **[!UICONTROL More info:]** répertorie les détails du contenu, notamment le nombre de mentions J’aime, d’indicateurs utilisateur, de réponses et de balises appliquées au contenu. Cliquer sur le site ouvre la page de niveau supérieur du site sur lequel se trouve le contenu. Un clic sur l’horodatage ouvre une vue en thread du contenu dans le contexte de la page.
 
-## Options de filtre dans le modq {#section_r2c_qc2_yy}
+## Options de filtre dans ModQ {#section_r2c_qc2_yy}
 
-Cliquez **[!UICONTROL Filter]** sur dans le coin supérieur gauche de la fenêtre modq pour ouvrir un panneau contenant les options de filtrage disponibles pour le contenu répertorié. A mesure que vous sélectionnez les options, modq se met automatiquement à jour afin de répertorier uniquement le contenu filtré. Cliquez pour **[!UICONTROL Clear filters]** effacer toutes les options sélectionnées et rechargez la liste complète des éléments.
+Cliquez **[!UICONTROL Filter]** en haut à gauche de la fenêtre ModQ pour ouvrir un panneau contenant les options de filtre disponibles pour le contenu répertorié. Lorsque vous sélectionnez des options, ModQ met automatiquement à jour pour répertorier uniquement le contenu filtré. Cliquez sur **[!UICONTROL Clear filters]** pour effacer toutes les options sélectionnées, puis rechargez la liste complète des éléments.
 
-Différentes options de filtre sont disponibles pour les onglets **[!UICONTROL Items]** et les **[!UICONTROL Streams Premoderation]** onglets.
+Différentes options de filtre sont disponibles pour les **[!UICONTROL Items]** et **[!UICONTROL Streams Premoderation]** onglets.
 
-Les options suivantes sont disponibles pour le modq sous les deux **[!UICONTROL Items]** et **[!UICONTROL Streams Premoderation]**:
+Les options suivantes sont disponibles pour ModQ sous **[!UICONTROL Items]** et **[!UICONTROL Streams Premoderation]**:
 
-* **[!UICONTROL App]**. Utilisez le champ Rechercher les applications pour filtrer les résultats par application. Plusieurs applications peuvent être sélectionnées.
-* **[!UICONTROL System Flags]**. Filtrez le contenu selon des règles telles que les règles Indésirable, Profility, SAFE et Prémodération.
+* **[!UICONTROL App]**. Utilisez le champ Rechercher des applications pour filtrer les résultats par application. Plusieurs applications peuvent être sélectionnées.
+* **[!UICONTROL System Flags]**. Filtrez le contenu par règles telles que les règles de spam, de profil, de sécurité et de prémodération.
 
-   * Si vous sélectionnez cette option **[!UICONTROL Spam]** , tout le contenu balisé comme indésirable par SAFE est répertorié.
-   * La sélection **[!UICONTROL Profanity]** répertorie tout le contenu balisé Profane par votre réseau ou Liste du profil du site.
-   * La sélection **[!UICONTROL SAFE]** répertorie tout le contenu entrant dans modq à la suite de vos règles SAFE.
-   * La sélection **[!UICONTROL Premoderation]** répertorie tout le contenu balisé pour la prémodération par votre réseau, votre diffusion en continu ou vos paramètres d&#39;application.
+   * La sélection **[!UICONTROL Spam]** répertorie tous les contenus marqués comme indésirables par SAFE.
+   * La sélection **[!UICONTROL Profanity]** dressera la liste de tout le contenu balisé Profane selon votre liste de profil réseau ou de site.
+   * La sélection **[!UICONTROL SAFE]** répertorie tout le contenu entrant ModQ en raison de vos règles SAFE.
+   * La sélection **[!UICONTROL Premoderation]** répertorie tout le contenu balisé pour la prémodération par vos paramètres réseau, de flux ou d’application.
 
-* **[!UICONTROL User Flags]** Filtrage du contenu par indicateurs utilisateur. Les options incluent Outrage, Indésirable, Hors rubrique et Accord.
-* **[!UICONTROL Rights Requests.]** Affichez uniquement le contenu avec des droits accordés en cochant la case.
-* **[!UICONTROL Entered the queue.]** Filtrez le contenu selon la période pendant laquelle le contenu a été envoyé à modq. Le contenu d&#39;heure envoyé à modq n&#39;est pas nécessairement le moment où le contenu a été publié sur son application.
+* **[!UICONTROL User Flags]** Filtrez le contenu par indicateurs utilisateur. Les options incluent Offensive, Spam, Hors rubrique et Désaccord.
+* **[!UICONTROL Rights Requests.]** Affichez uniquement le contenu pour lequel des droits ont été accordés en cochant la case.
+* **[!UICONTROL Entered the queue.]** Filtrez le contenu selon la période au cours de laquelle le contenu a été envoyé à ModQ. L’heure à laquelle le contenu a été envoyé à ModQ n’est pas nécessairement l’heure à laquelle le contenu a été publié sur son application.
 
-Les options suivantes sont disponibles pour le modq sous **[!UICONTROL Streams Premoderation]**:
+Les options suivantes sont disponibles pour ModQ sous **[!UICONTROL Streams Premoderation]**:
 
-* **[!UICONTROL Social Source]** Filtrez le contenu par la source sociale à partir de laquelle le contenu est issu. Par exemple, les options des sources sociales incluent Twitter, Instagram, Facebook et RSS.
+* **[!UICONTROL Social Source]** Filtrez le contenu selon la source sociale d’où provient le contenu. Par exemple, les options des sources sociales sont Twitter, Instagram, Facebook et RSS.
 
-L&#39;option suivante est disponible pour le modq sous **[!UICONTROL Items]**:
+L’option suivante est disponible pour ModQ sous **[!UICONTROL Items]**:
 
 **[!UICONTROL Moderation Recommendations]**. Filtrez le contenu selon la recommandation donnée par la recommandation de modération automatisée.
 
-Les illustrations suivantes montrent l&#39;aspect des recommandations de modération dans modq : ![](assets/mod_reco1.png)
+Les images suivantes présentent à quoi ressemblent les recommandations de modération dans ModQ :  ![](assets/mod_reco1.png)
 
-La recommandation de modération est indiquée pour le contenu lorsqu&#39;elle est configurée **[!UICONTROL Network Settings > Moderation]** et **[!UICONTROL Network Settings > ModQ]**.
+La recommandation de modération est donnée pour le contenu lorsqu’il est configuré dans **[!UICONTROL Network Settings > Moderation]** et **[!UICONTROL Network Settings > ModQ]**.
 
-## Actions que vous pouvez utiliser dans modq {#section_h4g_wrn_z1b}
+## Actions que vous pouvez utiliser dans ModQ {#section_h4g_wrn_z1b}
 
-Vous pouvez déterminer les actions à effectuer avec chaque élément de contenu dans le modq.
+Vous pouvez décider ce que vous devez faire de chaque élément de contenu dans le ModQ.
 
-Sélectionnez l&#39;une des options suivantes :
+Sélectionnez l’une des options suivantes :
 
-* **[!UICONTROL Checkbox]** Icône permettant d&#39;approuver le contenu
-* **[!UICONTROL Trash can]** Icône permettant d&#39;envoyer le contenu à la corbeille
-* **[!UICONTROL Request Rights]** pour demander les droits au contenu du propriétaire du contenu.
+* L’ **[!UICONTROL Checkbox]** icône permettant d’approuver le contenu
+* L’ **[!UICONTROL Trash can]** icône pour envoyer le contenu à la corbeille
+* **[!UICONTROL Request Rights]** pour demander les droits d’accès au contenu au propriétaire du contenu.
 
    >[!NOTE]
    >
-   >Vous ne pouvez pas demander de droits dans modq pour le contenu d&#39;Instagram. Vous devez utiliser la bibliothèque ou le contenu de l&#39;application pour envoyer des demandes de droits pour le contenu d&#39;Instagram.
+   >Vous ne pouvez pas demander des droits dans ModQ pour le contenu sur Instagram. Vous devez utiliser la bibliothèque ou le contenu de l’application pour envoyer des demandes de droits de contenu à partir d’Instagram.
 
-* **[!UICONTROL Feature and Approve]** pour approuver le contenu et présenter également l&#39;élément de contenu.
-* **[!UICONTROL Product Tag and Approve]** pour ajouter un produit depuis votre catalogue de produits au contenu, puis l&#39;approuver.
+* **[!UICONTROL Feature and Approve]** d’approuver le contenu et d’afficher également l’élément de contenu.
+* **[!UICONTROL Product Tag and Approve]** pour ajouter un produit de votre catalogue de produits au contenu, puis l’approuver.
 * **[!UICONTROL Mark as Pending]** pour marquer le contenu comme étant en attente.
 
 >[!NOTE]
 >
->Une fois que vous avez corbeille un élément de contenu, l&#39;élément de contenu et toutes les réponses à l&#39;élément de contenu sont définitivement supprimés de modq. Pour placer un élément de contenu avec tendance dans une application, reportez-vous à [la section Ajout d&#39;un élément enfoncé à une application](/help/using/c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md#t_add_trashed_item_back_into_app).
+>Une fois que vous videz un élément de contenu, ce dernier et toutes les réponses à cet élément de contenu sont définitivement supprimés de ModQ. Pour placer un élément de contenu corrompu dans une application, voir [Ajout d’un élément corrompu dans une application](/help/using/c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md#t_add_trashed_item_back_into_app).
 
-Si le contenu est déjà à l&#39;état souhaité, le choix de Corbeille, de Bozo ou d&#39;Approuver confirme l&#39;état et supprime l&#39;élément de la liste. La modération d&#39;un élément de contenu le supprime immédiatement de votre queueet et la désactivera dans les files d&#39;attente des modérateurs.
+Si le contenu est déjà dans l’état souhaité, l’option Corbeille, Bozo ou Approuver confirme l’état et supprime l’élément de la liste. La modération d’un élément de contenu le supprime immédiatement de votre file d’attente et le désactive dans les files d’attente des autres modérateurs.
 
 >[!NOTE]
 >
->Le contenu de diffusion peut ne pas être Bozo&#39;d. Le contenu en flux continu supprimera définitivement le flux continu et ne peut pas être annulé.
+>Le contenu en flux continu peut ne pas être Bozo’d. Le contenu du flux de suivi le supprime définitivement du flux et ne peut pas être annulé.
 
-Une fois le contenu modéré, il sera supprimé du modq du modérateur et son auteur ne peut plus la modifier dans le flux. Si un modérateur ferme un élément ou si un utilisateur supprime son commentaire, il apparaît grisé dans les files d&#39;attente des autres modérateurs en temps réel. Lorsque le contenu est grisé, **[!UICONTROL Clear Moderated]** le bouton s&#39;affiche sur la page, ce qui permet aux modérateurs de le supprimer de leur liste et de conserver leur place sur la page quelle que soit l&#39;activité du modérateur.
+Une fois le contenu modéré, il est supprimé du ModQ du modérateur et son auteur ne peut plus le modifier dans le flux. Si un modérateur rejette un élément ou si un utilisateur supprime son commentaire, il apparaît grisé dans les files d’attente des autres modérateurs en temps réel. Une fois le contenu grisé, le **[!UICONTROL Clear Moderated]** bouton s’affiche sur la page, ce qui permet aux modérateurs de le supprimer de leurs listes et de conserver leur place sur la page, quelle que soit l’activité du modérateur.
 
-## Utilisation de la fonction Corbeille dans modq {#section_tpx_qgz_y1b}
+## Utilisation de la fonction Corbeille dans ModQ {#section_tpx_qgz_y1b}
 
-Utilisez la section Paramètres pour sélectionner les options disponibles lorsque le contenu est marqué comme étant enfoncé.
+Utilisez la section des paramètres pour sélectionner les options disponibles lorsque le contenu est marqué comme étant en tirets.
 
-* ****[!UICONTROL Confirm Trash]**** Activez cette option pour exiger que les modérateurs confirment leur action lors de la définition du contenu sur Corbeille. Lorsque cette option est activée, la sélection **[!UICONTROL Trash]** pour le contenu affiche une boîte de dialogue demandant un **[!UICONTROL Reason for Moderation]** champ et offre un champ dans lequel a **[!UICONTROL Note]** peut être saisi.
+* ****[!UICONTROL Confirm Trash]**** Activez cette option pour exiger que les modérateurs confirment leur action lors de la définition du contenu sur Corbeille. Lorsqu’elle est activée, la sélection **[!UICONTROL Trash]** du contenu affiche une boîte de dialogue demandant un **[!UICONTROL Reason for Moderation]**, et offre un champ dans lequel **[!UICONTROL Note]** peut être saisie une valeur.
 
-   (Ce paramètre est disponible **[!UICONTROL only]** au niveau du réseau et s&#39;applique à tous les sites situés sous votre réseau.)
+   (Ce paramètre est disponible **[!UICONTROL only]** au niveau du réseau et s’applique à tous les sites situés sous votre réseau.)
 
-* ****[!UICONTROL Hide Replies]**** Activez cette option pour supprimer automatiquement les réponses lorsqu&#39;un commentaire parent est coupé ou Bozo&#39;d.
+* ****[!UICONTROL Hide Replies]**** Activez cette option pour corrompre automatiquement les réponses lorsqu’un commentaire parent est corrompu ou que Bozo’d.
 
-## Modification de l&#39;état de l&#39;utilisateur dans modq {#section_tmw_lg1_z1b}
+## Modifier l’état de l’utilisateur dans ModQ {#section_tmw_lg1_z1b}
 
-Cliquez sur **[!UICONTROL User actions]** le bouton du panneau Résumé utilisateur pour Couper, Interdire ou Liste blanche.
+Cliquez sur le **[!UICONTROL User actions]** bouton du panneau Résumé utilisateur pour mettre l’utilisateur en sourdine, l’interdire ou le mettre sur liste blanche.
 
-* **[!UICONTROL Mute:]** vous permet de couper les drapeaux de l&#39;utilisateur qui a marqué l&#39;élément de contenu répertorié. Utilisez cette option pour exclure les drapeaux de l&#39;utilisateur de vos filtres de prémodération. Le contenu qu&#39;ils signalent ne saisira pas modq en raison de l&#39;indicateur et leurs indicateurs ne seront pas inclus dans les règles de marquage.
-* **[!UICONTROL Ban:]** vous permet d&#39;exclure l&#39;utilisateur répertorié de votre site ou du réseau. (Seuls les administrateurs Studio ou les gestionnaires d&#39;utilisateurs peuvent interagir avec un utilisateur.)
-* **[!UICONTROL Whitelist:]** vous permet de liste blanche pour votre site ou votre réseau. (Seuls les administrateurs Studio ou les gestionnaires utilisateur peuvent créer un réseau liste blanche.)
+* **[!UICONTROL Mute:]** permet de désactiver les indicateurs de l’utilisateur qui a marqué l’élément de contenu répertorié. Utilisez cette option pour exclure les indicateurs de l’utilisateur de vos filtres de prémodération. Le contenu qu’ils signalent n’entre pas dans ModQ en raison de l’indicateur et leurs indicateurs ne sont pas inclus dans les règles d’indicateur.
+* **[!UICONTROL Ban:]** vous permet d'interdire l'utilisateur de votre site ou réseau. (Seuls les administrateurs Studio ou les gestionnaires d’utilisateurs peuvent interdire un utilisateur sur le réseau.)
+* **[!UICONTROL Whitelist:]** vous permet d’autoriser l’utilisateur répertorié à accéder à la liste blanche pour votre site ou réseau. (Seuls les administrateurs Studio ou les gestionnaires d’utilisateurs peuvent mettre en réseau la liste blanche d’un utilisateur.)
 
 
 
-Applications utilisant modq :
+Applications qui utilisent ModQ :
 
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
-* [Révisions](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-* [Commentaires de sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Critiques](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
+* [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Bouton Télécharger](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
 
