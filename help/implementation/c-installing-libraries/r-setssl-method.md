@@ -1,23 +1,23 @@
 ---
-description: Définit SSL pour que les appels d'API soient activés ou désactivés.
-seo-description: Définit SSL pour que les appels d'API soient activés ou désactivés.
-seo-title: Méthode réseau setssl
+description: Définit SSL pour que les appels d’API soient activés ou désactivés.
+seo-description: Définit SSL pour que les appels d’API soient activés ou désactivés.
+seo-title: setSSL Network, méthode
 solution: Experience Manager
-title: Méthode réseau setssl
-uuid: 8 d 989 e 63-c 859-456 a -99 ca -8 d 87933913 ba
+title: setSSL Network, méthode
+uuid: 8d989e63-c859-456a-99ca-8d87933913ba
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode réseau setssl{#setssl-network-method}
+# setSSL Network, méthode{#setssl-network-method}
 
-Définit SSL pour que les appels d&#39;API soient activés ou désactivés.
+Définit SSL pour que les appels d’API soient activés ou désactivés.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| ssl | Booléen | La valeur par défaut est true. si vous souhaitez que SSL soit activé, false dans le cas contraire. <br><ul><li>True - SSL activé </li><li>False - SSL désactivé</li></ul> |
+| ssl | Booléen | La valeur par défaut est true. si vous voulez activer SSL, false dans le cas contraire. <br><ul><li>True - SSL activé </li><li>False - SSL désactivé</li></ul> |
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
@@ -25,7 +25,7 @@ Définit SSL pour que les appels d&#39;API soient activés ou désactivés.
 network.setSsl(ssl); 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 network.ssl = false; 
