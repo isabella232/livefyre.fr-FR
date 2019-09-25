@@ -4,7 +4,7 @@ seo-description: Repositionnez le logo Livefyre sur votre page.
 seo-title: Déplacer le logo Livefyre
 solution: Experience Manager
 title: Déplacer le logo Livefyre
-uuid: 807304 ae -6070-4505-87 db -169 a 925 f 714 c
+uuid: 807304ae-6070-4505-87db-169a925f714c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -15,15 +15,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Repositionnez le logo Livefyre sur votre page.
 
-Si votre accord avec Livefyre vous autorise, vous pouvez déplacer le logo Livefyre du haut du flux de contenu vers le bas.
+Si votre accord avec Livefyre le permet, vous pouvez déplacer le logo Livefyre du haut du flux de contenu vers le bas.
 
-Par exemple, ajoutez le code HTML suivant à votre page immédiatement après l&#39;élément qui contient l&#39;application Livefyre :
+Par exemple, ajoutez le code HTML suivant à votre page immédiatement après l’élément qui contient l’application Livefyre :
 
 ```
 <div id="powered_by_livefyre_new"><a href="https://livefyre.com" target="_blank">Powered by Livefyre</a></div>
 ```
 
-Ajoutez ensuite la feuille de style suivante à la feuille de style :
+Ajoutez ensuite les éléments suivants à la feuille de style de votre page :
 
 ```
 /* Hide the top logo */ 
