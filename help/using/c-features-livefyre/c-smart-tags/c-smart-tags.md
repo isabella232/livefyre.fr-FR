@@ -1,44 +1,44 @@
 ---
 description: valeur nulle
 seo-description: valeur nulle
-seo-title: Balises dynamiques
-title: Balises dynamiques
-uuid: f 978 fa 83-e 79 b -46 ae-bb 3 e -0 f 9449 bd 0440
+seo-title: Balises intelligentes
+title: Balises intelligentes
+uuid: f978fa83-e79b-46ae-bb3e-0f9449bd0440
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Balises dynamiques{#smart-tags}
+# Balises intelligentes{#smart-tags}
 
-Livefyre utilise la technologie de visionnage informatique d&#39;Adobe Sensei pour baliser automatiquement les images et les vidéos que vous enregistrez ou téléchargez dans la bibliothèque.
+Livefyre utilise la technologie de vision informatique d’Adobe Sensei pour baliser automatiquement les images et les vidéos que vous enregistrez ou téléchargez dans la bibliothèque.
 
-Les balises dynamiques vous permettent d&#39;économiser un temps considérable, gérer, rechercher et traiter le contenu. Avec les balises dynamiques, vous pouvez effectuer les opérations suivantes :
+Les balises intelligentes vous permettent de gagner du temps, de gérer, de rechercher et de traiter le contenu de manière significative. Avec les balises intelligentes, vous pouvez :
 
-* Rechercher des images et des vidéos enregistrées et téléchargées pour un contenu précis basé sur l&#39;image et le contenu vidéo plutôt que sur le texte uniquement
-* Collecte de contenu dans des flux en fonction de termes de recherche précis qui analyse l&#39;image ou la vidéo, plutôt que le texte uniquement
+* Recherchez des images et des vidéos enregistrées et téléchargées pour obtenir un contenu précis en fonction du contenu de l’image et de la vidéo, plutôt que uniquement du texte.
+* Collecte de contenu dans des flux en fonction de termes de recherche précis qui analysent l’image ou la vidéo, plutôt que de texte uniquement
 
-Lorsque vous enregistrez ou téléchargez une image ou une vidéo, Adobe Sensei vérifie automatiquement le contenu et le balise avec 135 000 classeurs répartis dans trois catégories :
+Lorsque vous enregistrez ou téléchargez une image ou une vidéo, Adobe Sensei examine automatiquement le contenu et le balise avec 135 000 classificateurs répartis dans trois catégories :
 
-* Fonctionnalités (chats, chiens, pyramides, points de repère, par exemple)
-* Catégories (voyage, tourisme, beauté, par exemple)
-* Propriétés esthétiques (par exemple, qualité d&#39;image, règles de troisième)
-* SFW/NSFW (ce qui permet de filtrer automatiquement les images NSFW, ce qui améliore la sécurité de vos flux et de votre bibliothèque UGC.
+* Fonctionnalités (chats, chiens, pyramides, repères)
+* Catégories (par exemple, voyage, tourisme, beauté)
+* Propriétés esthétiques (par exemple, qualité d'image, règles de troisième)
+* SFW/NSFW (cela vous permet de filtrer automatiquement les images NSFW, améliorant la sécurité de vos flux et de la bibliothèque UGC.
 
-L&#39;algorithme de classement des balises intelligent filtre le contenu à l&#39;aide d&#39;un score de confiance des balises intelligentes, de la nouvelle taille du contenu et du nombre d&#39;étoiles que l&#39;utilisateur a attribué au contenu.
+L’algorithme de classement Balises dynamiques filtre le contenu à l’aide d’un score de confiance des balises actives, de la nouveauté du contenu et du nombre d’étoiles qu’un utilisateur a attribué au contenu.
 
-**Balises dynamiques pour la vidéo**
+**Balises intelligentes pour la vidéo**
 
-Détails de la fonctionnalité :
+Détails des fonctionnalités :
 
-* Les balises dynamiques sont appliquées aux formats vidéo MP 4. avi et. mov.
-* La durée maximale pour les vidéos prises en charge est 60 secondes ou 50 Mo
-* Les balises dynamiques sont disponibles dans les fichiers Recherche sociale, Flux et Vidéo téléchargée dans la bibliothèque.
+* Les balises actives sont appliquées aux formats vidéo MP4, .avi et .mov.
+* La durée maximale des vidéos prises en charge est de 60 secondes ou 50 Mo
+* Les balises actives sont disponibles dans les fichiers Recherche sociale, Flux et Vidéo téléchargée de la bibliothèque.
 
 Types de balises :
 
-* Balises de fonction : Fonction identique à celle des balises de fonction pour les images (chats, chiens, pyramides, points de repère, par exemple).
-* Balises d&#39;action : Identifiez les fonctionnalités qui se produisent sur plusieurs cadres plutôt que sur un seul. Ces mesures sont plus efficaces pour récapituler le contenu d&#39;une vidéo.
+* Balises de fonction : Fonctionne de la même manière que les balises feature pour les images (chats, chiens, pyramides, repères).
+* Balises d’action : Identifiez les fonctionnalités qui surviennent sur plusieurs images au lieu d’une seule. Elles sont plus efficaces pour résumer le contenu d’une vidéo.
 
-Pour plus d&#39;informations sur les balises dynamiques, voir Options de règle [de diffusion en continu pour toutes les règles de diffusion en continu](../../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
+Pour plus d’informations sur les balises actives, voir Options des règles de [diffusion en continu pour toutes les règles](../../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de diffusion en continu.
