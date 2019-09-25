@@ -1,23 +1,23 @@
 ---
-description: Vous pouvez enregistrer un utilisateur dans la console pendant l'intégration et le test pour déboguer l'autorisation.
-seo-description: Vous pouvez enregistrer un utilisateur dans la console pendant l'intégration et le test pour déboguer l'autorisation.
-seo-title: Débogage du délégué authentique
+description: Vous pouvez connecter un utilisateur par le biais de la console pendant l’intégration et les tests pour l’autorisation de débogage.
+seo-description: Vous pouvez connecter un utilisateur par le biais de la console pendant l’intégration et les tests pour l’autorisation de débogage.
+seo-title: Débogage du délégué d’authentification
 solution: Experience Manager
-title: Débogage du délégué authentique
-uuid: fb 0 c 7396-190 e -4 dc 9-bf 26-23 dde 9 efd 45 d
+title: Débogage du délégué d’authentification
+uuid: fb0c7396-190e-4dc9-bf26-23dde9efd45d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Débogage du délégué authentique{#debugging-auth-delegate}
+# Débogage du délégué d’authentification{#debugging-auth-delegate}
 
-Vous pouvez enregistrer un utilisateur dans la console pendant l&#39;intégration et le test pour déboguer l&#39;autorisation.
+Vous pouvez connecter un utilisateur par le biais de la console pendant l’intégration et les tests pour l’autorisation de débogage.
 
-Enregistrez un utilisateur dans la console à l&#39;aide de ce qui suit `auth.authenticate` (jeton) et transmettez un jeton utilisateur Livefyre pour authentifier les utilisateurs sur la page.
+Connectez un utilisateur via la console à l’aide du jeton `auth.authenticate` (jeton) suivant et transmettez un jeton utilisateur Livefyre pour authentifier les utilisateurs de la page.
 
-Vous pouvez également modifier l&#39;exemple illustré ci-dessus et ajouter le fragment de code suivant dans le code JavaScript pour enregistrer rapidement un utilisateur dans Livefyre (une référence à l&#39;authenticité est nécessaire).
+Vous pouvez également modifier l’exemple ci-dessus et ajouter le fragment de code suivant en ligne dans votre code JavaScript pour connecter rapidement un utilisateur à Livefyre (nécessite une référence à l’authentification).
 
 ```
 window.addEventListener('userAuthenticated', function(data) { 
