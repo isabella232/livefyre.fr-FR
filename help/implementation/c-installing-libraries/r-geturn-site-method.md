@@ -1,23 +1,23 @@
 ---
-description: Cette méthode renvoie l'URN pour ce site.
-seo-description: Cette méthode renvoie l'URN pour ce site.
-seo-title: Méthode de site geturn
+description: Cette méthode renvoie l’URL de ce site.
+seo-description: Cette méthode renvoie l’URL de ce site.
+seo-title: getUrn, méthode du site
 solution: Experience Manager
-title: Méthode de site geturn
-uuid: 231 c 915 c -6288-43 e 6-86 e 0-b 8 d 09 a 08 c 4 d 3
+title: getUrn, méthode du site
+uuid: 231c915c-6288-43e6-86e0-b8d09a08c4d3
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode de site geturn{#geturn-site-method}
+# getUrn, méthode du site{#geturn-site-method}
 
-Cette méthode renvoie l&#39;URN pour ce site.
+Cette méthode renvoie l’URL de ce site.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
-Utilisation :
+Utilisation:
 
 ```
 site.getUrn();
@@ -29,7 +29,7 @@ Exemple de sortie :
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 site.getUrn(); 
