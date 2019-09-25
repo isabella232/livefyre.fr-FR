@@ -1,21 +1,21 @@
 ---
-description: Les commentaires peuvent être chargés sur une page existante (presque).
-seo-description: Les commentaires peuvent être chargés sur une page existante (presque).
-seo-title: Signet d'applet
-title: Signet d'applet
-uuid: b 6 f 6263 e -85 b 1-4 e 49-ba 3 c -7 f 12746 a 4 f 59
+description: Vous pouvez charger les références sur (presque) n’importe quelle page existante.
+seo-description: Vous pouvez charger les références sur (presque) n’importe quelle page existante.
+seo-title: Sidenotes Sigmarklet
+title: Sidenotes Sigmarklet
+uuid: b6f6263e-85b1-4e49-ba3c-7f12746a4f59
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Signet d&#39;applet{#sidenotes-bookmarklet}
+# Sidenotes Sigmarklet{#sidenotes-bookmarklet}
 
-Les commentaires peuvent être chargés sur une page existante (presque).
+Vous pouvez charger les références sur (presque) n’importe quelle page existante.
 
-Pour démo, utilisez le signet d&#39;applet ci-dessous :
+Pour faire une démonstration, utilisez le signet d’applet ci-dessous :
 
-Signet d&#39;applet
+Sidenotes Sigmarklet
 
-Copiez simplement le signet d&#39;applet dans vos signets, puis cliquez sur le lien pour charger les commentaires. Vous serez invité à saisir des sélecteurs qui serviront à décorer les commentaires sur la page en cours.
+Copiez simplement le signet d’applet dans vos signets, puis cliquez sur le lien pour charger les signets. Vous serez invité à saisir les sélecteurs qui seront utilisés pour décorer les Sidenotes sur la page active.
