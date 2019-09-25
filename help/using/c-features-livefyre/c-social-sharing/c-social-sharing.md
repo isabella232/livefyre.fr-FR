@@ -1,76 +1,76 @@
 ---
-description: Partagez votre contenu ou contenu d'un autre utilisateur, sur Facebook, Twitter ou linkedin.
-seo-description: Partagez votre contenu ou contenu d'un autre utilisateur, sur Facebook, Twitter ou linkedin.
-seo-title: Partage sur les réseaux sociaux
+description: Partagez votre contenu ou contenu d’un autre utilisateur, sur Facebook, Twitter ou LinkedIn.
+seo-description: Partagez votre contenu ou contenu d’un autre utilisateur, sur Facebook, Twitter ou LinkedIn.
+seo-title: Partage social
 solution: Experience Manager
-title: Partage sur les réseaux sociaux
-uuid: 3 fd 8 a 628-2414-45 b 5-b 91 c -2 ad 33 aad 2634
+title: Partage social
+uuid: 3fd8a628-2414-45b5-b91c-2ad33aad2634
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 
 
-# Partage sur les réseaux sociaux{#social-sharing}
+# Partage social{#social-sharing}
 
-Partagez votre contenu ou contenu d&#39;un autre utilisateur, sur Facebook, Twitter ou linkedin.
+Partagez votre contenu ou contenu d’un autre utilisateur, sur Facebook, Twitter ou LinkedIn.
 
-Le partage sur les réseaux sociaux permet à votre communauté de partager ses réflexions de l&#39;application avec ses amis sur les réseaux sociaux, notamment Facebook, Twitter et linkedin, et de partager le contenu d&#39;autres utilisateurs sur Facebook et Twitter. L&#39;activation du partage sur les réseaux sociaux permet à votre communauté de diffuser la meilleure réponse à votre contenu et d&#39;attirer plus de trafic sur votre site.
+Le partage sur les réseaux sociaux permet à votre communauté de partager ses réflexions depuis votre application avec ses amis sur les réseaux sociaux, notamment Facebook, Twitter et LinkedIn, et de partager le contenu d’autres utilisateurs avec Facebook et Twitter. L’activation du partage sur les réseaux sociaux permet à votre communauté de diffuser la meilleure réponse à votre contenu et d’attirer davantage de trafic sur votre site.
 
 ## Partage de contenu sur les réseaux sociaux {#section_t1q_mz2_wy}
 
-Vous pouvez configurer votre réseau pour permettre aux utilisateurs de partager sur Twitter, Facebook ou linkedin lors de la publication du contenu dans vos applications Livefyre. Livefyre par défaut **[!UICONTROL Share Modal]** comprend des liens vers les trois sites. Vous pouvez personnaliser ce modale à l&#39;aide de l&#39;API Post pour remplacer la valeur par défaut Livefyre et implémenter la vôtre. Pour plus d&#39;informations, voir Rubriques avancées &gt; Activation du partage sur les réseaux sociaux.
+Vous pouvez configurer votre réseau pour permettre aux utilisateurs de partager du contenu sur Twitter, Facebook ou LinkedIn lors de la publication de contenu sur vos applications Livefyre. Livefyre par défaut **[!UICONTROL Share Modal]** comprend des liens vers les trois sites. Vous pouvez personnaliser ce mode à l’aide de l’API Publier vers pour remplacer la valeur par défaut de Livefyre et mettre en oeuvre la vôtre. Pour plus d’informations, voir Rubriques avancées &gt; Activation du partage sur les réseaux sociaux.
 
-Lorsque les utilisateurs cliquent **[!UICONTROL Share]** pour publier leur commentaire sur les réseaux sociaux (Facebook, Twitter ou linkedin), ils sont invités à se connecter via l&#39;application sociale. (La liste des options Partager disponibles peut être personnalisée. Par défaut, les cases à cocher de partage Facebook et Twitter s&#39;affichent sur toutes les applications.) Pour les réseaux personnalisés, les applications sociales doivent être configurées pour être vos applications sociales. Dans le cadre de votre processus d&#39;intégration, ajoutez vos informations d&#39;identification d&#39;application via la page Paramètres d&#39;intégration de Studio.
+Lorsque les utilisateurs cliquent **[!UICONTROL Share]** pour publier leur commentaire sur les réseaux sociaux (Facebook, Twitter ou LinkedIn), ils sont invités à se connecter via l’application sociale. (La liste des options de partage disponibles peut être personnalisée. Par défaut, les cases à cocher Partage Facebook et Twitter s’affichent sur toutes les applications.) Pour les réseaux personnalisés, les applications sociales doivent être configurées pour être vos applications sociales. Dans le cadre de votre processus d’intégration, ajoutez les informations d’identification de votre application dans la page Paramètres d’intégration de Studio.
 
 >[!NOTE]
 >
->Linkedin est inclus par défaut sur les commentaires de la communauté Livefyre. Les réseaux personnalisés doivent transmettre la valeur « li » lors de l&#39;intégration de l&#39;application pour activer le bouton linkedin dans la barre d&#39;outils des commentaires. (Pour plus d&#39;informations, reportez-vous à la section Activation du partage sur les réseaux sociaux dans la documentation développeur.)
+>LinkedIn est inclus par défaut dans les commentaires de la communauté Livefyre. Les réseaux personnalisés doivent transmettre la valeur "li" lors de l’incorporation de l’application pour activer le bouton LinkedIn sur la barre d’outils des commentaires. (Pour plus d’informations, voir Activation du partage sur les réseaux sociaux dans les documents des développeurs.)
 
-## Partage du contenu d&#39;autres utilisateurs sur les réseaux sociaux {#section_blw_vy2_wy}
+## Partage du contenu d’autres utilisateurs sur les réseaux sociaux {#section_blw_vy2_wy}
 
-Cliquez sur **[!UICONTROL Share]** la publication d&#39;un autre utilisateur pour ouvrir le volet Partager le commentaire, qui inclut un champ de texte modifiable, les options de partage activées et un lien permalink dans la publication.
+En cliquant **[!UICONTROL Share]** sur la publication d’un autre utilisateur, vous ouvrez le volet Partager le commentaire, qui comprend un champ de texte modifiable, les options de partage activées et un lien de pourcentage vers la publication.
 
-En cliquant **[!UICONTROL Share]** sur une publication :
+En cliquant **[!UICONTROL Share]** pour une publication :
 
 * Les utilisateurs peuvent se connecter à leurs réseaux sociaux en cliquant sur les icônes Twitter ou Facebook.
-* Après avoir autorisé la publication de la page sur les réseaux sociaux de l&#39;utilisateur, les boutons Twitter ou Facebook sont légers pour informer l&#39;utilisateur qu&#39;ils sont actifs.
+* Après avoir autorisé la publication de la page sur les réseaux sociaux de l’utilisateur, les boutons Twitter ou Facebook s’affichent pour informer l’utilisateur qu’ils sont actifs.
 * Les utilisateurs peuvent personnaliser le contenu dans la zone de publication de partage.
-* Cliquer sur le lien **[!UICONTROL Share]** envoie le contenu aux réseaux sociaux actifs de l&#39;utilisateur, avec un lien qui dirige d&#39;autres vers la publication exacte que l&#39;utilisateur souhaite partager.
-* Les utilisateurs peuvent également choisir de partager un lien vers un commentaire spécifique en collant le paramètre Permalink dans un courriel, une publication de blog ou un réseau social.
+* Un clic **[!UICONTROL Share]** envoie du contenu aux réseaux sociaux actifs de l’utilisateur, avec un lien qui conduit les autres à la publication exacte que l’utilisateur souhaite partager.
+* Les utilisateurs peuvent également choisir de partager un lien vers un commentaire spécifique en collant le lien permanent dans un courrier électronique, une publication de blog ou un réseau social.
 
 >[!NOTE]
 >
->Durant votre intégration, vous pouvez déterminer quels réseaux sociaux sont disponibles pour le partage par vos utilisateurs. Vous pouvez également intégrer un Permalink personnalisé pour permettre l&#39;uniformité avec vos liens multimédia actuels.
+>Au cours de votre intégration, vous pouvez déterminer quels réseaux sociaux sont disponibles pour le partage par vos utilisateurs. Vous pouvez également intégrer un lien Permalink personnalisé afin d’assurer l’uniformité avec vos liens de médias actuels.
 
-Cliquez sur **[!UICONTROL Share]** la publication d&#39;un autre utilisateur pour ouvrir **[!UICONTROL Share Comment]** le volet qui inclut un champ de texte modifiable, les options de partage activées et un lien permalink dans la publication.
+En cliquant **[!UICONTROL Share]** sur la publication d’un autre utilisateur, vous ouvrez le **[!UICONTROL Share Comment]** volet, qui comprend un champ de texte modifiable, les options de partage activées et un lien de per?
 
-En cliquant **[!UICONTROL Share]** sur une publication :
+En cliquant **[!UICONTROL Share]** pour une publication :
 
 * Les utilisateurs peuvent se connecter à leurs réseaux sociaux en cliquant sur les icônes Twitter ou Facebook.
-* Après avoir autorisé la publication de la page sur les réseaux sociaux de l&#39;utilisateur, les boutons Twitter ou Facebook sont légers pour informer l&#39;utilisateur qu&#39;ils sont actifs.
+* Après avoir autorisé la publication de la page sur les réseaux sociaux de l’utilisateur, les boutons Twitter ou Facebook s’affichent pour informer l’utilisateur qu’ils sont actifs.
 * Les utilisateurs peuvent personnaliser le contenu dans la zone de publication de partage.
-* Cliquer sur le lien **[!UICONTROL Share]** envoie le contenu aux réseaux sociaux actifs de l&#39;utilisateur, avec un lien qui dirige d&#39;autres vers la publication exacte que l&#39;utilisateur souhaite partager.
-* Les utilisateurs peuvent également choisir de partager un lien vers un commentaire spécifique en collant le paramètre Permalink dans un courriel, une publication de blog ou un réseau social.
+* Un clic **[!UICONTROL Share]** envoie du contenu aux réseaux sociaux actifs de l’utilisateur, avec un lien qui conduit les autres à la publication exacte que l’utilisateur souhaite partager.
+* Les utilisateurs peuvent également choisir de partager un lien vers un commentaire spécifique en collant le lien permanent dans un courrier électronique, une publication de blog ou un réseau social.
 
 >[!NOTE]
 >
->Durant votre intégration, vous pouvez déterminer quels réseaux sociaux sont disponibles pour le partage par vos utilisateurs. Vous pouvez également intégrer un Permalink personnalisé pour permettre l&#39;uniformité avec vos liens multimédia actuels.
+>Au cours de votre intégration, vous pouvez déterminer quels réseaux sociaux sont disponibles pour le partage par vos utilisateurs. Vous pouvez également intégrer un lien Permalink personnalisé afin d’assurer l’uniformité avec vos liens de médias actuels.
 
 
 
-Applications utilisant cette fonctionnalité :
+Applications qui utilisent cette fonctionnalité :
 
 * [Carrousel](/help/using/c-about-apps/c-carousel-app/c-carousel-app.md#c_carousel_app)
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
-* [Carte de fonctionnalités](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
+* [Feature Card](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
 * [Carte](/help/using/c-about-apps/c-map-app/c-map-app.md#c_map_app)
-* [Mur multimédia](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
-* [Mosaic](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
+* [Media Wall](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
+* [Mosaïque](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Sondages](/help/using/c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
-* [Révisions](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-* [Commentaires de sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Critiques](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
+* [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-* [Tendances](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
+* [Suivi des tendances](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 
