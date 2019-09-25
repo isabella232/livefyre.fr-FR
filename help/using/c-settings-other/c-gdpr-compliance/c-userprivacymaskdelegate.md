@@ -1,27 +1,27 @@
 ---
-description: Vous pouvez modifier le texte d'avertissement qui s'affiche sur les masques vidéo à l'aide de.
-seo-description: Vous pouvez modifier le texte d'avertissement qui s'affiche sur les masques vidéo à l'aide de.
-seo-title: Userprivacymaskdelegate
+description: Vous pouvez modifier le texte d’avertissement qui s’affiche sur les masques vidéo à l’aide de .
+seo-description: Vous pouvez modifier le texte d’avertissement qui s’affiche sur les masques vidéo à l’aide de .
+seo-title: userPrivacyMaskDelegate
 solution: Experience Manager
-title: Userprivacymaskdelegate
-uuid: 8 e 5 a 2750-bf 45-4 e 70-a 5 f 9-37 f 5 e 7 c 61 f 8 e
+title: userPrivacyMaskDelegate
+uuid: 8e5a2750-bf45-4e70-a5f9-37f5e7c61f8e
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 9e01dd4515c01154e3566a39b367b8efa4ec082a
 
 ---
 
 
-# Userprivacymaskdelegate{#userprivacymaskdelegate}
+# userPrivacyMaskDelegate{#userprivacymaskdelegate}
 
-Vous pouvez modifier le texte d&#39;avertissement qui s&#39;affiche sur les masques vidéo à l&#39;aide de.
+Vous pouvez modifier le texte d’avertissement qui s’affiche sur les masques vidéo à l’aide de .
 
-Ce texte existe pour se conformer au règlement GDPR. Si une source ne prend pas en charge un proxy, Livefyre affiche ce texte et un masque sur le contenu, sauf si un utilisateur clique sur la vidéo et approuve le suivi potentiel de cette source.
+Ce texte existe pour se conformer au règlement sur le RMPC. Si une source ne prend pas en charge de proxy, Livefyre affiche ce texte et un masque sur le contenu, sauf si un utilisateur clique sur la vidéo et approuve le suivi potentiel à partir de cette source.
 
-Si vous n&#39;utilisez `userPrivacyMaskDelegate`pas, le texte par défaut suivant s&#39;affiche :
+Si vous n’utilisez pas `userPrivacyMaskDelegate`, le texte par défaut suivant s’affiche :
 
-Ajoutez `userPrivacyMaskDelegate` après `userPrivacyOptOut`. Vous pouvez ajouter tous les indicateurs de confidentialité Livefyre à la fois dans le cadre d&#39;un objet Livefyre.
+Ajouter `userPrivacyMaskDelegate` après `userPrivacyOptOut`. Vous pouvez ajouter tous les indicateurs de confidentialité de Livefyre simultanément dans le cadre d’un seul objet Livefyre.
 
-Voici un exemple d&#39;utilisation `userPrivacyMaskDelegate`:
+Voici un exemple d’utilisation `userPrivacyMaskDelegate`:
 
 ```
 userPrivacyMaskDelegate: function () { 
