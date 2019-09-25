@@ -1,10 +1,10 @@
 ---
-description: Utilisez les classes CSS disponibles pour personnaliser l'affichage de vos applications.
-seo-description: Utilisez les classes CSS disponibles pour personnaliser l'affichage de vos applications.
+description: Utilisez les classes CSS disponibles pour personnaliser l’affichage de vos applications.
+seo-description: Utilisez les classes CSS disponibles pour personnaliser l’affichage de vos applications.
 seo-title: Classes CSS
 solution: Experience Manager
 title: Classes CSS
-uuid: 8714 e 7 e 5-3858-458 f-a 464-de 87 fd 2 f 0 ff 0
+uuid: 8714e7e5-3858-458f-a464-de87fd2f0ff0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,35 +13,35 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Classes CSS{#css-classes}
 
-Utilisez les classes CSS disponibles pour personnaliser l&#39;affichage de vos applications.
+Utilisez les classes CSS disponibles pour personnaliser l’affichage de vos applications.
 
-Disponible pour la messagerie instantanée, les commentaires, le blog en direct, les révisions et les tableaux de sidenom.
+Disponible pour la messagerie instantanée, les commentaires, le blog en direct, les commentaires et les mentions.
 
-Utilisez CSS pour personnaliser vos applications Livefyre pour une intégration plus complète à votre page, en remplaçant simplement le CSS d&#39;application par défaut par votre propre feuille de style. Cette section décrit les personnalisations CSS disponibles.
+Utilisez CSS pour personnaliser vos applications Livefyre afin d’une intégration plus complète à votre page, en remplaçant simplement la page CSS par défaut par votre propre feuille de style. Cette section décrit les personnalisations CSS disponibles.
 
-* [Editeur CSS](#c_css_classes/section_edx_prh_xz)
+* [CSS de l’éditeur](#c_css_classes/section_edx_prh_xz)
 * [Options de tri CSS](#c_css_classes/section_btq_4rh_xz)
-* [Commentaires CSS](#c_css_classes/section_mlv_nrh_xz)
-* [CSS Commentaires présentés](#c_css_classes/section_m2v_mrh_xz)
-* [CSS de commentaires archivés](#c_css_classes/section_bs5_lrh_xz)
-* [CSS Notification CSS](#c_css_classes/section_dy4_krh_xz)
+* [Commenter CSS](#c_css_classes/section_mlv_nrh_xz)
+* [CSS des commentaires proposés](#c_css_classes/section_m2v_mrh_xz)
+* [CSS des commentaires archivés](#c_css_classes/section_bs5_lrh_xz)
+* [CSS du notifications de commentaires](#c_css_classes/section_dy4_krh_xz)
 * [Storify CSS Classes](../c-app-customizations/c-storify-css-classes.md#c_storify_css_classes)
 
-## Editeur CSS {#section_edx_prh_xz}
+## CSS de l’éditeur {#section_edx_prh_xz}
 
-Utilisez ces classes pour modifier l&#39;interface de l&#39;éditeur de publication.
+Utilisez ces classes pour modifier l’interface de l’éditeur de publication.
 
 | Classe | Description |
 |---|---|
-| . fyre-comment-count | Texte affichant le nombre de commentaires. |
-| . fyre-login-bar | Cadre de sélection contenant la barre de connexion et les options. |
-| . fyre-live-container | Cadre de sélection autour du nombre de personnes écoutant et de leurs avatars. |
-| . fyre-editor | Cadre de sélection autour de. fyre-login-bar. fyre-live-container et zone de texte où les utilisateurs consignent leurs commentaires. |
-| . fyre-stream-sort | Cadre de sélection autour des options de tri. |
+| .fyre-comment-count | Texte affichant le nombre de commentaires. |
+| .fyre-login-bar | Cadre de sélection contenant la barre de connexion et les options. |
+| .fyre-live-container | Le cadre de sélection autour du nombre de personnes qui écoutent et de leurs avatars. |
+| .fyre-editor | Le cadre de sélection autour de la barre de connexion .fyre, .fyre-live-container et la zone de texte dans laquelle les utilisateurs écrivent leurs commentaires. |
+| .fyre-stream-sort | Cadre de sélection autour des options de tri. |
 
-Vous pouvez également modifier les styles dans la configuration de l&#39;application, y compris la couleur d&#39;arrière-plan du champ de l&#39;éditeur, ainsi que la couleur, la taille et la famille de la police du texte qui s&#39;affiche dans l&#39;éditeur.
+Vous pouvez également modifier les styles dans la configuration de l’application elle-même, y compris la couleur d’arrière-plan du champ de l’éditeur, ainsi que la couleur, la taille et la famille de la police du texte qui apparaît dans l’éditeur.
 
-Pour personnaliser l&#39;éditeur de commentaires, ajoutez le fichier editorcss : {} objet à fyre. conv. load () et incluez le style souhaité. Par exemple, pour mettre à jour l&#39;éditeur avec votre CSS personnalisée :
+Pour personnaliser l’éditeur de commentaires, ajoutez l’objet editorCss:{} à fyre.conv.load() et incluez le style souhaité. Par exemple, pour mettre à jour l’éditeur avec votre page CSS personnalisée :
 
 ```
 fyre.conv.load(networkConfig, [{ 
@@ -61,11 +61,11 @@ fyre.conv.load(networkConfig, [{
 
 | Classe | Description |
 |---|---|
-| . fyre-stream-sort | La totalité des options de tri div. |
-| . fyre-stream-sort-newest | L&#39;option « Plus récent ». |
-| . fyre-stream-sort-le | L&#39;option « Le plus ancien ». |
-| . fyre-stream-bar-bar | Barre séparatrice entre les options. |
-| . fyre-stream-selected-selected | Option de tri sélectionnée. |
+| .fyre-stream-sort | L'ensemble des options de tri div. |
+| .fyre-stream-sort-newest | L’option "Plus récent". |
+| .fyre-stream-sort-plus ancien | L’option "Plus ancien". |
+| .fyre-stream-sort-bar | Barre de séparation entre les options. |
+| .fyre-stream-sort-selected | Option de tri actuellement sélectionnée. |
 
 Structure HTML :
 
@@ -77,7 +77,7 @@ Structure HTML :
 </div>
 ```
 
-Masquer le|&#39; séparant les options de tri.
+Masquez l’icône "|" qui sépare les options de tri.
 
 ```
 .fyre-stream-sort .fyre-stream-sort-bar { 
@@ -85,39 +85,39 @@ Masquer le|&#39; séparant les options de tri.
 }
 ```
 
-## Commentaires CSS {#section_mlv_nrh_xz}
+## Commenter CSS {#section_mlv_nrh_xz}
 
 | Classe | Description |
 |---|---|
-| . fyre-comment-author-tag- *`custom tag name`* | Livefyre crée une classe CSS dans ce format pour chaque balise utilisateur ajoutée via le studio Livefyre&#39;s Studio, [la synchronisation des profils](/help/implementation/t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md). Cette classe peut être utilisée pour mettre en forme l&#39;arrière-plan de tout contenu publié par des comptes utilisateur, y compris cette balise. |
-| . fyre-tag-content-icon- *`tag name`* | Livefyre crée une classe CSS dans ce format pour chaque balise de contenu ajoutée via Livefyre [Studio](/help/implementation/c-app-customizations/c-adding-users-to-groups.md). Cette classe peut être utilisée pour mettre en forme tout contenu auquel vous avez ajouté la balise. |
-| . fyre-comment-user | Cadre de sélection contenant la photo du profil utilisateur. |
-| . fyre-comment-username | Nom d&#39;utilisateur. |
-| . fyre-modérator | Cadre de sélection du modérateur. |
-| . fyre-comment | Cadre de sélection autour du texte/lien du commentaire. |
-| . fyre-comment-article | Cadre de sélection pour tout le contenu du commentaire. |
-| . fyre-comment-date | Balise associée à l&#39;élément « time since publié ». |
-| . fyre-comment-media | Cadre de sélection autour du contenu multimédia. |
-| . fyre-comments-actions | Cadre de sélection autour des actions disponibles pour prendre un commentaire. |
-| . fyre-comment-like | Cadre de sélection autour du lien « J&#39;aime ». |
-| . fyre-comment-reply | Cadre de sélection autour du lien « Répondre ». |
+| .fyre-comment-author-tag- *`custom tag name`* | Livefyre crée une classe CSS dans ce format pour chaque balise utilisateur ajoutée par le biais de Livefyre Studio, [Profile Sync](/help/implementation/t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md). Cette classe peut être utilisée pour mettre en forme l’arrière-plan de tout contenu publié par les comptes d’utilisateurs, y compris cette balise. |
+| .fyre-tag-content-icon- *`tag name`* | Livefyre crée une classe CSS dans ce format pour chaque balise de contenu ajoutée via Livefyre [Studio](/help/implementation/c-app-customizations/c-adding-users-to-groups.md). Cette classe peut être utilisée pour mettre en forme tout contenu auquel vous avez ajouté la balise . |
+| .fyre-comment-user | Cadre de sélection contenant l’image du profil utilisateur. |
+| .fyre-comment-nom-utilisateur | Nom d’utilisateur. |
+| .fyre-modérateur | Cadre de sélection du modérateur. |
+| .fyre-comment | Cadre de sélection autour du texte/lien du commentaire. |
+| .fyre-comment-article | Cadre de sélection pour l’ensemble du contenu du commentaire. |
+| .fyre-comment-date | Balise jointe à l’élément "Heure depuis la publication". |
+| .fyre-comment-media | Cadre de sélection autour du contenu multimédia. |
+| .fyre-comment-actions | Cadre de sélection autour des actions disponibles pour effectuer un commentaire. |
+| .fyre-comment | Cadre de sélection autour du lien "J’aime". |
+| .fyre-commentaire-réponse | Cadre de sélection autour du lien "Répondre". |
 
-## CSS Commentaires présentés {#section_m2v_mrh_xz}
+## CSS des commentaires proposés {#section_m2v_mrh_xz}
 
 >[!NOTE]
 >
->Toutes les classes de commentaires CSS peuvent également être appliquées au contenu incitatif.
+>Toutes les classes CSS de commentaires peuvent également être appliquées au contenu proposé.
 
 | Classe | Description |
 |---|---|
-| . fyre-incitatif-content-wrapper | Balise div de conteneur pour le lecteur. |
-| . fyre-feature-header | Barre de titre de début. |
-| . fyre-feature-header-icon | Icône en forme de quill de l&#39;en-tête. |
-| . fyre-feature-title | Texte d&#39;en-tête. |
-| . fyre-feature-body | Balise div du conteneur pour le contenu phare dans le lecteur. |
-| devis-devis | Icône de guillemets qui commence chaque élément de contenu. |
+| .fyre-featured-content-wrapper | Conteneur div pour le lecteur. |
+| .fyre-featured-header | Barre de titre en haut. |
+| .fyre-featured-header-icon | Icône de l’en-tête composée. |
+| .fyre-featured-title | Texte de l’en-tête. |
+| .fyre-featured-body | Div de conteneur pour le contenu incitatif dans le lecteur. |
+| .fyre-featured-quote | Icône de devis qui commence chaque élément de contenu. |
 
-## CSS de commentaires archivés {#section_bs5_lrh_xz}
+## CSS des commentaires archivés {#section_bs5_lrh_xz}
 
 >[!NOTE]
 >
@@ -125,29 +125,29 @@ Masquer le|&#39; séparant les options de tri.
 
 | Classe | Description |
 |---|---|
-| . fyre-archive-stream-title | Le texte « À partir de l&#39;archive ». |
-| . fyre-archive-stream-title-icon | Logo de l&#39;en-tête « Dans l&#39;archive ». |
+| .fyre-archive-stream-title | Texte "De l'archive". |
+| .fyre-archive-stream-title-icon | Le logo de l'en-tête "De l'archive". |
 
-## CSS Notification CSS {#section_dy4_krh_xz}
+## CSS du notifications de commentaires {#section_dy4_krh_xz}
 
-Ces classes vous permettent de personnaliser le notification de commentaire Livefyre.
+Ces classes vous permettent de personnaliser l’utilitaire de notification des commentaires Livefyre.
 
 | Classe | Description |
 |---|---|
-| . fyre-notification | Balise div de l&#39;élément de liste (nouveau contenu d&#39;archive et d&#39;archivage). |
-| . fyre-notification | Enveloppe pour le contenu du notificateur. |
-| . fyre-notification-archive | wrapper pour tout nouveau contenu autre que la publication la plus récente. |
-| . fyre-notification-avatar | Image de l&#39;avatar. |
-| . fyre-notification-avatar-container | Balise div de conteneur pour l&#39;avatar de l&#39;utilisateur. Permet de définir le positionnement. |
-| . fyre-notification-avatar-shading | Ombrage de la balise div de l&#39;avatar. |
-| . fyre-notification-banner | Conteneur pour le contenu d&#39;aperçu de la notification, qui affiche l&#39;avatar de l&#39;utilisateur et un extrait de contenu pour l&#39;article publié le plus récemment. |
-| . fyre-notification-base | Conteneur pour la partie Informations de la notification, qui répertorie le nombre de nouveaux commentaires, la légende de notification et le bouton de fermeture. |
-| . fyre-notification-base-close | Balise div du conteneur pour le bouton de fermeture (x) pour le notificateur. |
-| . fyre-notification-base-shadow | Ombrage de la base Notifier. |
-| . fyre-notification-caption | Texte affiché pour le notificateur. &#39; Nouveaux commentaires&#39;par défaut. |
-| . fyre-notification-close | Bouton qui ferme le notificateur. |
-| . fyre-notification-container | Le conteneur pour le notificateur comprend la bannière et la base. |
-| . fyre-notification-counter | Conteneur pour le nombre répertorié dans le notificateur. |
-| . fyre-notification-list | Conteneur pour l&#39;élément de contenu le plus récent. |
-| . fyre-notification-message | Premier ~ 30 caractères du contenu affiché. |
-| . fyre-notification-message-container | Balise div du conteneur pour le message d&#39;en-tête. |
+| .fyre-notification | La balise div de l’élément de liste (nouveau contenu et contenu d’archive). |
+| .fyre-notifiant | wrapper pour le contenu du notificateur. |
+| .fyre-notifiant-archive | wrapper pour tout nouveau contenu autre que la publication la plus récente. |
+| .fyre-notifiant-avatar | Image de l’avatar. |
+| .fyre-notifiant-avatar-container | Conteneur div pour l’avatar de l’utilisateur. Permet de définir le positionnement. |
+| .fyre-notifiant-avatar-shading | L'ombrage de l'avatar div. |
+| .fyre-notifiant-bannière | Conteneur du contenu d’aperçu du notificateur, qui affiche l’avatar de l’utilisateur et un extrait de contenu pour le dernier élément publié. |
+| .fyre-notifiant-base | Conteneur de la partie information du notificateur, qui répertorie le nombre de nouveaux commentaires, la légende du notificateur et le bouton de fermeture. |
+| .fyre-notifiant-base-close | Conteneur div pour le bouton de fermeture (x) pour le notificateur. |
+| .fyre-notifiant-base-shadow | Ombrage de la base du notificateur. |
+| .fyre-notifier-caption | Texte affiché pour le notifiant. "Nouveaux commentaires" par défaut. |
+| .fyre-notifiant-close | Bouton qui ferme le notifiant. |
+| .fyre-notifiant-conteneur | Le conteneur de l’utilitaire de notification comprend la bannière et la base. |
+| .fyre-notifiant-compteur | Conteneur correspondant au nombre indiqué dans le notificateur. |
+| .fyre-notifiant-liste | Conteneur de l’élément de contenu le plus récent. |
+| .fyre-notifiant-message | Les 30 premiers caractères du contenu s’affichaient. |
+| .fyre-notifiant-message-conteneur | Conteneur div pour le message d’en-tête. |
