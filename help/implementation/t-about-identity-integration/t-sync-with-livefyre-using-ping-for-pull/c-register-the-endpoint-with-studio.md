@@ -1,24 +1,24 @@
 ---
-description: Enregistrez le point de fin URL de sorte que Livefyre puisse utiliser l'URL pour extraire les informations de profil mises à jour.
-seo-description: Enregistrez le point de fin URL de sorte que Livefyre puisse utiliser l'URL pour extraire les informations de profil mises à jour.
-seo-title: Enregistrement du point de fin avec studio
+description: Enregistrez le point de fin d’URL afin que Livefyre puisse utiliser l’URL pour extraire les informations de profil mises à jour.
+seo-description: Enregistrez le point de fin d’URL afin que Livefyre puisse utiliser l’URL pour extraire les informations de profil mises à jour.
+seo-title: Enregistrement du point de fin avec Studio
 solution: Experience Manager
-title: Enregistrement du point de fin avec studio
-uuid: 4 eb 816 ee-d 743-43 bf-bfee-d 9 b 9 fd 98 b 482
+title: Enregistrement du point de fin avec Studio
+uuid: 4eb816ee-d743-43bf-bfee-d9b9fd98b482
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Enregistrement du point de fin avec studio{#register-the-endpoint-with-studio}
+# Enregistrement du point de fin avec Studio{#register-the-endpoint-with-studio}
 
-Enregistrez le point de fin URL de sorte que Livefyre puisse utiliser l&#39;URL pour extraire les informations de profil mises à jour.
+Enregistrez le point de fin d’URL afin que Livefyre puisse utiliser l’URL pour extraire les informations de profil mises à jour.
 
-Enregistrez l&#39;option Ping pour l&#39;URL Pull une fois par réseau. Une fois défini, cette valeur ne doit pas changer, sauf si le point de fin permet de récupérer les données de profil utilisateur de votre système de gestion des utilisateurs.
+Enregistrez l’URL Ping pour Pull une seule fois par réseau. Une fois définie, cette valeur ne doit pas changer, sauf si le point de terminaison de la récupération des données de profil utilisateur de votre système de gestion des utilisateurs change.
 
-1. Utilisez Studio pour enregistrer ce point de fin URL avec Livefyre.
-1. Enregistrez l&#39;URL à partir de laquelle Livefyre récupère les informations de profil utilisateur mises à jour, accédez **[!UICONTROL Studio > Settings > Integration Settings > Remote Profiles]**à, puis saisissez-la dans **[!UICONTROL Ping for Pull URL]** le champ.
+1. Utilisez Studio pour enregistrer ce point de fin d’URL auprès de Livefyre.
+1. Enregistrez l’URL à partir de laquelle Livefyre récupérera les informations de profil utilisateur mises à jour, accédez à **[!UICONTROL Studio > Settings > Integration Settings > Remote Profiles]**, puis saisissez-la dans le **[!UICONTROL Ping for Pull URL]** champ.
 
-   Par exemple, l&#39;URL peut ressembler à : `https://example.yoursite.com/some_path/?id={id}`
+   Par exemple, l’URL peut ressembler à : `https://example.yoursite.com/some_path/?id={id}`
 
