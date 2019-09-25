@@ -1,33 +1,33 @@
 ---
-description: Livefyre utilise une interface PUSH pour envoyer une information système externe sur les modifications apportées aux autorisations utilisateur.
-seo-description: Livefyre utilise une interface PUSH pour envoyer une information système externe sur les modifications apportées aux autorisations utilisateur.
-seo-title: Publication des permissions utilisateur sur systèmes externes (facultatif)
+description: Livefyre utilise une interface PUSH pour envoyer des informations système externes sur les modifications apportées aux autorisations utilisateur.
+seo-description: Livefyre utilise une interface PUSH pour envoyer des informations système externes sur les modifications apportées aux autorisations utilisateur.
+seo-title: Publication des autorisations utilisateur sur des systèmes externes (facultatif)
 solution: Experience Manager
-title: Publication des permissions utilisateur sur systèmes externes (facultatif)
-uuid: 9 c 18 b 20 d -3 b 93-4666-b 7 de -1 ec 60318 cf 88
+title: Publication des autorisations utilisateur sur des systèmes externes (facultatif)
+uuid: 9c18b20d-3b93-4666-b7de-1ec60318cf88
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Publication des permissions utilisateur sur systèmes externes (facultatif){#posting-user-permissions-to-external-systems-optional}
+# Publication des autorisations utilisateur sur des systèmes externes (facultatif){#posting-user-permissions-to-external-systems-optional}
 
-Livefyre utilise une interface PUSH pour envoyer une information système externe sur les modifications apportées aux autorisations utilisateur.
+Livefyre utilise une interface PUSH pour envoyer des informations système externes sur les modifications apportées aux autorisations utilisateur.
 
-## Types d&#39;utilisateurs dans Livefyre Studio
+## Types d'utilisateurs dans Livefyre Studio
 
-| Type d&#39;utilisateur | Description |
+| Type d’utilisateur | Description |
 |--- |--- |
-| propriétaire | Cet utilisateur est un propriétaire et peut modérer le contenu et affecter de nouveaux modérateurs. |
+| propriétaire | Cet utilisateur est propriétaire et peut modérer le contenu et affecter de nouveaux modérateurs. |
 | admin | Cet utilisateur est un modérateur et peut modérer le contenu. |
-| membre | Cet utilisateur est autorisé. Le contenu publié ne transfère pas les messages indésirables ou de profilité et ne nécessite pas d&#39;approbation dans les flux pré-modérés. |
-| none | Cet utilisateur est un utilisateur standard et n&#39;a pas d&#39;autorisations spéciales. |
-| outcast | Cet utilisateur a été interdit de participer à une conversation. |
+| membre | Cet utilisateur est autorisé. Le contenu publié ne passe pas par les filtres de spam ou de profanation et ne nécessite pas d’approbation dans les flux prémodérés. |
+| Aucune | Cet utilisateur est un utilisateur standard et ne dispose d’aucune autorisation spéciale. |
+| outcast | Cet utilisateur n'a pas le droit de participer aux conversations. |
 
-Pour publier des permissions utilisateur sur des systèmes externes, vous devez enregistrer une URL qui reçoit des données d&#39;autorisation sous forme de requêtes POST.
+Pour publier des autorisations d’utilisateur sur des systèmes externes, vous devez enregistrer une URL qui reçoit des données d’autorisation en tant que requêtes POST.
 
-Par exemple :
+Par exemple :
 
 ```
 POST https://{networkName}.quill.fyre.co/?actor_token={token}&push_affiliation_url={url}
@@ -35,15 +35,15 @@ POST https://{networkName}.quill.fyre.co/?actor_token={token}&push_affiliation_u
 
 | Paramètre | Description |
 |--- |--- |
-| Networkname | Votre nom de réseau fourni par Livefyre. |
-| jeton | Jeton système valide. |
+| networkName | Votre Livefyre a fourni un nom réseau. |
+| token | Jeton système valide. |
 | url | URL à enregistrer. |
 
-L&#39;URL enregistrée doit accepter les POST avec les données suivantes comme type de contenu : application/x-www-form-urlencoded.
+L’URL enregistrée doit accepter les POST avec les données suivantes comme type de contenu : application/x-www-form-urlencoded.
 
 | Paramètre | Description |
 |--- |--- |
-| jid | JID de l&#39;utilisateur dont l&#39;affiliation est modifiée. Un JID est une chaîne du formulaire `user_id@network`. |
-| affiliation | Nom des autorisations attribuées, qui doivent être l&#39;une des suivantes : `{admin | member | none | outcast | owner}` |
+| jid | JID de l’utilisateur dont l’affiliation a été modifiée. Un JID est une chaîne du formulaire `user_id@network`. |
+| affiliation | Nom des autorisations attribuées, qui doit être l’une des suivantes :  `{admin | member | none | outcast | owner}` |
 
-Pour plus d&#39;informations sur la mise à jour des paramètres d&#39;affiliation utilisateur, voir [la référence de l&#39;API d&#39;association d&#39;utilisateur](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post).
+Pour plus d’informations sur la mise à jour des paramètres d’affiliation utilisateur, voir le Guide de référence [sur l’API](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post)Ajouter une affiliation utilisateur.
