@@ -1,38 +1,38 @@
 ---
-description: Générez la réponse Ping pour pull pour transmettre les informations de l'utilisateur mises à jour à Livefyre.
-seo-description: Générez la réponse Ping pour pull pour transmettre les informations de l'utilisateur mises à jour à Livefyre.
-seo-title: Créer le ping pour réponse pull
+description: Build the Ping for Pull response to transmit updated user information to Livefyre.
+seo-description: Build the Ping for Pull response to transmit updated user information to Livefyre.
+seo-title: Build the Ping for Pull Response
 solution: Experience Manager
-title: Créer le ping pour réponse pull
-uuid: f 90871 d 5-601 f -40 dc-b 3 d 2-ab 78635 e 4 a 88
+title: Build the Ping for Pull Response
+uuid: f90871d5-601f-40dc-b3d2-ab78635e4a88
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 ---
 
 
-# Créer le ping pour réponse pull{#build-the-ping-for-pull-response}
+# Build the Ping for Pull Response{#build-the-ping-for-pull-response}
 
-Générez la réponse Ping pour pull pour transmettre les informations de l&#39;utilisateur mises à jour à Livefyre.
+Build the Ping for Pull response to transmit updated user information to Livefyre.
 
 | Type | Propriété | Description |
 |--- |--- |--- |
-| Chaîne *requise* | id | Utilisateur - id de l&#39;utilisateur dans votre système de profils. Elle doit être unique pour tous les utilisateurs de votre réseau et ne doit jamais changer. |
-| Chaîne *requise* | display_ name | Nom d&#39;affichage de l&#39;utilisateur. Elle sera générée avec le contenu Livefyre publié par l&#39;utilisateur. |
-| Objet *facultatif, mais recommandé* | name | Chaînes permettant de définir le format, le milieu, le milieu et le nom de l&#39;utilisateur. |
-| Chaîne *facultative, mais recommandée* | email | Adresse électronique de l&#39;utilisateur. Utilisé pour envoyer des notifications par courrier électronique. |
-| Chaîne *facultative, mais recommandée* | image_ url | URL à un avatar à afficher pour l&#39;utilisateur. Livefyre met à l&#39;échelle les images transférées à 100 × 100, 75 × 75 ou 50 × 50 pixels, selon le cas. Pour un résultat optimal, les utilisateurs doivent télécharger une image carrée, à 100 × 100 pixels. Pour garantir la mise à jour de l&#39;image de l&#39;avatar dans Livefyre, modifiez l&#39;URL_ url pour chaque mise à jour de l&#39;image afin que Ping pour Pull détecte que l&#39;image a été modifiée. Par exemple, joignez un horodatage au nom de fichier ou incrémentez l&#39;image. Remarque : Toutes les URL doivent être complètes et accessibles. |
-| Chaîne *facultative, mais recommandée* | profile_ url | URL de la page de profil de l&#39;utilisateur sur votre site. |
-| Chaîne *facultative, mais recommandée* | settings_ url | URL d&#39;une page où les utilisateurs peuvent configurer les paramètres de profil de l&#39;utilisateur pour votre site. |
-| Tableau *facultatif, mais recommandé* | balises | Utilisé pour affecter des utilisateurs aux groupes d&#39;utilisateurs. Les balises peuvent comprendre entre 1 et 63 caractères alphanumériques et de soulignement. |
-| Booléen *optionnel, mais recommandé* | autofollow_ conversations | Indique si un utilisateur souhaite suivre automatiquement une collection après sa publication. Lorsque vous suivez une collection, les utilisateurs reçoivent des notifications par courrier électronique lorsque d&#39;autres utilisateurs participent. Peut être vrai ou faux. Par défaut, true. |
-| Objet *facultatif, mais recommandé* | email_ notifications | Définit la fréquence des notifications électroniques Livefyre disponibles. Différentes fréquences peuvent être définies pour chaque type de notification. Par défaut, aucune notification ne sera envoyée. <br><ul><li> envoie immédiatement les notifications immédiatement à l&#39;événement répertorié. </li><li>envoie souvent des notifications par lots. </li><li> n&#39;enverra jamais de notification par courrier électronique pour l&#39;activité. </li><li>*commentaires*: Définit le moment où des notifications sont envoyées lorsque d&#39;autres utilisateurs publient du contenu dans des collections que cet utilisateur suit. </li><li>*réponses*: Définit le moment où les notifications sont envoyées lorsqu&#39;un autre utilisateur répond au contenu de cet utilisateur.</li><li>*mentions « J&#39;aime* » : Définit le moment où les notifications sont envoyées lorsqu&#39;un autre utilisateur aime le contenu de cet utilisateur.</li><li>*modérator_ comments*: Définit le moment où les notifications sont envoyées aux modérateurs lorsque les utilisateurs publient du contenu vers une collection dans le réseau.</li><li>*modérator_ flags*: Définit le moment où les notifications sont envoyées aux modérateurs lorsque d&#39;autres utilisateurs signalent le contenu d&#39;une collection dans le réseau.</li></ul> |
-| Chaîne *facultative* | emplacement | Emplacement envoyé par l&#39;utilisateur. |
-| Chaîne *facultative* | biographie | Autobiographie envoyée par l&#39;utilisateur. |
-| Tableau *facultatif* | sites Web | Tableau de sites envoyés par l&#39;utilisateur. Max = 2. |
-| Objet *facultatif* | display_ rules | Définit les propriétés de profil visibles publiquement par d&#39;autres utilisateurs. Chaque paramètre disponible prend la valeur booléenne true ou false. Paramètres disponibles : <br><ul><li>biographie </li><li> emplacement</li><li>  sexe </li><li>nameimage </li><li> remote_ profile_ url</li></ul> |
-| Valeur booléenne *facultative* | modérateur | Indique si l&#39;utilisateur dispose de privilèges de modérateur sur le réseau. |
-| Valeur booléenne *facultative* | gravatar_ disabled | Indique si l&#39;utilisation d&#39;une gravatar par Livefyre est désactivée si aucune URL image_ url n&#39;est fournie. |
+| String required ** | l’id | The user ID of the user in your profile system. This must be unique across all users in your Network, and must never change. |
+| String required ** | display_name | The display name of the user. This will be rendered with Livefyre Content posted by the user. |
+| Object optional, but recommended ** | name | Strings to define the user’s formatted, first, middle, and last names. |
+| Chaîne *facultative, mais recommandée* | adresse électronique | User’s email address. Utilisé pour envoyer des notifications par courrier électronique. |
+| String optional, but recommended ** | image_url | URL d’un avatar à afficher pour l’utilisateur. Livefyre scales uploaded images to 100×100, 75×75, or 50×50 pixels, as appropriate. For best results, users should upload a square image, at 100×100 pixels. To ensure the avatar image is updated in Livefyre, modify the image_url for each image update so Ping for Pull detects that the image was changed. For example, attach a timestamp to the filename or increment the image changes. Remarque :  All URLs must be fully qualified and accessible. |
+| String optional, but recommended ** | profile_url | URL de la page de profil de l’utilisateur sur votre site. |
+| String optional, but recommended ** | settings_url | URL to a page where users may configure the user’s profile settings for your site. |
+| Array optional, but recommended ** | balises | Used to assign users to user groups. Tags may include 1-63 alphanumeric and underscore characters. |
+| Boolean optional, but recommended ** | autofollow_conversations | Defines whether a user wishes to automatically follow a Collection after posting to it. When following a Collection, users receive email notifications when other users participate. May be true or false. La valeur par défaut est true. |
+| Object optional, but recommended ** | email_notifications | Defines the frequency of available Livefyre email notifications. Différentes fréquences peuvent être définies pour chaque type de notification. By default, no notifications will be sent. <br><ul><li> envoie immédiatement des notifications à l’événement répertorié. </li><li>génère souvent des notifications par lots. </li><li> ne jamais envoyer de notification par courrier électronique pour l’activité. </li><li>*commentaires*: Définit le moment où les notifications sont envoyées lorsque d’autres utilisateurs publient du contenu dans les collections que cet utilisateur suit. </li><li>*réponses*: Définit le moment où les notifications sont envoyées lorsqu’un autre utilisateur répond au contenu de cet utilisateur.</li><li>*aime*: Définit le moment où les notifications sont envoyées lorsqu’un autre utilisateur aime le contenu de cet utilisateur.</li><li>*modérator_commentaires*: Définit le moment où les notifications sont envoyées aux modérateurs lorsque les utilisateurs publient du contenu dans une collection du réseau.</li><li>*modérator_flags*: Définit le moment où les notifications sont envoyées aux modérateurs lorsque d’autres utilisateurs signalent le contenu dans une collection du réseau.</li></ul> |
+| Chaîne *facultative* | emplacement | Emplacement envoyé par l’utilisateur. |
+| Chaîne *facultative* | bio | autobiographie envoyée par l’utilisateur. |
+| Tableau *facultatif* | sites Web | Tableau de sites envoyés par les utilisateurs. Max = 2. |
+| Objet *facultatif* | display_Rules | Définit les propriétés de profil visibles publiquement par les autres utilisateurs. Chaque paramètre disponible prend la valeur de saisie booléenne true ou false. Paramètres disponibles :  <br><ul><li>bio </li><li> emplacement</li><li>  sexe </li><li>image nomimage </li><li> remote_profile_url</li></ul> |
+| Booléen *facultatif* | modérateur | Définit si l’utilisateur dispose de privilèges de modérateur sur le réseau. |
+| Booléen *facultatif* | gravatar_disabled | Définit si Livefyre doit désactiver l’utilisation d’un gravatar si aucune image_url n’est fournie. |
 
 ## Exemple de réponse {#section_uxt_3dd_mz}
 
