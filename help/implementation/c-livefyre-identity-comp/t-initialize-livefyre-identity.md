@@ -1,23 +1,23 @@
 ---
-description: Le package authentique Livefyre. js garantit que tous les composants sociaux de votre page peuvent découvrir une intégration d'authentification unique.
-seo-description: Le package authentique Livefyre. js garantit que tous les composants sociaux de votre page peuvent découvrir une intégration d'authentification unique.
-seo-title: Initialisation de Livefyre Identity
-title: Initialisation de Livefyre Identity
-uuid: 9365 d 827-2734-4 a 84-bfe 7-9 be 573 b 2 b 03 e
+description: Le package Auth de Livefyre.js garantit que tous les composants sociaux de votre page peuvent découvrir une intégration d’authentification unique.
+seo-description: Le package Auth de Livefyre.js garantit que tous les composants sociaux de votre page peuvent découvrir une intégration d’authentification unique.
+seo-title: Initialiser l'identité Livefyre
+title: Initialiser l'identité Livefyre
+uuid: 9365d827-2734-4a84-bfe7-9be573b2b03e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Initialisation de Livefyre Identity{#initialize-livefyre-identity}
+# Initialiser l'identité Livefyre{#initialize-livefyre-identity}
 
-Le package authentique Livefyre. js garantit que tous les composants sociaux de votre page peuvent découvrir une intégration d&#39;authentification unique.
+Le package Auth de Livefyre.js garantit que tous les composants sociaux de votre page peuvent découvrir une intégration d’authentification unique.
 
-Livefyre fournit `lfep-auth-delegate` un pack qui deviendra un délégué authentique approprié pour vous. L&#39;authenticité doit être fournie à un objet authdelegate qui sait comment effectuer des actions d&#39;authentification, telles que la connexion et la déconnexion.
+Livefyre fournit un `lfep-auth-delegate` package qui fera en sorte qu’un délégué d’authentification approprié vous soit affecté. Auth doit disposer d’un objet AuthDelegate qui sait exécuter des actions d’authentification, telles que la connexion et la déconnexion.
 
-1. Ajoutez Livefyre. js à votre webpage Web.
-1. Pour indiquer à Authentic de déléguer ces actions à Livefyre Identité, ajoutez les éléments suivants :
+1. Ajoutez Livefyre.js à votre page Web.
+1. Pour indiquer à Auth de déléguer ces actions à l’identité Livefyre, ajoutez ce qui suit :
 
    ```
    Livefyre.require([ 
