@@ -1,24 +1,24 @@
 ---
-description: Renvoie un objet Collection instancié comme type de conversation. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
-seo-description: Renvoie un objet Collection instancié comme type de conversation. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
-seo-title: Méthode du site buildchatcollection
+description: Renvoie un objet Collection appelé en tant que type Chat. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+seo-description: Renvoie un objet Collection appelé en tant que type Chat. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+seo-title: buildChatCollection, méthode du site
 solution: Experience Manager
-title: Méthode du site buildchatcollection
-uuid: 39 ee 32 d 0-29 c 9-47 a 8-a 458-a 3 cf 7 a 96 db 30
+title: buildChatCollection, méthode du site
+uuid: 39ee32d0-29c9-47a8-a458-a3cf7a96db30
 translation-type: tm+mt
 source-git-commit: 2908c6988c706a49c391f0e607bb641bce3a7f0d
 
 ---
 
 
-# Méthode du site buildchatcollection{#buildchatcollection-site-method}
+# buildChatCollection, méthode du site{#buildchatcollection-site-method}
 
-Renvoie un objet Collection instancié comme type de conversation. Exécutez create_ or_ update () à partir de l&#39;objet Collection pour terminer le processus de création.
+Renvoie un objet Collection appelé en tant que type Chat. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| titre | Chaîne | Titre de la collection. |
-| Articleid | Chaîne | Identifiant d&#39;article unique choisi pour identifier une collection sur votre site. |
+| title | Chaîne | Titre de la collection. |
+| articleId | Chaîne | ID d’article unique que vous avez choisi d’identifier une collection sur votre site. |
 | url | Chaîne | URL absolue canonique pour cette collection. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
@@ -27,7 +27,7 @@ Renvoie un objet Collection instancié comme type de conversation. Exécutez cre
 Collection collection = site.buildChatCollection(title, articleId, url); 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildChatCollection(title, articleId, url); 
