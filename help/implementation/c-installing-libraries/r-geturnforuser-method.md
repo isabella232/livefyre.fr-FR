@@ -1,23 +1,23 @@
 ---
-description: Cette méthode renvoie l'URN pour l'utilisateur de ce réseau.
-seo-description: Cette méthode renvoie l'URN pour l'utilisateur de ce réseau.
-seo-title: Méthode réseau geturnforuser
+description: Cette méthode renvoie l’URL de l’utilisateur de ce réseau.
+seo-description: Cette méthode renvoie l’URL de l’utilisateur de ce réseau.
+seo-title: getUrnForUser Network, méthode
 solution: Experience Manager
-title: Méthode réseau geturnforuser
-uuid: b 70 b 8 b 0 f -2 b 3 a -4 a 1 d -90 d 0-93 a 97 a 137 ad 4
+title: getUrnForUser Network, méthode
+uuid: b70b8b0f-2b3a-4a1d-90d0-93a97a137ad4
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode réseau geturnforuser{#geturnforuser-network-method}
+# getUrnForUser Network, méthode{#geturnforuser-network-method}
 
-Cette méthode renvoie l&#39;URN pour l&#39;utilisateur de ce réseau.
+Cette méthode renvoie l’URL de l’utilisateur de ce réseau.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| Userid | Chaîne | ID utilisateur à utiliser dans l&#39;URN. |
+| l’userID | Chaîne | ID utilisateur à utiliser dans l’URL. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
@@ -31,7 +31,7 @@ Exemple de sortie :
 "urn:livefyre:network=`example.fyre.co`:user=tester" 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 network.getUrnForUser(userId);
