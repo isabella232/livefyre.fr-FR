@@ -4,14 +4,14 @@ seo-description: Notes de mise à jour de la version du 11 octobre 2018.
 seo-title: 11 octobre 2018
 solution: Experience Manager
 title: 11 octobre 2018
-uuid: 8 f 08 b 2 d 1-295 f -4 b 6 a -82 ef -74 d 21 f 15 f 784
+uuid: 8f08b2d1-295f-4b6a-82ef-74d21f15f784
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 11 octobre 2018{#october}
+# October 11, 2018{#october}
 
 Notes de mise à jour de la version du 11 octobre 2018.
 
@@ -19,7 +19,7 @@ Notes de mise à jour de la version du 11 octobre 2018.
 
 Les nouvelles fonctionnalités suivantes ont été publiées dans la version de production de cette version :
 
-* Lorsqu&#39;un utilisateur supprime un compte de Twitter, dans un délai de 24 heures, le contenu de ce compte est également supprimé de toutes les sources dans Livefyre.
+* Lorsqu’un utilisateur supprime un compte de Twitter, le contenu de ce compte est également supprimé de toutes les sources de Livefyre dans les 24 heures qui suivent.
 
 ## Problèmes {#section_ehw_ndt_wcb}
 
@@ -27,19 +27,19 @@ Les problèmes des tableaux suivants ont été résolus dans la version de produ
 
 ## Version de production
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| Bogue | AEM | Correction d&#39;un problème en raison duquel les tweets importés dans AEM Assets via Livefyre étaient rompus. |
-| Amélioration | API | Ajout de l&#39;étiquette « audio » pour les fichiers audio enregistrés dans une collection. |
-| Bogue | Bibliothèque/Recherche | Correction d&#39;un problème en raison duquel les ressources Twitter n&#39;étaient pas enregistrées dans un dossier spécifique lorsqu&#39;elles étaient glissées et perdues à partir de la recherche sociale. |
-| Bogue | Bibliothèque/Recherche | Correction d&#39;un problème en raison duquel une image n&#39;apparaissait pas lors de l&#39;utilisation de comptes commerciaux IG valides pour les détails de la ressource, la bibliothèque et les applications publiées. |
-| Bogue | Flux | Correction d&#39;un problème qui empêchait l&#39;enregistrement des règles de flux YouTube. |
+| bogue | AEM | Correction d’un problème en raison duquel les liens étaient rompus pour les tweets importés dans les ressources AEM via Livefyre. |
+| Amélioration | API | Ajout de l’étiquette "audio" pour les fichiers audio enregistrés dans une collection. |
+| bogue | Bibliothèque/Recherche | Correction d’un problème en raison duquel les ressources Twitter n’étaient pas enregistrées dans un dossier spécifique lors du glisser-déplacer depuis la recherche sociale. |
+| bogue | Bibliothèque/Recherche | Correction d’un problème en raison duquel une image n’apparaissait pas lors de l’utilisation de comptes d’entreprise IG valides pour les détails du fichier, la bibliothèque et les applications publiées. |
+| bogue | Flux | Correction d’un problème qui empêchait l’enregistrement des règles de flux YouTube. |
 
 ## Version UAT {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
 
 Les problèmes des tableaux suivants ont été résolus dans la version UAT de cette version.
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| Bogue | AEM | Correction d&#39;un problème en raison duquel les tweets importés dans AEM Assets via Livefyre étaient rompus. |
+| bogue | AEM | Correction d’un problème en raison duquel les liens étaient rompus pour les tweets importés dans les ressources AEM via Livefyre. |
 
