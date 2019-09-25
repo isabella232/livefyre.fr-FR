@@ -1,41 +1,41 @@
 ---
-description: Notes de mise à jour pour la version du 15 juin 2017.
-seo-description: Notes de mise à jour pour la version du 15 juin 2017.
+description: Notes de mise à jour de la version du 15 juin 2017.
+seo-description: Notes de mise à jour de la version du 15 juin 2017.
 seo-title: 15 juin 2017
 title: 15 juin 2017
-uuid: 19262 de 2-72 b 7-4 df 8-b 041-1 c 4171381158
+uuid: 19262de2-72b7-4df8-b041-1c4171381158
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 15 juin 2017{#june}
+# June 15, 2017{#june}
 
-Notes de mise à jour pour la version du 15 juin 2017.
+Notes de mise à jour de la version du 15 juin 2017.
 
 ## Version de production
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| Amélioration | API | Publication d&#39;une nouvelle API pour récupérer les codes incorporés de l&#39;application. Pour plus d&#39;informations, rendez-vous sur le site https://api.livefyre.com/docs/apis/by-category/apps |
-| Bogue | Carrousel | Correction d&#39;un bogue de Carrousel pour autoriser le contenu Livefyre natif (images transférées directement vers Studio) à apparaître correctement dans l&#39;application. |
-| Amélioration | Commentaires | Amélioration des commentaires pour respecter les directives de couleur de police déterminées par les exigences d&#39;ADA. |
-| Bogue | Recherche d&#39;emplacement Instagram | Correction d&#39;un bogue en raison duquel les résultats de recherche Emplacement Instagram affichaient des doublons. |
-| Amélioration | Bibliothèque | Correction d&#39;un bogue de capture de tous les médias téléchargés dans les tweets par le filtre Média requis. |
-| Bogue | Modq | Correction d&#39;un problème de ralentissement dans l&#39;onglet Premod Flux modq lors de l&#39;extraction du contenu Instagram Carousel. |
-| Bogue | Commentaires de sidenotes | Amélioration des Sidesremarques pour la modération frontale. Cela signifie que les modérateurs connectés à l&#39;application au premier plan peuvent approuver ou supprimer du contenu. |
-| Bogue | Recherche sociale | Correction d&#39;un bogue qui empêchait l&#39;enregistrement des emplacements de mappage lors de l&#39;exécution des recherches sur Twitter Social. |
-| Amélioration | Storify 2 | Correction d&#39;un bogue dans Storify 2 en raison duquel la page saute si un utilisateur trié par « Plus ancien à plus récent » ou « Plus récent à plus ancien ».  » » |
+| Amélioration | API | Publication d’une nouvelle API pour récupérer les codes incorporés d’application. Plus d'informations sont disponibles sur https://api.livefyre.com/docs/apis/by-category/apps |
+| bogue | Carrousel | Correction d’un bogue dans Carousel afin de permettre l’affichage approprié du contenu Livefyre natif (images téléchargées directement vers Studio) dans l’application. |
+| Amélioration | Commentaires | Amélioration des commentaires pour répondre aux directives de couleur des polices dictées par les exigences d’ADA. |
+| bogue | Recherche d'emplacement Instagram | Correction d’un bogue en raison duquel les résultats de la recherche d’emplacement Instagram affichaient des doublons. |
+| Amélioration | Bibliothèque | Correction d’un bogue pour permettre la capture de tous les médias téléchargés dans les tweets par le filtre Média requis. |
+| bogue | ModQ | Correction d’un problème de ralentissement dans l’onglet Prémod des flux ModQ lors de l’extraction du contenu du carrousel Instagram. |
+| bogue | Sidenotes | Amélioration des notes de bas de page pour la modération frontale. Cela signifie que les modérateurs connectés à l’application sur le front-end pourront approuver ou supprimer du contenu. |
+| bogue | Recherche sociale | Correction d’un bogue qui empêchait l’enregistrement des emplacements de mappage lors de l’exécution de recherches sociales Twitter. |
+| Amélioration | Storify 2 | Correction d’un bogue dans Storify 2 qui entraînait le saut de la page si un utilisateur triait par "Plus ancien que plus récent" ou "Plus récent au plus ancien". |
 | Amélioration | Règles de diffusion en continu | Ajout de la capacité de filtrer les tweets par langue dans les règles de diffusion en continu. |
-| Amélioration | Règles de diffusion en continu | Ajout de la capacité de filtrer sur plusieurs emplacements de mappage dans les règles Twitter et Instagram Stream. |
-| Amélioration | Règles de diffusion en continu | Ajout d&#39;améliorations de la validation lors de l&#39;enregistrement des règles de diffusion en continu Twitter. |
-| Amélioration | Studio | Amélioration du contraste sur les composants de bascule dans Studio pour une visibilité plus facile. |
+| Amélioration | Règles de diffusion en continu | Ajout de la capacité de filtrer sur plusieurs emplacements de mappage dans les règles de flux Twitter et Instagram. |
+| Amélioration | Règles de diffusion en continu | Ajout d’améliorations de validation lors de l’enregistrement des règles de flux Twitter. |
+| Amélioration | Studio | Amélioration du contraste sur les composants basculants dans Studio pour une meilleure visibilité. |
 
 ## Version UAT
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| Bogue | Bibliothèque | Lorsque vous effacez les filtres de la bibliothèque, vous restez dans la même sélection de dossier, au lieu d&#39;être redirigé vers une autre page. |
-| Amélioration | Synchronisation sociale | Obsolète synchronisation de Twitter Social. |
+| bogue | Bibliothèque | Lorsque vous effacez les filtres de la bibliothèque, vous restez dans la même sélection de dossiers au lieu d’être redirigé vers une autre page. |
+| Amélioration | Social Sync | Synchronisation sociale Twitter obsolète. |
 
