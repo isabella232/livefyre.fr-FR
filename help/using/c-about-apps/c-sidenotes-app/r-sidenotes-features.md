@@ -1,28 +1,28 @@
 ---
-description: L'application Sidenotes offre ces fonctionnalités pour votre site.
-seo-description: L'application Sidenotes offre ces fonctionnalités pour votre site.
-seo-title: Fonctionnalités des tableaux de bord
+description: L’application Sidenotes propose ces fonctionnalités pour votre site.
+seo-description: L’application Sidenotes propose ces fonctionnalités pour votre site.
+seo-title: Fonctionnalités de Sidenotes
 solution: Experience Manager
-title: Fonctionnalités des tableaux de bord
-uuid: f 175 c 1 a 7-2 ccb -43 f 9-bc 21-cc 418 dbbeb 48
+title: Fonctionnalités de Sidenotes
+uuid: f175c1a7-2ccb-43f9-bc21-cc418dbbeb48
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Fonctionnalités des tableaux de bord{#sidenotes-features}
+# Fonctionnalités de Sidenotes{#sidenotes-features}
 
-L&#39;application Sidenotes offre ces fonctionnalités pour votre site.
+L’application Sidenotes propose ces fonctionnalités pour votre site.
 
 
 
-* Répondez à n&#39;importe quelle partie d&#39;un paragraphe en mettant en surbrillance le texte sur lequel il doit commenter, puis en cliquant sur l&#39;icône représentant un crayon pour écrire son caractère Sidenote.
-* Ajoutez des lignes annexes à un paragraphe en cliquant sur l&#39;icône représentant des commentaires qui s&#39;affiche à la fin du paragraphe et en ajoutant leur commentaire.
-* Ajoutez un commentaire sur une image en cliquant sur l&#39;icône des tableaux annexes dans l&#39;angle de l&#39;image et en ajoutant son commentaire.
-* Partagez du texte sur Facebook ou Twitter en sélectionnant le texte, puis en cliquant sur l&#39;icône Partager sur Facebook ou Partager sur Twitter. Le partage de contenu mis en surbrillance permet aux utilisateurs de modifier le texte qui sera partagé et envoie un lien vers le contenu d&#39;origine avec le partage.
-* Lisez les commentaires d&#39;autres utilisateurs en cliquant sur la bulle de réflexion Livefyre qui affiche le nombre de commentaires inclus pour une partie de la page.
-* Répondre aux commentaires existants.
-* Votez sur l&#39;aide des remarques et publiez donc des remarques plus utiles en haut de la liste des annotations.
-* Partagez des commentaires spécifiques sur Facebook ou Twitter en cliquant sur les points de suspension qui apparaissent lorsque vous pointez dessus.
+* Répondez à n’importe quelle partie d’un paragraphe en surlignant le texte sur lequel ils souhaitent commenter, puis en cliquant sur l’icône représentant un crayon pour écrire leur Sidenote.
+* Ajoutez des Sidenotes à un paragraphe en cliquant sur l’icône Sidenotes qui apparaît à la fin du paragraphe et en ajoutant leur commentaire.
+* Commentez une image en cliquant sur l’icône Sidenotes dans le coin de l’image et en ajoutant leur commentaire.
+* Partagez du texte sur Facebook ou Twitter, en sélectionnant du texte, puis en cliquant sur l’icône Partager sur Facebook ou Partager sur Twitter. Le partage de contenu en surbrillance permet aux utilisateurs de modifier le texte qui sera partagé et envoie un lien vers le contenu d’origine avec le partage.
+* Lisez les commentaires des autres utilisateurs en cliquant sur la bulle de pensée Livefyre qui montre le nombre de commentaires inclus pour n'importe quelle partie de la page.
+* Répondez aux Sidenotes existants.
+* Votez sur l'utilité des notes, et poussez ainsi des notes plus utiles en haut de la liste des annotations.
+* Partagez des Sidenotes spécifiques sur Facebook ou Twitter en cliquant sur les ellipses qui apparaissent lorsque vous passez la souris sur la note.
 
