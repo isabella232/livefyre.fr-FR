@@ -1,23 +1,23 @@
 ---
 description: valeur nulle
 seo-description: valeur nulle
-seo-title: Méthode du site buildcollection
+seo-title: Méthode de site buildCollection
 solution: Experience Manager
-title: Méthode du site buildcollection
-uuid: 52 abc 42 a -9506-4492-b 219-f 2 e 05 eb 79 c 5 f
+title: Méthode de site buildCollection
+uuid: 52abc42a-9506-4492-b219-f2e05eb79c5f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode du site buildcollection{#buildcollection-site-method}
+# Méthode de site buildCollection{#buildcollection-site-method}
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| type | Collectiontype | Type de la collection. |
-| titre | Chaîne | Titre de la collection. |
-| Articleid | Chaîne | Identifiant d&#39;article unique choisi pour identifier une collection sur votre site. |
+| type | CollectionType | Type de la collection. |
+| title | Chaîne | Titre de la collection. |
+| articleId | Chaîne | ID d’article unique que vous avez choisi d’identifier une collection sur votre site. |
 | url | Chaîne | URL absolue canonique pour cette collection. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
@@ -26,7 +26,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 Collection collection = site.buildCollection(type, title, articleId, url); 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildCollection(type, title, articleId, url); 
