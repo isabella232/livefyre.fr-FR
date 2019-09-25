@@ -1,48 +1,48 @@
 ---
-description: Transformez chaque élément de chaque page de votre site en canevas interactif et interactif.
-seo-description: Transformez chaque élément de chaque page de votre site en canevas interactif et interactif.
-seo-title: Bonnes pratiques pour les courriels
+description: Transformez chaque élément de chaque page de votre site en toile collaborative et interactive.
+seo-description: Transformez chaque élément de chaque page de votre site en toile collaborative et interactive.
+seo-title: Bonnes pratiques pour les mentions
 solution: Experience Manager
-title: Bonnes pratiques pour les courriels
-uuid: 0 f 511 fff -275 a -436 f-a 81 f-dbdf 0 bd 39900
+title: Bonnes pratiques pour les mentions
+uuid: 0f511fff-275a-436f-a81f-dbdf0bd39900
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Bonnes pratiques pour les courriels{#best-practices-for-sidenotes}
+# Best Practices for Sidenotes{#best-practices-for-sidenotes}
 
-Transformez chaque élément de chaque page de votre site en canevas interactif et interactif.
+Transformez chaque élément de chaque page de votre site en toile collaborative et interactive.
 
-Sidenotes offers a fresh, new perspective on comments, allowing your community to engage *while*they read. L&#39;objectif des tableaux de sidenom est d&#39;encourager vos utilisateurs à générer des conversations réfléchies et ciblées autour de votre contenu. Que vos lecteurs souhaitent accepter, refuser ou poser une question, ils peuvent indiquer n&#39;importe quelle partie de votre article : un paragraphe, une phrase, un guillemet ou une image. Les référents sont subtilement ternes dans votre contenu pour que les lecteurs puissent participer à votre contenu et participer à leur conversation.
+Sidenotes offre une nouvelle perspective sur les commentaires, ce qui permet à votre communauté de s'engager ** tout en lisant. Notre objectif avec Sidenotes est d'encourager vos utilisateurs à générer une conversation réfléchie et ciblée autour de votre contenu. Que vos lecteurs soient d'accord, en désaccord ou s'ils posent une question, ils peuvent identifier n'importe quelle partie de votre article .. un paragraphe, une phrase, une citation ou une image. Les Sidenotes sont subtilement tissés dans votre contenu afin que les lecteurs puissent participer et engager une conversation lorsqu'ils consomment votre contenu.
 
-## Commentaires qualité - Commentaires {#section_x15_csn_sy}
+## Commentaires sur la qualité supérieure {#section_x15_csn_sy}
 
-De nombreux clients visitent Livefyre pour savoir comment augmenter le niveau de mots civil et significatif dans leurs commentaires. Nous savons que nos clients souhaitent encourager la participation sur le panorama sans sacrifier la qualité. Les tableaux de bord corrigent ce problème en encourageant intrinsèquement les lecteurs à laisser des commentaires réfléchis et ciblés sur une phrase, un paragraphe ou un élément multimédia spécifique. Les utilisateurs peuvent ainsi réellement interagir avec votre contenu, pas seulement les uns les autres.
+De nombreux clients viennent sur Livefyre pour demander comment augmenter le niveau du discours civil significatif dans leurs commentaires. Nous savons que nos clients veulent encourager la participation à tous les niveaux sans sacrifier la qualité. Sidenotes aborde ce problème en encourageant par nature les lecteurs à laisser des commentaires réfléchis et ciblés sur une phrase, un paragraphe ou un élément média spécifique. Les utilisateurs interagissent donc réellement avec votre contenu, pas seulement les uns avec les autres.
 
-## Augmenter l&#39;engagement {#section_dzr_pc4_sy}
+## Augmenter l'engagement {#section_dzr_pc4_sy}
 
-Comme les commentaires Sidenotes présentent une nouvelle méthode de commentaires, les équipes de produit et de conception de Livefyre ont réalisé des recherches approfondies sur les utilisateurs lors du développement du produit. Durant ces sessions, nous avons constaté que les utilisateurs avaient tendance à lire des articles avec leur souris. En liant l&#39;icône des lettres annexes sous chaque paragraphe au survol, le produit offre un appel subtil mais cohérent à l&#39;action pour que les utilisateurs puissent appliquer un chime dans tout leur environnement de lecture, augmentant l&#39;engagement et la durée de consultation de votre site.
+Comme Sidenotes présente une nouvelle façon de commenter, les équipes produit et design ici chez Livefyre ont fait des recherches approfondies sur les utilisateurs tout en développant le produit. Au cours de ces sessions, nous avons remarqué que les utilisateurs avaient tendance à lire des articles avec leur souris. En appuyant sur l’icône Sidenotes sous chaque paragraphe lors du survol, le produit offre un appel à l’action subtil mais cohérent aux utilisateurs pour qu’ils puissent intervenir tout au long de leur expérience de lecture, augmentant ainsi l’engagement et le temps passé sur votre site.
 
 ## Développer la portée {#section_w1c_rc4_sy}
 
-Les Sidennotations non seulement ont une nouvelle perspective sur les commentaires, mais aussi sur le partage de contenu social. Lorsque vos lecteurs mettent en surbrillance un morceau de texte, les tableaux de sidenom affichent un bouton pour qu&#39;ils partagent votre contenu directement sur Twitter ou Facebook avec deux clics. Cette faible friction augmente la portée virale tout en offrant à vos utilisateurs une nouvelle manière d&#39;interagir facilement avec votre contenu.
+Sidenotes offre une nouvelle perspective sur les commentaires, mais aussi sur le partage de contenu social. Lorsque vos lecteurs mettent en surbrillance un bout de texte, les Sidenotes ouvrent un bouton pour qu’ils puissent partager votre contenu directement sur Twitter ou Facebook en deux clics. Cette expérience de faible friction augmente votre portée virale tout en donnant à vos utilisateurs une nouvelle façon de communiquer facilement avec votre contenu.
 
-## Inscription de votre communauté {#section_ipc_xc4_sy}
+## Inscrivez votre communauté {#section_ipc_xc4_sy}
 
-Comme les commentaires de Sidenotes présentent une manière potentiellement inhabituelle de commenter, nous vous encourageons à informer votre communauté sur le fonctionnement des tableaux de sidenom et la raison pour laquelle il s&#39;agit d&#39;un outil précieux. Nous vous recommandons d&#39;ajouter des tableaux de bord à votre communauté avec une publication dédiée et de mettre à jour les directives de la communauté afin d&#39;incorporer les meilleures pratiques de conservation des commentaires ou des commentaires.
+Comme Sidenotes introduit une façon potentiellement peu familière de commenter, nous vous encourageons à éduquer votre communauté sur le fonctionnement de Sidenotes et pourquoi il s’agit d’un outil de commentaire précieux. Nous vous recommandons de présenter Sidenotes à votre communauté avec un billet dédié et de mettre à jour les directives de votre communauté afin d'incorporer les meilleures pratiques pour laisser des Sidenotes ou des commentaires.
 
-## Codes de départ {#section_px4_yc4_sy}
+## Seed Sidenotes {#section_px4_yc4_sy}
 
-Bien que nous encouragions toujours votre personnel à participer à la conversation, les commentaires annexes offrent une manière particulièrement attractive à votre équipe de s&#39;engager. Nous vous recommandons de laisser l&#39;auteur de la publication affiner la conversation en quittant un fichier Sidenote directement après la publication. Il s&#39;agit d&#39;un moyen facile d&#39;inviter la discussion autour d&#39;un segment que le journaliste juge particulièrement intéressant ou controversé. Cela permet également aux utilisateurs qui accèdent à la page d&#39;afficher au moins un Sidenote, qui attire leur attention et les encourage à s&#39;engager.
+Bien que nous encourageons toujours votre personnel à participer à la conversation, Sidenotes offre un moyen particulièrement attrayant pour votre équipe de s’engager. Nous recommandons que l’auteur de la publication amorce la conversation en quittant une Sidenote directement après sa publication. C’est un moyen facile de fournir une invite pour la discussion autour d’un segment que le journaliste juge particulièrement intéressant ou controversé. Il garantit également que les lecteurs qui accèdent à la page verront au moins une Sidenote, ce qui attirera leur attention et les encouragera à s'engager.
 
-## Utilisation des commentaires avec des commentaires avec les commentaires {#section_lxv_1d4_sy}
+## Utilisation des identités avec les commentaires {#section_lxv_1d4_sy}
 
-Certains clients nous demandent s&#39;ils doivent choisir entre les commentaires et les commentaires. Il est donc important de noter que les commentaires de Sidenotes sont conçus comme un complément de l&#39;expérience des commentaires ci-dessous. La section des commentaires traditionnels offre encore une grande valeur en donnant aux utilisateurs un endroit immersif unique pour discuter de l&#39;article entier, en encourageant des conversations à plusieurs niveaux de threading et un média étendu.
+Certains clients nous demandent s’ils ont besoin de choisir entre Sidenotes et Comments. Il est donc intéressant de noter que Sidenotes est conçu pour compléter l’expérience de commentaires ci-dessous. La section des commentaires traditionnelle offre toujours une grande valeur en donnant aux utilisateurs un seul endroit immersif pour discuter de l'article entier, en encourageant les conversations aller-retour avec de multiples niveaux de thread et des médias étendus.
 
-## Obtenir un élément créatif {#section_jxz_bd4_sy}
+## Soyez créatif {#section_jxz_bd4_sy}
 
-Les tableaux de sidenom présentent de nombreux cas d&#39;utilisation intéressants en dehors d&#39;une page d&#39;article traditionnelle. Les listes, les transcriptions, les lyrics, les recettes et les diaporamas sont très utiles pour incorporer des commentaires. De même, si vous publiez du contenu, tel que des équipes de lecture ou des noms de récompense, les tableaux de sidenom permettent à vos utilisateurs d&#39;avoir des micro-conversations sur chaque ligne.
+Sidenotes présente de nombreux cas d'utilisation intéressants en dehors d'une page d'article traditionnelle. Les listes, les transcriptions, les paroles, les recettes et les diaporamas sont autant d'occasions intéressantes d'incorporer des Sidenotes. En outre, si vous publiez du contenu comme des équipes de jeux ou des nominés, Sidenotes permet aux utilisateurs d’avoir des micro-conversations sur chaque ligne.
 
-Artiste de groupe musical universel, l&#39;artiste Darius Rucker utilise des balises annexes pour laisser aux utilisateurs les possibilité de laisser des commentaires sur leurs paroles, ce qui permet aux fans d&#39;avoir une conversation spécifique sur chaque ligne de la chanson.
+L'artiste du Groupe Musique Universel Darius Rucker utilise Sidenotes pour permettre aux utilisateurs de laisser des commentaires sur ses paroles, permettant aux fans d'avoir une conversation spécifique sur chaque ligne de la chanson.
