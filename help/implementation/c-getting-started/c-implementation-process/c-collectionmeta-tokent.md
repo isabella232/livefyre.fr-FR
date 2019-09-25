@@ -1,37 +1,37 @@
 ---
 description: Créez un jeton unique sur votre serveur qui identifie chaque collection que vous créez.
 seo-description: Créez un jeton unique sur votre serveur qui identifie chaque collection que vous créez.
-seo-title: Collectionmeta Token
+seo-title: CollectionMeta Token
 solution: Experience Manager
-title: Collectionmeta Token
-uuid: d 5 db 0 b 0 f -2807-4392-874 a -94 ac 3 c 1 e 7550
+title: CollectionMeta Token
+uuid: d5db0b0f-2807-4392-874a-94ac3c1e7550
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Collectionmeta Token{#collectionmeta-token}
+# CollectionMeta Token{#collectionmeta-token}
 
 Créez un jeton unique sur votre serveur qui identifie chaque collection que vous créez.
 
-Livefyre attribue un identifiant unique à chaque collection que vous créez. Livefyre attribue un titre, une URL et d&#39;autres paramètres, notamment :
+Livefyre attribue un identifiant unique à chaque collection que vous créez. Livefyre attribue un titre, une URL et d’autres paramètres, notamment :
 
-## Paramètres de jeton collectionmeta
+## Paramètres de jeton collectionMeta
 
 | Paramètre | Type | Description |
 |--- |--- |--- |
-| Networkname | Chaîne (facultatif) | Le nom du réseau Livefyre (disponible depuis {! UICONTROL Studio &gt; Paramètres &gt; Paramètres d&#39;intégration &gt; Informations d&#39;identification]). Cela est facultatif lorsque vous utilisez la bibliothèque pour créer un jeton collectionmeta. |
-| Networkkey | Chaîne (facultatif) | Clé secrète du réseau spécifique (disponible depuis Studio &gt; Paramètres &gt; Paramètres d&#39;intégration &gt; Informations d&#39;identification). Cela est facultatif lorsque vous utilisez la bibliothèque pour créer un jeton collectionmeta. |
-| Siteid | Chaîne (facultatif) | ID du site (accessible depuis [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Facultatif lors de l&#39;utilisation de la bibliothèque pour créer un jeton collectionmeta. |
-| Sitekey | Chaîne (facultatif) | La clé secrète du site (disponible depuis {! UICONTROL Studio &gt; Paramètres &gt; Paramètres d&#39;intégration &gt; Informations d&#39;identification]). |
-| Articleid | Chaîne (facultatif) | Identifiant unique de la collection. |
-| titre | Chaîne (facultatif) | Titre que vous souhaitez appliquer à la collection. Habituellement, cela correspond au titre de la page qui affiche l&#39;application. <br>Par exemple : « L&#39;intégration est tellement fun !  » » <br>Remarque : La longueur maximale du titre est de 255 caractères. Le champ title ne prend pas en charge les entités HTML. Veuillez coder des caractères spéciaux à l&#39;aide de UTF -8. |
-| url | Chaîne (facultatif) | URL absolue canonique que vous souhaitez joindre à cette collection. Cette URL est utilisée pour générer des liens renvoyant à l&#39;application depuis le contenu partagé sur Facebook et Twitter, les notifications par courrier électronique et Livefyre Studio. <br>Remarque : Si vous testez localement, utilisez un domaine d&#39;URL de base valide (par exemple : valide : `https://customer.com`; non valide : `https://localhost:5995`). |
-| balises | Chaîne (facultatif) | Liste de mots-clés ou d&#39;expressions séparés par des virgules. Rechercher des collections par balises à l&#39;aide de Studio. </br>Remarque : Les balises ne peuvent pas contenir d&#39;espaces. Utilisez des traits de soulignement si vous souhaitez qu&#39;un espace apparaisse dans l&#39;interface utilisateur. |
+| networkName | Chaîne (facultatif) | Nom du réseau Livefyre (disponible à partir de {!UICONTROL Studio &gt; Paramètres &gt; Paramètres d’intégration &gt; Informations d’identification). Cette option est facultative lorsque vous utilisez la bibliothèque pour créer un jeton collectionMeta. |
+| networkKey | Chaîne (facultatif) | Clé secrète du réseau spécifique (disponible depuis Studio &gt; Paramètres &gt; Paramètres d’intégration &gt; Informations d’identification). Cette option est facultative lorsque vous utilisez la bibliothèque pour créer un jeton collectionMeta. |
+| siteId | Chaîne (facultatif) | Identifiant du site (accessible depuis [!UICONTROL Studio > Settings > Integration Settings > Credentials] ). Facultatif lors de l’utilisation de la bibliothèque pour créer un jeton collectionMeta. |
+| siteKey | Chaîne (facultatif) | Clé secrète du site (disponible à partir de {!UICONTROL Studio &gt; Paramètres &gt; Paramètres d’intégration &gt; Informations d’identification). |
+| articleId | Chaîne (facultatif) | ID unique de la collection. |
+| title | Chaîne (facultatif) | Titre que vous souhaitez appliquer à la collection. En général, cela correspond au titre de la page qui affiche l’application. <br>Par exemple : "L'intégration est tellement amusante !" <br>Remarque :  La longueur maximale du titre est de 255 caractères. Le champ de titre ne prend pas en charge les entités HTML. Veuillez coder des caractères spéciaux à l’aide du codage UTF-8. |
+| url | Chaîne (facultatif) | URL absolue canonique que vous souhaitez joindre à cette collection. Cette URL sera utilisée pour générer des liens vers l’application à partir du contenu partagé sur Facebook et Twitter, des notifications par courrier électronique et Livefyre Studio. <br>Remarque :  Si le test est effectué localement, utilisez un domaine d’URL de base valide (par exemple : valide : `https://customer.com`; non valide : `https://localhost:5995`). |
+| balises | Chaîne (facultatif) | Liste de mots-clés ou d’expressions uniques séparés par des virgules. Recherchez Collections par balises à l’aide de Studio.  </br>Remarque :  Les balises ne peuvent pas contenir d’espaces. Utilisez des traits de soulignement si vous souhaitez qu’un espace s’affiche dans l’interface utilisateur. |
 | extensions | JSON (facultatif) | Ensemble de paramètres au format JSON à transmettre à la collection. |
 
-## Java {#section_orz_m4n_sz}
+## Java {#section_orz_m4n_sz}
 
 ```
 import com.livefyre.Livefyre; 
@@ -47,7 +47,7 @@ collection.getData().setTags("tags");
 String collectionMetaToken = collection.buildCollectionMetaToken();
 ```
 
-## Nodejs {#section_kpk_44n_sz}
+## NodeJS {#section_kpk_44n_sz}
 
 ```
 var livefyre = require('livefyre'); 
@@ -97,7 +97,7 @@ collection.data.tags = 'tags'
 collection_meta_token = collection.build_collection_meta_token 
 ```
 
->[!NOTE] {importance = « high »}
+>[!NOTE] {importance="high"}
 >
->Livefyre reçoit le jeton collectionmeta que vous créez et détermine l&#39;unicité en combinant siteid (Livefyre fourni) et articleid (client spécifié).
+>Livefyre reçoit le jeton collectionMeta que vous créez et détermine son unicité en combinant siteId (Livefyre fourni) et articleId (client spécifié).
 
