@@ -1,30 +1,30 @@
 ---
-description: Personnaliser les champs de notification par courriel disponibles.
-seo-description: Personnaliser les champs de notification par courriel disponibles.
-seo-title: Configuration du courrier électronique réseau
+description: Personnalisez les champs de notification par courrier électronique disponibles.
+seo-description: Personnalisez les champs de notification par courrier électronique disponibles.
+seo-title: Configurer le courriel réseau
 solution: Experience Manager
-title: Configuration du courrier électronique réseau
-uuid: c 368 d 236-e 25 a -4118-8 abc -5230618 c 97 ee
+title: Configurer le courriel réseau
+uuid: c368d236-e25a-4118-8abc-5230618c97ee
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Configuration du courrier électronique réseau{#set-up-network-email}
+# Configurer le courriel réseau{#set-up-network-email}
 
-Vous pouvez configurer plusieurs types de notifications différents pour les visiteurs du site et les modérateurs Livefyre à utiliser pour interagir avec la fin - utilisateur.
+Vous pouvez configurer différents types de notifications pour les visiteurs du site et les modérateurs de Livefyre à utiliser pour interagir avec l’utilisateur final.
 
-Personnaliser les champs de notification par courriel disponibles.
+Personnalisez les champs de notification par courrier électronique disponibles.
 
 Configurez vos notifications par courrier électronique.
 
-* **Logo pour courrier électronique :** sélectionnez le fichier qui sera utilisé comme logo dans les notifications électroniques du client.
-* **Email From :** entrez l&#39;adresse électronique qui apparaîtra dans le champ De.
+* **** Logo du courrier électronique : sélectionnez le fichier qui sera utilisé comme logo dans les notifications électroniques des clients.
+* **** Courriel de : saisissez l’adresse électronique qui apparaîtra dans le champ De.
 
    >[!NOTE]
    >
-   >Si ce champ est vide, aucune notification par courrier électronique n&#39;est envoyée.
+   >Si ce champ est vide, aucune notification par courrier électronique ne sera envoyée.
 
-* **Nom d&#39;affichage de courriel :** entrez le nom qui apparaîtra à la place de votre adresse électronique dans les notifications par courrier électronique.
+* **** Nom d'affichage du courrier électronique : entrez le nom qui apparaîtra à la place de votre adresse électronique dans les notifications par courrier électronique de commentaires.
 
