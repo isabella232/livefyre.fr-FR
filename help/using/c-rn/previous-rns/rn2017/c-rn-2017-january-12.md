@@ -1,48 +1,48 @@
 ---
-description: Notes de mise à jour du 12 janvier 2017.
-seo-description: Notes de mise à jour du 12 janvier 2017.
+description: Notes de mise à jour de la version du 12 janvier 2017.
+seo-description: Notes de mise à jour de la version du 12 janvier 2017.
 seo-title: 12 janvier 2017
 title: 12 janvier 2017
-uuid: fb 92 ea 52-7184-4 f 08-814 c -15 e 45 d 684371
+uuid: fb92ea52-7184-4f08-814c-15e45d684371
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 12 janvier 2017{#january}
+# January 12, 2017{#january}
 
-Notes de mise à jour du 12 janvier 2017.
+Notes de mise à jour de la version du 12 janvier 2017.
 
 ## Version de production {#section_y3h_z42_wy}
 
-| Type de publication | Composant | Note de version |
+| Type de problème | Composant | Note de mise à jour |
 |--- |--- |--- |
-| Bogue | Contenu de l&#39;application | Correction d&#39;un bogue qui empêchait le fonctionnement des options de survol sur un profil utilisateur dans le contenu de l&#39;application. |
-| Bogue | Applications | Correction d&#39;un bogue dans toutes les applications afin de supprimer les titres de contenu pour le contenu RSS lorsqu&#39;il correspondait au titre de la pièce jointe. |
-| Amélioration | Commentaires | Amélioration des commentaires afin de respecter les normes d&#39;accessibilité en offrant une meilleure prise en charge des lecteurs d&#39;écran et en s&#39;assurant que tous les éléments interactifs peuvent être atteints avec la navigation au clavier uniquement. |
-| Bogue | Commentaires | Correction d&#39;un bogue dans les commentaires qui affichait parfois le code incorporé sur les vidéos. |
-| Amélioration | Identité Livefyre | Amélioration de l&#39;identité de Livefyre pour se conformer aux normes d&#39;accessibilité en offrant une meilleure prise en charge des lecteurs d&#39;écran et en s&#39;assurant que tous les éléments interactifs peuvent être atteints avec la navigation au clavier uniquement. |
-| Bogue | Sondages | Amélioration du sondage pour accentuer et améliorer la qualité d&#39;image lors du transfert dans Designer. |
-| Bogue | Révisions | Correction d&#39;un bogue qui empêchait l&#39;affichage correct des modifications de notation. |
-| Amélioration | Requêtes de droits | Ajout d&#39;une amélioration permettant d&#39;interdire l&#39;utilisation des liens bit. ly dans les paramètres du compte des droits Instagram pour éviter que les demandes soient marquées comme indésirables. |
-| Bogue | Requêtes de droits | Correction d&#39;un bogue qui empêchait la fermeture du modal des droits après l&#39;envoi d&#39;une demande sur un fichier dans la bibliothèque. |
-| Bogue | SAFE | Correction d&#39;un bogue qui empêchait la mise à jour fiable des listes Profil personnalisé. |
-| Bogue | Paramètres | Correction d&#39;un bogue qui empêchait l&#39;enregistrement des URL Extraction de profil dans les paramètres Studio. |
-| Amélioration | Commentaires de sidenotes | Amélioration des balises de sidenotes pour se conformer aux normes d&#39;accessibilité en offrant une meilleure prise en charge des lecteurs d&#39;écran et en s&#39;assurant que tous les éléments interactifs peuvent être atteints avec la navigation au clavier uniquement. |
-| Amélioration | Recherche sociale | Ajout d&#39;une fonctionnalité qui affiche une notification lorsqu&#39;un fichier est signalé. |
-| Bogue | Flux | Correction d&#39;un bogue en raison duquel les paramètres de règles de flux Prémodéré et Média étaient restaurés par défaut après l&#39;enregistrement. |
-| Bogue | Flux | Correction d&#39;un bogue qui empêchait l&#39;effacement des emplacements de mappage dans une règle de diffusion en continu Twitter. |
-| Bogue | Utilisateurs | Correction d&#39;un bogue qui empêchait les gestionnaires d&#39;applications et de contenu limités du site d&#39;afficher le bouton Contenu de l&#39;application dans la bibliothèque. |
-| Bogue | Utilisateurs | Correction d&#39;un bogue qui empêchait, dans certains cas, la liste de contrôle du site dans les rôles d&#39;utilisateur de devenir inutilisable. |
+| bogue | Contenu de l’application | Correction d’un bogue qui empêchait le fonctionnement des options de survol d’un profil utilisateur dans le contenu de l’application. |
+| bogue | Applications | Correction d’un bogue dans toutes les applications pour supprimer les titres de contenu pour le contenu RSS lorsqu’il correspondait au titre de la pièce jointe du lien. |
+| Amélioration | Commentaires | Amélioration des commentaires pour se conformer aux normes d’accessibilité en fournissant une meilleure prise en charge des lecteurs d’écran et en s’assurant que tous les éléments interactifs peuvent être atteints avec la navigation au clavier uniquement. |
+| bogue | Commentaires | Correction d’un bogue dans les commentaires, en raison duquel le code incorporé s’affichait parfois sur les vidéos. |
+| Amélioration | Identité Livefyre | Amélioration de l’identité Livefyre pour qu’elle soit conforme aux normes d’accessibilité en offrant une meilleure prise en charge des lecteurs d’écran et en veillant à ce que tous les éléments interactifs soient accessibles à l’aide de la navigation au clavier uniquement. |
+| bogue | Sondages | Amélioration des sondages afin d’accentuer et d’améliorer la qualité d’image lors du téléchargement dans Designer. |
+| bogue | Critiques | Correction d’un bogue qui empêchait l’affichage approprié des modifications d’évaluation. |
+| Amélioration | Demandes de droits | Ajout d’une amélioration afin d’empêcher l’utilisation des liens bit.ly dans les paramètres du compte Instagram Rights afin d’empêcher les requêtes d’être marquées comme des messages indésirables. |
+| bogue | Demandes de droits | Correction d’un bogue qui empêchait la fermeture du module des droits après l’envoi d’une requête sur un fichier dans la bibliothèque. |
+| bogue | SÛR | Correction d’un bogue qui empêchait la mise à jour fiable des listes Profanité personnalisée. |
+| bogue | Paramètres | Correction d’un bogue qui empêchait l’enregistrement des URL d’extraction de profil dans les paramètres Studio. |
+| Amélioration | Sidenotes | Amélioration des Sidenotes pour qu’elles soient conformes aux normes d’accessibilité en offrant une meilleure prise en charge des lecteurs d’écran et en veillant à ce que tous les éléments interactifs soient accessibles avec la navigation au clavier uniquement. |
+| Amélioration | Recherche sociale | Ajout d’une fonctionnalité qui affiche une notification lorsqu’un fichier est signalé. |
+| bogue | Flux | Correction d’un bogue en raison duquel les paramètres des règles de flux Premodéré et Media Premodérated étaient rétablis par défaut après l’enregistrement. |
+| bogue | Flux | Correction d’un bogue qui empêchait l’effacement des emplacements de mappage dans une règle de flux Twitter. |
+| bogue | Utilisateurs | Correction d’un bogue qui empêchait les gestionnaires d’applications et de contenu limités par le site d’afficher le bouton Contenu de l’application dans la bibliothèque. |
+| bogue | Utilisateurs | Correction d’un bogue en raison duquel, dans certaines circonstances, la liste de contrôle Site dans les rôles utilisateur devenait inutilisable. |
 
 
 ## Version UAT
 
-| Type de publication | Composant | Note de version |
+| Type de problème | Composant | Note de mise à jour |
 |--- |--- |--- |
-| Amélioration | Commentaires, témoignages | Les avatars et les boutons par défaut des commentaires et des tableaux annexes ont désormais augmenté le contraste des couleurs pour respecter les normes d&#39;accessibilité. |
-| Amélioration | Identité Livefyre | Amélioration de l&#39;identité de Livefyre pour la prise en charge de la navigation au clavier conformément aux normes d&#39;accessibilité. |
-| Bogue | Flux | Amélioration des règles de page Facebook pour assimiler des images Facebook de qualité élevée, où avant d&#39;assimiler uniquement les miniatures. |
-| Bogue | Studio | Amélioration de la recherche des ressources de bibliothèque pour prendre en charge les caractères japonais. |
+| Amélioration | Commentaires, Sidenotes | Les avatars et les boutons Commentaires et Sidenotes par défaut présentent désormais un contraste de couleur plus marqué pour répondre aux normes d’accessibilité. |
+| Amélioration | Identité Livefyre | Amélioration de l’identité Livefyre pour la prise en charge de la navigation au clavier pour répondre aux normes d’accessibilité. |
+| bogue | Flux | Amélioration des règles de page Facebook pour intégrer des images Facebook de haute qualité où, avant d’assimiler uniquement les vignettes. |
+| bogue | Studio | Amélioration de la recherche des fichiers de bibliothèque pour la prise en charge des caractères japonais. |
 
