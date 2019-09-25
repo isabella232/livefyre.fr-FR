@@ -1,10 +1,10 @@
 ---
-description: Description des méthodes de la classe Network.
-seo-description: Description des méthodes de la classe Network.
+description: Description des méthodes de classe Network.
+seo-description: Description des méthodes de classe Network.
 seo-title: Méthodes réseau
 solution: Experience Manager
 title: Méthodes réseau
-uuid: f 237 fead -36 b 5-4 ea 1-bfdd -55194 d 3306 e 1
+uuid: f237fead-36b5-4ea1-bfdd-55194d3306e1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,25 +13,25 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Méthodes réseau{#network-methods}
 
-Description des méthodes de la classe Network.
+Description des méthodes de classe Network.
 
-Les méthodes suivantes sont disponibles pour l&#39;objet Réseau :
+Les méthodes suivantes sont disponibles pour l’objet Network :
 
-* [Méthode réseau setssl](#r_setssl_method)
-* [Méthode de réseau buildlivefyretoken](#r_buildlivefyretoken_method)
-* [Méthode réseau builduserauthtoken](#r_builduserauthtoken_method)
-* [Validatelivefyretoken Network Method](#validatelivefyretoken_method)
-* [Setusersyncurl Network Method](#r_setusersyncurl_method)
-* [Syncuser Network Method](#r_syncuser_method)
-* [Méthode réseau geturn](#r_geturn_method)
-* [Méthode réseau geturnforuser](#r_geturnforuser_method)
-* [Méthode réseau getnetworkname](#r_getnetworkname_method)
-* [Méthode de réseau getsite](#r_getsite_method)
+* [setSSL Network, méthode](#r_setssl_method)
+* [buildLivefyreToken, méthode réseau](#r_buildlivefyretoken_method)
+* [buildUserAuthToken, méthode réseau](#r_builduserauthtoken_method)
+* [validateLivefyreToken, méthode réseau](#validatelivefyretoken_method)
+* [setUserSyncUrl, méthode réseau](#r_setusersyncurl_method)
+* [syncUser Network, méthode](#r_syncuser_method)
+* [getUrn Network, méthode](#r_geturn_method)
+* [getUrnForUser Network, méthode](#r_geturnforuser_method)
+* [getNetworkName, méthode réseau](#r_getnetworkname_method)
+* [getSite Network, méthode](#r_getsite_method)
 
 Chacune de ces méthodes est disponible pour les types de code suivants :
 
-* Java 
-* Nodejs
+* Java
+* NodeJS
 * PHP
 * Python
 * Ruby
