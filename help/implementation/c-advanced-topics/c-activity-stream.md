@@ -1,31 +1,31 @@
 ---
-description: Découvrez comment surveiller et stocker le contenu généré par l'utilisateur dans le système Livefyre.
-seo-description: Découvrez comment surveiller et stocker le contenu généré par l'utilisateur dans le système Livefyre.
-seo-title: Flux d'activités
+description: Découvrez comment surveiller et stocker le contenu généré par l’utilisateur circulant dans le système Livefyre.
+seo-description: Découvrez comment surveiller et stocker le contenu généré par l’utilisateur circulant dans le système Livefyre.
+seo-title: Flux d’activités
 solution: Experience Manager
-title: Flux d'activités
-uuid: f 40 deec 1-58 ab -41 c 9-aac 4-d 2 d 8 c 9192 bb 9
+title: Flux d’activités
+uuid: f40deec1-58ab-41c9-aac4-d2d8c9192bb9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Flux d&#39;activités {#activity-stream}
+# Flux d’activités {#activity-stream}
 
-Découvrez comment surveiller et stocker le contenu généré par l&#39;utilisateur dans le système Livefyre.
+Découvrez comment surveiller et stocker le contenu généré par l’utilisateur circulant dans le système Livefyre.
 
-Utilisez l&#39;API de diffusion en continu d&#39;activité pour utiliser les données générées par l&#39;utilisateur dans le système Livefyre de votre réseau ou site. Par exemple : utilisez les données de cette API pour mettre à jour vos indices de recherche en fonction des évaluations ou pour gérer les badges d&#39;utilisateurs dans un système tiers basé sur leur activité.
+Utilisez l’API de diffusion en continu d’activités pour consommer les données générées par l’utilisateur circulant sur le système Livefyre sur votre réseau ou site. Par exemple : utilisez les données de cette API pour mettre à jour vos indices de recherche en fonction des évaluations ou pour gérer les badges des utilisateurs dans un système tiers en fonction de leur activité.
 
-API de diffusion en continu d&#39;activité :
+API de diffusion d’activités :
 
-Pour obtenir la liste complète des points de fin disponibles, consultez la section Référence de l&#39;API Livefyre.
+Pour obtenir la liste complète des points de fin disponibles, consultez la section Référence API Livefyre.
 
 ## Ressources {#section_aql_n4l_b1b}
 
-Il existe deux points de fin : un pour l&#39;environnement d&#39;évaluation et un pour production.
+Il existe deux points de fin : un pour l’environnement d’évaluation et un pour la production.
 
-### Évaluation
+### Evaluation
 
 ```
 GET https://bootstrap.t402.livefyre.com/api/v3.1/activity/ 
@@ -39,38 +39,38 @@ GET https://bootstrap.livefyre.com/api/v3.1/activity/
 
 ### Paramètres
 
-* **ressource :***string* A URN de l&#39;objet pour lequel vous demandez des données d&#39;activité.
+* **** ressource : *chaîne* URL de l’objet pour lequel vous demandez des données d’activité.
 
-* **depuis :***integer* Entier 64 bits représentant l&#39;ID du dernier événement reçu. Indiquez « 0 » si vous n&#39;avez pas de données antérieures.
+* **** depuis : Entier *entier* entier 64 bits représentant l’ID du dernier événement que vous avez reçu. Indiquez "0" si vous n’avez aucune donnée antérieure.
 
 ## Chaînes URN {#section_skl_q4l_b1b}
 
 Exemples :
 
-* **urn : livefyre :**`example.fyre.co` Le flux d&#39;activité pour `example.fyre.co`.
-* **urn : livefyre :**`example.fyre.co:site=54321` Flux d&#39;activités du site 54321 sous le `example.fyre.co` réseau.
+* **** urn:livefyre : `example.fyre.co` Flux d’activité pour `example.fyre.co`.
+* **** urn:livefyre : Flux `example.fyre.co:site=54321` d’activité du site 54321 sous le `example.fyre.co` réseau.
 
-## Stratégies jeton {#section_nwh_c5j_11b}
+## Stratégies de jeton {#section_nwh_c5j_11b}
 
-L&#39;API de diffusion en continu d&#39;activité utilise un jeton porteur oauth pour l&#39;authentification. Les jetons du porteur font partie de la spécification oauth 2.0 et décrit officiellement [ici](https://tools.ietf.org/html/rfc6750#section-1.2).
+L’API de flux d’activités utilise un jeton de garde OAuth pour l’authentification. Les jetons du porteur font partie de la spécification OAuth 2.0 et sont officiellement décrits [ici](https://tools.ietf.org/html/rfc6750#section-1.2).
 
 Un jeton contient plusieurs éléments :
 
 * Qui a créé le jeton.
 * Qui a reçu un jeton.
-* Heure à laquelle elle n&#39;est plus valide.
-* Ce que nous utilisons.
-* Liste des autorisations qui ont été accordées.
+* Heure à laquelle il n’est plus valide.
+* Ce sur quoi nous opérons.
+* Liste des autorisations accordées.
 
-### Etapes
+### Étapes
 
-Les étapes de création d&#39;un jeton porteur oauth incluent :
+Voici les étapes de création d’un jeton d’application d’une seule commande :
 
-* Créez un mappage/dictionnaire contenant l&#39;émetteur, l&#39;audience, le sujet, l&#39;expiration et la portée.
+* Créez un mappage/dictionnaire contenant l’émetteur, le public, le sujet, l’expiration et la portée.
 * Utilisez la bibliothèque JWT, avec votre secret, pour coder un jeton JWT.
-* Ajouter une authentification : Porteur de votre requête HTTP.
+* Ajouter "Authentification : Bearer" à votre requête HTTP.
 
-L&#39;exemple de code ci-dessous illustre les étapes ci-dessus de Python :
+L'exemple de code ci-dessous illustre les étapes ci-dessus en Python :
 
 ```
 import time 
@@ -93,13 +93,13 @@ data = dict(iss=network_urn, aud=network_urn, sub=network_urn, scope=api_urn, ex
 token = jwt.encode(data, key=network_secret)
 ```
 
-Où les clés de jeton du porteur sont définies comme suit :
+Lorsque les clés du jeton porteur sont définies comme suit :
 
-* **iss** *(émetteur)* Entité avec l&#39;autorisation de générer des jetons. Il peut s&#39;agir de Livefyre, d&#39;un site ou d&#39;un réseau. (Pour qu&#39;une note soit en retard à l&#39;école, c&#39;est votre parent.)
-* **aud** *(Audience)* Personne pour laquelle ce jeton a été généré. Si vous créez le jeton vous-même, il s&#39;agit du site ou du réseau.
-* **sub** *(Objet)* Objet pour lequel les autorisations doivent être accordées. Si vous utilisez, par exemple, une collection, l&#39;objet doit être l&#39;identifiant de la collection. (Dans la note de l&#39;exemple scolaire, c&#39;est vous.)
-* **exp** *(expiration)* Un point auquel le jeton n&#39;est plus valide.
-* **scope** *(Scope)* Il s&#39;agit d&#39;une liste des autorisations accordées à l&#39;objet. « Tardivement pour l&#39;école » est un exemple. Le nom d&#39;une API est un autre exemple.
+* **iss** (émetteur) ** Entité habilitée à générer des jetons. Il peut s'agir de Livefyre, d'un site ou d'un réseau. (Pour qu’une note soit en retard à l’école, c’est votre parent.)
+* **aud** *(Audience)* Personne pour laquelle ce jeton a été généré. Si vous créez vous-même le jeton, il s’agit du site ou du réseau.
+* **sub** (Objet) ** Objet pour lequel des autorisations doivent être accordées. Par exemple, si vous opérez sur une collection, l’objet doit être l’identifiant de la collection. (Dans la note de l’exemple de l’école, c’est vous.)
+* **exp** *(Expiration)* Moment dans lequel le jeton n’est plus valide.
+* **scope** *(Scope)* Liste des autorisations accordées sur le sujet. "Late for school" en est un exemple. Le nom d’une API est un autre exemple.
 
 ## Exemple {#section_dhl_ytj_11b}
 
@@ -246,7 +246,7 @@ curl -H "Authorization: Bearer <BEARER TOKEN>" https://bootstrap.livefyre.com/ap
 } 
 ```
 
-Réponse avec de nouvelles données depuis la dernière requête :
+Réponse contenant de nouvelles données depuis la dernière requête :
 
 ```
 { 
@@ -270,11 +270,11 @@ Réponse avec de nouvelles données depuis la dernière requête :
 }
 ```
 
-## Remarques {#section_hj3_crj_11b}
+## Notes {#section_hj3_crj_11b}
 
-* Un appel réussi à l&#39;API retournera un code d&#39;état HTTP 200. Tous les autres codes d&#39;état doivent être considérés comme des erreurs.
-* Si non nul, utilisez la valeur d&#39; `data.meta.cursor.next` en tant `since` que paramètre de la requête suivante.
-* Si la valeur d&#39; `data.meta.cursor.next` est null, cela signifie qu&#39;il n&#39;y a aucune nouvelle donnée à consommer. Vous devez rédemander ultérieurement avec la même `since` valeur pour savoir si de nouvelles données sont arrivées.
-* En pratique, vous devez demander immédiatement davantage de données si `data.meta.cursor.next` la valeur n&#39;est pas nulle.
+* Un appel réussi à l’API générera un code d’état HTTP 200. Tous les autres codes d’état doivent être considérés comme des erreurs.
+* Si la valeur n’est pas nulle, utilisez la valeur de `data.meta.cursor.next` comme `since` paramètre de votre requête suivante.
+* Si la valeur de `data.meta.cursor.next` est nulle, cela signifie qu’il n’existe aucune nouvelle donnée à consommer. Vous devez demander de nouveau plus tard avec la même `since` valeur pour voir si de nouvelles données sont arrivées.
+* En règle générale, vous devez immédiatement demander plus de données si la `data.meta.cursor.next` valeur n’est pas nulle.
 * Environ deux heures de données récentes sont disponibles via cette API en production.
-* Vous devez configurer vos processus pour interroger fréquemment ce point de fin sur cronjob afin d&#39;éviter les données manquantes. Un intervalle de cinq minutes doit être parfaitement adapté pour la plupart des implémentations.
+* Configurez vos processus pour interroger fréquemment ce point de fin sur cronjob afin d’éviter les données manquantes. Un intervalle de cinq minutes doit être parfaitement approprié pour la plupart des implémentations.
