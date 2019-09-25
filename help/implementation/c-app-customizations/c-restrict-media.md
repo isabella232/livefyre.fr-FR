@@ -1,27 +1,27 @@
 ---
-description: Limitez le type de média dans le flux de l'application.
-seo-description: Limitez le type de média dans le flux de l'application.
-seo-title: Restreindre le support
+description: Limitez le type de média entrant dans le flux d’application.
+seo-description: Limitez le type de média entrant dans le flux d’application.
+seo-title: Restreindre le média
 solution: Experience Manager
-title: Restreindre le support
-uuid: c 470 c 985-d 221-4 f 39-8 bd 4-4 e 44 ec 14 db 95
+title: Restreindre le média
+uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Restreindre le support{#restrict-media}
+# Restreindre le média{#restrict-media}
 
-Limitez le type de média dans le flux de l&#39;application.
+Limitez le type de média entrant dans le flux d’application.
 
-Par défaut, toutes les pièces jointes multimédia peuvent être incorporées dans les applications. Livefyre vous permet de modifier cette option pour empêcher les utilisateurs de publier des types de pièce jointe sélectionnés dans vos applications.
+Par défaut, toutes les pièces jointes peuvent être incorporées dans les applications. Livefyre vous permet de modifier cette option pour empêcher les utilisateurs de publier certains types de pièces jointes dans vos applications.
 
 >[!NOTE]
 >
->Partenaires Livefyre avec Incorporation de médias. Pour plus d&#39;informations, voir Intégration de contenu &gt; Intégration implicite. Contactez votre gestionnaire de compte technique pour toute question sur l&#39;extension des liens ou les sources.
+>Livefyre travaille en partenariat avec Embetly pour l'intégration des médias. Pour plus d’informations, voir Intégration de contenu &gt; Intégration héritée. Contactez votre gestionnaire de compte technique pour toute question concernant l’extension des liens ou les sources.
 
-Cet exemple bloque YouTube et Vimeo incorpore à partir de votre flux de commentaires :
+Cet exemple bloque les intégrations YouTube et Vimeo de votre flux de commentaires :
 
 ```
 var attachmentDelegate = function(embedObj) { 
