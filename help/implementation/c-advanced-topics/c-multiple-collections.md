@@ -1,10 +1,10 @@
 ---
-description: Présentez plusieurs collections sur une seule page.
-seo-description: Présentez plusieurs collections sur une seule page.
+description: Présente plusieurs collections sur une seule page.
+seo-description: Présente plusieurs collections sur une seule page.
 seo-title: Collections multiples
 solution: Experience Manager
 title: Collections multiples
-uuid: 9675 ffd 7-1 a 59-42 a 1-b 3 ba -40 af 1744 cfd 1
+uuid: 9675ffd7-1a59-42a1-b3ba-40af1744cfd1
 translation-type: tm+mt
 source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
@@ -13,11 +13,11 @@ source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 # Collections multiples {#multiple-collections}
 
-Présentez plusieurs collections sur une seule page.
+Présente plusieurs collections sur une seule page.
 
-Vous pouvez inclure plusieurs collections sur une seule page de votre site. Par exemple, pour publier un événement, vous pouvez disposer d&#39;un blog direct ou d&#39;une discussion Chat pendant l&#39;événement, avec une application distincte sur le côté de la page, affichant le contenu traité associé depuis le Web social. Vous pouvez également inclure une application de commentaires sous un article, avec une conversation sur le côté.
+Vous pouvez inclure plusieurs collections sur une seule page de votre site. Par exemple, pour publier un événement, vous pouvez avoir un blog en direct ou une discussion sur le chat pendant l’événement, avec une application distincte sur le côté de votre page, affichant le contenu traité associé sur le Web social. Vous pouvez également inclure une application de commentaires sous un article, avec un chat sur le côté.
 
-Pour obtenir plusieurs conversations sur une page, ajoutez une ou plusieurs configurations dans un tableau et transmettez le tableau à l&#39;appel de chargement. Par exemple.
+Pour obtenir plusieurs conversations sur une page, ajoutez une ou plusieurs configurations dans une baie et transmettez la baie à l’appel de chargement. Par exemple :
 
 ```
 <html> 
