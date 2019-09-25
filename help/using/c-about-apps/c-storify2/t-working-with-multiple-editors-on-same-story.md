@@ -1,29 +1,29 @@
 ---
-description: Storify gère plusieurs éditeurs simultanés, empêche les remplacements accidentels ou les modifications perdues.
-seo-description: Storify gère plusieurs éditeurs simultanés, empêche les remplacements accidentels ou les modifications perdues.
-seo-title: Utilisation de plusieurs éditeurs sur le même article
+description: Storify gère plusieurs éditeurs simultanés, évitant ainsi les écrasements accidentels ou les modifications perdues.
+seo-description: Storify gère plusieurs éditeurs simultanés, évitant ainsi les écrasements accidentels ou les modifications perdues.
+seo-title: Utilisation de plusieurs éditeurs sur la même histoire
 solution: Experience Manager
-title: Utilisation de plusieurs éditeurs sur le même article
-uuid: c 9 b 8 bf 70-84 c 3-4 e 58-bbd 0-f 3 d 0 ea 74 fc 68
+title: Utilisation de plusieurs éditeurs sur la même histoire
+uuid: c9b8bf70-84c3-4e58-bbd0-f3d0ea74fc68
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Utilisation de plusieurs éditeurs sur le même article{#working-with-multiple-editors-on-the-same-story}
+# Utilisation de plusieurs éditeurs sur la même histoire{#working-with-multiple-editors-on-the-same-story}
 
-Storify gère plusieurs éditeurs simultanés, empêche les remplacements accidentels ou les modifications perdues.
+Storify gère plusieurs éditeurs simultanés, évitant ainsi les écrasements accidentels ou les modifications perdues.
 
-Storify permet à plusieurs éditeurs de collaborer, de modifier et de traiter du contenu pour un seul article. Les modifications sont visibles en temps réel et balisées avec le nom d&#39;utilisateur et l&#39;avatar de l&#39;éditeur.
+Storify permet à plusieurs éditeurs de collaborer, de modifier et de traiter le contenu d’un article unique. Les modifications sont visibles en temps réel et marquées avec le nom d’utilisateur et l’avatar de l’éditeur.
 
-Plusieurs éditeurs travaillant sur un seul article verront les autres travailler sur la page en temps réel. Les nouveaux éléments, modifications de texte et modifications de formatage s&#39;affichent à mesure qu&#39;ils sont ajoutés, avec l&#39;emplacement de leur éditeur sur la page indiquée avec une sélection de texte codée en couleur, un nom de bannière et un avatar (le cas échéant).
+Plusieurs éditeurs travaillant sur un seul article verront d’autres personnes travailler sur la page en temps réel. Les nouveaux éléments, les modifications de texte et les modifications de mise en forme s’affichent au fur et à mesure de leur ajout, l’emplacement de leur éditeur sur la page étant indiqué par une sélection de texte codé par couleur, une bannière de nom et un avatar (le cas échéant).
 
-Tous les éditeurs possèdent tous les droits et privilèges nécessaires pour modifier votre récit, notamment le droit à :
+Tous les éditeurs disposent de tous les droits et privilèges nécessaires pour modifier votre article, y compris le droit de :
 
-* Annuler et rétablir le travail d&#39;autres utilisateurs.
-* Publication de nouveaux contenus ou changements
+* Annuler et rétablir le travail des autres.
+* Publication d’un nouveau contenu ou de modifications
 * Suppression de contenu
-* Modifiez les blocs de texte.
+* Modifier des blocs de texte.
 * Ajouter des titres.
 
