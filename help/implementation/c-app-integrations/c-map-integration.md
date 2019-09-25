@@ -1,10 +1,10 @@
 ---
-description: Faire correspondre le contenu d'un utilisateur à une carte interactive.
-seo-description: Faire correspondre le contenu d'un utilisateur à une carte interactive.
+description: Traçage du contenu utilisateur vers une carte interactive.
+seo-description: Traçage du contenu utilisateur vers une carte interactive.
 seo-title: Carte
 solution: Experience Manager
 title: Carte
-uuid: 1 c 3 e 399 d-a 610-4 b 80-a 3 b 2-a 5502 b 31480 d
+uuid: 1c3e399d-a610-4b80-a3b2-a5502b31480d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,31 +13,31 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Carte{#map}
 
-Faire correspondre le contenu d&#39;un utilisateur à une carte interactive.
+Traçage du contenu utilisateur vers une carte interactive.
 
-Carte vous permet de diffuser du contenu géographiquement placé sur une carte du monde, ce qui vous permet de localiser l&#39;buzz social autour de la rupture d&#39;actualités ou d&#39;un événement en direct. Tous les contenus applicables s&#39;affichent, y compris le texte, les commentaires, les photos et les tweets.
+Map vous permet de diffuser du contenu géolocalisé sur une carte du monde, ce qui vous permet de localiser le buzz social autour des dernières nouvelles ou d'un événement en direct. Tout le contenu applicable s’affiche, y compris le texte, les commentaires, les photos et les tweets.
 
 >[!NOTE]
 >
->Les cartes sont pilotées par [© openstreetmap](https://www.openstreetmap.org/copyright), qui fournit les données utilisées par Livefyre pour générer ses cartes.
+>Les cartes sont alimentées par [© OpenStreetMap](https://www.openstreetmap.org/copyright), qui fournit les données que Livefyre utilise pour rendre ses cartes.
 
-## Analytics{#section_w2m_db2_d1b}
+## Analytics {#section_w2m_db2_d1b}
 
-La méthode la plus rapide pour utiliser Carte consiste à utiliser la version construite hébergée sur le CDN Livefyre.
+Le moyen le plus rapide d'utiliser Map est d'utiliser la version intégrée hébergée sur le CDN de Livefyre.
 
-Ajoutez d&#39;abord [Livefyre. js](https://github.com/Livefyre/Livefyre.js) à votre page.
+Tout d’abord, ajoutez [Livefyre.js](https://github.com/Livefyre/Livefyre.js) à votre page.
 
 ```
 <script src="https://cdn.livefyre.com/Livefyre.js"></script> 
 ```
 
-Positionnez ensuite l&#39;élément dans lequel l&#39;application Map apparaîtra.
+Positionnez ensuite l’élément dans lequel l’application de mappage apparaîtra.
 
 ```
 <div id="map" style="height: 500px;"></div>
 ```
 
-Enfin, utilisez Livefyre. require pour construire le mappage et obtenir une collection à afficher à partir de streamhub-sdk. N&#39;oubliez pas que Carte peut afficher uniquement le contenu avec des métadonnées géographiquement. Twitter et Instagram Traitate prennent en charge cette fonctionnalité. Pour garantir de meilleures performances, incluez un filtre de géolocalisation sur toutes vos règles de traitement pour la collection.
+Enfin, utilisez Livefyre.require pour construire la carte, et obtenir une collection à l'entrée à partir du streaming hub-sdk. Gardez à l’esprit que le mappage ne peut afficher que le contenu avec des métadonnées géolocalisées. Twitter et Instagram Curate prennent en charge cette fonctionnalité. Pour optimiser les performances, incluez un filtre de géolocalisation sur toutes les règles de traitement de la collection.
 
 ```
 <script> 
@@ -56,13 +56,13 @@ function (Map, SDK) {
 </script>
 ```
 
-Consultez cet [exemple en direct](https://codepen.io/cheung31/pen/wkmbF).
+Regardez cet exemple [en](https://codepen.io/cheung31/pen/wkmbF)direct.
 
 ## Configuration {#section_jc5_gxb_c1b}
 
 `initial`
 
-nombre initial d&#39;éléments à charger à partir de la collection et affichés sur la carte. Une fois ce nombre chargé, les utilisateurs peuvent cliquer sur un bouton pour afficher plus d&#39;informations. (Facultatif. Par défaut, 50.)
+Nombre initial d’éléments à charger à partir de la collection et à afficher sur la carte. Une fois ce nombre chargé, les utilisateurs peuvent cliquer sur un bouton pour en afficher davantage. (Facultatif. La valeur par défaut est 50.)
 
 ```
 var map = new Map({ 
@@ -73,7 +73,7 @@ var map = new Map({
 
 `leafletMapOptions`
 
-Options à transmettre à la carte [sous-jacente,](https://leafletjs.com/) que Carte utilise pour le rendu. Utilisez cette option pour définir [les options de Carte de la feuille](https://leafletjs.com/reference.html#map-options), y compris le point centré initial de la carte, ainsi que les niveaux de zoom initial et maximal. (Facultatif)
+Options à transmettre au mappage [de la brochure](https://leafletjs.com/) sous-jacente, que Map utilise pour le rendu. Utilisez cette option pour définir les options [de zone cliquable](https://leafletjs.com/reference.html#map-options)de la brochure, y compris le point central initial de la carte et les niveaux de zoom initial et maximal. (Facultatif.)
 
 ```
 var map = new Map({ 
