@@ -1,10 +1,10 @@
 ---
-description: Ajoutez et gérez des utilisateurs et des visiteurs du site avec un réseau Studio et Livefyre.
-seo-description: Ajoutez et gérez des utilisateurs et des visiteurs du site avec un réseau Studio et Livefyre.
-seo-title: Utilisateurs Gestion des utilisateurs Studio et Livefyre Network Users
+description: Ajoutez et gérez les utilisateurs et les visiteurs du site avec le réseau Studio et Livefyre.
+seo-description: Ajoutez et gérez les utilisateurs et les visiteurs du site avec le réseau Studio et Livefyre.
+seo-title: Utilisateurs Gestion des utilisateurs du réseau Studio et Livefyre
 solution: Experience Manager
-title: Utilisateurs Gestion des utilisateurs Studio et Livefyre Network Users
-uuid: e 9 f 5 c 0 f 3-4 a 10-4 e 81-9267-112541 f 7 dd 46
+title: Utilisateurs Gestion des utilisateurs du réseau Studio et Livefyre
+uuid: e9f5c0f3-4a10-4e81-9267-112541f7dd46
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,6 +13,6 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Utilisateurs : Gestion des utilisateurs du réseau Studio et Livefyre{#users-managing-studio-and-livefyre-network-users}
 
-Ajoutez et gérez des utilisateurs et des visiteurs du site avec un réseau Studio et Livefyre.
+Ajoutez et gérez les utilisateurs et les visiteurs du site avec le réseau Studio et Livefyre.
 
-La page Utilisateurs de Studio répertorie tous les utilisateurs de la base de données Livefyre pour votre réseau, y compris les deux fins : les utilisateurs qui ont créé un compte pour interagir avec vos applications et vos utilisateurs Studio autorisés. Cette page vous permet d&#39;afficher les informations utilisateur, y compris les noms d&#39;utilisateur, les adresses électroniques et la date associée, et de gérer l&#39;accès Studio.
+La page Utilisateurs de Studio répertorie tous les utilisateurs de la base de données Livefyre de votre réseau, y compris les utilisateurs finaux qui ont créé un compte pour interagir avec vos applications et les utilisateurs autorisés de Studio. Cette page vous permet d'afficher des informations sur l'utilisateur, notamment les noms d'utilisateur, les adresses électroniques et la date de connexion, et de gérer l'accès Studio.
