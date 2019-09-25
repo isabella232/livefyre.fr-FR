@@ -1,29 +1,29 @@
 ---
-description: Notes de mise à jour pour la version du 14 septembre 2017.
-seo-description: Notes de mise à jour pour la version du 14 septembre 2017.
+description: Notes de mise à jour de la version du 14 septembre 2017.
+seo-description: Notes de mise à jour de la version du 14 septembre 2017.
 seo-title: 14 septembre 2017
 title: 14 septembre 2017
-uuid: 6 d 802 e 5 c-b 029-40 ad-ada 6-dc 380 f 1 bcfd 5
+uuid: 6d802e5c-b029-40ad-ada6-dc380f1bcfd5
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 14 septembre 2017{#september}
+# September 14, 2017{#september}
 
-Notes de mise à jour pour la version du 14 septembre 2017.
+Notes de mise à jour de la version du 14 septembre 2017.
 
 ## Version de production
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| Bogue | Studio | Correction d&#39;un bogue qui empêchait l&#39;affichage immédiat des mises à jour de statut des droits sans actualisation de page. |
-| Amélioration | Studio | A subi la modification des droits modaux pour les pages Bibliothèque et Recherche sociale. Possibilité d&#39;octroyer et de révoquer manuellement des droits sur les ressources. Les messages d&#39;erreur/d&#39;avertissement sont plus clairs et vous aident à envoyer des requêtes et des réponses de droits valides. Un historique des activités amélioré s&#39;affiche désormais dans le modal. |
+| bogue | Studio | Correction d’un bogue qui empêchait l’affichage immédiat des mises à jour de l’état des droits sans actualisation de la page. |
+| Amélioration | Studio | Révision du module Droits pour les pages Bibliothèque et Recherche sociale. Ajout de la possibilité d’octroyer et de révoquer manuellement des droits sur des ressources. Les messages d’erreur/d’avertissement sont plus clairs et vous aident à envoyer des demandes de droits et des réponses valides. L’historique des activités s’affiche désormais dans le module modal. |
 
 ## Version UAT
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| Bogue | Mosaic | Bogue de production qui a rendu les zones grises d&#39;affichage de Mosaic dans IE 11 en UGC. Nous avons corrigé ce problème. -sp |
+| bogue | Mosaïque | Un bogue de production qui a fait que Mosaic affichait des boîtes grises dans IE11 dans UGC. Nous avons réparé ceci. -SP |
 
