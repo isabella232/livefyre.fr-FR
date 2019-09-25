@@ -1,25 +1,25 @@
 ---
-description: Renvoie un jeton authentifié authentifié pour le réseau à partir duquel il est appelé.
-seo-description: Renvoie un jeton authentifié authentifié pour le réseau à partir duquel il est appelé.
-seo-title: Méthode réseau builduserauthtoken
+description: Renvoie un jeton chiffré authentifié par l’utilisateur pour le réseau à partir duquel il est appelé.
+seo-description: Renvoie un jeton chiffré authentifié par l’utilisateur pour le réseau à partir duquel il est appelé.
+seo-title: buildUserAuthToken, méthode réseau
 solution: Experience Manager
-title: Méthode réseau builduserauthtoken
-uuid: 8828 d 356-c 3 c 6-46 a 6-91 bf -83 bd 59 e 35050
+title: buildUserAuthToken, méthode réseau
+uuid: 8828d356-c3c6-46a6-91bf-83bd59e35050
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode réseau builduserauthtoken{#builduserauthtoken-network-method}
+# buildUserAuthToken, méthode réseau{#builduserauthtoken-network-method}
 
-Renvoie un jeton authentifié authentifié pour le réseau à partir duquel il est appelé.
+Renvoie un jeton chiffré authentifié par l’utilisateur pour le réseau à partir duquel il est appelé.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| Userid | Chaîne | Utilisateur - id de l&#39;utilisateur auquel ce jeton appartient. |
-| Displayname | Chaîne | Nom d&#39;affichage de l&#39;utilisateur. |
-| expire | Double | Lorsque le jeton doit expirer en secondes. |
+| l’userID | Chaîne | ID utilisateur de l’utilisateur auquel appartient ce jeton. |
+| displayName | Chaîne | Nom d’affichage de l’utilisateur. |
+| expire | Double | Date à laquelle le jeton doit expirer en secondes. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
@@ -33,7 +33,7 @@ Exemple de sortie :
 eyJhbGciOiJIUzI1NiJ9.eyJkb21haW4iOiJ0ZXN0LmZ5cmUuY29tIiwidXNlcl9pZCI6InN5c3RlbSIsImRpc3BsYXlfbmFtZSI6InN5c3RlbSIsImV4cGlyZXMiOjEzOTY2NTUwODN9.33GuJF_ou2O6CCV22Y3PlLUgP2Igy9vAXfmLONkt-Yo 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 network.buildUserAuthToken(userId, displayName, expires); 
