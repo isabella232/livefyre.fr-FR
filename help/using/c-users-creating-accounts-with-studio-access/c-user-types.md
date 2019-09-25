@@ -1,61 +1,61 @@
 ---
-description: Livefyre fournit plusieurs types d'utilisateurs avec différents niveaux d'autorisations.
-seo-description: Livefyre fournit plusieurs types d'utilisateurs avec différents niveaux d'autorisations.
+description: Livefyre fournit plusieurs types d’utilisateurs avec différents niveaux d’autorisations.
+seo-description: Livefyre fournit plusieurs types d’utilisateurs avec différents niveaux d’autorisations.
 seo-title: Rôles utilisateur et autorisations
 solution: Experience Manager
 title: Rôles utilisateur et autorisations
-uuid: d 9261 cfd-ae 60-40 d 8-9816-25 aef 541506 f
+uuid: d9261cfd-ae60-40d8-9816-25aef541506f
 translation-type: tm+mt
 source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
 
 ---
 
 
-# Rôles utilisateur et autorisations{#user-roles-and-permissions}
+# User Roles and Permissions{#user-roles-and-permissions}
 
-Livefyre fournit plusieurs types d&#39;utilisateurs avec différents niveaux d&#39;autorisations.
+Livefyre fournit plusieurs types d’utilisateurs avec différents niveaux d’autorisations.
 
-Les rôles d&#39;utilisateur suivants et les privilèges d&#39;accès répertoriés sont disponibles dans Studio :
+Les rôles utilisateur et privilèges d’accès répertoriés suivants sont disponibles dans Studio :
 
 >[!NOTE]
 >
->Pour tous les rôles, à l&#39;exception de l&#39;administrateur, les utilisateurs peuvent accéder uniquement aux dossiers ou aux sites publics ou partagés avec eux.
+>Pour tous les rôles, à l’exception de l’administrateur, les utilisateurs ne peuvent accéder qu’aux dossiers ou aux sites publics ou partagés avec eux.
 
 * **Administrateur Studio**
    * Accès à tous les droits et autorisations dans Studio
-   * Gérer le roulement des utilisateurs
-   * Affichage et modification des paramètres d&#39;intégration
-   * Affichage et modification de tous les dossiers, applications et flux publics et privés
+   * Gérer les rôles utilisateur
+   * Affichage et modification des paramètres d’intégration
+   * Afficher et modifier tous les dossiers, applications et flux publics et privés
 
 * **Studio Manager**
-   * Création de sites
-   * Invitation d&#39;utilisateurs à Studio
+   * Créer de nouveaux sites
+   * Invitation d’utilisateurs vers Studio
    * Affichage et modification des rôles utilisateur
-   * Interdiction des navigateurs et adresses IP
+   * Interdire les navigateurs et les adresses IP
 
 * **Asset Manager**
-   * Ajout de ressources à la bibliothèque à l&#39;aide de la recherche sur les réseaux sociaux
-   * Création et modification de flux qui acheminent le port vers des dossiers partagés
+   * Ajout de fichiers à la bibliothèque à l’aide de la recherche sur les réseaux sociaux
+   * Création et modification de flux qui dirigent vers des dossiers partagés
    * Création et modification de dossiers partagés et de ressources dans des dossiers partagés
 
 * **User Manager**
-   * Affichage et modification de la fin - Détails du compte utilisateur
-   * Fin ou Liste blanche - Utilisateurs
+   * Afficher et modifier les détails du compte d’utilisateur final
+   * Interdiction ou autorisation des utilisateurs finaux
 
-* **Gestionnaire de données :** accorde l&#39;accès au tableau de bord Livefyre Analytics.
+* **** Gestionnaire de données : autorise l’accès à l’utilisation du tableau de bord Livefyre Analytics.
 * **App Manager**
-   * Création et modification d&#39;applications
-   * Création et modification de flux pointant vers des applications
-   * Ajout de ressources directement aux applications à l&#39;aide de la recherche sur les réseaux sociaux
+   * Création et modification d’applications
+   * Création et modification de flux qui pointent vers des applications
+   * Ajout direct de ressources aux applications à l’aide de la recherche sur les réseaux sociaux
 
-* **Gestionnaire de contenu :**
-   * Affichage et modération du contenu à l&#39;aide de la page Contenu de l&#39;application
-   * Ajout et modification de balises, d&#39;indicateurs, de notes et de requêtes de droits pour le contenu
+* **Content Manager :**
+   * Affichage et modération de contenu à l’aide de la page Contenu de l’application
+   * Ajouter et modifier des balises, des indicateurs, des notes et des demandes de droits pour du contenu
 
-* **Modérateur :**
-   * Accès à modq
-   * Droit de modérer le contenu
+* **Modérateur:**
+   * Accès à ModQ
+   * Le droit de modérer le contenu
 
 >[!NOTE]
 >
->Les rôles d&#39;utilisateur au niveau du site n&#39;autorisent l&#39;autorisation qu&#39;au site sélectionné. Les rôles accordés à ce niveau n&#39;auront pas accès aux autres sites ou réseaux.
+>Les rôles d’utilisateur au niveau du site n’autorisent que le site sélectionné. Les rôles octroyés à ce niveau n'auront pas accès à d'autres sites ou réseaux.
