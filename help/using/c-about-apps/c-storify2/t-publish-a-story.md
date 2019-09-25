@@ -1,25 +1,25 @@
 ---
-description: Publiez un Storify 2 sur votre site.
-seo-description: Publiez un Storify 2 sur votre site.
-seo-title: Publication d'un article
+description: Publiez une Storify 2 sur votre site.
+seo-description: Publiez une Storify 2 sur votre site.
+seo-title: Publication d’un article
 solution: Experience Manager
-title: Publication d'un article
-uuid: 2 fbf 0 ab 3-ae 59-4 dac -8 a 4 d-e 076 bb 5 e 477 a
+title: Publication d’un article
+uuid: 2fbf0ab3-ae59-4dac-8a4d-e076bb5e477a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Publication d&#39;un article{#publish-a-story}
+# Publication d’un article{#publish-a-story}
 
-Publiez un Storify 2 sur votre site.
+Publiez une Storify 2 sur votre site.
 
-Studio enregistre automatiquement votre application une fois les modifications apportées à ses options de configuration.
+Studio enregistrera automatiquement votre application après toute modification apportée à ses options de configuration.
 
 >[!NOTE]
 >
->Cliquer **[!UICONTROL Publish]** génère un code incorporé pour l&#39;application et met à jour toutes les instances existantes de l&#39;application si précédemment publiées.
+>Le fait de cliquer sur **[!UICONTROL Publish]** génère un code incorporé pour l’application et met à jour toutes les instances existantes de l’application si elles ont déjà été publiées.
 
-1. Cliquez pour **[!UICONTROL Publish]** générer un code incorporé ou pour mettre à jour toutes les versions précédemment publiées de cette application avec la version actuelle.
-1. Ajoutez le code incorporé à votre page pour ajouter l&#39;application et afficher tout contenu précédemment publié.
+1. Cliquez sur **[!UICONTROL Publish]** pour générer un code incorporé ou pour mettre à jour toutes les versions précédemment publiées de cette application avec la version actuelle.
+1. Ajoutez le code incorporé à votre page pour ajouter l’application et afficher tout contenu publié précédemment.
