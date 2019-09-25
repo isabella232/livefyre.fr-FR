@@ -1,35 +1,35 @@
 ---
-description: Vous pouvez utiliser Livefyre Identity avec linkedin pour permettre aux utilisateurs d'utiliser leurs connexions linkedin pour interagir avec les applications sur votre site.
-seo-description: Vous pouvez utiliser Livefyre Identity avec linkedin pour permettre aux utilisateurs d'utiliser leurs connexions linkedin pour interagir avec les applications sur votre site.
-seo-title: Création d'une application linkedin pour une utilisation avec Livefyre Identité
+description: Vous pouvez utiliser l’identité Livefyre avec LinkedIn pour permettre aux utilisateurs d’utiliser leurs connexions LinkedIn pour interagir avec les applications sur votre site.
+seo-description: Vous pouvez utiliser l’identité Livefyre avec LinkedIn pour permettre aux utilisateurs d’utiliser leurs connexions LinkedIn pour interagir avec les applications sur votre site.
+seo-title: Création d’une application LinkedIn à utiliser avec l’identité Livefyre
 solution: Experience Manager
-title: Création d'une application linkedin pour une utilisation avec Livefyre Identité
-uuid: c 5112 f 24-a 4 e 0-4526-afe 8-b 8 f 27 a 3 b 2854
+title: Création d’une application LinkedIn à utiliser avec l’identité Livefyre
+uuid: c5112f24-a4e0-4526-afe8-b8f27a3b2854
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Création d&#39;une application linkedin pour une utilisation avec Livefyre Identité{#create-a-linkedin-app-for-use-with-livefyre-identity}
+# Création d’une application LinkedIn à utiliser avec l’identité Livefyre{#create-a-linkedin-app-for-use-with-livefyre-identity}
 
-Vous pouvez utiliser Livefyre Identity avec linkedin pour permettre aux utilisateurs d&#39;utiliser leurs connexions linkedin pour interagir avec les applications sur votre site.
+Vous pouvez utiliser l’identité Livefyre avec LinkedIn pour permettre aux utilisateurs d’utiliser leurs connexions LinkedIn pour interagir avec les applications sur votre site.
 
-Pour activer la connexion linkedin, Livefyre requiert les informations d&#39;application linkedin suivantes :
+Pour activer la connexion LinkedIn, Livefyre requiert les informations suivantes sur l’application LinkedIn :
 
-* Clé du consommateur (clé API)
-* Secret du consommateur (secret API)
+* Clé de consommateur (clé API)
+* Secret consommateur (secret API)
 
-Pour créer une application linkedin à utiliser avec Livefyre Identity :
+Pour créer une application LinkedIn à utiliser avec l’identité Livefyre :
 
-1. Accédez à https://www.linkedin.com/secure/developer, puis connectez-vous à votre compte linkedin pour créer une nouvelle application ou sélectionnez une application existante pour l&#39;utiliser avec Livefyre Identity.
-1. Cliquez **[!UICONTROL Create Application]** sur.
-1. Remplissez le formulaire pour créer l&#39;application.
-1. Dans le **[!UICONTROL Default Application Permissions]**, activez les autorisations **[!UICONTROL r_basicprofile]** et **[!UICONTROL r_emailaddress]** l&#39;application.
-1. Entrez le **[!UICONTROL OAuth 2.0 Authorized Redirect URL]** sous `https://identity.livefyre.com/{network-name}.fyre.co/api/v1.0/public/profile/social/complete/linkedin_fyre`-formulaire.
-1. Enregistrez l&#39;application.
-1. Dans **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > LinkedIn]**, basculez sur **[!UICONTROL Enable LinkedIn Login]****[!UICONTROL On]** la bascule.
-1. Saisissez l&#39;identifiant client linkedin et la clé secrète client linkedin.
-1. Cliquez **[!UICONTROL Save Settings]** sur.
+1. Accédez à https://www.linkedin.com/secure/developer, puis connectez-vous à votre compte LinkedIn pour créer une application ou sélectionner une application existante à utiliser avec l’identité Livefyre.
+1. Cliquez sur **[!UICONTROL Create Application]**.
+1. Remplissez le formulaire pour créer l’application.
+1. Dans **[!UICONTROL Default Application Permissions]**, activez les autorisations **[!UICONTROL r_basicprofile]** et **[!UICONTROL r_emailaddress]** d’application.
+1. Entrez la **[!UICONTROL OAuth 2.0 Authorized Redirect URL]** valeur sous `https://identity.livefyre.com/{network-name}.fyre.co/api/v1.0/public/profile/social/complete/linkedin_fyre`.
+1. Enregistrez l’application.
+1. Dans **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > LinkedIn]** le cas présent, basculez la **[!UICONTROL Enable LinkedIn Login]** bascule sur **[!UICONTROL On]**.
+1. Saisissez l’ID client LinkedIn et la clé secrète client LinkedIn.
+1. Cliquez sur **[!UICONTROL Save Settings]**.
 
-Une fois l&#39;opération terminée, la page Détails de l&#39;application linkedin répertorie la clé API de l&#39;application (clé du consommateur) et la clé secrète API (clé secrète Consumer) à utiliser dans la page Paramètres d&#39;intégration de Studio.
+Une fois l’application terminée, la page des détails de l’application LinkedIn répertorie la clé d’API de l’application (clé du consommateur) et la clé secrète de l’API (clé du consommateur) à utiliser dans la page des paramètres d’intégration de Studio.
