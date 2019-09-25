@@ -1,17 +1,17 @@
 ---
 description: Tente de créer ou de mettre à jour cette collection avec Livefyre. Renvoie cet objet Collection.
 seo-description: Tente de créer ou de mettre à jour cette collection avec Livefyre. Renvoie cet objet Collection.
-seo-title: Createorupdate Collection Method
+seo-title: createOrUpdate, méthode de collecte
 solution: Experience Manager
-title: Createorupdate Collection Method
-uuid: 1 fff 82 d 3-4 b 05-46 a 0-95 ca -3 eb 4 a 6256 cf 8
+title: createOrUpdate, méthode de collecte
+uuid: 1fff82d3-4b05-46a0-95ca-3eb4a6256cf8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Createorupdate Collection Method{#createorupdate-collection-method}
+# createOrUpdate, méthode de collecte{#createorupdate-collection-method}
 
 Tente de créer ou de mettre à jour cette collection avec Livefyre. Renvoie cet objet Collection.
 
@@ -21,7 +21,7 @@ Tente de créer ou de mettre à jour cette collection avec Livefyre. Renvoie cet
 collection.createOrUpdate(); 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 collection.createOrUpdate(callback); 
