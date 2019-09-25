@@ -1,10 +1,10 @@
 ---
-description: Configurez les informations d'identification qui permettent aux utilisateurs de partager du contenu sur divers réseaux sociaux.
-seo-description: Configurez les informations d'identification qui permettent aux utilisateurs de partager du contenu sur divers réseaux sociaux.
+description: Configurez des informations d’identification qui permettent aux utilisateurs de partager du contenu sur divers réseaux sociaux.
+seo-description: Configurez des informations d’identification qui permettent aux utilisateurs de partager du contenu sur divers réseaux sociaux.
 seo-title: Activation du partage sur les réseaux sociaux
 solution: Experience Manager
 title: Activation du partage sur les réseaux sociaux
-uuid: f 584 a 0 ae -46 c 7-48 c 1-aea 4-36 da 9 f 1 e 259 b
+uuid: f584a0ae-46c7-48c1-aea4-36da9f1e259b
 translation-type: tm+mt
 source-git-commit: d77b633b9892e3ea4aaec860317887f1fdf66830
 
@@ -13,64 +13,64 @@ source-git-commit: d77b633b9892e3ea4aaec860317887f1fdf66830
 
 # Activation du partage sur les réseaux sociaux {#enabling-social-sharing}
 
-Configurez les informations d&#39;identification qui permettent aux utilisateurs de partager du contenu sur divers réseaux sociaux.
+Configurez des informations d’identification qui permettent aux utilisateurs de partager du contenu sur divers réseaux sociaux.
 
-Pour permettre aux utilisateurs de partager du contenu sur des sites de médias sociaux, mettez en œuvre la fonction de partage sur les réseaux sociaux de Livefyre et créez un système oauth pour fournir une authentification appropriée à ces sites. Avec ce système, Livefyre agit au nom de l&#39;utilisateur lorsqu&#39;il choisit de partager du contenu par le biais de médias sociaux.
-
->[!NOTE]
->
->Différents fournisseurs possèdent des exigences oauth différentes. Contactez vos fournisseurs pour obtenir les informations associées à leur implémentation d&#39;oauth.
-
-## Informations d&#39;identification sociales requises {#section_gff_cjm_b1b}
-
-Si vous utilisez un système d&#39;identité utilisateur personnalisé, vous devez fournir vos informations d&#39;identification sociales pour permettre aux utilisateurs de partager sur Twitter, Facebook ou linkedin à partir d&#39;une application Livefyre.
+Pour permettre aux utilisateurs de partager du contenu sur les sites de médias sociaux, mettez en oeuvre la fonctionnalité de partage sur les réseaux sociaux de Livefyre et créez un système OAuth pour fournir une authentification appropriée à ces sites. Avec ce système, Livefyre agit au nom de l’utilisateur lorsqu’il choisit de partager du contenu sur les réseaux sociaux.
 
 >[!NOTE]
 >
->Les clients qui utilisent Janrain impliquent ne doivent fournir que leur domaine d&#39;interaction et la clé d&#39;API Interagir.
+>Différents fournisseurs ont des exigences OAuth différentes. Veuillez consulter vos fournisseurs pour obtenir les informations associées à leur implémentation d’OAuth.
 
-Utilisez le panneau Paramètres d&#39;intégration de la Console d&#39;administration pour saisir ou mettre à jour les informations d&#39;identification sociales suivantes.
+## Identifiants sociaux requis {#section_gff_cjm_b1b}
 
-### Informations d&#39;identification requises :
+Si vous utilisez un système d’identité utilisateur personnalisé, vous devez fournir vos informations d’identification sociales pour permettre aux utilisateurs de partager sur Twitter, Facebook ou LinkedIn à partir d’une application Livefyre.
 
-* **Identifiant** du client Facebook Secret du client oauth Redirection du proxy
-* **Clé API Key** API linkedin
-* **Jeton** d&#39;accès de jeton d&#39;accès Twitter clé secrète API clé secrète
+>[!NOTE]
+>
+>Les clients qui utilisent Janrain Engage doivent uniquement fournir leur domaine d’intervention et leur clé API d’engagement.
+
+Utilisez le panneau Paramètres d’intégration de la Console d’administration pour saisir ou mettre à jour les informations d’identification sociales suivantes.
+
+### Informations d’identification requises :
+
+* **Redirection du proxy OAuth secrète du client Facebook** ID client
+* **Clé secrète API de clé LinkedIn** API
+* **Secret de l’API clé secrète API secrète du jeton d’accès Twitter** Access
 
 ## Twitter {#section_qp5_1yl_b1b}
 
-Les informations d&#39;identification Twitter sont disponibles à partir du tableau de bord de l&#39;application Twitter. Pour trouver ces informations d&#39;identification :
+Les informations d’identification Twitter sont disponibles à partir du tableau de bord des applications Twitter. Pour rechercher ces informations d’identification :
 
-* Ouvrez [la page de développement d&#39;applications Twitter](https://dev.twitter.com/apps) en tant que propriétaire de l&#39;application, recherchez votre application, puis cliquez sur le titre.
-* Faites défiler l&#39;écran jusqu&#39;à « Votre jeton d&#39;accès » et saisissez les valeurs de « Jeton d&#39;accès » et « Secret d&#39;accès ».  » »
+* Ouvrez la page [App Dev de](https://dev.twitter.com/apps) Twitter en tant que propriétaire de l’application, recherchez votre application, puis cliquez sur le titre.
+* Faites défiler l’écran jusqu’à "Votre jeton d’accès" et saisissez les valeurs de "Jeton d’accès" et "Jeton d’accès secret".
 
 Vous devez :
 
-* Saisissez une valeur pour le champ URL de rappel dans l&#39;application Twitter. Bien que ce champ soit un espace réservé simple, il ne peut pas rester vide.
-* Définissez le type d&#39;application pour qu&#39;il dispose à la fois **d&#39;un accès en lecture** et **en écriture** .
-* Vérifiez que l&#39;URL du site Web de l&#39;application Twitter se trouve sur le même domaine hôte que l&#39;application Livefyre Core.
+* Entrez une valeur pour le champ URL de rappel dans l’application Twitter. Ce champ peut être un simple espace réservé, mais il ne peut pas être vide.
+* Définissez le type d’application pour qu’il dispose à la fois d’un accès en **lecture** et en **écriture** .
+* Vérifiez que l’URL du site Web de l’application Twitter se trouve sur le même domaine hôte que l’application LiveCycle Core.
 
 >[!NOTE]
 >
->Toutes les applications qui affichent du contenu Twitter sont requises pour répondre aux exigences d&#39;affichage. Pour plus d&#39;informations, [consultez les instructions](https://dev.twitter.com/terms/display-requirements) d&#39;affichage Twitter.
+>Toutes les applications qui affichent du contenu Twitter doivent respecter leurs exigences en matière d’affichage. Pour plus d’informations, consultez les [directives](https://dev.twitter.com/terms/display-requirements) d’affichage Twitter.
 
-## Linkedin {#section_lfz_zxl_b1b}
+## LinkedIn {#section_lfz_zxl_b1b}
 
-Les informations d&#39;identification linkedin sont disponibles dans la section Clés oauth des clés d&#39;API de l&#39;application linkedin.
+Les informations d’identification LinkedIn sont disponibles dans la section Clés OAuth des clés d’API de votre application LinkedIn.
 
-* Connectez-vous à votre compte à partir de la page Développeurs linkedin [https://developer.linkedin.com/](https://developer.linkedin.com/).
-* Passez la souris sur votre nom en haut à droite et sélectionnez Clés d&#39;API dans le menu déroulant.
-* Cliquez sur le titre de l&#39;application.
-* Capture des valeurs Clé API et Clé secrète dans la section Clés oauth
+* Connectez-vous à votre compte à partir de la page Développeurs de LinkedIn [https://developer.linkedin.com/](https://developer.linkedin.com/).
+* Passez la souris sur votre nom dans le coin supérieur droit, puis sélectionnez Clés d’API dans le menu déroulant.
+* Cliquez sur le titre de la demande.
+* Récupérez les valeurs de clé API et de clé secrète dans la section Clés OAuth.
 
 ## Facebook {#section_zyb_gpl_b1b}
 
-Les informations d&#39;identification Facebook sont disponibles sur la page Applications développeur.
+Les informations d’identification Facebook sont disponibles sur votre page Applications de développement.
 
-* Ouvrez [la page Applications développeur Facebook](https://developers.facebook.com/apps) comme propriétaire de l&#39;application, recherchez votre application, puis cliquez sur le titre.
-* Prenez les valeurs de l&#39;ID d&#39;application et de la clé secrète de l&#39;application. Pour le secret d&#39;application, vous devrez peut-être cliquer sur le bouton Afficher pour l&#39;afficher.
+* Ouvrez la page [Applications de développement de](https://developers.facebook.com/apps) Facebook en tant que propriétaire de l’application, recherchez votre application, puis cliquez sur le titre.
+* Saisissez les valeurs de l’ID d’application et du secret d’application. Pour le secret de l’application, vous devrez peut-être cliquer sur le bouton Afficher pour l’afficher.
 
-Le partage sur Facebook requiert que vous configuriez une page de redirection pour répondre aux demandes Facebook et respecter les pratiques de domaine requises par [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/). La page doit être hébergée sur votre domaine afin que Facebook puisse vérifier que la requête provient d&#39;une source légitime.
+Le partage sur Facebook requiert que vous configuriez une page de redirection pour répondre aux demandes Facebook et adhérer aux pratiques de domaine requises par [Facebook](https://developers.facebook.com/docs/reference/dialogs/oauth/). La page doit être hébergée sur votre domaine afin que Facebook puisse vérifier que la requête provient d’une source légitime.
 
 ### Redirection Facebook
 
@@ -78,7 +78,7 @@ La page hébergée doit inclure le code suivant :
 
 ### Ruby
 
-Il s&#39;agit d&#39;un exemple utilisant Ruby et Rails pour effectuer la redirection Oauth Facebook.
+Voici un exemple d'utilisation de Ruby et Rails pour rediriger Facebook OAuth.
 
 ```ruby
 require "base64" 
@@ -115,7 +115,7 @@ end
 
 ### Python
 
-Il s&#39;agit d&#39;un exemple utilisant Python et Django pour effectuer la redirection oauth Facebook.
+Voici un exemple d'utilisation de Python et Django pour rediriger Facebook OAuth.
 
 ```python
 import base64, re 
@@ -155,9 +155,9 @@ def handle_lfoauth(request):
     return HttpResponseRedirect(rdir)
 ```
 
-### Nodejs
+### NodeJS
 
-Il s&#39;agit d&#39;un exemple utilisant nodejs et Sail/Express pour effectuer la redirection oauth Facebook.
+Voici un exemple d’utilisation de NodeJS et de Sail/Express pour rediriger Facebook OAuth.
 
 ```nodejs
 /* 
@@ -200,9 +200,9 @@ module.exports = {
 };
 ```
 
-### Java 
+### Java
 
-Il s&#39;agit d&#39;un exemple utilisant les contrôleurs Java et Spring pour effectuer la redirection oauth Facebook.
+Voici un exemple d’utilisation des contrôleurs Java et Spring pour rediriger Facebook OAuth.
 
 ```java
 /* 
@@ -329,9 +329,9 @@ if (isset($_GET['lfoauth'])) {
 ?>
 ```
 
-## Configuration des fournisseurs de publication {#section_rdk_dpl_b1b}
+## Configuration des fournisseurs "Post to" {#section_rdk_dpl_b1b}
 
-Par défaut, les boutons Facebook, linkedin et Twitter « Publier vers » s&#39;affichent sur les applications Livefyre Core. Utilisez le paramètre posttobuttons pour configurer les fournisseurs qui apparaîtront lors de l&#39;intégration de l&#39;application Livefyre.
+Par défaut, les boutons "Publier sur" Facebook, LinkedIn et Twitter s’affichent dans les applications de base Livefyre. Utilisez le paramètre postToButtons pour configurer les fournisseurs qui apparaîtront lors de l’incorporation de l’application Livefyre.
 
 ```
 var convConfig = {}; // Ignoring other options for this example 
@@ -339,8 +339,8 @@ convConfig.postToButtons = ['tw', 'fb', 'li']; // Or any subset of these
 fyre.conv.load(networkConfig, [convConfig], function() {}); 
 ```
 
-`postToButtons` est un tableau avec n&#39;importe quel sous-ensemble des options suivantes :
+`postToButtons` est un tableau avec n’importe quel sous-ensemble des options suivantes :
 
 * tw : Twitter
 * fb : Facebook
-* li : Linkedin
+* li : LinkedIn
