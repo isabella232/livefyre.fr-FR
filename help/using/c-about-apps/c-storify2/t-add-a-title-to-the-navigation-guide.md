@@ -1,20 +1,20 @@
 ---
-description: Donnez un titre à votre guide de navigation pour rendre le contenu clair aux visiteurs de votre site.
-seo-description: Donnez un titre à votre guide de navigation pour rendre le contenu clair aux visiteurs de votre site.
-seo-title: Ajout d'un titre au Guide de navigation
+description: Attribuez un titre à votre Guide de navigation pour rendre le contenu clair aux visiteurs de votre site.
+seo-description: Attribuez un titre à votre Guide de navigation pour rendre le contenu clair aux visiteurs de votre site.
+seo-title: Ajouter un titre au guide de navigation
 solution: Experience Manager
-title: Ajout d'un titre au Guide de navigation
-uuid: 9 b 8 de 96 d -76 c 3-46 d 0-97 ce -338 b 01 f 49 ca 7
+title: Ajouter un titre au guide de navigation
+uuid: 9b8de96d-76c3-46d0-97ce-338b01f49ca7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Ajout d&#39;un titre au Guide de navigation{#add-a-title-to-the-navigation-guide}
+# Ajouter un titre au guide de navigation{#add-a-title-to-the-navigation-guide}
 
-Donnez un titre à votre guide de navigation pour rendre le contenu clair aux visiteurs de votre site.
+Attribuez un titre à votre Guide de navigation pour rendre le contenu clair aux visiteurs de votre site.
 
 1. Ouvrez un article Storify 2.
-1. Dans l&#39;application Storify 2 App Designer, basculez sur **[!UICONTROL Navigation Guide]** la bascule.
-1. Saisissez un titre dans le champ renseigné avec les mots « Ajouter un titre ».  » »
+1. Dans Storify 2 App Designer, activez la **[!UICONTROL Navigation Guide]** bascule.
+1. Entrez un titre dans le champ contenant les mots "Ajouter un titre".
