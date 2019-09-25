@@ -1,30 +1,30 @@
 ---
-description: Utilisez les classes CSS disponibles pour mettre en forme le contenu incitatif différemment des autres contenus de votre application.
-seo-description: Utilisez les classes CSS disponibles pour mettre en forme le contenu incitatif différemment des autres contenus de votre application.
-seo-title: Utiliser CSS pour mettre en forme le contenu incitatif
+description: Utilisez les classes CSS disponibles pour mettre en forme le contenu proposé différemment de tout autre contenu de votre application.
+seo-description: Utilisez les classes CSS disponibles pour mettre en forme le contenu proposé différemment de tout autre contenu de votre application.
+seo-title: Utiliser CSS pour mettre en forme le contenu proposé
 solution: Experience Manager
-title: Utiliser CSS pour mettre en forme le contenu incitatif
-uuid: c 4 ab 648 c-d 81 f -41 b 9-9773-ef 919649 cc 46
+title: Utiliser CSS pour mettre en forme le contenu proposé
+uuid: c4ab648c-d81f-41b9-9773-ef919649cc46
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Utiliser CSS pour mettre en forme le contenu incitatif{#use-css-to-style-featured-content}
+# Utiliser CSS pour mettre en forme le contenu proposé{#use-css-to-style-featured-content}
 
-Utilisez les classes CSS disponibles pour mettre en forme le contenu incitatif différemment des autres contenus de votre application.
+Utilisez les classes CSS disponibles pour mettre en forme le contenu proposé différemment de tout autre contenu de votre application.
 
-Toutes les classes CSS Commentaire peuvent également être appliquées au contenu incitatif.
+Toutes les classes CSS de commentaires peuvent également être appliquées au contenu proposé.
 
-Les classes suivantes peuvent être utilisées pour le contenu incitatif.
+Les classes suivantes peuvent être utilisées pour le contenu proposé.
 
 | Classe | Description |
 |---|---|
-| . fyre-incitatif-content-wrapper | Balise div de conteneur pour le lecteur. |
-| . fyre-feature-header | Barre de titre de début. |
-| . fyre-feature-header-icon | Icône en forme de quill de l&#39;en-tête. |
-| . fyre-feature-title | Texte d&#39;en-tête. |
-| . fyre-feature-body | Balise div du conteneur pour le contenu phare dans le lecteur. |
-| devis-devis | Icône de guillemets qui commence chaque élément de contenu. |
+| .fyre-featured-content-wrapper | Conteneur div pour le lecteur. |
+| .fyre-featured-header | Barre de titre en haut. |
+| .fyre-featured-header-icon | Icône de l’en-tête composée. |
+| .fyre-featured-title | Texte de l’en-tête. |
+| .fyre-featured-body | Div de conteneur pour le contenu incitatif dans le lecteur. |
+| .fyre-featured-quote | Icône de devis qui commence chaque élément de contenu. |
 
