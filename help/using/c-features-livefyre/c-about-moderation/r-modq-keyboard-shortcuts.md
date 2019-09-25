@@ -1,29 +1,29 @@
 ---
-description: Les modérateurs clavier suivants sont disponibles pour les modérateurs dans modq.
-seo-description: Les modérateurs clavier suivants sont disponibles pour les modérateurs dans modq.
-seo-title: Raccourcis clavier de modq
-title: Raccourcis clavier de modq
-uuid: fc 4 e 7796-b 6 b 5-4782-a 0 fc-b 2326 ca 56 d 66
+description: Les raccourcis clavier suivants sont disponibles pour les modérateurs dans ModQ.
+seo-description: Les raccourcis clavier suivants sont disponibles pour les modérateurs dans ModQ.
+seo-title: Raccourcis clavier ModQ
+title: Raccourcis clavier ModQ
+uuid: fc4e7796-b6b5-4782-a0fc-b2326ca56d66
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Raccourcis clavier de modq{#modq-keyboard-shortcuts}
+# Raccourcis clavier ModQ{#modq-keyboard-shortcuts}
 
-Les modérateurs clavier suivants sont disponibles pour les modérateurs dans modq.
+Les raccourcis clavier suivants sont disponibles pour les modérateurs dans ModQ.
 
-| Action | Description | Clavier | Alternative |
+| Action | Description | Clavier | Autre |
 |---|---|---|---|
-| Elément précédent | Sélectionner l&#39;élément au-dessus de l&#39;élément sélectionné | Flèche Haut | K |
-| Elément suivant | Sélectionner l&#39;élément sous l&#39;élément sélectionné | Flèche Bas | J |
-| Approuver le contenu | Marquer le contenu comme approuvé | a |  |
-| Contenu Corbeille | Marquer le contenu comme étant enfoncé | x |  |
-| Contenu Bozo | Marquer le contenu comme Bozo&#39;d | b |  |
-| Haut de file d&#39;attente | Accéder au premier élément en haut de la file d&#39;attente | l |  |
-| Indicateurs de coupure ou d&#39;annulation du son | permet de couper ou d&#39;annuler le silence des indicateurs de l&#39;utilisateur sélectionné. | Maj + M |  |
-| Interdire l&#39;utilisateur | Interdire l&#39;utilisateur sélectionné pour ce site uniquement | Maj + B |  |
-| Utilisateur de liste blanche | Liste blanche de l&#39;utilisateur sélectionné pour ce site uniquement | Maj + W |  |
-| Effacer le filtre du site | Affichage de tous les éléments du réseau | Maj + Q |  |
+| Elément précédent | Sélectionner l'élément au-dessus de l'élément sélectionné | Touche Haut | K |
+| Elément suivant | Sélectionner l'élément sous l'élément actuellement sélectionné | Touche fléchée Bas | J |
+| Approbation de contenu | Marquer le contenu comme Approuvé | a |  |
+| Contenu de la corbeille | Marquer le contenu comme corrompu | x |  |
+| Contenu bozo | Marquer le contenu comme Bozo’d | b |  |
+| Haut de la file d'attente | Accéder au premier élément en haut de la file d’attente | l |  |
+| Désactiver ou désactiver les indicateurs | Désactiver ou désactiver les indicateurs de l’utilisateur sélectionné | Maj + M |  |
+| Interdire l’utilisateur | Interdire l'utilisateur sélectionné pour ce site uniquement | Maj + B |  |
+| Utilisateur de liste blanche | Autoriser l'utilisateur sélectionné pour ce site uniquement | Maj + W |  |
+| Effacer le filtre du site | Afficher tous les éléments du réseau | Maj + Q |  |
 
