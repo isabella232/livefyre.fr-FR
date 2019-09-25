@@ -1,19 +1,19 @@
 ---
-description: Cette méthode renvoie l'URN pour ce réseau.
-seo-description: Cette méthode renvoie l'URN pour ce réseau.
-seo-title: Méthode réseau geturn
+description: Cette méthode renvoie l’URL pour ce réseau.
+seo-description: Cette méthode renvoie l’URL pour ce réseau.
+seo-title: getUrn Network, méthode
 solution: Experience Manager
-title: Méthode réseau geturn
-uuid: e 525 bc 54-d 4 df -490 f-bd 6 a-f 524 f 7 eff 211
+title: getUrn Network Method
+uuid: e525bc54-d4df-490f-bd6a-f524f7eff211
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode réseau geturn{#geturn-network-method}
+# getUrn Network Method{#geturn-network-method}
 
-Cette méthode renvoie l&#39;URN pour ce réseau.
+Cette méthode renvoie l’URL pour ce réseau.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
@@ -27,7 +27,7 @@ Exemple de sortie :
 "urn:livefyre:network=`example.fyre.co`" 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 network.getUrn(); 
