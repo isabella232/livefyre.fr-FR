@@ -1,10 +1,10 @@
 ---
-description: Modifiez les options de taille, de largeur et d'interaction de l'application Map.
-seo-description: Modifiez les options de taille, de largeur et d'interaction de l'application Map.
+description: Modifiez les options de taille, de largeur et d’interaction de l’application de mappage.
+seo-description: Modifiez les options de taille, de largeur et d’interaction de l’application de mappage.
 seo-title: Personnalisations des tendances
 solution: Experience Manager
 title: Personnalisations des tendances
-uuid: 4 dc 58 d 90-8924-4 c 89-8 f 2 a -650 ac 6 e 0538 a
+uuid: 4dc58d90-8924-4c89-8f2a-650ac6e0538a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,20 +13,20 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Personnalisations des tendances{#trending-customizations}
 
-Modifiez les options de taille, de largeur et d&#39;interaction de l&#39;application Map.
+Modifiez les options de taille, de largeur et d’interaction de l’application de mappage.
 
 | Site | Entrez le site à partir duquel vos applications de tendances seront sélectionnées. |
 |---|---|
-| Filtrage par balise d&#39;application | Entrez les **[!UICONTROL App Tag]** tendances qui seront filtrées, le cas échéant. Utilisez les balises d&#39;application pour définir des applications spécifiques que vous souhaitez inclure dans les tendances. Vous pouvez saisir une seule balise dans ce champ. |
-| Nombre d&#39;applications | Entrez le nombre d&#39;applications (les plus actives) à afficher. |
-| Inclure le graphique à barres | Si elle est activée, votre application affiche les graphiques à barres avec la liste Applications. |
-| Permalinks de l&#39;application | Si cette option est activée, le fait de cliquer sur le titre d&#39;une application l&#39;ouvre dans un nouvel onglet. |
+| Filtrage par balise d’application | Entrez une **[!UICONTROL App Tag]** liste des tendances filtrées, le cas échéant. Utilisez les balises d’application pour définir des applications spécifiques que vous souhaitez inclure dans les tendances. Vous ne pouvez saisir qu’une seule balise dans ce champ. |
+| Nombre d’applications | Entrez le nombre d’applications (les plus actives) à afficher. |
+| Inclure le graphique à barres | Si cette option est activée, votre application affiche des graphiques à barres avec la liste Applications. |
+| Correctifs de l’application | Si cette option est activée, un clic sur le titre d’une application l’ouvre dans un nouvel onglet. |
 
-Les applications de tendances permettent de présenter les applications les plus actives sur un site donné en affichant les principales applications du plus grand nombre au moins actif, avec un graphique à barres montrant la popularité relative pour chaque application affichée.
+Les applications de tendances vous permettent de présenter les applications les plus actives sur un site donné en affichant les applications principales, du plus actif au moins actif, avec un graphique à barres montrant la popularité relative de chaque application.
 
-Vous pouvez personnaliser les commentaires à l&#39;aide de :
+Vous pouvez personnaliser les commentaires à l’aide de :
 
-* **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]** la section. Voir Personnalisation des applications pour plus d&#39;informations sur la norme **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]** la section.
+* **[!UICONTROL Style]** et **[!UICONTROL Config]** les options pour toutes les applications dans le **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options standard **[!UICONTROL Style]** et **[!UICONTROL Config]** pour toutes les applications dans le **[!UICONTROL App Designer]**.
 
-* Outils d&#39;intégration. Voir Tendance pour plus d&#39;informations sur la personnalisation des applications à l&#39;aide des outils d&#39;intégration.
+* Outils d’intégration. Voir Tendance pour en savoir plus sur la personnalisation des applications à l’aide des outils d’intégration.
 
