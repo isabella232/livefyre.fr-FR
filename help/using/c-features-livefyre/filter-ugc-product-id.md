@@ -1,46 +1,46 @@
 ---
-description: Filtrage d'UGC par - l'ID du produit permet d'incorporer exactement la même application sur plusieurs pages tout en affichant différents UGC spécifiques au produit pour chaque page.
-seo-description: Filtrage d'UGC par - l'ID du produit permet d'incorporer exactement la même application sur plusieurs pages tout en affichant différents UGC spécifiques au produit pour chaque page.
-seo-title: Filtrage UGC par - ID du produit
-title: Filtrage UGC par - ID du produit
-uuid: 98108 ddb -5710-4331-891 b -7 e 1 bbb 106059
+description: Le filtrage UGC par ID de produit vous permet d’incorporer exactement la même application sur plusieurs pages tout en affichant un UGC spécifique à chaque page.
+seo-description: Le filtrage UGC par ID de produit vous permet d’incorporer exactement la même application sur plusieurs pages tout en affichant un UGC spécifique à chaque page.
+seo-title: Filtrage de l’UGC par ID de produit
+title: Filtrage de l’UGC par ID de produit
+uuid: 98108ddb-5710-4331-891b-7e1bb106059
 translation-type: tm+mt
 source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
 
 ---
 
 
-# Filtrage UGC par - ID du produit {#filter-ugc-product-id}
+# Filtrage de l’UGC par ID de produit {#filter-ugc-product-id}
 
-Filtrage d&#39;UGC par - l&#39;ID du produit permet d&#39;incorporer exactement la même application sur plusieurs pages tout en affichant différents UGC spécifiques au produit pour chaque page.
+Le filtrage UGC par ID de produit vous permet d’incorporer exactement la même application sur plusieurs pages tout en affichant un UGC spécifique à chaque page.
 
-Pour filtrer UGC par ID de produit, procédez comme suit :
+Pour filtrer l’UGC par ID de produit, procédez comme suit :
 
-1. Dans Livefyre Studio, accédez à **[!UICONTROL Apps]** l&#39;onglet.
+1. Dans Livefyre Studio, accédez à l’ **[!UICONTROL Apps]** onglet.
 
-1. Sélectionnez l&#39;application que vous souhaitez modifier.
+1. Sélectionnez l’application à modifier.
 
-1. Sélectionnez l&#39;onglet Designer dans le rail de gauche.
+1. Sélectionnez l’onglet Designer dans le rail de gauche.
 
-1. Activez **[!UICONTROL Filter UGC by Product ID]**.
+1. Enable **[!UICONTROL Filter UGC by Product ID]**.
 
 ![](assets/filter-ugc-product-id.png)
 
-1. Sélectionnez les dossiers de produit de niveau supérieur qui contiennent le ou les produits dont vous souhaitez filtrer le contenu UGC.
-Utilisez CTRL/Commande + clic pour sélectionner plusieurs dossiers.
+1. Sélectionnez les dossiers de produit de niveau supérieur qui contiennent le ou les produits dont vous souhaitez filtrer le contenu généré par l’utilisateur.
+Utilisez Ctrl/Commande + clic pour sélectionner plusieurs dossiers.
 
-1. Désactiver **[!UICONTROL Show related content]**.
-Lorsqu&#39;elle est activée, le contenu filtré à l&#39;aide de `data-lf-attr-product` l&#39;attribut s&#39;affiche d&#39;abord, suivi de tout autre contenu de l&#39;application.
+1. Disable **[!UICONTROL Show related content]**.
+Lorsqu’il est activé, le contenu filtré à l’aide de l’ `data-lf-attr-product` attribut s’affiche en premier, suivi de tous les autres contenus de l’application.
 
-1. Cliquez **[!UICONTROL Publish]** sur.
+1. Cliquez sur **[!UICONTROL Publish]**.
 
-1. Insérez les ID du produit que vous souhaitez filtrer dans le code cible.
+1. Insérez les ID de produit par lesquels vous souhaitez filtrer dans le code cible.
 
 >[!NOTE]
 >
->Pour localiser des ID de produit, accédez **[!UICONTROL Settings > Products]**à. Localisez le produit souhaité et sélectionnez-le et l&#39;ID s&#39;affiche.
+>Pour localiser les ID de produit, accédez à **[!UICONTROL Settings > Products]**. Localisez le produit souhaité, sélectionnez-le et l’ID s’affiche.
 
-Par exemple, le code suivant est généré pour une application Media Wall :
+Par exemple, le code suivant est généré pour une application Media Wall App :
 
 ```
 <script type="text/javascript" src="https://cdn.livefyre.com/
@@ -53,9 +53,9 @@ env="prod" data-lf-read-only="" data-lf-attr-product="<product
  {embed.el.onload(embed.getConfig());}});});</script>
 ```
 
-Pour baliser un produit, remplacez `<product 1>` -le `data-lf-attr-product` par l&#39;identifiant de produit souhaité. Vous pouvez baliser un ou plusieurs produits en ajoutant des ID de produit séparés par des virgules. Les produits doivent être contenus dans le dossier ou les dossiers de produit de niveau supérieur sélectionnés à l&#39;étape 5.
+Pour baliser un produit, remplacez `<product 1>` dans l’ `data-lf-attr-product` attribut par l’ID de produit souhaité. Vous pouvez baliser un ou plusieurs produits en ajoutant des identifiants de produit séparés par des virgules supplémentaires. Les produits doivent être contenus dans le dossier de produit de niveau supérieur ou dans les dossiers sélectionnés à l’étape 5.
 
-Le segment de code modifié apparaîtra comme suit :
+Le segment de code modifié s’affiche comme suit :
 
 ```
 <script type="text/javascript" src="https://cdn.livefyre.com/
@@ -68,4 +68,4 @@ Livefyre.js"></script><div class="lf-app-embed" data-lfapp="
  {embed.el.onload(embed.getConfig());}});});</script>
 ```
 
-L&#39;application affiche désormais uniquement les ID de produit balisés.
+L’application affiche désormais uniquement les ID de produit balisés.
