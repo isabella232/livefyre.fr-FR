@@ -1,10 +1,10 @@
 ---
-description: Vous pouvez filtrer le contenu sélectionné dans vos applications Livefyre ou dans votre bibliothèque de studio.
-seo-description: Vous pouvez filtrer le contenu sélectionné dans vos applications Livefyre ou dans votre bibliothèque de studio.
+description: Effectuez un balayage du contenu sélectionné vers vos applications Livefyre ou votre bibliothèque Studio.
+seo-description: Effectuez un balayage du contenu sélectionné vers vos applications Livefyre ou votre bibliothèque Studio.
 seo-title: Flux
 solution: Experience Manager
 title: Flux
-uuid: 01 ea 5 d 33-5 ec 1-46 f 4-b 724-8431 cda 443 a 1
+uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,21 +13,21 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Flux{#streams}
 
-Vous pouvez filtrer le contenu sélectionné dans vos applications Livefyre ou dans votre bibliothèque de studio.
+Effectuez un balayage du contenu sélectionné vers vos applications Livefyre ou votre bibliothèque Studio.
 
-Les flux permettent de créer des règles permettant d&#39;extraire du contenu des sites Web des médias sociaux et de transmettre ce contenu à votre bibliothèque de fichiers ou à une application Livefyre sélectionnée.
+Les flux vous permettent de créer des règles pour extraire le contenu des sites Web de médias sociaux et le transmettre à votre bibliothèque de fichiers ou à une application Livefyre sélectionnée.
 
-(Les options de règle varient selon le type de source.)
+(Les options de règle varient en fonction du type de source.)
 
-Les flux définis avec les destinations de dossier enregistrent le contenu sous forme d&#39;actifs dans votre bibliothèque de fichiers.
+Les flux définis avec des destinations de dossier enregistrent le contenu en tant que fichiers dans votre bibliothèque de fichiers.
 
-Plusieurs flux peuvent être envoyés vers une destination unique (dossier ou application).
+Plusieurs flux peuvent être poussés vers une destination unique (dossier ou application).
 
-Les flux définis avec les destinations d&#39;application diffusent le contenu directement vers votre application et seront disponibles à partir de l&#39;onglet Publié de votre bibliothèque.
+Les flux définis avec les destinations d’application pousseront directement le contenu vers votre application et seront disponibles à partir de l’onglet Publié de votre bibliothèque.
 
-Utilisez l&#39;interface Flux pour définir les règles selon lesquelles Studio va filtrer le contenu sélectionné vers vos applications Livefyre ou bibliothèque de fichiers.
+Utilisez l’interface de diffusion en continu pour définir les règles selon lesquelles Studio dirigera le contenu sélectionné vers vos applications Livefyre ou votre bibliothèque de fichiers.
 
 >[!NOTE]
 >
->Le contenu créé pendant que le flux est actif apparaît dans vos applications. Le contenu créé avant la définition des règles et le flux actif ou une fois qu&#39;un flux a été désactivé ne s&#39;afficheront pas dans vos applications.
+>Le contenu créé pendant que votre flux est actif s’affiche dans vos applications. Le contenu créé avant que les règles ne soient définies et que le flux soit actif, ou une fois qu’un flux a été désactivé, ne s’affiche pas dans vos applications.
 
