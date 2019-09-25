@@ -1,28 +1,28 @@
 ---
-description: Vous pouvez supprimer un jeu de traduction à tout moment en cliquant sur l'icône de corbeille en regard du jeu de traduction à supprimer.
-seo-description: Vous pouvez supprimer un jeu de traduction à tout moment en cliquant sur l'icône de corbeille en regard du jeu de traduction à supprimer.
-seo-title: Suppression d'une visionneuse de traduction
+description: Supprimez un jeu de traductions à tout moment en cliquant sur l’icône de corbeille située en regard du jeu de traductions à supprimer.
+seo-description: Supprimez un jeu de traductions à tout moment en cliquant sur l’icône de corbeille située en regard du jeu de traductions à supprimer.
+seo-title: Suppression d’un jeu de traduction
 solution: Experience Manager
-title: Suppression d'une visionneuse de traduction
-uuid: 8 a 098100-e 51 e -4554-83 b 8-a 91 fdb 204 a 49
+title: Suppression d’un jeu de traduction
+uuid: 8a098100-e51e-4554-83b8-a91fdb204a49
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Suppression d&#39;une visionneuse de traduction{#delete-a-translation-set}
+# Suppression d’un jeu de traduction{#delete-a-translation-set}
 
-Vous pouvez supprimer un jeu de traduction à tout moment en cliquant sur l&#39;icône de corbeille en regard du jeu de traduction à supprimer.
+Supprimez un jeu de traductions à tout moment en cliquant sur l’icône de corbeille située en regard du jeu de traductions à supprimer.
 
-Lorsque vous supprimez un jeu de traduction utilisé, Studio utilise la traduction par défaut définie pour les applications ou sites à l&#39;aide du jeu de traduction supprimé.
+Lorsque vous supprimez un jeu de traduction en cours d’utilisation, Studio utilise le jeu de traduction par défaut pour toutes les applications ou sites utilisant le jeu de traduction supprimé.
 
 >[!NOTE]
 >
->Vous pouvez supprimer un jeu de traduction qu&#39;utilise un réseau, un site ou une application. Studio vous informe que le jeu de traduction est utilisé, tout en vous permettant de supprimer le jeu de traduction. Une fois que vous avez supprimé un jeu de traduction, il ne peut pas être récupéré.
+>Vous pouvez supprimer un jeu de traduction utilisé par un réseau, un site ou une application. Studio vous informe que le jeu de traduction est utilisé, mais vous permet quand même de supprimer le jeu de traduction. Une fois que vous avez supprimé un jeu de traduction, il ne peut plus être récupéré.
 
-1. Accédez à Paramètres dans Studio. Vérifiez que vous travaillez au niveau réseau et non au niveau du site.
-1. Sélectionnez **[!UICONTROL Network Settings]**.
-1. Sélectionnez **[!UICONTROL Translation Sets]**.
-1. Cliquez sur l&#39;icône de corbeille en regard du jeu de traduction à supprimer.
-1. Confirmez que vous souhaitez supprimer le jeu de traduction.
+1. Accédez à Paramètres dans Studio. Vérifiez que vous travaillez au niveau du réseau et non au niveau du site.
+1. Select **[!UICONTROL Network Settings]**.
+1. Select **[!UICONTROL Translation Sets]**.
+1. Cliquez sur l’icône de corbeille en regard du jeu de traduction à supprimer.
+1. Confirmez que vous souhaitez supprimer le jeu de conversions.
