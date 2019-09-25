@@ -1,54 +1,54 @@
 ---
-description: Exécutez des tests de contraintes par rapport à la plate-forme Livefyre.
-seo-description: Exécutez des tests de contraintes par rapport à la plate-forme Livefyre.
-seo-title: Stratégie de test de contraintes
+description: Exécutez des tests de résistance contre la plateforme Livefyre.
+seo-description: Exécutez des tests de résistance contre la plateforme Livefyre.
+seo-title: Stratégie de test de stress
 solution: Experience Manager
-title: Stratégie de test de contraintes
-uuid: f 2 d 49 b 55-f 4 fc -485 f -9 aea-a 17 ce 64813 ee
+title: Stratégie de test de stress
+uuid: f2d49b55-f4fc-485f-9aea-a17ce64813ee
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Stratégie de test de contraintes{#stress-test-policy}
+# Stratégie de test de stress{#stress-test-policy}
 
-Exécutez des tests de contraintes par rapport à la plate-forme Livefyre.
+Exécutez des tests de résistance contre la plateforme Livefyre.
 
-Ce document décrit l&#39;exécution des tests de contraintes par rapport à la plate-forme Livefyre. Les tests ad hoc effectués par les clients sans notification sont strictement interdits. Pour plus d&#39;informations sur [les activités interdites et autorisées](#c_stress_test_policy/section_mhs_bfz_vdb).
+Ce document fournit des conseils sur l'exécution de tests de résistance contre la plateforme Livefyre. Les tests ad hoc effectués par les clients sans notification sont strictement interdits. Pour en savoir plus sur les activités [autorisées et](#c_stress_test_policy/section_mhs_bfz_vdb)interdites.
 
 >[!NOTE]
 >
->Les tests de contraintes sont facultatifs. Vous n&#39;avez pas besoin d&#39;effectuer un test de contraintes ou ne l&#39;avez pas prévu. Adobe Livefyre effectue des tests et des validations de contraintes régulières dans le cadre du processus de publication. Si vous choisissez d&#39;exécuter des tests, ce document décrit les exigences et les contraintes liées à la réalisation des tests de contraintes.
+>Les tests de résistance sont facultatifs. Vous n’êtes pas tenu ou attendu d’effectuer un test de stress. Adobe Livefyre effectue régulièrement des tests de résistance et des validations dans le cadre du processus de publication. Si vous choisissez d’exécuter des tests, ce document décrit les exigences et les contraintes liées à la réalisation des tests de résistance.
 
 ## Notification {#section_ihs_bfz_vdb}
 
-Vous devez informer votre spécialiste de succès Livefyre et votre conseiller technique Adobe de vos tests planifiés de trois semaines ou plus avant de commencer à démarrer.
+Vous devez informer votre spécialiste de la réussite client Livefyre et votre consultant technique Adobe de vos tests planifiés trois semaines ou plus avant le début de votre projet.
 
-Pour avertir Livefyre, envoyez les informations suivantes à votre spécialiste de succès client Livefyre et à votre consultant technique Adobe :
+Pour avertir Livefyre, envoyez les informations suivantes à votre spécialiste du succès client Livefyre et à votre consultant technique Adobe :
 
-* Objectif et description du test
-* Cas d&#39;utilisation que vous testez par rapport à
-* Liste des API Livefyre que vous prévoyez d&#39;utiliser dans le test
+* Objet et description de l'essai
+* Le cas d’utilisation que vous testez
+* Liste des API Livefyre que vous prévoyez d’utiliser dans le test
 * Date, heure et durée du test
-* Adresses IP à partir desquelles vous lancerez les tests
+* Adresses IP à partir desquelles vous allez lancer les tests
 
 ## Conditions requises {#section_khs_bfz_vdb}
 
-Vous pouvez effectuer des tests uniquement s&#39;ils satisfont aux exigences suivantes :
+Vous ne pouvez effectuer des tests que s’ils répondent aux exigences suivantes :
 
-* Vous devez recevoir une approbation explicite écrite d&#39;un consultant technique Adobe 3 semaines ou plus avant de commencer le test.
+* Vous devez recevoir l’approbation écrite explicite d’un conseiller technique Adobe 3 semaines ou plus avant de commencer le test.
 * **Vous pouvez uniquement effectuer des tests sur le réseau UAT.**
-* Vous devez tester les scénarios réalistes. Par exemple, vous ne supposez pas que votre propriété génère *quotidiennement des millions* de requêtes de publication, car ce scénario n&#39;est pas réaliste. Si vous avez besoin d&#39;aide pour déterminer si votre scénario est réaliste ou non, demandez à votre spécialiste de succès Livefyre ou à votre consultant technique Adobe.
-* Les tests doivent être effectués pendant les heures ouvrées du fuseau horaire du Pacifique\ (UTC -7\).
-* Vous devrez peut-être produire des données et votre raisonnement pour le test.
+* Vous devez tester par rapport à des scénarios réalistes. Par exemple, vous ne pouvez pas supposer que votre propriété répondra à *des millions* de demandes de publication chaque jour, car il ne s’agit pas d’un scénario réaliste. Si vous avez besoin d’aide pour déterminer si votre scénario est réaliste ou non, adressez-vous à votre spécialiste du succès client Livefyre ou à votre consultant technique Adobe.
+* Les essais doivent être effectués pendant les heures de bureau pour le fuseau horaire standard du Pacifique \(UTC -7\).
+* Vous devrez peut-être produire des données et expliquer votre raisonnement pour le test.
 
 ## Gouvernance {#section_mhs_bfz_vdb}
 
-Livefyre se réserve le droit d&#39;interrompre un test à tout moment si vous effectuez un test :
+Livefyre se réserve le droit de terminer un test à tout moment si vous effectuez un test :
 
-* Sur le réseau Production.
-* Sans approbation explicite, écrite par un consultant technique Adobe trois semaines ou plus à l&#39;avance.
-* Par rapport aux scénarios inréels.
+* Sur le réseau de production.
+* Sans l’autorisation écrite explicite d’un conseiller technique Adobe trois semaines ou plus à l’avance.
+* Contre des scénarios irréalistes.
 
-Livefyre termine les tests en bloquant l&#39;accès aux API, en désactivant Livefyre Networks et en refusant une demande de test de charge s&#39;il ne satisfait pas aux exigences.
+Livefyre met fin aux tests en bloquant l’accès aux API, en désactivant Livefyre Networks et en refusant une demande de test de charge si elle ne satisfait pas aux exigences.
