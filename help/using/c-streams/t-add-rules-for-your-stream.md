@@ -1,25 +1,25 @@
 ---
-description: Ajoutez des règles dans Flux pour permettre aux contenus de renseigner automatiquement une application ou un dossier en fonction de ces règles.
-seo-description: Ajoutez des règles dans Flux pour permettre aux contenus de renseigner automatiquement une application ou un dossier en fonction de ces règles.
-seo-title: Ajout de règles pour votre flux
+description: Ajoutez des règles dans les flux pour permettre au contenu de renseigner automatiquement une application ou un dossier en fonction de ces règles.
+seo-description: Ajoutez des règles dans les flux pour permettre au contenu de renseigner automatiquement une application ou un dossier en fonction de ces règles.
+seo-title: Ajout de règles à votre flux
 solution: Experience Manager
-title: Ajout de règles pour votre flux
-uuid: 7 a 3 fb 400-95 e 4-49 f 9-ae 39-90654 df 14665
+title: Ajout de règles à votre flux
+uuid: 7a3fb400-95e4-49f9-ae39-90654df14665
 translation-type: tm+mt
 source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
 
 ---
 
 
-# Ajout de règles pour votre flux{#add-rules-for-your-stream}
+# Ajout de règles à votre flux{#add-rules-for-your-stream}
 
-Ajoutez des règles dans Flux pour permettre aux contenus de renseigner automatiquement une application ou un dossier en fonction de ces règles.
+Ajoutez des règles dans les flux pour permettre au contenu de renseigner automatiquement une application ou un dossier en fonction de ces règles.
 
-Ajoutez des règles de diffusion en continu à votre flux depuis un ou plusieurs réseaux sociaux ou types de contenu suivants :
+Ajoutez des règles de diffusion en continu à votre flux à partir d’un ou plusieurs des types de contenu ou réseaux sociaux suivants :
 
 * Facebook
 * Pages Facebook
-* Courriel
+* Courrier électronique
 * Instagram
 * Tumblr
 * Twitter
@@ -29,7 +29,7 @@ Ajoutez des règles de diffusion en continu à votre flux depuis un ou plusieurs
 1. Créez ou ouvrez un flux.
 1. Ajoutez une nouvelle règle.
 1. Sélectionnez le type de règle.
-1. Renseignez les informations. Le type d&#39;informations que vous avez renseigné dépend du site Web ou de la méthode à partir duquel vous extrayez du contenu. Pour plus d&#39;informations sur les options de règle de diffusion en continu, voir [Options de règle de diffusion en continu pour toutes les règles](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)de diffusion en continu et documentation pour chaque réseau.
+1. Renseignez les informations. Le type d’information que vous fournissez dépend du site Web ou de la méthode à partir de laquelle vous extrayez le contenu. Pour plus d’informations sur les options des règles de diffusion en continu, voir Options des règles de [diffusion en continu pour toutes les](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules)règles de diffusion en continu et la documentation pour chaque réseau individuel.
 
    * [Pages Facebook](../c-streams/c-facebook-page-rules.md#c_facebook_page_rules)
    * [Courriel](../c-streams/c-email-rules.md#c_email_rules)
