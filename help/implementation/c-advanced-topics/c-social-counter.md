@@ -1,10 +1,10 @@
 ---
-description: Comptez le nombre d'éléments sociaux organisés.
-seo-description: Comptez le nombre d'éléments sociaux organisés.
+description: Comptez le nombre d’éléments sociaux traités.
+seo-description: Comptez le nombre d’éléments sociaux traités.
 seo-title: Compteur social
 solution: Experience Manager
 title: Compteur social
-uuid: fa 9 aa 1 a 8-6 a 04-4 bc 1-9 bfe-e 42 c 1250 fd 48
+uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,15 +13,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Compteur social{#social-counter}
 
-Comptez le nombre d&#39;éléments sociaux organisés. Pour obtenir la liste complète des points de fin disponibles, consultez la section [Référence](https://api.livefyre.com/docs) de l&#39;API Livefyre.
+Comptez le nombre d’éléments sociaux traités. Pour obtenir la liste complète des points de fin disponibles, consultez la section Référence [de l’](https://api.livefyre.com/docs) API Livefyre.
 
-L&#39;API de compteur Social renvoie le nombre de règles de traitement correspondantes dans une collection donnée pour les intervalles sur une période donnée.
+L’API Compteur de réseau social renvoie le nombre de règles de traitement correspondantes dans une collection donnée pour des intervalles sur une période donnée.
 
 >[!NOTE]
 >
 >Cette API est disponible uniquement pour les hashtags Twitter.
 
-API de compteur social :
+API de compteur de réseau social :
 
 * Ressource
 * Types de règle
@@ -33,28 +33,28 @@ API de compteur social :
 GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{query}.json
 ```
 
-* **Networkname :** Votre nom de réseau fourni par Livefyre. Par exemple : *labs* in `labs.fyre.co`.
-* **query :** Hachage encodé en base 64 de tout le site, ID d&#39;article, tuple de type règle pour lequel les informations du nombre doivent être récupérées (pré-codées)
+* **** networkName :Votre Livefyre a fourni un nom réseau. Par exemple : Des *labos* `labs.fyre.co`.
+* **** query : Hachage codé en base 64 sécurisé par l’URL de tous les sites, ID d’article, tuples de type règle pour lesquels les informations de décompte doivent être récupérées (pré-codées)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
    ```
 
    >[!NOTE]
-   >La requête est limitée à 10 site, ID d&#39;article, tuples de type règle. (L&#39;exemple précédent contient 3 tuples.)
+   >La requête est limitée à 10 sites, ID d’article, tuples de type règle. (L’exemple précédent contient 3 tuples.)
 
-* **from** `(optional)` specifies the relative or absolute time period to graph ; from specifies the start and defaults to 24 hours if omitted.
-* **jusqu&#39;à** `(optional)` ce que la période absolue ou absolue soit définie sur graphique ; jusqu&#39;à ce que le début et la valeur par défaut correspondent à l&#39;heure actuelle (maintenant), s&#39;ils sont omis.
+* **from**`(optional)` spécifie la période relative ou absolue à suivre pour le graphique ; from spécifie le début et prend par défaut la valeur 24 heures auparavant, si omis.
+* **jusqu** ’à ce que `(optional)` spécifie la période relative ou absolue à représenter par le graphique ; until spécifie le début et l’heure actuelle (maintenant) par défaut, si omis.
 
-### Heure relative
+### Temps relatif
 
 | Abréviation | Unité |
 |---|---|
 | s | Secondes |
 | min | Minutes |
 | h | Heures |
-| d | Jours |
-| w | Semaines |
+| d | jours |
+| w | semaines |
 | mon | 30 jours (mois) |
 | y | 365 jours (année) |
 
@@ -66,11 +66,11 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 ## Heure absolue {#section_xqr_jgc_11b}
 
-FORMAT : HH : MM_ AAAAMMJJ
+FORMAT : HH:MM_YYYMJJ
 
 | Abréviation | Signification |
 |---|---|
-| HH | Heures (format d&#39;horloge 24 h) |
+| HH | Heures (au format 24h/24) |
 | MM | Minutes |
 | AAAA | Année à 4 chiffres |
 | MM | Mois |
@@ -90,7 +90,7 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 Exemple :
 
-Pour obtenir le décompte sur la dernière minute pour l&#39;ID de site `123456` et d&#39;article `some-article-id` et le type de règle `2`, par exemple : `123456:some-article-id;2:`
+Pour obtenir des comptes à la dernière minute pour l’ID du site `123456` et de l’article `some-article-id` et le type de règle `2`, par exemple : `123456:some-article-id;2:`
 
 ```
 curl -XGET "https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2OnNvbWUtYXJ0aWNsZS1pZDsy.json&from=-1min" 
