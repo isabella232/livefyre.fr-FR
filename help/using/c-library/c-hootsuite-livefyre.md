@@ -1,121 +1,121 @@
 ---
-description: Découvrez comment utiliser Experience Manager Livefyre avec Hootsuite, ce qui vous permet de traiter, gérer et partager directement le contenu généré par l'utilisateur depuis le tableau de bord Hootsuite.
-seo-description: Découvrez comment utiliser Experience Manager Livefyre avec Hootsuite, ce qui vous permet de traiter, gérer et partager directement le contenu généré par l'utilisateur depuis le tableau de bord Hootsuite.
-seo-title: Utiliser Adobe Experience Manager Livefyre avec Hootsuite
-title: Utiliser Adobe Experience Manager Livefyre avec Hootsuite
-uuid: ebf 2 ba 17-1622-4 bbe-a 374-fb 325357 ef 9 f
+description: Apprenez à utiliser Experience Manager Livefyre avec Hootsuite, ce qui vous permet de traiter, gérer et partager du contenu généré par l’utilisateur directement à partir du tableau de bord Hootsuite.
+seo-description: Apprenez à utiliser Experience Manager Livefyre avec Hootsuite, ce qui vous permet de traiter, gérer et partager du contenu généré par l’utilisateur directement à partir du tableau de bord Hootsuite.
+seo-title: Utilisation d’Adobe Experience Manager Livefyre avec Hootsuite
+title: Utilisation d’Adobe Experience Manager Livefyre avec Hootsuite
+uuid: ebf2ba17-1622-4bbe-a374-fb325357ef9f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Utiliser Adobe Experience Manager Livefyre avec Hootsuite{#use-adobe-experience-manager-livefyre-with-hootsuite}
+# Utilisation d’Adobe Experience Manager Livefyre avec Hootsuite{#use-adobe-experience-manager-livefyre-with-hootsuite}
 
-Découvrez comment utiliser Experience Manager Livefyre avec Hootsuite, ce qui vous permet de traiter, gérer et partager directement le contenu généré par l&#39;utilisateur depuis le tableau de bord Hootsuite.
+Apprenez à utiliser Experience Manager Livefyre avec Hootsuite, ce qui vous permet de traiter, gérer et partager du contenu généré par l’utilisateur directement à partir du tableau de bord Hootsuite.
 
-## Utiliser Adobe Experience Manager Livefyre avec Hootsuite {#topic_FB6E613DBCF74F39ABD5045C501EA326}
+## Utilisation d’Adobe Experience Manager Livefyre avec Hootsuite {#topic_FB6E613DBCF74F39ABD5045C501EA326}
 
-Découvrez comment utiliser Experience Manager Livefyre avec Hootsuite, ce qui vous permet de traiter, gérer et partager directement le contenu généré par l&#39;utilisateur depuis le tableau de bord Hootsuite.
+Apprenez à utiliser Experience Manager Livefyre avec Hootsuite, ce qui vous permet de traiter, gérer et partager du contenu généré par l’utilisateur directement à partir du tableau de bord Hootsuite.
 
 ## Prise en main {#task_22699BD901C24384AB2DC02D926D8F4A}
 
 Contexte de la tâche
 
-1. Installez Adobe Experience Manager Livefyre pour Hootsuite depuis le répertoire d&#39;application Hootsuite.
+1. Installez Adobe Experience Manager Livefyre for Hootsuite à partir du répertoire des applications Hootsuite.
 
-1. Depuis votre tableau de bord Hootsuite, cliquez **sur Connexion avec Adobe**.
+1. Dans votre tableau de bord Hootsuite, cliquez sur **Connexion avec Adobe**.
 
    ![](assets/hootsuite-login.png)
 
-1. Connectez-vous à Experience Manager Livefyre à l&#39;aide des informations d&#39;identification Livefyre.
-1. Cliquez **sur Autoriser** pour autoriser Hootsuite à accéder à vos bibliothèques.
+1. Connectez-vous à Experience Manager Livefyre à l’aide de vos identifiants Livefyre.
+1. Cliquez sur **Autoriser** pour autoriser Hootsuite à accéder à vos bibliothèques.
 
    ![](assets/hootsuite-authorize.png)
 
-   Une fois l&#39;autorisation accordée, vous serez redirigé vers le tableau de bord Hootsuite où vous pouvez rechercher des fichiers dans les bibliothèques Experience Manager Livefyre.
+   Une fois l’autorisation accordée, vous serez ramené au tableau de bord Hootsuite, où vous pourrez rechercher des fichiers dans vos bibliothèques Livefyre Experience Manager.
 
-## Rechercher des ressources {#task_0B011B0C539E400BB72A6DF69FBF66C0}
+## Recherche de ressources {#task_0B011B0C539E400BB72A6DF69FBF66C0}
 
 Contexte de la tâche
 
-1. Cliquez sur l&#39;icône de recherche dans la barre de menus pour rechercher des fichiers dans vos bibliothèques Experience Manager Livefyre.
+1. Cliquez sur l’icône de recherche dans la barre de menus pour rechercher des fichiers dans vos bibliothèques Livefyre Experience Manager.
 
    ![](assets/hootsuite-search.png)
 
-1. Cliquez **sur Sélectionner** et une fenêtre contextuelle s&#39;affiche avec toutes vos bibliothèques.
-1. Cliquez sur le dossier d&#39;une bibliothèque, puis cliquez **sur Sélectionner un dossier** pour sélectionner la bibliothèque qui sera affichée dans le flux Hootsuite.
+1. Cliquez sur **Sélectionner** et une fenêtre contextuelle s’affiche avec toutes vos bibliothèques.
+1. Cliquez sur le dossier d’une bibliothèque, puis sur **Sélectionner un dossier** pour sélectionner la bibliothèque qui sera affichée dans votre flux Hootsuite.
 
    ![](assets/hootsuite-select.png)
 
 ## Options de filtrage {#concept_5D062A9CD61A4B2E90784E5AA31CB16D}
 
-Vous pouvez filtrer vos résultats de recherche à l&#39;aide des sections Afficher les éléments de, Droits, Mots-clés et Balises.
+Vous pouvez filtrer les résultats de votre recherche à l’aide des sections Afficher les ressources de, Droits, Mots-clés et Balises.
 
 ![](assets/hootsuite-filters.png)
 
-Les options de filtrage incluent :
+Les options de filtrage sont les suivantes :
 
 | Section | Description |
 |--- |--- |
-| Afficher les fichiers de | Sélectionnez cette option pour afficher les fichiers provenant de toutes les sources ou d&#39;une source individuelle. Par exemple : Instagram, Twitter, Facebook, etc. |
-| Droits | Sélectionnez cette option pour afficher uniquement les fichiers ayant un paramètre de droits spécifique. |
-| Mots-clés | Sélectionnez cette option pour filtrer les résultats par mots-clés ou balises. Le filtrage par mots-clés recherche le contenu textuel d&#39;une publication ainsi que le nom d&#39;affichage et le nom d&#39;utilisateur de l&#39;auteur. |
-| Balises | Sélectionnez cette option pour filtrer les résultats par mots-clés ou balises. Le filtrage par mots-clés recherche le contenu textuel d&#39;une publication ainsi que le nom d&#39;affichage et le nom d&#39;utilisateur de l&#39;auteur. |
+| Afficher les ressources à partir de | Sélectionnez cette option pour afficher les fichiers de toutes les sources ou d’une source individuelle. Par exemple : Instagram, Twitter, Facebook, etc. |
+| Droits | Sélectionnez cette option pour afficher uniquement les fichiers dont le paramètre de droits est spécifique. |
+| Mots-clés | Sélectionnez cette option pour filtrer les résultats par mots-clés ou balises. Le filtrage par mots-clés recherche le contenu textuel d’une publication, ainsi que le nom d’affichage et le nom d’utilisateur de l’auteur. |
+| Balises | Sélectionnez cette option pour filtrer les résultats par mots-clés ou balises. Le filtrage par mots-clés recherche le contenu textuel d’une publication, ainsi que le nom d’affichage et le nom d’utilisateur de l’auteur. |
 
-Une fois que vous avez sélectionné les paramètres de recherche, vos fichiers sont affichés dans le flux lors de la recherche :
+Une fois que vous avez sélectionné les paramètres de recherche, vos fichiers s’affichent en flux continu lorsque vous effectuez une recherche :
 
 ![](assets/hootsuite-stream.png)
 
-### Options du menu de diffusion en continu
+### Options du menu de diffusion
 
-Cliquez sur le nom ou l&#39;icône de l&#39;utilisateur pour afficher l&#39;utilisateur sur le réseau correspondant. Cliquez sur l&#39;heure pour afficher l&#39;article original. Lorsque la souris se trouve sur l&#39;élément, d&#39;autres options s&#39;affichent. Cliquez sur Partager ![](assets/share.png)
+Un clic sur le nom ou l’icône de l’utilisateur permet d’afficher l’utilisateur sur le réseau correspondant. Cliquez sur l’heure pour afficher l’article d’origine. Lorsque votre souris survole l’élément, d’autres options s’affichent. Cliquez sur le bouton Partager ![](assets/share.png)
 
-ajoute l&#39;actif actif à la zone Composer le réseau, ce qui vous permet de le partager avec vos réseaux via Hootsuite.
+ajoute la ressource actuelle à la zone de composition réseau, ce qui vous permet de la partager avec vos réseaux via Hootsuite.
 
 >[!NOTE]
 >
->Le bouton Partager s&#39;affiche uniquement lorsque vous filtrez les fichiers avec droits autorisés.
+>Le bouton Partager s’affiche uniquement lorsque vous filtrez des fichiers pour lesquels des droits ont été accordés.
 
-Cliquez sur ![](assets/assign.png) l&#39;icône Attribuer pour attribuer l&#39;élément actif à l&#39;un de vos membres de l&#39;équipe Hootsuite. Si un élément a déjà été attribué, la résoudre ![](assets/resolve.png)
+Cliquez sur l’icône Attribuer ![](assets/assign.png) pour affecter l’élément actif à l’un des membres de votre équipe Hootsuite. Si un élément a déjà été affecté, la boîte de dialogue Résoudre ![](assets/resolve.png)
 
-s&#39;affiche. Cliquez sur ce lien pour résoudre l&#39;affectation actuelle.
+apparaît. Cliquez dessus pour résoudre l’affectation actuelle.
 
-### Autres menus d&#39;application
+### Autres menus d’application
 
-Cliquez sur les Paramètres ![](assets/settings.png)
+Cliquez sur Paramètres. ![](assets/settings.png)
 
-vous permet de déconnecter le compte Experience Manager Livefyre actuel et de vous connecter à un autre.
+vous permettra de déconnecter le compte Livefyre d’Experience Manager actuel et de vous connecter à un autre compte.
 
 Cliquez sur le menu ![](assets/menu.png)
 
-affiche les liens de ce document, de ce support et du site Web de Synaptive.
+affiche les liens pour ce document, le support et le site Web de Synaptive.
 
-## Plug-in d&#39;application Experience Manager Livefyre {#task_33C8CEF4F5E44830B970BB3A7AAA2AA6}
+## Experience Manager Livefyre App Plugin {#task_33C8CEF4F5E44830B970BB3A7AAA2AA6}
 
-Outre la possibilité d&#39;afficher vos bibliothèques de fichiers dans un flux Hootsuite, vous pouvez également enregistrer des éléments des flux Instagram, Twitter, Facebook et YouTube vers vos bibliothèques Experience Manager Livefyre.
+Outre la possibilité d’afficher vos bibliothèques de fichiers dans un flux Hootsuite, vous pouvez également enregistrer des éléments des flux Instagram, Twitter, Facebook et YouTube dans vos bibliothèques Livefyre Experience Manager.
 
-1. Cliquez sur l&#39;icône de menu située au bas de chaque élément.
+1. Cliquez sur l'icône de menu située au bas de chaque élément.
 
    ![](assets/hootsuite-menu-icon.png)
 
-1. Sélectionnez **Envoyer à AEM Livefyre**.
+1. Sélectionnez **Envoyer vers AEM Livefyre**.
 1. Sélectionnez une ou plusieurs bibliothèques dans lesquelles enregistrer le fichier.
 
    ![](assets/hootsuite-save.png)
 
-1. Cliquez **sur Enregistrer dans la bibliothèque** et l&#39;élément sera enregistré dans les bibliothèques que vous avez sélectionnées.
+1. Cliquez sur **Enregistrer dans la bibliothèque** et l’élément sera enregistré dans les bibliothèques que vous avez sélectionnées.
 
-## Composant Bibliothèque de supports Experience Manager Livefyre {#task_9CA2D5D49F8E463F9EF475BC09C8ACC9}
+## Composant de la bibliothèque de supports Experience Manager Livefyre {#task_9CA2D5D49F8E463F9EF475BC09C8ACC9}
 
-Vous pouvez accéder à vos ressources via les composants Media de Hootsuite Composer.
+Vous pouvez accéder à vos fichiers via les composants média du compositeur de suite d’images.
 
-1. Dans le compositeur, cliquez sur le lien **Ouvrir la bibliothèque** multimédia dans la section **Média** .
+1. Dans le compositeur, cliquez sur le lien **Ouvrir la bibliothèque** de supports dans la section **Média** .
 
    ![](assets/hootsuite-open-media-library.png)
 
-1. Sélectionnez Adobe Experience Manager Livefyre dans le menu déroulant et vos fichiers s&#39;affichent.
+1. Sélectionnez Adobe Experience Manager Livefyre dans le menu déroulant et vos fichiers s’afficheront.
 
    ![](assets/hootsuite-aem-files.png)
 
-1. Pour ajouter un fichier à la publication actuelle que vous écrivez, cliquez dessus. Pour rechercher un fichier spécifique, entrez les termes recherchés dans **la zone de recherche de supports** et les résultats s&#39;affichent.
+1. Pour ajouter un fichier à la publication en cours, cliquez dessus. Pour rechercher une ressource spécifique, saisissez les termes de recherche dans la zone Média **de** recherche et les résultats s’affichent.
