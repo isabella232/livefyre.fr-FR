@@ -1,24 +1,24 @@
 ---
-description: Renvoie un objet Collection instancié comme type de message annexe. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
-seo-description: Renvoie un objet Collection instancié comme type de message annexe. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
-seo-title: Méthode du site buildsitenotescollection
+description: Renvoie un objet Collection appelé en tant que type Sidenotes. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+seo-description: Renvoie un objet Collection appelé en tant que type Sidenotes. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+seo-title: buildSitenotesCollection, méthode du site
 solution: Experience Manager
-title: Méthode du site buildsitenotescollection
-uuid: 2 bfbc 032-4 c 0 c -48 d 2-8 ce 6-02460 b 38 bd 6 c
+title: buildSitenotesCollection, méthode du site
+uuid: 2bfbc032-4c0c-48d2-8ce6-02460b38bd6c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode du site buildsitenotescollection{#buildsitenotescollection-site-method}
+# buildSitenotesCollection, méthode du site{#buildsitenotescollection-site-method}
 
-Renvoie un objet Collection instancié comme type de message annexe. Exécutez create_ or_ update () à partir de l&#39;objet Collection pour terminer le processus de création.
+Renvoie un objet Collection appelé en tant que type Sidenotes. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| titre | Chaîne | Titre de la collection. |
-| Articleid | Chaîne | Identifiant d&#39;article unique choisi pour identifier une collection sur votre site. |
+| title | Chaîne | Titre de la collection. |
+| articleId | Chaîne | ID d’article unique que vous avez choisi d’identifier une collection sur votre site. |
 | url | Chaîne | URL absolue canonique pour cette collection. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
@@ -27,7 +27,7 @@ Renvoie un objet Collection instancié comme type de message annexe. Exécutez c
 Collection collection = site.buildSidenotesCollection(title, articleId, url); 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildSidenotesCollection(title, articleId, url); 
