@@ -1,42 +1,42 @@
 ---
-description: Notes de mise à jour du 26 janvier 2017.
-seo-description: Notes de mise à jour du 26 janvier 2017.
+description: Notes de mise à jour de la version du 26 janvier 2017.
+seo-description: Notes de mise à jour de la version du 26 janvier 2017.
 seo-title: 26 janvier 2017
 title: 26 janvier 2017
-uuid: 5 a 04 d 31 d-a 26 d -4369-8 deb-adc 3 e 28 dfece
+uuid: 5a04d31d-a26d-4369-8deb-adc3e28dfece
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 26 janvier 2017{#january}
+# January 26, 2017{#january}
 
-Notes de mise à jour du 26 janvier 2017.
+Notes de mise à jour de la version du 26 janvier 2017.
 
 ## Version de production {#section_r24_1m2_wy}
 
-| Type de publication | Composant | Note de version |
+| Type de problème | Composant | Note de mise à jour |
 |--- |--- |--- |
-| Amélioration | Commentaires, témoignages | Les avatars et les boutons par défaut des commentaires et des tableaux annexes ont désormais augmenté le contraste des couleurs pour respecter les normes d&#39;accessibilité. |
-| Amélioration | Identité Livefyre | Amélioration de l&#39;identité de Livefyre pour la prise en charge de la navigation au clavier conformément aux normes d&#39;accessibilité. |
-| Amélioration | Storify 2 | Amélioration de Storify 2 pour inclure les abréviations de fuseau horaire sur les publications afin que les clients puissent clairement comprendre quand les publications sont publiées. |
-| Bogue | Storify 2 | Correction d&#39;un bogue qui empêchait les résultats de recherche Google de renvoyer dans Storify 2. |
-| Bogue | Flux | Amélioration des règles de page Facebook pour assimiler des images Facebook de qualité élevée, où avant d&#39;assimiler uniquement les miniatures. |
-| Amélioration | Flux | Ajout d&#39;un bouton Effacer pour effacer les emplacements définis par l&#39;utilisateur dans les règles de diffusion en continu prises en charge. |
-| Bogue | Studio | Amélioration de la recherche des ressources de bibliothèque pour prendre en charge les caractères japonais. |
+| Amélioration | Commentaires, Sidenotes | Les avatars et les boutons Commentaires et Sidenotes par défaut présentent désormais un contraste de couleur plus marqué pour répondre aux normes d’accessibilité. |
+| Amélioration | Identité Livefyre | Amélioration de l’identité Livefyre pour la prise en charge de la navigation au clavier pour répondre aux normes d’accessibilité. |
+| Amélioration | Storify 2 | Amélioration de Storify 2 afin d’inclure des abréviations de fuseau horaire sur les publications afin que les clients puissent comprendre clairement quand les publications sont publiées. |
+| bogue | Storify 2 | Correction d’un bogue qui empêchait le retour des résultats de recherche Google dans Storify 2. |
+| bogue | Flux | Amélioration des règles de page Facebook pour intégrer des images Facebook de haute qualité où, avant d’assimiler uniquement les vignettes. |
+| Amélioration | Flux | Ajout d’un bouton Effacer pour effacer les emplacements définis par les utilisateurs dans les règles de diffusion en continu prises en charge. |
+| bogue | Studio | Amélioration de la recherche des fichiers de bibliothèque pour la prise en charge des caractères japonais. |
 
 
 ## Version UAT {#section_dyx_yl2_wy}
 
-| Type de publication | Composant | Note de version |
+| Type de problème | Composant | Note de mise à jour |
 |--- |--- |--- |
-| Bogue | Modq | Correction d&#39;un bogue qui empêchait l&#39;affichage des rubriques par courriel dans le contenu du flux électronique. |
-| Bogue | Mosaic | Ajout de la prise en charge d&#39;accessibilité supplémentaire à Mosaic pour permettre aux utilisateurs de changer de tabulation entre les cartes de contenu. |
-| Bogue | Révisions | Correction d&#39;un bogue qui empêchait l&#39;affichage correct des modifications de notation. |
-| Bogue | Recherche sociale | Correction d&#39;un bogue en raison duquel le bouton Afficher plus était coupé sur les résultats de la recherche de liste Twitter. |
-| Bogue | Flux | Amélioration du contenu (images et vidéos) des règles de diffusion en continu d&#39;adresses électroniques pour être disponibles via HTTPS. |
-| Amélioration | Flux | Ajout d&#39;un ajustement au paramètre de l&#39;option « Comptes vérifiés uniquement » pour être désactivé par défaut. |
-| Bogue | Flux | Correction d&#39;un bogue en raison duquel les paramètres « Prémodéré » et « Prémodéré multimédia » continuaient à s&#39;appliquer à une règle de flux nouvellement créée. |
-| Amélioration | Flux | Ajout d&#39;une nouvelle fonctionnalité permettant d&#39;autoriser des catégories de contenu (par le biais d&#39;une règle de diffusion en continu) et de contourner la modération. |
+| bogue | ModQ | Correction d’un bogue qui empêchait l’affichage des objets de courrier électronique dans le contenu du flux de courrier électronique. |
+| bogue | Mosaïque | Ajout de la prise en charge de l’accessibilité à Mosaic pour permettre aux utilisateurs de changer d’onglet entre les cartes de contenu. |
+| bogue | Critiques | Correction d’un bogue qui empêchait l’affichage approprié des modifications d’évaluation. |
+| bogue | Recherche sociale | Correction d’un bogue en raison duquel le bouton Afficher plus était coupé dans les résultats de la recherche par liste Twitter. |
+| bogue | Flux | Amélioration du contenu (images et vidéos) des règles de diffusion en continu par courrier électronique pour qu’il soit disponible via HTTPS. |
+| Amélioration | Flux | Ajustement du paramètre de l’option "Comptes vérifiés uniquement" pour être désactivé par défaut. |
+| bogue | Flux | Correction d’un bogue en raison duquel les paramètres "Prémodéré" et "Prémodéré média" étaient transférés vers une règle de diffusion en continu nouvellement créée. |
+| Amélioration | Flux | Ajout d’une nouvelle fonctionnalité permettant d’autoriser la liste blanche des catégories de contenu (par le biais d’une règle de diffusion en continu) et de contourner la modération. |
 
