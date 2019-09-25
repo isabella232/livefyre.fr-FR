@@ -1,56 +1,56 @@
 ---
-description: L'identité et les applications Livefyre contiennent des fonctions d'accessibilité permettant à tous les visiteurs du site d'interagir avec le contenu, notamment ceux qui peuvent utiliser des lecteurs d'écran et d'autres dispositifs d'assistance.
-seo-description: L'identité et les applications Livefyre contiennent des fonctions d'accessibilité permettant à tous les visiteurs du site d'interagir avec le contenu, notamment ceux qui peuvent utiliser des lecteurs d'écran et d'autres dispositifs d'assistance.
-seo-title: Fonctionnalités d'accessibilité
+description: L’identité et les applications Livefyre contiennent des fonctions d’accessibilité qui permettent à tous les visiteurs du site d’interagir avec le contenu, y compris ceux qui peuvent utiliser des lecteurs d’écran et d’autres appareils d’assistance.
+seo-description: L’identité et les applications Livefyre contiennent des fonctions d’accessibilité qui permettent à tous les visiteurs du site d’interagir avec le contenu, y compris ceux qui peuvent utiliser des lecteurs d’écran et d’autres appareils d’assistance.
+seo-title: Fonctionnalités d’accessibilité
 solution: Experience Manager
-title: Fonctionnalités d'accessibilité
-uuid: e 04970 d 5-f 45 d -40 e 0-807 e-ae 88 a 9386 ef 7
+title: Fonctionnalités d’accessibilité
+uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Fonctionnalités d&#39;accessibilité{#accessibility-features}
+# Fonctionnalités d’accessibilité{#accessibility-features}
 
-L&#39;identité et les applications Livefyre contiennent des fonctions d&#39;accessibilité permettant à tous les visiteurs du site d&#39;interagir avec le contenu, notamment ceux qui peuvent utiliser des lecteurs d&#39;écran et d&#39;autres dispositifs d&#39;assistance.
+L’identité et les applications Livefyre contiennent des fonctions d’accessibilité qui permettent à tous les visiteurs du site d’interagir avec le contenu, y compris ceux qui peuvent utiliser des lecteurs d’écran et d’autres appareils d’assistance.
 
-Livefyre souligne les zones suivantes pour s&#39;assurer que les visiteurs du site ont accès à Livefyre Identity et aux applications :
+Livefyre met l’accent sur les points suivants pour s’assurer que l’identité et les applications Livefyre sont accessibles aux visiteurs du site :
 
 * Structure
-   * Les pages utilisent les balises de titre de page et d&#39;en-tête que les lecteurs d&#39;écran peuvent lire
-   * Ordre de tabulation des éléments suit une commande logique
-* Clavier et cible
-   * Les éléments sont mis au point et visibles lors de l&#39;utilisation du clavier
-   * L&#39;ordre de focus est intuitif
+   * Les pages utilisent le titre de la page et les balises d’en-tête que les lecteurs d’écran peuvent lire
+   * L’ordre de tabulation des éléments suit un ordre logique.
+* Clavier et focus
+   * Les éléments sont ciblés et visibles lors de l’utilisation du clavier
+   * L'ordre de mise au point est intuitif
 * Contenu
-   * Tous les liens et le contenu sans texte disposent de libellés ARIA uniques et de texte alternatif
-* Présentation :
-   * Le zoom du navigateur peut être utilisé sans rompre la structure
-   * Le rendu du contenu est bien effectué au niveau de zoom 200 %.
-   * Le contraste des couleurs est au niveau de la norme 4.5:1 ou au-dessus
+   * Tous les liens et le contenu non textuel ont des libellés ARIA uniques et du texte alternatif.
+* Présentation:
+   * Le zoom du navigateur peut être utilisé sans rompre la structure.
+   * Le contenu s’affiche correctement au niveau de zoom de 200 %
+   * Le rapport de contraste des couleurs est égal ou supérieur à la norme 4.5:1
    * Images, cartes, liens et graphiques visibles en mode contraste élevé
 
 >[!NOTE]
 >
->Les fonctionnalités d&#39;accessibilité pour les applications Livefyre s&#39;appliquent uniquement aux applications elles-mêmes. L&#39;UGC dans les applications (par exemple, le sous-titrage vidéo et les descriptions d&#39;image) ne sont accessibles que si le propriétaire du contenu a ajouté ces fonctions d&#39;accessibilité au contenu.
+>Les fonctionnalités d’accessibilité des applications Livefyre s’appliquent uniquement aux applications elles-mêmes. Les fichiers UGC des applications (par exemple, sous-titrage vidéo et descriptions d’images) ne sont accessibles que si le propriétaire du contenu a ajouté ces fonctionnalités d’accessibilité au contenu.
 
-Pour tester le fonctionnement d&#39;une application avec les fonctions d&#39;accessibilité, vous pouvez :
+Pour vérifier qu’une application fonctionne avec des fonctions d’accessibilité, vous pouvez :
 
-* Activez un lecteur d&#39;écran (par exemple [, Voiceover](https://www.apple.com/accessibility/mac/vision/) sur un périphérique Mac ou Apple ou [un narrateur](https://www.microsoft.com/en-us/accessibility/windows) sur un PC) pour lire la page qui contient l&#39;application. L&#39;utilisation d&#39;un lecteur d&#39;écran vérifie que le contenu est disponible
+* Activez un lecteur d’écran (par exemple, [voix off](https://www.apple.com/accessibility/mac/vision/) sur un Mac ou un appareil Apple ou [Narrateur](https://www.microsoft.com/en-us/accessibility/windows) sur un PC) pour lire la page qui contient l’application à haute voix. L’utilisation d’un lecteur d’écran permet de vérifier que le contenu est disponible.
 
-* Tabulation via une application et tentez de l&#39;utiliser uniquement au clavier pour vérifier que vous pouvez accéder à chaque bouton ou lien de manière logique.
-* Modifiez les taux de zoom et de contraste pour déterminer si le rendu du contenu est lisible et facile à afficher.
+* Passez la souris sur une application et tentez de l’utiliser uniquement à l’aide du clavier pour vérifier que vous pouvez accéder à chaque bouton ou lien de manière logique.
+* Modifiez le niveau de zoom et les rapports de contraste pour voir si le contenu est rendu de manière lisible et facile à afficher.
 
 Applications et fonctionnalités Livefyre accessibles :
 
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Chat](../c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Filmstrap](../c-about-apps/c-filmstrip-app/c-filmstrip-app.md#concept_jpc_n2j_jbb)
-* [Blog en direct](../c-about-apps/c-liveblog-app/c-liveblog-app.md#c_liveblog_app)
+* [Live Blog](../c-about-apps/c-liveblog-app/c-liveblog-app.md#c_liveblog_app)
 * [Identité Livefyre](/help/implementation/t-about-identity-integration/t-about-identity-integration.md)
-* [Mur multimédia](../c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
-* [Mosaic](../c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
+* [Media Wall](../c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
+* [Mosaïque](../c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Sondages](../c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
-* [Commentaires de sidenotes](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
+* [Sidenotes](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 
