@@ -1,10 +1,10 @@
 ---
-description: Modifiez les options de taille, de largeur et d'interaction de l'application Mur multimédia.
-seo-description: Modifiez les options de taille, de largeur et d'interaction de l'application Mur multimédia.
+description: Modifiez les options de taille, de largeur et d’interaction de l’application Mur de médias.
+seo-description: Modifiez les options de taille, de largeur et d’interaction de l’application Mur de médias.
 seo-title: Personnalisations du mur multimédia
 solution: Experience Manager
 title: Personnalisations du mur multimédia
-uuid: 79 aecd 92-3937-4 bb 4-a 1 a 6-b 090 fb 39 afb 0
+uuid: 79aecd92-3937-4bb4-a1a6-b090fb39afb0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,70 +13,70 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Personnalisations du mur multimédia{#media-wall-customizations}
 
-Modifiez les options de taille, de largeur et d&#39;interaction de l&#39;application Mur multimédia.
+Change the size, width, and interaction options of the Media Wall app.
 
 
 
-Les murs de médias sont des images actives et d&#39;autres contenus dans un mur social en temps réel, qui visualisent toutes les activités entourant un événement.
+Les murs de médias diffusent en continu des images en direct et d’autres contenus sur un mur social en temps réel, visualisant toute l’activité entourant un événement.
 
-Si cette option est activée, les utilisateurs peuvent publier du texte, des images ou des vidéos directement dans cette application. Les types de fichiers pris en charge sont les suivants :
+S’ils sont activés, les utilisateurs peuvent publier du texte, des images ou de la vidéo directement sur cette application. Les types de fichier pris en charge sont les suivants :
 
 * Image : JPEG, GIF, PNG
-* Vidéo : Quicktime/MOV, MP 4, MPEG, webm
+* Vidéo : Quicktime/MOV, MP4, MPEG, WebM
 * Audio : WAV, WAVE, X-MS-WMA, FLAC, OGG, MPEG
 
 * **[!UICONTROL Items to load]**
 
-   Définit le nombre initial d&#39;éléments de contenu affichés.
+   Définit le nombre initial d’éléments de contenu affichés.
 
-* **[!UICONTROL Load content with animation.]** Activez cette option pour charger le mur multimédia sur une page avec une animation. Désactivez cette option pour charger le mur multimédia sur une page sans animation.
-* **[!UICONTROL Number of columns.]** Définissez le nombre de colonnes pour le mur multimédia. Le nombre de colonnes reste le même, quelle que soit la taille de la fenêtre ou du navigateur. Si vous sélectionnez Auto, le nombre de colonnes s&#39;ajuste pour afficher un nombre optimisé de colonnes pour la taille de l&#39;écran.
-* **[!UICONTROL Fit content to width]**. Lorsque cette option est désactivée, le contenu est recadré sur un carré. Activez cette option pour afficher une image entière dans la carte, qu&#39;elle remplisse la totalité de la carte ou non.
+* **[!UICONTROL Load content with animation.]** Activez cette option pour charger le mur multimédia sur une page avec animation. Désactivez cette option pour charger le mur multimédia sur une page sans animation.
+* **[!UICONTROL Number of columns.]** Définissez le nombre de colonnes pour le mur multimédia. Le nombre de colonnes reste le même, quelle que soit la taille de la fenêtre ou du navigateur. Si vous sélectionnez Auto, le nombre de colonnes s’ajuste pour afficher un nombre optimisé de colonnes pour la taille de l’écran.
+* **[!UICONTROL Fit content to width]**. Lorsque cette option est désactivée, le contenu est recadré sur un carré. Activez cette option pour afficher une image entière dans la carte, qu’elle remplisse ou non la carte entière.
 * **[!UICONTROL Include content modal]**
 
-   Permet aux utilisateurs de cliquer sur une photo dans le flux pour l&#39;ouvrir dans une fenêtre contextuelle superposée.
+   Permet aux utilisateurs de cliquer sur une photo dans le flux pour l’ouvrir dans une fenêtre contextuelle superposée.
 
-* **[!UICONTROL Require rights]**. Activez cette option pour afficher uniquement le contenu avec un état de demande de droits « Accordé ».  » »
-* **[!UICONTROL Hide social branding when rights granted]** Activez cette option pour supprimer le logo du réseau de médias sociaux d&#39;origine (Twitter ou Instagram) lorsque des droits sont accordés pour un élément de contenu.
+* **[!UICONTROL Require rights]**. Activez cette option pour n’afficher que le contenu dont l’état de demande de droits est "Octroyé".
+* **[!UICONTROL Hide social branding when rights granted]** Activez cette option pour supprimer le logo du réseau social d’origine (Twitter ou Instagram) lorsque des droits sont accordés pour un élément de contenu.
 
 * **[!UICONTROL Upload Button]**
 
-   * **[!UICONTROL Allow user posts]**. Indiquez si vous autorisez les utilisateurs à publier du texte, une photo ou une vidéo avec le bouton de téléchargement.
-   * **[!UICONTROL Require Media]**. Basculez sur pour demander aux utilisateurs de télécharger uniquement le contenu vidéo ou vidéo à l&#39;aide du bouton Télécharger.
-   * Vous pouvez modifier le texte par défaut des champs Bouton de téléchargement suivants :
+   * **[!UICONTROL Allow user posts]**. Indiquez si vous autoriserez les utilisateurs à publier du texte, des photos ou des vidéos avec le bouton de téléchargement.
+   * **[!UICONTROL Require Media]**. Activez cette option pour demander aux utilisateurs de télécharger uniquement du contenu photo ou vidéo à l’aide du bouton Télécharger.
+   * Vous pouvez modifier le texte par défaut pour les champs de bouton de téléchargement suivants :
 
-      * **[!UICONTROL Upload Button Text]**. Texte du bouton Télécharger. Le texte par défaut est « What is on your mind ?  » »
-      * **[!UICONTROL Comment Modal Title]**. Le titre des visiteurs du site modale utilise le contenu. Le texte par défaut est « Publier votre commentaire ».  » »
-      * **[!UICONTROL Comment Modal Button]**. Le texte des visiteurs du site clique sur pour publier du contenu. Le texte par défaut est « Publier votre commentaire ».  » »
+      * **[!UICONTROL Upload Button Text]**. Texte du bouton Télécharger. Le texte par défaut est "Qu’est-ce que vous pensez ?"
+      * **[!UICONTROL Comment Modal Title]**. Titre du site modal que les visiteurs utilisent pour publier du contenu. Le texte par défaut est "Publier votre commentaire".
+      * **[!UICONTROL Comment Modal Button]**. Texte du bouton sur lequel les visiteurs du site cliquent pour publier du contenu. Default text is "Post Your Comment."
 
-* **[!UICONTROL Call-to-action button]** Vous pouvez utiliser le bouton Appel à l&#39;action avec un catalogue de produits pour diriger les utilisateurs vers un produit ou vers votre site pour une action ultérieure.
+* **[!UICONTROL Call-to-action button]** You can use the Call-to-action button with a product catalog to direct users to a product or to your site for further action.
 
-   * **[!UICONTROL Call-to-action button]** Activez la bascule pour afficher le bouton Appel à l&#39;action.
-   * **[!UICONTROL Require rights to display products]** Activez la bascule pour exiger que le propriétaire du contenu ait accordé des droits pour le contenu avant qu&#39;un bouton Appel à l&#39;action ne s&#39;affiche pour le contenu.
-
-      >[!NOTE]
-      >
-      >Le contenu s&#39;affiche même si les droits ne sont pas accordés pour le contenu, mais le bouton Appel à l&#39;action ne s&#39;affiche pas avec le contenu, sauf si les droits d&#39;accès au contenu sont accordés.
-
-   * **[!UICONTROL Call-to-action header text]** Mots à afficher dans l&#39;en-tête au-dessus du bouton Appel à l&#39;action dans le modal du contenu. La formulation par défaut est « Shop these products :  ».
-   * **[!UICONTROL Call-to-action button text]** Mots à afficher dans le bouton Appel à l&#39;action du modal du contenu. Le texte par défaut est « Buy Now :  ».
-   * **[!UICONTROL Product display options]** Choisissez si vous souhaitez afficher le nom de la photo et du produit avec le bouton Appel à l&#39;action.
+   * **[!UICONTROL Call-to-action button]** Switch the toggle to on to display the Call-to-action button.
+   * **[!UICONTROL Require rights to display products]** Switch the toggle to on to require that the content owner has granted rights for the content before a Call-to-action button appears for the content.
 
       >[!NOTE]
       >
-      >Les boutons Photo et Nom de produit mettent en surbrillance le bleu lorsqu&#39;ils sont activés.
+      >The content displays even if rights are not granted for the content, but the Call-to-action button will not display with the content unless rights for the content are granted.
 
-   * **[!UICONTROL Product URL referral tracking]** Basculez le commutateur sur pour suivre les références de cette application à la page de produit associée.
-   * **[!UICONTROL Referral tracking key-value pairs]** Ajoutez des paramètres pour préciser le suivi des références depuis votre contenu de l&#39;application vers la page de produit associée.
+   * **[!UICONTROL Call-to-action header text]** The words to display in the header above the Call-to-action button in the content modal. Default wording is, "Shop these products:".
+   * **[!UICONTROL Call-to-action button text]** The words to display in the Call-to-action button in the content modal. Default text is, "Buy Now:".
+   * **[!UICONTROL Product display options]** Choose whether you want to display the Photo and Product name with the Call-to-action button.
+
+      >[!NOTE]
+      >
+      >Both the Photo and Product name buttons highlight blue when they are enabled.
+
+   * **[!UICONTROL Product URL referral tracking]** Switch the toggle to on to track referrals from this App to the associated product page.
+   * **[!UICONTROL Referral tracking key-value pairs]** Add parameters to further specify the referral tracking from your App content to the associated product page.
 
 * **[!UICONTROL Product page filter]**.
-   * **[!UICONTROL Filter UGC by Product ID]**. Sélectionnez cette option pour créer une application pour plusieurs pages de produits. Filtrez UGC spécifique au produit à l&#39;application pour chaque page de produit. Vous pouvez sélectionner un ou plusieurs dossiers pour associer des collections spécifiques à l&#39;application.
-   * **[!UICONTROL Select Product folders]**. Sélectionnez les dossiers de produits de niveau supérieur à utiliser pour le filtrage UGC. Utilisez CTRL/Commande + clic pour sélectionner plusieurs dossiers. Livefyre utilise le dossier pour déterminer les produits de ce dossier à afficher dans l&#39;application sur diverses pages.
-   * **[!UICONTROL Show related content]**. Activez cette option pour afficher le contenu publié dans l&#39;application, mais avec un ID de produit différent. Une fois le contenu spécifique au produit affiché pour l&#39;application, Livefyre affiche le contenu d&#39;autres produits et contenus non associés à un produit. Livefyre prioritise en priorité le contenu avec le même ID de produit, puis le contenu publié sur l&#39;application avec d&#39;autres ID de produit, puis le contenu publié dans l&#39;application sans ID de produit.
+   * **[!UICONTROL Filter UGC by Product ID]**. Select this option to create one App for multiple product pages. Filter product-specific UGC to the App for each product page. Vous pouvez sélectionner un ou plusieurs dossiers pour associer des collections spécifiques à l’application.
+   * **[!UICONTROL Select Product folders]**. Sélectionnez les dossiers de produit de niveau supérieur à utiliser pour filtrer les fichiers UGC. Utilisez Ctrl/Commande + clic pour sélectionner plusieurs dossiers. Livefyre utilise ce dossier pour déterminer les produits qu’il contient à afficher dans l’application sur différentes pages.
+   * **[!UICONTROL Show related content]**. Activez cette option pour afficher le contenu publié dans l’application, mais balisé avec un ID de produit différent. Une fois que le contenu spécifique au produit de l’application s’affiche, Livefyre affiche le contenu d’autres produits et du contenu non associé à un produit. Livefyre donne d’abord la priorité au contenu avec le même ID de produit, puis au contenu publié dans l’application avec d’autres ID de produit, puis au contenu publié dans l’application sans ID de produit.
 
-Vous pouvez personnaliser le mur multimédia à l&#39;aide de :
+Vous pouvez personnaliser Media Wall à l’aide des éléments suivants :
 
-* **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]** la section. Voir Personnalisation des applications pour plus d&#39;informations sur la norme **[!UICONTROL Style]** et **[!UICONTROL Config]** les options de toutes les applications dans **[!UICONTROL App Designer]** la section.
+* **[!UICONTROL Style]** et **[!UICONTROL Config]** les options pour toutes les applications dans le **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options standard **[!UICONTROL Style]** et **[!UICONTROL Config]** pour toutes les applications dans le **[!UICONTROL App Designer]**.
 
-* Outils d&#39;intégration. Pour [plus d&#39;informations sur la personnalisation d&#39;un mur multimédia à l&#39;aide des outils d&#39;intégration, reportez-vous à la](/help/implementation/c-app-integrations/c-media-wall-integration.md) section Intégration du mur multimédia.
+* Outils d’intégration. Voir Intégration [du mur](/help/implementation/c-app-integrations/c-media-wall-integration.md) multimédia pour en savoir plus sur la personnalisation d’un mur multimédia à l’aide des outils d’intégration.
 
