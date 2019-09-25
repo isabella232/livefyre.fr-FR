@@ -1,10 +1,10 @@
 ---
-description: Incorporez des commentaires en temps réel à votre application.
-seo-description: Incorporez des commentaires en temps réel à votre application.
+description: Incorporez des commentaires en temps réel dans votre application.
+seo-description: Incorporez des commentaires en temps réel dans votre application.
 seo-title: Commentaires
 solution: Experience Manager
 title: Commentaires
-uuid: f 409 d 04 a -2 ecc -42 fd -9 d 45-c 723 aafad 116
+uuid: f409d04a-2ecc-42fd-9d45-c723aafad116
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Commentaires{#comments}
 
-Incorporez des commentaires en temps réel à votre application.
+Incorporez des commentaires en temps réel dans votre application.
 
-Les commentaires remplacent vos commentaires par défaut par des conversations en temps réel. Grâce aux fonctions d&#39;intégration sociale, il est facile de capturer toutes les conversations sur vos publications sur Twitter et Facebook et d&#39;attirer les amis de l&#39;utilisateur dans la conversation.
+Les commentaires remplacent vos commentaires par défaut par des conversations en temps réel. Nos fonctions d’intégration sociale permettent de capturer facilement toutes les conversations sur vos publications sur Twitter et Facebook, et d’attirer les amis des utilisateurs dans la conversation.
 
-L&#39;option Pondérable utilise les commentaires pour accroître la participation des utilisateurs à leurs discussions. Ces fonctionnalités, notamment le chargement de médias enrichis, le partage sur les réseaux sociaux, le nombre d&#39;écouteurs et l&#39;authentification unique, facilitent la conversation et la convivialité.
+Machable utilise les commentaires pour accroître la participation des utilisateurs à leurs discussions. Les fonctions de téléchargement de média enrichi, de partage sur les réseaux sociaux, de nombre d’écouteurs et de connexion unique aident à faciliter et à divertir la conversation.
 
 ![](assets/CommentsMashable.png)
 
