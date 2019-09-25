@@ -1,9 +1,9 @@
 ---
-description: Suivez les étapes de la liste de contrôle pour vous assurer que vous convertissez correctement le protocole HTTP en HTTPS.
-seo-description: Suivez les étapes de la liste de contrôle pour vous assurer que vous convertissez correctement le protocole HTTP en HTTPS.
+description: Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion HTTP en HTTPS.
+seo-description: Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion HTTP en HTTPS.
 seo-title: Liste de contrôle SSL
 title: Liste de contrôle SSL
-uuid: 2 b 176 c 73-8 a 6 a -4835-88 b 3-047 c 6661 cba 9
+uuid: 2b176c73-8a6a-4835-88b3-047c6661cba9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -12,15 +12,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Liste de contrôle SSL{#ssl-checklist}
 
-Suivez les étapes de la liste de contrôle pour vous assurer que vous convertissez correctement le protocole HTTP en HTTPS.
+Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion HTTP en HTTPS.
 
-Vous convertissez correctement HTTP en HTTPS si les éléments suivants sont terminés :
+La conversion HTTP en HTTPS est effectuée si les éléments suivants sont terminés :
 
 * Toutes mes intégrations serveur à serveur utilisent HTTPS.
 * Toutes mes intégrations serveur à serveur prennent en charge le chiffrement TLS 1.2.
 * Toutes mes applications mobiles utilisent HTTPS.
 * Toutes mes applications mobiles prennent en charge le chiffrement TLS 1.2.
-* Toutes mes intégrations JavaScript personnalisées (streamhubsdk ou Direct API usage) utilisent HTTPS.
-* Si je dispose de Livefyre JavaScript, nous utilisons les dernières versions.
-* J&#39;en ai informé tout service tiers (analyse de contenu, modération, etc.) qui utilisent les API Livefyre pour mon compte.
+* Toutes mes intégrations JavaScript personnalisées (StreamhubSDK ou utilisation directe d’API) utilisent HTTPS.
+* Si je rassemble du code JavaScript Livefyre, nous utilisons les dernières versions.
+* J’ai notifié tout service tiers (par exemple, analyse de contenu, modération, etc.) qui consomme des API Livefyre pour mon compte.
 
