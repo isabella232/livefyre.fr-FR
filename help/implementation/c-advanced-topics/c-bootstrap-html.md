@@ -1,43 +1,43 @@
 ---
-description: Rendre le contenu de la communauté accessible aux moteurs de balayage des moteurs de recherche.
-seo-description: Rendre le contenu de la communauté accessible aux moteurs de balayage des moteurs de recherche.
-seo-title: Code HTML d'amorçage
+description: Rendre le contenu de la communauté disponible pour les moteurs de recherche.
+seo-description: Rendre le contenu de la communauté disponible pour les moteurs de recherche.
+seo-title: Bootstrap HTML
 solution: Experience Manager
-title: Code HTML d'amorçage
-uuid: 137 e 4382-4 e 7 b -4124-9 d 35-1 d 872 a 497 bc 7
+title: Bootstrap HTML
+uuid: 137e4382-4e7b-4124-9d35-1d872a497bc7
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Code HTML d&#39;amorçage
+# Bootstrap HTML
 
-Rendre le contenu de la communauté accessible aux moteurs de balayage des moteurs de recherche.
+Rendre le contenu de la communauté disponible pour les moteurs de recherche.
 
-Pour obtenir la liste complète des points de fin disponibles, consultez la section [Référence](https://api.livefyre.com/docs) de l&#39;API Livefyre.
+Pour obtenir la liste complète des points de fin disponibles, consultez la section Référence [de l’](https://api.livefyre.com/docs) API Livefyre.
 
-Les applications Livefyre requièrent que vous exécutiez JavaScript sur votre page pour afficher le contenu de vos collections. Comme la plupart des moteurs de balayage des moteurs de recherche ne peuvent pas exécuter JavaScript, ils ne peuvent pas voir le contenu que vos publications ont publié. Utilisez l&#39;API HTML d&#39;amorçage pour ajouter des fragments indexables de ce contenu à la réponse HTTP initiale de votre page, ce qui permet d&#39;améliorer l&#39;optimisation du moteur de recherche dans votre contenu et vos mots-clés.
+Les applications Livefyre exigent que vous exécutiez du code JavaScript sur votre page pour afficher le contenu de vos collections. La plupart des moteurs de recherche ne pouvant pas exécuter JavaScript, ils ne peuvent pas voir le contenu publié par votre communauté. Utilisez l'API HTML d'amorçage pour ajouter des fragments de ce contenu pouvant faire l'objet de recherches à la réponse HTTP initiale de votre page, ce qui permet à votre contenu et à vos mots-clés d'améliorer l'optimisation de votre moteur de recherche.
 
 >[!NOTE]
 >
->Cette API est disponible uniquement pour les types Commentaires et Collection de blog en direct.
+>Cette API est disponible uniquement pour les types de commentaires et de collection de blogs en direct.
 
-## Analytics
+## Intégration
 
-L&#39;API HTML d&#39;amorçage Livefyre renvoie un fragment HTML de votre contenu utilisateur qui peut être inclus dans la réponse HTTP de la page. Cette réponse sera lisible par les moteurs de balayage des moteurs de recherche sans exécuter de code JavaScript. Une fois que la page est active dans le navigateur d&#39;un utilisateur, le fragment HTML est remplacé par le widget interactif complet et l&#39;utilisateur pourra publier du contenu.
+L’API HTML d’amorçage de Livefyre renvoie un fragment HTML du contenu de l’utilisateur, qui peut être inclus dans la réponse HTTP de la page. Cette réponse sera lisible par les moteurs de recherche sans exécuter de code JavaScript. Une fois la page activée dans le navigateur d’un utilisateur, le fragment HTML est remplacé par le widget interactif complet et l’utilisateur peut publier du contenu.
 
-Pour mettre en œuvre l&#39;API HTML d&#39;amorçage :
+Pour mettre en oeuvre l’API HTML d’amorçage :
 
-1. Faites d&#39;un serveur la demande d&#39;API serveur au endpoint de terminaison HTML Bootstrap documenté ci-dessous.
+1. Effectuez une requête d’API serveur à serveur vers le point de terminaison HTML Bootstrap décrit ci-dessous.
 
    >[!NOTE]
    >
-   >Si vous essayez de saisir le code HTML d&#39;amorçage pour une conversation qui n&#39;existe pas encore (c&#39;est-à-dire si vous n&#39;avez pas encore incorporé l&#39;application ou créez la collection), vous recevrez un 200, mais avec un contenu qui ressemble à ceci : `<!- HTTP 404 example.fyre.co/000000/MTEwMTo2NDEyOD1RS/bootstrap.html ->`
+   >Si vous essayez d’attraper le code HTML d’amorçage pour une conversation qui n’existe pas encore (c’est-à-dire si vous n’avez pas encore intégré l’application ou créé la collection), vous recevrez un 200, mais avec un contenu qui ressemble à quelque chose comme : `<!- HTTP 404 example.fyre.co/000000/MTEwMTo2NDEyOD1RS/bootstrap.html ->`
 
-1. Si votre retour n&#39;inclut pas de contenu avec un « 404 », enregistrez-le dans une chaîne. Vous pouvez mettre en cache cette réponse pour une utilisation ultérieure afin d&#39;éviter de demander l&#39;API HTML Bootstrap sur chaque pageload.
-1. Insérez la chaîne HTML Bootstrap dans votre webpage Web dans laquelle le contenu doit apparaître.
-1. Diffusez votre page Web au navigateur (ou moteur de recherche du moteur de recherche).
+1. Si votre déclaration ne contient pas de contenu comportant un "404", enregistrez-le dans une chaîne. Vous pouvez mettre en cache cette réponse pour une utilisation ultérieure afin d’éviter de demander l’API HTML d’amorçage sur chaque charge de page.
+1. Insérez la chaîne HTML Bootstrap dans votre page Web où vous souhaitez que le contenu apparaisse.
+1. Servez votre page Web dans le navigateur (ou le moteur de recherche).
 
 ## Ressource
 
@@ -47,9 +47,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/{networkName}.fyre.co/{siteId}/{
 
 ## Paramètres
 
-* **Networkname** Votre nom de réseau fourni. Par exemple : *labs* in `labs.fyre.co`.
-* **ID de site** ID de site de la collection.
-* **b 64 articleid** ID d&#39;article de la collection à l&#39;aide du codage d&#39;URL base 64.
+* **networkName** Votre Livefyre a fourni le nom réseau. Par exemple : Des *labos* `labs.fyre.co`.
+* **siteId** Identifiant du site de la collection.
+* **b64articleId** ID d’article de la collection utilisant le codage base64url.
 
 ## Exemple
 
