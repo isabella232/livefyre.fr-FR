@@ -1,23 +1,20 @@
 ---
 description: Renvoie un nouvel objet Site.
 seo-description: Renvoie un nouvel objet Site.
-seo-title: Méthode de réseau getsite
+seo-title: getSite Network, méthode
 solution: Experience Manager
-title: Méthode de réseau getsite
-uuid: 67 de 781 e -5240-4 be 5-9 e 93-c 614828 e 0 bb 5
+title: getSite Network, méthode
+uuid: 67de781e-5240-4be5-9e93-c614828e0bb5
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode de réseau getsite{#getsite-network-method}
+# getSite Network, méthode{#getsite-network-method}
 
 Renvoie un nouvel objet Site.
-| Variable | Type | Description|
-|— |— |— |
-| Siteid | String | The Identifiant fourni pour le site Web ou l&#39;application auquel la collection appartient. Par exemple : 303617. |
-| Sitekey | String | The Clé secrète fournie pour siteid. |
+|Variable|Type|Description||—|—|—||siteId|String|Identifiant fourni par Livefyre pour le site Web ou l'application auquel appartient la collection. Par exemple : 303617.  ||siteKey|String|Clé secrète fournie par Livefyre pour siteId.  |
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
@@ -25,7 +22,7 @@ Renvoie un nouvel objet Site.
 Site site = network.getSite(siteId, siteKey); 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 var site = network.getSite(siteId, siteKey); 
