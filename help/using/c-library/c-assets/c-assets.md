@@ -1,10 +1,10 @@
 ---
-description: Rassemblez, organisez et conservez le contenu sélectionné à utiliser dans vos applications Livefyre.
-seo-description: Rassemblez, organisez et conservez le contenu sélectionné à utiliser dans vos applications Livefyre.
+description: Rassemblez, organisez et conservez le contenu sélectionné pour l’utiliser dans vos applications Livefyre.
+seo-description: Rassemblez, organisez et conservez le contenu sélectionné pour l’utiliser dans vos applications Livefyre.
 seo-title: Assets
 solution: Experience Manager
 title: Assets
-uuid: 21 ab 781 a -3 a 05-4725-b 77 d -92 decc 2 d 2 e 1 f
+uuid: 21ab781a-3a05-4725-b77d-92decc2d2e1f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,12 +13,12 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Assets{#assets}
 
-Rassemblez, organisez et conservez le contenu sélectionné à utiliser dans vos applications Livefyre.
+Rassemblez, organisez et conservez le contenu sélectionné pour l’utiliser dans vos applications Livefyre.
 
-Les ressources sont des contenus qui ont été enregistrés dans votre bibliothèque. Les ressources peuvent être recherchées et réutilisables et peuvent inclure des informations supplémentaires, notamment des balises et des droits de réutilisation.
+Les ressources sont du contenu qui a été enregistré dans votre bibliothèque. Les ressources peuvent faire l’objet de recherches et sont réutilisables. Elles peuvent inclure des informations supplémentaires, notamment des balises et des droits de réutilisation.
 
-La bibliothèque vous permet d&#39;organiser et de gérer le contenu sélectionné en tant que ressources pour l&#39;utiliser dans toutes vos applications Livefyre.
+La bibliothèque vous permet d’organiser et de gérer le contenu sélectionné en tant que ressources à utiliser dans toutes vos applications Livefyre.
 
-La bibliothèque vous permet également de demander des droits de réutilisation de contenu social collecté, d&#39;ajouter des balises afin d&#39;enrichir les informations stockées avec les ressources et d&#39;organiser ces éléments dans des dossiers, prêts à être publiés dans des applications.
+La bibliothèque vous permet également de demander les droits de réutiliser le contenu social rassemblé, d’ajouter des balises pour augmenter les informations stockées avec les ressources et d’organiser ces éléments dans des dossiers prêts à être publiés dans des applications.
 
-La bibliothèque fournit une vue de structure de dossiers de Tous les actifs, ce qui vous permet de rechercher et d&#39;organiser vos ressources.
+La bibliothèque fournit une vue de la structure des dossiers de Tous les fichiers, ce qui vous permet de rechercher et d’organiser vos fichiers.
