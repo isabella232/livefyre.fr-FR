@@ -1,40 +1,40 @@
 ---
 description: Notes de mise à jour de la version du 21 septembre 2017.
 seo-description: Notes de mise à jour de la version du 21 septembre 2017.
-seo-title: 21 septembre 2017
-title: 21 septembre 2017
-uuid: 1132 b 48 a-f 85 c -4 e 05-b 312-0093 db 9 ebc 8 f
+seo-title: 21 septembre 2017
+title: 21 septembre 2017
+uuid: 1132b48a-f85c-4e05-b312-0093db9ebc8f
 translation-type: tm+mt
 source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 
 
-# 21 septembre 2017{#september}
+# September 21, 2017{#september}
 
 Notes de mise à jour de la version du 21 septembre 2017.
 
 ## Version de production
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| Amélioration | Commentaires | Les clients peuvent maintenant définir la longueur maximale des commentaires dans le cadre de leur configuration réseau. |
-| Bogue | Application mobile | Ce bogue corrige un problème lié à la façon dont les réponses imbriquées générées dans Mobile ont été désactivées. |
-| Bogue | Mosaic | Correction d&#39;un bogue de production qui entraînait l&#39;affichage de zones grises dans IE 11 dans le format UGC. |
-| Amélioration | Mosaic | Les clients peuvent désormais spécifier le nombre de cartes à afficher dans l&#39;application de visualisation de Mosaic. |
-| Bogue | Rights Management | Correction d&#39;un bogue empêchant un utilisateur de Studio de demander des droits sur le contenu Instagram Carousel. |
-| Bogue | Studio | Ajout de messages d&#39;erreur plus clairs lors de la création de nouveaux sites. |
+| Amélioration | Commentaires | Les clients peuvent désormais définir la longueur maximale des commentaires dans le cadre de leur configuration réseau. |
+| bogue | Applications mobiles | Ce bogue corrige un problème de rendu des réponses imbriquées dans Mobile lorsque les avatars étaient désactivés. |
+| bogue | Mosaïque | Correction d’un bogue de production qui entraînait l’affichage des boîtes grises de Mosaic dans IE11 dans UGC. |
+| Amélioration | Mosaïque | Les clients peuvent désormais spécifier le nombre de cartes à afficher dans l’application de visualisation Mosaic. |
+| bogue | Rights Management | Correction d’un bogue empêchant un utilisateur Studio de demander des droits sur le contenu du carrousel Instagram. |
+| bogue | Studio | Ajout de messages d’erreur plus clairs lors de la création de sites. |
 
 ## Version UAT
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| Amélioration | Applications | Les clients peuvent désormais créer une seule application Livefyre (Mosaïque, Film fixe ou Mur multimédia) et l&#39;incorporer dans plusieurs pages de produits qui filtrent dynamiquement le contenu UGC approprié pour chaque page de produit (par exemple, le balisage UGC pour les chaussures s&#39;affiche sur la page de produit Chaussures). |
-| Amélioration | Film fixe | Dans l&#39;application Film fixe, une bannière « Nouvelle » marque un nouveau contenu dans l&#39;application, de sorte que les utilisateurs finaux puissent rapidement identifier un nouveau contenu. |
-| Amélioration | Identité Livefyre | Les clients peuvent désormais utiliser leurs informations d&#39;identification Github pour se connecter à l&#39;identité de Livefyre et participer à nos applications de commentaires. |
-| Bogue | Rights Management | Correction d&#39;un bogue qui autorisait l&#39;insertion de caractères Unicode dans les messages de demande de droits pour contourner la validation. |
-| Amélioration | Studio | Mise à jour du lien Aide Livefyre dans la barre de navigation supérieure. |
-| Amélioration | Commerce UGC | Les clients peuvent désormais transférer manuellement un catalogue de produits Google dans un studio IF en utilisant une exportation de fichiers JSON. Cela permet au client de regrouper UGC avec des produits provenant de ce catalogue et de les visualiser dans nos applications commerciales. |
-| Amélioration | Commerce UGC | Les clients peuvent sélectionner les dossiers de produits à utiliser lors du filtrage de leur application de commerce électronique par - ID du produit. Par exemple, je souhaite que mon nouveau film fixe apparaisse dans les pages des produits pour femme et que les femmes contiennent des pages de produits. Je sélectionne donc uniquement les dossiers « Collection pour femmes » et « Sacs pour femmes ». |
-| Amélioration | Commerce UGC | Les clients Livefyre peuvent désormais filtrer l&#39;UGC publié dans leurs applications uniquement s&#39;ils possèdent des droits. Par exemple, un client peut traiter et publier une sélection d&#39;éléments, mais ces éléments ne sont rendus dans l&#39;application qu&#39;une fois les droits accordés par l&#39;auteur. Cela est particulièrement important pour les cas d&#39;utilisation du commerce électronique, où le protocole UGC est utilisé à des fins commerciales. |
+| Amélioration | Applications | Les clients peuvent désormais créer une application Livefyre unique (Mosaic, Filmstrip ou Media Wall) et l’incorporer dans plusieurs pages de produits, qui filtre dynamiquement l’UGC approprié pour chaque page de produits (par exemple, UGC balisé pour les affichages de chaussures sur la page de produits de chaussures). |
+| Amélioration | Filmstrip | Dans l’application Filmstrip, il existe une bannière "Nouveau" qui signale le nouveau contenu dans l’application, de sorte que les utilisateurs finaux puissent rapidement identifier le nouveau contenu. |
+| Amélioration | Identité Livefyre | Les clients peuvent désormais utiliser leurs identifiants Github pour se connecter à l’identité Livefyre et participer à nos applications de commentaires. |
+| bogue | Rights Management | Correction d’un bogue en raison duquel l’insertion de caractères Unicode dans les messages de demande de droits pouvait contourner la validation. |
+| Amélioration | Studio | Mise à jour du lien Aide de Livefyre dans la barre de navigation supérieure. |
+| Amélioration | UGC Commerce | Les clients peuvent désormais télécharger manuellement un catalogue de produits Google dans le studio LF à l’aide d’une exportation de fichier JSON. Cela permet au client d'associer UGC aux produits de ce catalogue et de les visualiser dans nos applications commerciales. |
+| Amélioration | UGC Commerce | Les clients peuvent sélectionner les dossiers de produits qu’ils souhaitent utiliser lors du filtrage de leur application de commerce électronique par ID de produit. Par exemple, je veux que ma nouvelle pellicule apparaisse dans les pages de produits pour chaussures pour femmes et sacs pour femmes, donc je ne sélectionnerai que les dossiers de produits "Collection de chaussures pour femmes" et "Sacs pour femmes". |
+| Amélioration | UGC Commerce | Les clients de Livefyre peuvent désormais filtrer les UGC publiées dans leurs applications uniquement s’ils disposent de droits d’accès. Par exemple, un client peut traiter et publier une sélection d’éléments, mais ces éléments ne seront rendus dans l’application que lorsqu’ils auront été autorisés par l’auteur. Cela est particulièrement important pour les cas d'utilisation du commerce électronique, où l'UGC est utilisé à des fins commerciales. |
 
