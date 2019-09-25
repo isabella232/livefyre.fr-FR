@@ -1,46 +1,46 @@
 ---
-description: 'Découvrez comment générer des jetons Livefyre à l''aide de la langue « C # ».'
-seo-description: 'Découvrez comment générer des jetons Livefyre à l''aide de la langue « C # ».'
-seo-title: 'Création de jetons Livefyre C #'''
+description: Découvrez comment générer des jetons Livefyre en utilisant le langage "C#".
+seo-description: Découvrez comment générer des jetons Livefyre en utilisant le langage "C#".
+seo-title: Création de jetons Livefyre `C#'
 solution: Experience Manager
-title: 'Création de jetons Livefyre C #'''
-uuid: c 5 e 05625-8550-4 b 51-9211-134600 e 20 ec 7
+title: Création de jetons Livefyre `C#'
+uuid: c5e05625-8550-4b51-9211-134600e20ec7
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 ---
 
 
-# Création de jetons Livefyre C\ # {#creating-livefyre-tokens-c}
+# Creating Livefyre Tokens C\# {#creating-livefyre-tokens-c}
 
 Découvrez comment générer des jetons Livefyre à l’aide du langage ``C#``.
 
-Vous pouvez utiliser la documentation héritée et le code à utiliser pour `C#.NET` écrire des méthodes pour créer des jetons.
+Vous pouvez utiliser la documentation héritée et l’exemple de code pour `C#.NET` écrire des méthodes de création de jetons.
 
-Pour référencer les bibliothèques officielles de Livefyre, utilisez la bibliothèque [Java](https://github.com/Livefyre/livefyre-java-utils) comme point de départ pour `C#` les développeurs.
+Pour référencer les bibliothèques officielles de Livefyre, utilisez la bibliothèque [](https://github.com/Livefyre/livefyre-java-utils) Java comme point de départ pour `C#` les développeurs.
 
-Vous pouvez également utiliser la bibliothèque [Node. js](https://github.com/Livefyre/livefyre-nodejs-utils) à partir de la ligne de commande pour générer des jetons de référence et vous familiariser avec la structure de la méthode.
+Vous pouvez également utiliser la bibliothèque [Node.js](https://github.com/Livefyre/livefyre-nodejs-utils) à partir de la ligne de commande pour générer des jetons de référence pour vous-même et pour vous familiariser avec la structure des méthodes.
 
-* [Accéder au jeton meta de collection](https://gist.github.com/gibron/56cb9c7060bf4816c4c5#the-collectionMeta-token)
-* [Accéder à un jeton authentique](https://gist.github.com/gibron/56cb9c7060bf4816c4c5#the-auth-token)
+* [Accéder au méta-jeton de la collection](https://gist.github.com/gibron/56cb9c7060bf4816c4c5#the-collectionMeta-token)
+* [Accéder au jeton d’authentification](https://gist.github.com/gibron/56cb9c7060bf4816c4c5#the-auth-token)
 
 ## Dépendances {#section_c15_fnh_xz}
 
-* Vous aurez besoin du package [JWT nuget](https://www.nuget.org/packages/JWT) dans votre projet pour générer les jetons.
-* Les exemples de code de cette page utilisent le package [Newtonsoft JSON](https://www.nuget.org/packages/newtonsoft.json/) .
+* Vous aurez besoin du package [nuget](https://www.nuget.org/packages/JWT) JWT dans votre projet pour générer les jetons.
+* Les exemples de code de cette page utilisent le package JSON [](https://www.nuget.org/packages/newtonsoft.json/) Newtonsoft.
 
-## Collectionmeta Token {#section_dzt_4mh_xz}
+## CollectionMeta Token {#section_dzt_4mh_xz}
 
-Le jeton collectionmeta est transmis à Livefyre lorsque vous incorporez des commentaires sur une page et que notre système dispose des métadonnées nécessaires pour votre nouvelle collection. En outre, vous allez créer un MD 5 `checksum` de ces données que Livefyre vérifie pour vérifier si les métadonnées ont changé. (par exemple, si le titre ou l&#39;URL de votre article a été modifié).
+Le jeton CollectionMeta est transmis à Livefyre lorsque vous incorporez des commentaires sur une page et fournit à notre système les métadonnées nécessaires à votre nouvelle collection. En outre, vous allez créer un MD5 `checksum` de ces données, que Livefyre vérifie pour voir si les métadonnées ont changé. (par exemple, si le titre ou l’URL de votre article a été modifié).
 
-Ce jeton est signé avec votre `Site Key`, qui vous a été fourni par votre gestionnaire de compte Techncial à Livefyre.
+Ce jeton est signé avec votre `Site Key`, qui vous a été fourni par votre gestionnaire de compte technique chez Livefyre.
 
-Voir également:
+Voir également :
 
-* Documents collectionmeta officiels
-* [Exemple Gist](https://gist.github.com/pcolombo/dbbea020618c521a2bd5)
+* Documents officiels de collectionMeta Token
+* [Exemple de graphique](https://gist.github.com/pcolombo/dbbea020618c521a2bd5)
 
-1. Créez un dictionnaire contenant les métadonnées de la collection. Nous allons uniquement ajouter certains des champs nécessaires à cette étape, car nous souhaitons créer une somme de contrôle de cet objet AVANT d&#39;ajouter l&#39;ID articleid.
+1. Créez un dictionnaire contenant les métadonnées de la collection. Nous allons uniquement ajouter certains des champs nécessaires à cette étape, car nous voulons créer une somme de contrôle de cet objet AVANT d’ajouter l’articleId.
 
    ```
        // Site Key provided by Livefyre 
@@ -54,10 +54,10 @@ Voir également:
        };
    ```
 
-   * **titre** *requis*: Titre de la collection, généralement le titre de votre article. La longueur max. est de 255 caractères. Ne prend pas en charge les entités html. Veuillez coder des caractères spéciaux à l&#39;aide de UTF -8.
-   * **url** *requise*: URL canonique de votre article. Cette fonction est utilisée par les fonctions de partage de commentaires et de synchronisation sociale, ainsi que les liens vers votre article depuis le tableau de bord Admin. Si vous effectuez des tests localement, notez que Livefyre n&#39;accepte pas « localhost » comme domaine.
-   * **balises** *facultatives*: Liste de balises séparées par des virgules que vous souhaitez ajouter à la collection dans le tableau de bord Livefyre. Les balises ne peuvent pas contenir d&#39;espaces. Utilisez des traits de soulignement si vous souhaitez qu&#39;un espace apparaisse dans le tableau de bord Admin.
-   * **type** *facultatif*: Chaîne indiquant le type de collection à créer. Les valeurs valides sont les suivantes :
+   * **titre** *requis*:  Titre de la collection, généralement celui de votre article. La longueur maximale est de 255 caractères. Ne prend pas en charge les entités html. Veuillez coder des caractères spéciaux à l’aide du codage UTF-8.
+   * **url** *requise*:  URL canonique de votre article. Il est utilisé par les fonctions de partage de commentaires et de synchronisation sociale, ainsi que par les liens vers votre article à partir du tableau de bord Admin. Si vous testez localement, veuillez noter que Livefyre n’acceptera pas "localhost" comme domaine.
+   * **balises** *facultatives*:  Liste de balises séparées par des virgules que vous souhaitez ajouter à la collection dans le tableau de bord Livefyre. Les balises ne peuvent pas contenir d’espaces. Utilisez des traits de soulignement si vous souhaitez qu’un espace s’affiche dans le tableau de bord Admin.
+   * **type** *facultatif*:  Chaîne indiquant le type de collection à créer. Les valeurs valides sont :
 
       * `reviews`
       * `sidenotes`
@@ -66,10 +66,10 @@ Voir également:
       * `livecomments`
       * `liveblog`
       * `livechat`
-      Si elle n&#39;est pas spécifiée, une collection livecomments est créée par défaut.
+      Si elle n’est pas spécifiée, une collection LiveComments est créée par défaut.
 
 
-1. JSON encoder ce dictionnaire et génère une somme de contrôle md 5 de celui-ci.
+1. JSON code ce dictionnaire et en génère une somme de contrôle md5.
 
    ```
           var metaStr = JsonConvert.SerializeObject(meta); 
@@ -90,30 +90,30 @@ Voir également:
        } 
    ```
 
-1. Ajoutez l&#39; **ID articleid** au dictionnaire. La **somme de contrôle** ne figure pas dans le jeton collectionmeta, mais doit être envoyée comme paramètre seaprate dans l&#39;objet js convconfig.
+1. Ajoutez l’ **articleId** au dictionnaire. La **somme** de contrôle ne figure pas dans le jeton collectionMeta, mais doit être envoyée en tant que paramètre distinct dans l’objet js convConfig.
 
    ```
        meta.Add("articleId", "article-abcde00001"); 
    ```
 
-   * **Articleid** *requis*: Identifiant unique de votre collection sur votre site Livefyre. En règle générale, l&#39;ID unique unique utilisé dans votre CMS. (par exemple, votre identifiant de publication wordpress) Cette valeur ne devrait jamais changer. Livefyre identifie les collections uniques par combinaison de siteid et d&#39;articleid.
+   * **articleId** *requis*:  Identificateur unique de votre collection sur votre site Livefyre. En règle générale, l’articleId unique utilisé dans votre CMS. (par exemple votre ID de publication WordPress) Cette valeur ne doit jamais changer. Livefyre identifie les collections uniques par la combinaison de siteId et articleId.
 
-1. Générez un jeton JWT signé du dictionnaire, à l&#39;aide de la clé du site qui vous a été fournie par Livefyre. Veuillez noter que vous devez spécifier l&#39;algorithme de hachage correct, car le package JWT n&#39;utilise pas la version 256 par défaut.
+1. Générez un jeton JWT signé du dictionnaire à l’aide de la clé de site fournie par Livefyre. Veuillez noter que vous devez spécifier l’algorithme de hachage correct, car le paquet JWT n’utilise pas HS256 par défaut.
 
    ```
        string token = JWT.JsonWebToken.Encode(meta, siteSecret, JWT.JwtHashAlgorithm.HS256);
    ```
 
-## Jeton utilisateur authentique {#section_g1d_43h_xz}
+## Jeton d’authentification de l’utilisateur {#section_g1d_43h_xz}
 
-Le jeton utilisateur authentique est utilisé pour signer un utilisateur dans Livefyre. Lorsqu&#39;un utilisateur se connecte à votre site, le site génère un jeton utilisateur authentique qui est transmis au widget Livefyre sur la page. (Pour plus d&#39;informations sur le processus d&#39;authentification, voir Profils distants.)
+Le jeton d’authentification de l’utilisateur est utilisé pour signer un utilisateur dans Livefyre. Lorsqu’un utilisateur se connecte à votre site, le site génère un jeton d’authentification utilisateur transmis au widget Livefyre sur la page. (Pour plus d’informations sur le processus d’authentification, voir Profils distants.)
 
-Ce jeton nécessite votre nom réseau (network. fyre. co) et est signé avec votre clé réseau qui vous est fourni par votre gestionnaire de compte technique chez Livefyre.
+Ce jeton nécessite votre nom réseau (network.fyre.co) et est signé avec votre clé réseau qui vous est fournie par votre gestionnaire de compte technique chez Livefyre.
 
-Voir également:
+Voir également :
 
-* Documents jeton authentiques officiels
-* [Exemple Gist](https://gist.github.com/pcolombo/7d7403172c28734c87e2)
+* Documents du jeton d’authentification officiel
+* [Exemple de graphique](https://gist.github.com/pcolombo/7d7403172c28734c87e2)
 
 1. Créez un dictionnaire contenant les informations nécessaires.
 
@@ -128,12 +128,12 @@ Voir également:
            }; 
    ```
 
-   * **domain :** le nom de votre réseau (fourni par Livefyre). par exemple mynetwork. fyre. co
-   * **user_ id :** Utilisateur unique - id de l&#39;utilisateur dans le système de profils de votre site. Caractères alphanumériques uniquement (A-Z, a-z, 0-9). Si votre ID d&#39;utilisateur système contient des caractères charaacters non valides, pensez à envoyer Livefyre un hachage md 5 de l&#39;utilisateur - id ou une version codée en base 64. (Indiquez à votre gestionnaire de compte si vous le faites.)
-   * **expire :** Date (à la date considérée) que le jeton expire. Ceci doit correspondre à la durée de session des connexions sur votre site, de sorte que l&#39;état connecté de Livefyre reste synchronisé avec l&#39;état connecté de votre site.
-   * **display_ name :** Nom d&#39;affichage de l&#39;utilisateur dans votre système de profil, tel qu&#39;il doit être affiché dans le flux de commentaires.
+   * **** domain : Nom de votre réseau (fourni par Livefyre). par exemple monnetwork.fyre.co
+   * **** user_id : ID utilisateur unique de l’utilisateur dans le système de profil de votre site. Doit contenir uniquement des caractères alphanumériques (A-Z, a-z, 0-9). Si les ID utilisateur de votre système contiennent des caractères non valides, pensez à envoyer Livefyre un hachage md5 de l’ID utilisateur, ou une version codée en base 64. (Informez le gestionnaire de compte si vous effectuez cette opération.)
+   * **** expire : Date (en heure) d’expiration du jeton. Cela doit correspondre à l’heure de session des connexions sur votre site, de sorte que l’état de connexion de Livefyre reste synchronisé avec l’état de connexion de votre site.
+   * **** display_name : Nom d’affichage de l’utilisateur dans votre système de profil, tel qu’il doit être affiché dans le flux de commentaires.
 
-1. Générez un jeton JWT signé du dictionnaire, à l&#39;aide de la clé réseau qui vous a été fournie par Livefyre. Veuillez noter que vous devez spécifier l&#39;algorithme de hachage correct, car le package JWT n&#39;utilise pas la version 256 par défaut.
+1. Générez un jeton JWT signé du dictionnaire à l’aide de la clé réseau fournie par Livefyre. Veuillez noter que vous devez spécifier l’algorithme de hachage correct, car le paquet JWT n’utilise pas HS256 par défaut.
 
    ```
           string token = JWT.JsonWebToken.Encode(payload, networkKey, JWT.JwtHashAlgorithm.HS256);
