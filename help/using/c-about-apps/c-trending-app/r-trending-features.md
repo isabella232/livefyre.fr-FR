@@ -1,22 +1,22 @@
 ---
-description: L'application de tendance propose les fonctionnalités de votre site.
-seo-description: L'application de tendance propose les fonctionnalités de votre site.
-seo-title: Fonctionnalités de tendances
+description: L’application de tendance propose ces fonctionnalités pour votre site.
+seo-description: L’application de tendance propose ces fonctionnalités pour votre site.
+seo-title: Fonctions de tendance
 solution: Experience Manager
-title: Fonctionnalités de tendances
-uuid: 7 e 7 b 1 d 05-2154-43 d 8-92 e 7-63152934 c 785
+title: Fonctions de tendance
+uuid: 7e7b1d05-2154-43d8-92e7-63152934c785
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Fonctionnalités de tendances{#trending-features}
+# Fonctions de tendance{#trending-features}
 
-L&#39;application de tendance propose les fonctionnalités de votre site.
+L’application de tendance propose ces fonctionnalités pour votre site.
 
 
 
-* Les tendances indiquent les informations en temps réel sur les collections les plus actives.
-* Les conversations sont répertoriées de la plus populaire au moins populaire.
+* Les tendances affichent des informations en temps réel sur les collections les plus actives.
+* Les conversations sont répertoriées du plus populaire au moins populaire.
 
