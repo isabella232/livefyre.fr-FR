@@ -4,7 +4,7 @@ seo-description: valeur nulle
 seo-title: Restreindre le contenu des utilisateurs Twitter
 solution: Experience Manager
 title: Restreindre le contenu des utilisateurs Twitter
-uuid: 692 dd 9 c 0-487 d -4 ea 8-b 87 e -58 bea 22522 db
+uuid: 692dd9c0-487d-4ea8-b87e-58bea22522db
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,11 +13,11 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Restreindre le contenu des utilisateurs Twitter{#restrict-content-from-twitter-users}
 
-Vous pouvez interdire à des utilisateurs Twitter d&#39;être extraits dans vos applications. **[!UICONTROL Network Settings > Streams]** L&#39;onglet vous permet d&#39;exclure les utilisateurs de vos flux, de saisir leur nom d&#39;utilisateur Twitter dans le champ fourni et de cliquer **[!UICONTROL Add]**.
+Vous pouvez interdire aux utilisateurs de Twitter d’être entraînés dans vos applications. L' **[!UICONTROL Network Settings > Streams]** onglet vous permet d'interdire les utilisateurs de vos flux, d'entrer leur nom d'utilisateur Twitter dans le champ fourni et de cliquer sur **[!UICONTROL Add]**.
 
-Si vous le souhaitez, utilisez la case à cocher pour corbeille tout le contenu existant de l&#39;utilisateur répertorié.
+Cochez la case pour corrompre tout le contenu existant de l’utilisateur répertorié, le cas échéant.
 
 >[!NOTE]
 >
->Le blocage du contenu existant ne peut pas être annulé.
+>Il est impossible d’annuler la suppression du contenu existant.
 
