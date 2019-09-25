@@ -1,33 +1,27 @@
 ---
-description: Personnalisation des chaînes de texte pour les courriers électroniques Livefyre
-seo-description: Personnalisation des chaînes de texte pour les courriers électroniques Livefyre
-seo-title: Chaînes de texte avec lettres
+description: Personnalisation des chaînes de texte pour les Sidenotes Livefyre
+seo-description: Personnalisation des chaînes de texte pour les Sidenotes Livefyre
+seo-title: Sidenotes chaînes de texte
 solution: Experience Manager
-title: Chaînes de texte avec lettres
-uuid: a 3735237-e 55 d -4 bc 0-b 88 d -8 a 323980 ee 09
+title: Sidenotes chaînes de texte
+uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 
 
-# Chaînes de texte avec lettres{#sidenotes-text-strings}
+# Sidenotes chaînes de texte{#sidenotes-text-strings}
 
-Personnalisation des chaînes de texte pour les courriers électroniques Livefyre
+Personnalisation des chaînes de texte pour les Sidenotes Livefyre
 
-Cette page répertorie et décrit toutes les chaînes disponibles pour la personnalisation dans les applications de commentaires annexes. Pour plus d&#39;informations sur les chaînes disponibles pour les applications Livefyre principales, reportez-vous à la page Personnalisations de chaînes.
+Cette page répertorie et décrit toutes les chaînes disponibles pour la personnalisation dans les applications Sidenotes. Pour plus d’informations sur les chaînes disponibles pour les principales applications Livefyre, voir Personnalisations des chaînes.
 
-Implémentation
-authentique
-Informations
-de diffusion en continu Auteur/Contenu Informations
-de l&#39;utilisateur Fonctions
-de publication Erreurs de l&#39;interface
-du modérateur
+ImplémentationAuthStream InfoAuteur / Informations sur le contenu Actions de l'utilisateurFonctions de publicationInterfaceModérateurErreurs
 
 ## Implémentation {#section_wp2_ql4_xz}
 
-Pour mettre en œuvre cette fonction, transmettez un mappage d&#39;objet 1-1 des chaînes que vous souhaitez remplacer par l&#39;objet de configuration Javascript. Si vous ne fournissez pas de champ, le texte par défaut est utilisé.
+Pour implémenter cette fonctionnalité, transmettez un mappage d’objet 1-1 des chaînes que vous souhaitez remplacer à l’objet de configuration Javascript. Si vous ne fournissez pas de champ, le texte par défaut sera utilisé.
 
 Exemple :
 
@@ -45,119 +39,119 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 
 ## Authentification {#section_pqf_3l4_xz}
 
-Chaînes disponibles pour le processus d&#39;authentification et à partir des menus d&#39;utilisateurs authentifiés.
+Chaînes disponibles pour le processus d’authentification et dans les menus des utilisateurs authentifiés.
 
-| Elément | Clé | Texte par défaut |
+| Élément | Clé | Texte par défaut |
 |---|---|---|
-| Chaînes de menu authentiques | Menuauthsigninbtn | Connexion |
-|  | Menuauthsignedinmsg | Vous devez être connecté à {action} |
-|  | Menuusereditprofile | Modifier le profil |
-|  | Menuuseradmin | Console d&#39;administration |
-|  | Menuuserlogout | Déconnexion |
-|  | Menuuserbackbtn | Tout |
+| Chaînes du menu Auth | menuAuthSignInBtn | Se connecter |
+|  | menuAuthSignedInMsg | Vous devez vous connecter à {action} |
+|  | menuUserEditProfile | Modifier le profil |
+|  | menuUserAdmin | Admin Console |
+|  | menuUserLogout | Se déconnecter |
+|  | menuUserBackBtn | Toutes |
 
-## Informations de diffusion en continu {#section_wpy_gl4_xz}
+## Informations sur le flux {#section_wpy_gl4_xz}
 
-Chaînes disponibles pour les informations de flux de contenu et affichées.
+Chaînes disponibles pour l’affichage et l’information du flux de contenu.
 
-| Elément | Clé | Texte par défaut |
+| Élément | Clé | Texte par défaut |
 |---|---|---|
-| Options du menu Informations | Menuinfocopyright | © Livefyre, Inc. 2014 |
-|  | Menuinfohelp | Aide |
-|  | Menuinfolivefyrelink | Visitez Livefyre.com |
+| Options du menu Infos | menuInfoCopyright | © Livefyre, Inc. 2014 |
+|  | menuInfoHelp | Aide |
+|  | menuInfoLivefyreLink | Visitez Livefyre.com |
 
-## Informations Auteur/Contenu {#section_dhb_gl4_xz}
+## Auteur / Informations sur le contenu {#section_dhb_gl4_xz}
 
-Stings disponibles pour l&#39;auteur et les informations sur le contenu individuel.
+Paramètres disponibles pour les informations sur l’auteur et le contenu individuel.
 
-| Elément | Clé | Texte par défaut |
+| Élément | Clé | Texte par défaut |
 |---|---|---|
-|  | Commentmoderatortag | Mod |
-|  | Commentpendingtag | En attente |
-|  | Commentreadmorelink | En savoir plus |
-|  | Commentreplylink | Voir {number} réponses |
-|  | Commentreplylinksing | Voir la réponse |
-|  | Commentvotecount | votes |
-|  | Commentvotecountsing | voter |
-|  | Datetimeminuteprefix | m |
-|  | Datetimemonths | Un tableau. Par défaut =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
-|  | Questiondescription | Vous pouvez désormais lire et écrire des commentaires directement sur des phrases, des paragraphes, des images et des guillemets.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Mettez en surbrillance le texte</span> et cliquez sur l <span class="&rdquo;fycon-write&rdquo;"></span> &#39;icône ou cliquez sur <span class="&rdquo;fycon-action-view&rdquo;"></span> l&#39;icône à la fin de chaque paragraphe. |
-|  | Questionmocktext | Ce qui est connu « connu connu » n&#39;est pas connu, c&#39;est qu&#39;il est « familier ». |
-|  | Questiontitle | Qu&#39;est-ce qu&#39;une illustration ? |
+|  | commentModeratorTag | Mod |
+|  | commentPendingTag | En attente |
+|  | commentReadMoreLink | En savoir plus |
+|  | commentReplyLink | Voir {nombre} réponses |
+|  | commentReplyLinkSing | Voir réponse |
+|  | commentVoteCount | votes |
+|  | commentVoteCountSing | vote |
+|  | datetimeMinutePrefix | m |
+|  | datetimeMonths | Un tableau. Par défaut =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
+|  | questionExplication | Vous pouvez maintenant lire et écrire des commentaires directement sur des phrases, des paragraphes, des images et des guillemets.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">Mettez le texte</span> en surbrillance et cliquez sur l’ <span class="&rdquo;fycon-write&rdquo;"></span> icône ou cliquez sur l’ <span class="&rdquo;fycon-action-view&rdquo;"></span> icône à la fin de chaque paragraphe. |
+|  | questionMockText | Ce qui est "familiairement connu" n'est pas correctement connu, juste pour la raison qu'il est "familier". |
+|  | questionTitle | Qu'est-ce qu'une Sidenote ? |
 
-## Actions de l&#39;utilisateur {#section_qxd_fl4_xz}
+## Actions de l’utilisateur {#section_qxd_fl4_xz}
 
-Chaînes disponibles pour les actions de l&#39;utilisateur : marquage, partage et aimer le contenu existant.
+Chaînes disponibles pour les actions utilisateur : marquage, partage et mention J’aime du contenu existant.
 
-| Elément | Clé | Texte par défaut |
+| Élément | Clé | Texte par défaut |
 |---|---|---|
-| Options du menu Réponse | Menucylinesviewtitle | Détails |
-|  | Menucylinesviewreply | Répondre à la conversation |
-| Options du menu Partager | Menushareoptionfacebook | Facebook |
-|  | Menushareoptiontwitter | Twitter |
-|  | Menusharetitle | Partager |
-| Options du menu Indicateur | Menuflagoptionapprove | Refuser |
-|  | Menuflagoptionoffensive | Offensif |
-|  | Menuflagoptionofftopic | Rubrique désactivée |
-|  | Menuflagoptionspam | Indésirable |
-|  | Menuflagtitle | Marquer comme… |
-|  | Facebooksharecaption | Indique le titre sur « {title} » |
-| Options utilisateur mobiles | Slidercommenttally | of |
-|  | Sliderinviteread | Read |
-|  | Sliderinvitewrite | Écrire |
-|  | Sliderloading | Chargement en cours… |
-|  | Sliderwritetext | Que pensez-vous ? Appuyez sur pour écrire. |
+| Options du menu Répondre | menuRéponsesAfficherTitre | Détails |
+|  | menuRéponsesViewReply | Réponse à la conversation |
+| Options du menu Partager | menuShareOptionFacebook | Facebook |
+|  | menuShareOptionTwitter | Twitter |
+|  | menuShareTitle | Partager |
+| Options du menu Indicateur | menuFlagOptionDésaccord | Désapprouver |
+|  | menuFlagOptionOffensive | Offensive |
+|  | menuFlagOptionOffTopic | Hors rubrique |
+|  | menuFlagOptionSpam | Indésirables |
+|  | menuFlagTitle | Marquer comme... |
+|  | facebookShareCaption | Sidenotes sur "{title}" |
+| Options utilisateur mobiles | sliderCommentTally | of |
+|  | sliderInviteRead | Lu |
+|  | sliderInviteWrite | Écriture |
+|  | sliderLoading | Chargement en cours… |
+|  | sliderWriteText | Que penses-tu ? Appuyez pour écrire. |
 
 ## Fonctions de publication {#section_xzf_2l4_xz}
 
 Chaînes disponibles pour les utilisateurs qui publient du contenu.
 
-| Elément | Clé | Texte par défaut |
+| Élément | Clé | Texte par défaut |
 |---|---|---|
-|  | Editoreditbtn | Enregistrer |
-|  | Editoreditpublication | Enregistrement en cours… |
-|  | Editoreditreplytitle | Modifier la réponse |
-|  | Editoredittitle | Modifier le fichier sidenote |
-|  | Editorplaceholder | Que pensez-vous ? |
-|  | Editorpostbtn | Caractère sidenote de publication |
-|  | Editorpostbtnmobile | Publication |
-|  | Editorpublication | Publication… |
-|  | Editorreplybtn | Post-réponse |
-|  | Editorreplytitle | Ecrire une réponse |
-|  | Editortitle | Écrire un caractère sidenote |
-|  | Emptyimageblocktxt | Que pensez-vous ? |
-|  | Emptytextblocktxt | + |
-|  | Replybtn | Répondre |
-|  | Threadreplybtn | Répondre à la conversation |
-| Options du menu Supprimer | Menuconfirmaccept | Oui, {action} |
-|  | Menuconfirmcancel | Annuler |
-|  | Menuconfirmtitle | Êtes-vous sûr ? |
-| Options du menu etc | Menuetcoptionapprove | Approuver |
-|  | Menuetcoptiondelete | Supprimer |
-|  | Menuetcoptionedit | Modifier |
-|  | Menuetcoptionflag | Indicateur |
-|  | Menuetcoptionshare | Partager |
-|  | Menuetcpostedat | Publié le {date} |
-|  | Menuetctitle | Plus |
+|  | editorEditBtn | Enregistrer |
+|  | editorEditPosting | Enregistrement... |
+|  | editorEditReplyTitle | Modifier la réponse |
+|  | editorEditTitle | Modifier le logo |
+|  | editorPlaceholder | Que penses-tu ? |
+|  | editorPostBtn | Post Sidenote |
+|  | editorPostBtnMobile | Publication |
+|  | editorPosting | Publication… |
+|  | editorReplyBtn | Poster une réponse |
+|  | editorReplyTitle | Répondre en écriture |
+|  | editorTitle | Écrire Sidenote |
+|  | emptyImageBlockTxt | Que penses-tu ? |
+|  | emptyTextBlockTxt | + |
+|  | responseBtn | Répondre |
+|  | threadReplyBtn | Réponse à la conversation |
+| Supprimer les options du menu | menuConfirmAccept | Oui, {action} |
+|  | menuConfirmCancel | Annuler |
+|  | menuConfirmTitle | Etes-vous sûr ? |
+| Options du menu Etc | menuEtcOptionApprouver | Approuver |
+|  | menuEtcOptionDelete | Supprimer |
+|  | menuEtcOptionEdit | Modifier      |
+|  | menuEtcOptionFlag | Marquer d’un indicateur |
+|  | menuEtcOptionShare | Partager |
+|  | menuEtcPostedAt | Publié le {date} |
+|  | menuEtcTitle | Plus |
 
 ## Interface du modérateur {#section_o5f_dl4_xz}
 
-Chaînes disponibles pour l&#39;interface du modérateur authentifié par l&#39;utilisateur.
+Chaînes disponibles pour l’interface du modérateur authentifié par l’utilisateur.
 
-| Elément | Clé | Texte par défaut |
+| Élément | Clé | Texte par défaut |
 |---|---|---|
-| Messages de confirmation du menu Plus | Notificationapprouvé | Approuvé |
-|  | Notificationdeleted | Supprimé |
-|  | Notificationflagged | Marqué |
+| Messages de confirmation du menu Plus | notificationApprouvé | Approuvés |
+|  | notificationDeleted | Supprimé |
+|  | notificationFlagged | Avec indicateur |
 
 ## Erreurs {#section_gtk_cl4_xz}
 
-Chaînes disponibles pour les messages d&#39;erreur généraux.
+Chaînes disponibles pour les messages d’erreur généraux.
 
-| Elément | Clé | Texte par défaut |
+| Élément | Clé | Texte par défaut |
 |---|---|---|
-|  | Errorconnection | Uh-oh. Vous ne semblez pas avoir une bonne connexion. |
-|  | Errorduplicate | Vous aimez également votre remarque, mais vous ne pouvez pas la publier deux fois. |
-|  | Errorgenated | Une erreur est survenue. Veuillez réessayer. |
-|  | Errorserver | Un problème est survenu avec notre serveur. Essayez-le de nouveau ? |
+|  | errorConnection | Oh oh. Vous ne semblez pas avoir une bonne connexion. |
+|  | errorDuplicate | Nous aimons votre note aussi, mais vous ne pouvez pas la poster deux fois. |
+|  | errorGeneral | Une erreur s'est produite. Veuillez réessayer. |
+|  | errorServer | Quelque chose a mal tourné avec notre serveur. Essaie encore ça ? |
 
