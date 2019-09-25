@@ -1,30 +1,30 @@
 ---
-description: La messagerie instantanée propose plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
-seo-description: La messagerie instantanée propose plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
-seo-title: Fonctions de messagerie instantanée
+description: Chat offre plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
+seo-description: Chat offre plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
+seo-title: Fonctions de conversation
 solution: Experience Manager
-title: Fonctions de messagerie instantanée
-uuid: 8773 a 8 f 9-96 cd -41 db -80 dd -80 dd -261 af 749 e 4 b 1
+title: Fonctions de conversation
+uuid: 8773a8f9-96cd-41db-80dd-261af749e4b1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Fonctions de messagerie instantanée{#chat-features}
+# Fonctions de conversation{#chat-features}
 
-La messagerie instantanée propose plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
+Chat offre plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
 
 
 
-Pour encourager un dialogue rapide et engageant, la messagerie instantanée diffère des autres applications Livefyre comme suit :
+Pour encourager un dialogue rapide et engageant, le chat diffère des autres applications Livefyre des manières suivantes :
 
-* L&#39;éditeur de commentaires est prérenseigné avec la commande « Appuyez sur la commande + entrée pour publication.  » »
-* Les utilisateurs répondent à l&#39;ensemble de la messagerie, plutôt qu&#39;à un commentaire spécifique. Il n&#39;y a donc pas de bouton de réponse et aucune liaison dans les commentaires.
-* Les utilisateurs n&#39;ont pas l&#39;option permettant de suivre Chats et la notification de commentaire est désactivée.
-* Les notifications par courrier électronique sont automatiquement désactivées.
+* L’éditeur de commentaires est prérenseigné avec le texte "Appuyez sur la commande+Entrée pour publier".
+* Les utilisateurs répondent à la conversation dans son ensemble, plutôt qu’à un commentaire spécifique. Il n’y a donc pas de bouton Réponse et aucun Threading dans les commentaires.
+* Les utilisateurs n’ont pas la possibilité de suivre les forums de discussion et l’utilitaire de notification des commentaires est désactivé.
+* Les notifications par courrier électronique sont automatiquement désactivées par défaut.
 * Les avatars utilisateur sont plus petits que ceux utilisés avec les commentaires.
-* Le bouton J&#39;aime s&#39;affiche uniquement lorsque vous pointez sur un commentaire.
-* Les mentions J&#39;aime sur un commentaire apparaissent sans avatars, uniquement le nombre de mentions J&#39;aime.
+* Le bouton J’aime s’affiche uniquement lorsque vous passez la souris sur un commentaire.
+* Les mentions J’aime sur un commentaire s’affichent sans avatars, uniquement le nombre de mentions J’aime.
 * La largeur du flux peut être réduite à 250 pixels.
 
