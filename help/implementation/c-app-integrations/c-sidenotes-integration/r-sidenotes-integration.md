@@ -1,27 +1,27 @@
 ---
-description: Intégration d'une application Sidenotes en suivant un processus semblable aux applications principales.
-seo-description: Intégration d'une application Sidenotes en suivant un processus semblable aux applications principales.
-seo-title: Intégration des balises
+description: Intégrez une application Sidenotes en suivant un processus similaire à celui des applications principales.
+seo-description: Intégrez une application Sidenotes en suivant un processus similaire à celui des applications principales.
+seo-title: Intégration de Sidenotes
 solution: Experience Manager
-title: Intégration des balises
-uuid: 4 aa 14 ada -402 a -482 d-b 43 e -96 f 37 afa 6 c 53
+title: Intégration de Sidenotes
+uuid: 4aa14ada-402a-482d-b43e-96f37afa6c53
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 ---
 
 
-# Intégration des balises{#sidenotes-integration}
+# Intégration de Sidenotes{#sidenotes-integration}
 
-Intégration d&#39;une application Sidenotes en suivant un processus semblable aux applications principales.
+Intégrez une application Sidenotes en suivant un processus similaire à celui des applications principales.
 
-En règle générale, si l&#39;intégration de l&#39;application principale est terminée, le code écrit pour générer l `collectionMeta` &#39;objet peut être réutilisé pour les caractères annexes.
+En règle générale, si l’intégration de l’application principale est terminée, le code écrit pour générer l’ `collectionMeta` objet peut être réutilisé pour les Sidenotes.
 
-Vous pouvez également réutiliser vos `auth` délégués existants en fournissant `auth` un délégué créé `fyre.conv` avec les caractères annexes dans `authDelegate` le champ (facultatif).
+Vous pouvez également réutiliser vos `auth` délégués existants en fournissant un `auth` délégué créé avec `fyre.conv` les identifiants dans le champ (facultatif) `authDelegate` .
 
 >[!NOTE]
 >
->Les balises sidenotes vous permettent d&#39;inclure `network`, `siteId`et `articleId` dans un seul objet, plutôt que de les transmettre séparément dans d&#39;autres parties du constructeur.
+>Sidenotes vous permet d’inclure `network`, `siteId`et `articleId` dans un seul objet, plutôt que de les transmettre séparément dans d’autres parties du constructeur.
 
 ```
 <!DOCTYPE html> 
@@ -53,7 +53,7 @@ Livefyre.require(['sidenotes#1', 'auth'], function (Sidenotes, Auth) {
 </html>
 ```
 
-Comme indiqué dans `collectionMeta` la section Building, `collectionMeta` est un objet JSON codé. Dans l&#39;exemple ci-dessus, l&#39;objet JSON adopte le format suivant avant son codage JWT.
+Comme indiqué dans la section Création `collectionMeta` , `collectionMeta` est un objet JSON codé. Dans l’exemple ci-dessus, l’objet JSON utilise le format suivant avant d’être codé JWT.
 
 ```
 { 
@@ -65,11 +65,11 @@ Comme indiqué dans `collectionMeta` la section Building, `collectionMeta` est u
 }
 ```
 
-Pour plus d&#39;informations, consultez le `collectionMeta` jeton.
+Pour plus d’informations, voir le `collectionMeta` jeton.
 
 ## Configuration mobile
 
-Les commentaires de sidenotes ont été optimisés pour les périphériques mobiles. Pour obtenir de meilleurs résultats avec les versions mobiles de votre application Livefyre, définissez l&#39;option évolutive sur non. Par exemple :
+Sidenotes a été optimisé pour une utilisation sur des périphériques mobiles. Pour un résultat optimal avec les versions mobiles de votre application Livefyre, définissez l’option évolutive de l’utilisateur sur Non. Par exemple :
 
 ```
 <meta name="viewport" content="width=device-width, user-scalable=no">
