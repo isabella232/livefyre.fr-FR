@@ -1,28 +1,28 @@
 ---
-description: Lorsque vous implémentez des applications Livefyre, le style d'implémentation dépend de votre cas d'utilisation. Cette page explique les fonctionnalités de trois façons que vous pouvez créer.
-seo-description: Lorsque vous implémentez des applications Livefyre, le style d'implémentation dépend de votre cas d'utilisation. Cette page explique les fonctionnalités de trois façons que vous pouvez créer.
-seo-title: Intégrations d'applications CMS
+description: Lorsque vous implémentez des applications Livefyre, le style de mise en oeuvre dépend du cas d’utilisation. Cette page explique les fonctionnalités des trois manières de créer une application.
+seo-description: Lorsque vous implémentez des applications Livefyre, le style de mise en oeuvre dépend du cas d’utilisation. Cette page explique les fonctionnalités des trois manières de créer une application.
+seo-title: Intégrations des applications CMS
 solution: Experience Manager
-title: Intégrations d'applications CMS
-uuid: 14 fd 7 e 36-0 e 50-4 ae 3-97 f 0-2 de 731 c 184 f 5
+title: Intégrations des applications CMS
+uuid: 14fd7e36-0e50-4ae3-97f0-2de731c184f5
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Intégrations d&#39;applications CMS{#cms-app-integrations}
+# Intégrations des applications CMS{#cms-app-integrations}
 
-Lorsque vous implémentez des applications Livefyre, le style d&#39;implémentation dépend de votre cas d&#39;utilisation. Cette page explique les fonctionnalités de trois façons que vous pouvez créer.
+Lorsque vous implémentez des applications Livefyre, le style de mise en oeuvre dépend du cas d’utilisation. Cette page explique les fonctionnalités des trois manières de créer une application.
 
-L&#39;intégration Livefyre est différente de tout CMS et profil utilisateur et plate-forme authentique. Implémentez Livefyre d&#39;une ou plusieurs manières, selon votre cas d&#39;utilisation et vos exigences.
+L’intégration de Livefyre est indépendante de tout CMS et profil utilisateur et plateforme Auth. Mettez en oeuvre Livefyre d’une ou de plusieurs manières, selon votre cas d’utilisation et vos besoins.
 
-Vous pouvez utiliser l&#39;intégration traditionnelle pour créer des composants AEM personnalisés.
+Vous pouvez utiliser l’intégration traditionnelle pour créer des composants AEM personnalisés.
 
-## Présentation du type d&#39;intégration de l&#39;application CMS
+## Présentation du type d’intégration d’application CMS
 
-| Type | Exigence de développement | Fonctionnalités | Avantages | Limites |
+| Type | Besoin de développement | Fonctionnalités | Avantages | Limites |
 |--- |--- |--- |--- |--- |
-| App Designer | Très faible | Create JS intègre in Studio to add to pages without a developer <br>Limited Style and Configurations available </br>case : Pages d&#39;utilisation unique (couverture d&#39;événement, campagnes, hubs) | Possibilité d&#39;obtenir une application dans un délai court. <br>Les configurations peuvent être effectuées par un membre non technique. <br>Facile - Modification de la volée dans les configurations | Création d&#39;une application à l&#39;aide de Livefyre Studio d&#39;abord <br>Non automatisée |
-| Livefyre. js | Moyen | Intégrer les applications dans le code JavaScript de vos pages Cas <br>d&#39;utilisation : Modèles réutilisables (contenu éditorial, revues de produit) | Utilisez la suite complète de personnalisations et de configurations <br>d&#39;application Automatisez le processus pour instancier dynamiquement les applications de votre CMS sur vos pages. | Need a developer up - front. |
-| API SDK | Avancé | Récupérez votre contenu de Livefyre à utiliser pour les applications personnalisées <br>Personnalisez l&#39;option de personnalisation au-delà de l&#39;offre d&#39;offre <br>prise en charge : Intégrations des données/analyses et applications frontales personnalisées | Puissance totale de l&#39;apparence de l&#39;application | Nécessite un développement vers le haut - avant. <br>Niveau supérieur d&#39;effort de développement à implémenter. |
+| Concepteur d’applications | Très faible | Créez des incorporations JS dans Studio pour les ajouter aux pages sans avoir recours à un développeur <br>Limited Styling and Configurations (Style et configurations </br>limités disponibles) Cas d’utilisation : Pages à usage unique (couverture d’événements, campagnes, centres) | Possibilité d’exécuter une application rapidement. <br>Les configurations peuvent être effectuées par un membre non technique. <br>Changements faciles à la volée des configurations | Création d’une application à l’aide de Livefyre Studio <br>non automatisée |
+| Livefyre.js | Méthode | Intégrer les applications dans le code JavaScript de vos pages Cas d’ <br>utilisation : Modèles réutilisables (contenu éditorial, révisions de produits) | Utiliser la suite complète de personnalisations et de configurations d’application <br>Automatise le processus pour instancier dynamiquement les applications depuis votre CMS sur vos pages | Il faut un développeur dès le départ. |
+| API SDK | Advanced | Récupérez votre contenu de Livefyre afin de l’utiliser pour des applications personnalisées <br>Personnalisez le frontal au-delà de l’offre prise en charge Cas d’ <br>utilisation : Intégrations des données/analyses et applications frontales personnalisées | Pleine puissance sur l'apparence de l'application | Nécessite un développement initial. <br>Un niveau plus élevé d'effort de développement pour implémenter. |
