@@ -1,24 +1,24 @@
 ---
-description: Renvoie un objet Collection instancié comme type de blog. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
-seo-description: Renvoie un objet Collection instancié comme type de blog. Exécutez create_ or_ update () à partir de l'objet Collection pour terminer le processus de création.
-seo-title: Méthode du site buildblogcollection
+description: Renvoie un objet Collection appelé en tant que type de blog. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+seo-description: Renvoie un objet Collection appelé en tant que type de blog. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+seo-title: buildBlogCollection, méthode du site
 solution: Experience Manager
-title: Méthode du site buildblogcollection
-uuid: 6 a 5 ec 6 b 9-bc 32-467 a-abe 6-a 57 c 6 defe 067
+title: buildBlogCollection, méthode du site
+uuid: 6a5ec6b9-bc32-467a-abe6-a57c6defe067
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode du site buildblogcollection{#buildblogcollection-site-method}
+# buildBlogCollection, méthode du site{#buildblogcollection-site-method}
 
-Renvoie un objet Collection instancié comme type de blog. Exécutez create_ or_ update () à partir de l&#39;objet Collection pour terminer le processus de création.
+Renvoie un objet Collection appelé en tant que type de blog. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| titre | Chaîne | Titre de la collection. |
-| Articleid | Chaîne | Identifiant d&#39;article unique choisi pour identifier une collection sur votre site. |
+| title | Chaîne | Titre de la collection. |
+| articleId | Chaîne | ID d’article unique que vous avez choisi d’identifier une collection sur votre site. |
 | url | Chaîne | URL absolue canonique pour cette collection. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
@@ -27,7 +27,7 @@ Renvoie un objet Collection instancié comme type de blog. Exécutez create_ or_
 Collection collection = site.buildBlogCollection(title, articleId, url); 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 var collection = site.buildBlogCollection(title, articleId, url); 
