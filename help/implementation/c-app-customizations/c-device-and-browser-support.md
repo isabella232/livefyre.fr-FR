@@ -1,22 +1,22 @@
 ---
-description: Liste des navigateurs et des périphériques pris en charge par la suite de l'application Livefyre.
-seo-description: Liste des navigateurs et des périphériques pris en charge par la suite de l'application Livefyre.
+description: Liste des navigateurs et des périphériques pris en charge par la suite Livefyre App.
+seo-description: Liste des navigateurs et des périphériques pris en charge par la suite Livefyre App.
 seo-title: Prise en charge du périphérique et du navigateur
 title: Prise en charge du périphérique et du navigateur
-uuid: 338 f 78 b 2-051 d -4831-a 0 b 9-e 987 f 92660 ce
+uuid: 338f78b2-051d-4831-a0b9-e987f92660ce
 translation-type: tm+mt
-source-git-commit: 97ec4a7dcafdce7551a86f443d50be918daea3ce
+source-git-commit: 7d7af443eeffdbb09c2fa58006813c328785ad56
 
 ---
 
 
 # Prise en charge du périphérique et du navigateur{#device-and-browser-support}
 
-Liste des navigateurs et des périphériques pris en charge par la suite de l&#39;application Livefyre.
+Liste des navigateurs et des périphériques pris en charge par la suite Livefyre App.
 
-Livefyre prend en charge les périphériques, systèmes d&#39;exploitation et navigateurs suivants.
+Livefyre prend en charge les périphériques, systèmes d’exploitation et navigateurs suivants.
 
-|  | Applications principales | Storify 2 | Studio | Modq |
+|  | Applications principales | Storify 2 | Studio | ModQ |
 |---|---|---|---|---|
 | **Navigateurs de bureau** |  |  |  |  |
 | Chrome | ✓ | ✓ | ✓ | ✓ |
@@ -26,16 +26,16 @@ Livefyre prend en charge les périphériques, systèmes d&#39;exploitation et na
 | Safari | ✓ | ✓ | ✓ | ✓ |
 |  |  |  |  |  |
 | **Périphériques** |  |  |  |  |
-| Navigateur Android 2.3 + | Limité | Limité | S.o. | Limité |
-| Google Chrome sur Android 4.1 + | Limité | Limité | S.o. | Limité |
-| Versions antérieures d&#39;ios | Limité | Limité | S.o. | Limité |
-| Version actuelle d&#39;ios | Limité | Limité | S.o. | Limité |
+| Android Browser 2.3+ | Limité | Limité | S.O. | Limité |
+| Google Chrome sur Android 4.1+ | Limité | Limité | S.O. | Limité |
+| Versions précédentes d’iOS | Limité | Limité | S.O. | Limité |
+| Version actuelle d’iOS | Limité | Limité | S.O. | Limité |
 
 >[!NOTE]
 >
->Bien que Livefyre puisse gérer les fonctionnalités existantes, il est possible que de nouveaux produits et fonctionnalités ne soient pas entièrement pris en charge dans les navigateurs répertoriés ici avec la prise en charge limitée.
+>Bien que Livefyre s'efforce de conserver les fonctionnalités existantes, il est possible que les nouveaux produits et fonctionnalités ne soient pas entièrement pris en charge sur les navigateurs répertoriés ici avec une prise en charge limitée.
 
 >[!NOTE]
 >
->En raison de la fin de la prise en charge de Microsoft, Livefyre n&#39;est pas pris en charge dans les versions d&#39;Internet Explorer antérieures à Internet Explorer 11.
+>En raison de la fin de la prise en charge par Microsoft, Livefyre n’est pas pris en charge sur les versions d’Internet Explorer antérieures à Internet Explorer 11.
 
