@@ -4,7 +4,7 @@ seo-description: Studio enregistre automatiquement toutes les modifications effe
 seo-title: Historique des révisions
 solution: Experience Manager
 title: Historique des révisions
-uuid: c 2 f 8 a 45 b -54 c 1-4667-893 a-b 3 bd 4 be 4546 a
+uuid: c2f8a45b-54c1-4667-893a-b3bd4be4546a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -17,10 +17,10 @@ Studio enregistre automatiquement toutes les modifications effectuées par tous 
 
 >[!NOTE]
 >
->Il est possible que votre application ne soit pas modifiée pendant que le volet Historique de version est ouvert.
+>Votre application ne peut pas être modifiée tant que le volet Historique des versions est ouvert.
 
-1. Cliquez pour **[!UICONTROL History]** ouvrir un panneau répertoriant toutes les versions de votre application. Les versions répertoriées indiquent l&#39;éditeur de chaque version et son âge.
-1. Cliquez sur une version pour la sélectionner et actualisez l&#39;aperçu dans le volet de droite.
-1. Cliquez **[!UICONTROL Restore Version]** sur si vous souhaitez cloner la version sélectionnée et commencer à travailler à partir de celui-ci.
-1. Cliquez sur le bouton Précédent dans **[!UICONTROL Version History]** le volet pour revenir à votre brouillon de travail.
-1. Cliquez pour **[!UICONTROL Share]** générer une URL pour l&#39;aperçu, qui peut être envoyée aux collègues ou amis pour révision.
+1. Cliquez sur **[!UICONTROL History]** pour ouvrir un panneau répertoriant toutes les versions de votre application. Les versions répertoriées affichent l’éditeur de chaque version et son âge.
+1. Cliquez sur une version pour la sélectionner, puis actualisez l’affichage de l’aperçu dans le volet de droite.
+1. Cliquez sur **[!UICONTROL Restore Version]** si vous souhaitez cloner la version sélectionnée et commencer à travailler dessus.
+1. Cliquez sur le bouton Précédent dans le **[!UICONTROL Version History]** volet pour revenir à votre brouillon de travail.
+1. Cliquez sur **[!UICONTROL Share]** pour générer une URL pour l’aperçu, qui peut être envoyée à des collègues ou amis pour révision.
