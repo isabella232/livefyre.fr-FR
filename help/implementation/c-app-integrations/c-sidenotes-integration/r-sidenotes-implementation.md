@@ -1,21 +1,21 @@
 ---
-description: Mise en œuvre de Sidenotes à l’aide de la mise en œuvre du fichier .js.
-seo-description: Mise en œuvre de Sidenotes à l’aide de la mise en œuvre du fichier .js.
-seo-title: Mise en œuvre des tableaux de sidenom
+description: Implémenter Sidenotes à l’aide de l’implémentation .js.
+seo-description: Implémenter Sidenotes à l’aide de l’implémentation .js.
+seo-title: Implémentation de Sidenotes
 solution: Experience Manager
-title: Mise en œuvre des tableaux de sidenom
-uuid: aa 13852 e-e 2 b 0-4 a 86-97 cd-d 08 ab 5 e 2 cfab
+title: Implémentation de Sidenotes
+uuid: aa13852e-e2b0-4a86-97cd-d08ab5e2cfab
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Mise en œuvre des tableaux de sidenom{#sidenotes-implementation}
+# Implémentation de Sidenotes{#sidenotes-implementation}
 
-## Mise en œuvre de Sidenotes à l’aide de la mise en œuvre du fichier .js
+## Implémenter Sidenotes à l’aide de l’implémentation .js
 
-Pour mettre en œuvre cette fonction, transmettez un mappage d&#39;objet 1-1 des chaînes que vous souhaitez remplacer par l&#39;objet de configuration Javascript. Si vous ne fournissez pas de champ, le texte par défaut est utilisé.
+Pour implémenter cette fonctionnalité, transmettez un mappage d’objet 1-1 des chaînes que vous souhaitez remplacer à l’objet de configuration Javascript. Si vous ne fournissez pas de champ, le texte par défaut sera utilisé.
 
 ### Exemple
 
