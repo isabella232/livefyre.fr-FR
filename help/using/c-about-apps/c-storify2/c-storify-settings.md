@@ -1,10 +1,10 @@
 ---
-description: Réglez les paramètres pour les articles Storify 2, tels que les balises, la modération et le contenu autorisé.
-seo-description: Réglez les paramètres pour les articles Storify 2, tels que les balises, la modération et le contenu autorisé.
+description: Ajustez les paramètres de Storify 2 articles, tels que les balises, la modération et le contenu autorisé.
+seo-description: Ajustez les paramètres de Storify 2 articles, tels que les balises, la modération et le contenu autorisé.
 seo-title: Paramètres Storify
 solution: Experience Manager
 title: Paramètres Storify
-uuid: 030936 fb -7 c 8 b -487 e-b 468-7128 b 641 c 8 ed
+uuid: 030936fb-7c8b-487e-b468-7128b641c8ed
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,45 +13,45 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Paramètres Storify{#storify-settings}
 
-Réglez les paramètres pour les articles Storify 2, tels que les balises, la modération et le contenu autorisé.
+Ajustez les paramètres de Storify 2 articles, tels que les balises, la modération et le contenu autorisé.
 
 >[!NOTE]
 >
->La plupart des paramètres répertoriés pour les applications Storify 2 Apps pour les balises de type Sidenotes s&#39;ils sont activés.
+>La plupart des paramètres répertoriés pour les options de contrôle Storify 2 Apps pour Sidenotes, s’ils sont activés.
 
 * **[!UICONTROL Tags]**
 
-   Utilisez des balises pour rechercher plus facilement les applications dans Studio.
+   Utilisez des balises pour rechercher plus facilement des applications dans Studio.
 
 * **[!UICONTROL Allow New Content]**
 
-   Autorisez les nouveaux blocs annexes à être ajoutés à votre récit.
+   Autorisez l’ajout de nouveaux Sidenotes à votre article.
 
 * **[!UICONTROL Article URL]**
 
-   URL à utiliser pour socialsync et les permalinks.
+   URL à utiliser pour SocialSync et les liens permalins.
 
 * **[!UICONTROL Premoderate Content]**
 
-   Exiger l&#39;approbation du modérateur avant que les tableaux de sidenom soient rendus publics.
+   Exigez l’approbation du modérateur avant que les Sidenotes ne soient rendus publics.
 
 * **[!UICONTROL Display Media]**
 
-   Affichez les vignettes cliquables pour les photos et la vidéo.
+   Affichez des vignettes cliquables pour les photos et la vidéo.
 
 * **[!UICONTROL Premoderate Media]**
 
-   Exiger l&#39;approbation du modérateur avant que le contenu des médias ne soit rendue public.
+   Exigez l’approbation du modérateur avant que le contenu multimédia de Sidenotes ne soit rendu public.
 
 * **[!UICONTROL Queue New Content]**
 
-   Désactivez la diffusion en continu et la file d&#39;attente en direct de nouveaux contenus et réponses.
+   Désactivez la diffusion en direct et mettez en file d’attente le nouveau contenu et les réponses.
 
 * **[!UICONTROL Throttle Content]**
 
-   Réduisez intelligemment le nombre de publications répertoriées sous un volume élevé.
+   Réduisez intelligemment le nombre de publications Sidenotes affichées sous un volume élevé.
 
 * **[!UICONTROL Allow Bulk Content]**
 
-   Autorise plusieurs publications comprenant du texte correspondant.
+   Autoriser plusieurs publications qui incluent du texte correspondant.
 
