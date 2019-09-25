@@ -1,9 +1,9 @@
 ---
-description: Publiez le contenu directement dans une application.
-seo-description: Publiez le contenu directement dans une application.
+description: Publiez du contenu directement dans une application.
+seo-description: Publiez du contenu directement dans une application.
 seo-title: Publier du contenu
 title: Publier du contenu
-uuid: eed 0746 b -5295-46 f 7-b 32 e -32 ea 524 f 1 e 94
+uuid: eed0746b-5295-46f7-b32e-32ea524f1e94
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -12,13 +12,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # Publier du contenu{#publish-content}
 
-Publiez le contenu directement dans une application.
+Publiez du contenu directement dans une application.
 
-Le contenu publié directement dans une application n&#39;est pas enregistré dans votre bibliothèque de fichiers.
+Le contenu publié directement dans une application ne sera pas enregistré dans votre bibliothèque de fichiers.
 
 ![](assets/DiscoverViewDetailsPublish-1024x272.png)
 
-1. **[!UICONTROL View Details]** pour un fichier.
-1. Cochez la **[!UICONTROL Publish]** case dans **[!UICONTROL Advanced Options]** la boîte de dialogue.
-1. Sélectionnez l&#39;application à laquelle l&#39;élément doit être publié.
-1. Cliquez **[!UICONTROL Let’s do it]** sur.
+1. **[!UICONTROL View Details]** pour une ressource.
+1. Cochez la **[!UICONTROL Publish]** case dans la **[!UICONTROL Advanced Options]** boîte de dialogue.
+1. Sélectionnez l’application dans laquelle l’élément doit être publié.
+1. Cliquez sur **[!UICONTROL Let’s do it]**.
