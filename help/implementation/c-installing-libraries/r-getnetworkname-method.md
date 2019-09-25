@@ -1,19 +1,19 @@
 ---
-description: Cette méthode renvoie le nom du réseau sans le domaine fyre. co.
-seo-description: Cette méthode renvoie le nom du réseau sans le domaine fyre. co.
-seo-title: Méthode réseau getnetworkname
+description: Cette méthode renvoie le nom du réseau sans le fichier fyre.co.
+seo-description: Cette méthode renvoie le nom du réseau sans le fichier fyre.co.
+seo-title: getNetworkName, méthode réseau
 solution: Experience Manager
-title: Méthode réseau getnetworkname
-uuid: 3523 e 5 a 4-11 f 4-458 d -91 e 7-a 149 d 3 afe 5 e 9
+title: getNetworkName, méthode réseau
+uuid: 3523e5a4-11f4-458d-91e7-a149d3afe5e9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Méthode réseau getnetworkname{#getnetworkname-network-method}
+# getNetworkName, méthode réseau{#getnetworkname-network-method}
 
-Cette méthode renvoie le nom du réseau sans le domaine fyre. co.
+Cette méthode renvoie le nom du réseau sans le fichier fyre.co.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
@@ -27,7 +27,7 @@ Exemple de sortie :
 "example" 
 ```
 
-## Exemple nodejs {#section_xkd_gds_rz}
+## Exemple NodeJS {#section_xkd_gds_rz}
 
 ```
 network.getNetworkName();
