@@ -1,72 +1,72 @@
 ---
 description: Créez une demande de confidentialité dans Livefyre.
 seo-description: Créez une demande de confidentialité dans Livefyre.
-seo-title: Création d'une demande de confidentialité
-title: Création d'une demande de confidentialité
-uuid: 9 fdbd 564-0 cea -4 e 4 f-bdea-d 5 b 8744 fe 63 a
+seo-title: Création d’une requête de confidentialité
+title: Création d’une requête de confidentialité
+uuid: 9fdbd564-0cea-4e4f-bdea-d5b8744fe63a
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 
 
-# Création d&#39;une demande de confidentialité{#create-a-privacy-request}
+# Create a Privacy Request{#create-a-privacy-request}
 
 Créez une demande de confidentialité dans Livefyre.
 
-Supprimez toutes les données d&#39;un utilisateur, générez un rapport de toutes les données pour un utilisateur et effectuez les changements de souscription ou d&#39;exclusion à l&#39;aide de ce processus.
+Supprimez toutes les données d’un utilisateur, générez un rapport de toutes les données d’un utilisateur et apportez les modifications d’inclusion ou d’exclusion à l’aide de ce processus.
 
-Pour rechercher et rechercher un utilisateur et générer un rapport de son contenu :
+Pour rechercher et rechercher un utilisateur et générer un rapport sur son contenu :
 
-1. Accédez **[!UICONTROL Settings > Privacy]**à, puis cliquez **[!UICONTROL Create Request]** sur.
+1. Accédez à **[!UICONTROL Settings > Privacy]**, puis cliquez sur **[!UICONTROL Create Request]**.
 
    ![](assets/privacypage1.png)
 
-1. Renseignez les informations de la **[!UICONTROL Submit Request]** fenêtre :
+1. Renseignez les informations dans la **[!UICONTROL Submit Request]** fenêtre :
 
-   * **[!UICONTROL Reference Id]**. Saisissez un identifiant à utiliser pour une référence ultérieure. Par exemple, vous pouvez ajouter du texte, un numéro de ticket, une URL, une adresse électronique ou une autre chaîne de 255 caractères au maximum.
+   * **[!UICONTROL Reference Id]**. Entrez un identifiant à utiliser pour une référence ultérieure. Par exemple, vous pouvez ajouter du texte, un numéro de ticket, une URL, une adresse électronique ou une autre chaîne de 255 caractères maximum.
    * **[!UICONTROL Type]**
 
-      * **Accès**. Collecte toutes les données disponibles associées au compte. Les détails sensibles, par exemple mots de passe ou informations d&#39;identification sociales, seront obscurcis ou omis.
+      * **Accès**. Collecte toutes les données disponibles associées au compte. Les détails sensibles, tels que les mots de passe ou les informations d’identification sociales, seront masqués ou omis.
 
-      * **Supprimer**. Celpe ou obscurcit toutes les données associées au compte. **Si vous choisissez cette option et cliquez sur Envoyer, vous ne pouvez pas annuler ou annuler cette action,*ni récupérer les données supprimées.*** Si le compte appartient à un utilisateur de Livefyre Studio, certaines données sont conservées pour préserver l&#39;intégrité des enregistrements d&#39;entreprise.
+      * **Supprimer**. Crée ou obscurcit toutes les données associées au compte. **Si vous sélectionnez cette option et cliquez sur Envoyer, vous ne pouvez pas annuler ou annuler cette action,*ni récupérer les données supprimées.*** Si le compte appartient à un utilisateur de Livefyre Studio, certaines données seront conservées afin de préserver l’intégrité de vos enregistrements professionnels.
 
          >[!IMPORTANT]
          >
-         >La suppression de données d&#39;un compte supprime ou détruise définitivement les données associées au compte. Vous ne pouvez pas annuler cette action, ni récupérer les données après l&#39;avoir supprimée.
+         >La suppression des données d’un compte entraîne la suppression définitive ou la destruction des données associées au compte. Vous ne pouvez pas inverser cette action, ni récupérer les données après leur suppression.
 
-      * **Exclusion**. Empêche Livefyre de collecter de manière passive des données ou du contenu d&#39;un compte social via flux ou recherche sociale. La souscription et l&#39;exclusion ne s&#39;appliquent pas aux utilisateurs enregistrés.
-      * **Souscription**. Permet à Livefyre de collecter, de manière passive, des données ou du contenu d&#39;un compte social qui a précédemment été désactivé par le biais de Flux ou de la Recherche sociale. La souscription et l&#39;exclusion ne s&#39;appliquent pas aux utilisateurs enregistrés.
+      * **Exclusion**. Empêche Livefyre de collecter passivement des données ou du contenu d’un compte social par le biais de flux ou de recherches sur les réseaux sociaux. L’inclusion et l’exclusion ne s’appliquent pas aux utilisateurs enregistrés.
+      * **Inscription**. Permet de nouveau à Livefyre de collecter passivement des données ou du contenu à partir d’un compte social qui avait précédemment fait l’objet d’une exclusion via les flux ou la recherche sociale. L’inclusion et l’exclusion ne s’appliquent pas aux utilisateurs enregistrés.
       ![](assets/privacypage2.png)
 
    * **[!UICONTROL Identifier Type]** et **[!UICONTROL Identifier]**
 
       * **[!UICONTROL User Account]**
 
-         * Identifie un compte d&#39;un utilisateur enregistré par l&#39;ID de compte d&#39;utilisateur généré par votre système de gestion des utilisateurs ou l&#39;identifiant utilisateur Studio de Livefyre. Vous pouvez également localiser l&#39;ID de compte utilisateur dans les détails utilisateur de l&#39;utilisateur dans **les paramètres** **utilisateur de Livefyre** ou dans les détails du contenu dans la bibliothèque **de fichiers** ou dans le contenu **de l&#39;application.**
+         * Identifie un compte d’utilisateur enregistré par l’ID de compte d’utilisateur généré par votre système de gestion des utilisateurs ou l’identifiant utilisateur Studio de Livefyre. Vous pouvez également localiser l’ID de compte d’utilisateur dans les détails de l’utilisateur dans les paramètres **** utilisateur de **Livefyre** ou dans les détails du contenu de la bibliothèque **de** fichiers ou du contenu de l’ **application.**
 
-         * Valeurs autorisées : Chaîne alphanumérique jusqu&#39;à 255 caractères. Une adresse électronique n&#39;est pas une entrée valide
+         * Valeurs autorisées : Chaîne alphanumérique pouvant contenir jusqu’à 255 caractères. Une adresse électronique n’est pas une entrée valide
       * **[!UICONTROL Facebook User]**
 
-         * Identifie un compte par un ID numérique fourni par Facebook. Le demandeur doit fournir ceci. Vous trouverez des instructions sur la manière de localiser l&#39;ID Facebook numérique [ici](https://www.facebook.com/help/1397933243846983?helpref=faq_content)
-         * Valeurs autorisées : 6-16 caractères numériques
+         * Identifie un compte à l’aide d’un ID numérique fourni par Facebook. Le demandeur doit fournir ceci. Vous trouverez des instructions sur la localisation de l’ID Facebook numérique [ici](https://www.facebook.com/help/1397933243846983?helpref=faq_content)
+         * Valeurs autorisées : 6 à 16 caractères numériques
       * **[!UICONTROL Instagram User]**
 
-         * Identifie le compte par un ID numérique fourni par Instagram. Le demandeur doit fournir ceci. Vous trouverez des instructions sur la manière de localiser l&#39;ID Instagram numérique sur un compte Instagram en cherchant en ligne
-         * Valeurs autorisées : 5-16 caractères numériques
+         * Identifie le compte à l’aide d’un ID numérique fourni par Instagram. Le demandeur doit fournir ceci. Vous trouverez des instructions sur la localisation de l’ID Instagram numérique sur un compte Instagram en effectuant une recherche en ligne.
+         * Valeurs autorisées : 5 à 16 caractères numériques
       * **[!UICONTROL Twitter User]**
 
-         * Identifie un compte par un ID numérique fourni par Twitter. La personne qui demande la modification de la confidentialité doit le fournir. Vous trouverez des instructions sur la manière de localiser l&#39;ID Twitter numérique d&#39;un compte Twitter en cherchant en ligne
-         * Valeurs autorisées : 5-16 caractères numériques
+         * Identifie un compte à l’aide d’un ID numérique fourni par Twitter. La personne qui demande la modification de la vie privée doit fournir cette information. Vous trouverez des instructions sur la manière de localiser l’ID Twitter numérique d’un compte Twitter en effectuant une recherche en ligne.
+         * Valeurs autorisées : 5 à 16 caractères numériques
       * **[!UICONTROL YouTube User]**
 
-         * Identifie un compte par un ID numérique fourni par YouTube. La personne qui demande la modification de la confidentialité doit le fournir. Vous trouverez des instructions sur la manière de localiser l&#39;ID YouTube numérique sur un compte YouTube [ici](https://support.google.com/youtube/answer/3250431?hl=en)
-         * Valeurs autorisées : 5-16 caractères numériques
+         * Identifie un compte à l’aide d’un ID numérique fourni par YouTube. La personne qui demande la modification de la vie privée doit fournir cette information. Vous trouverez des instructions sur la localisation de l’ID YouTube numérique sur un compte YouTube [ici](https://support.google.com/youtube/answer/3250431?hl=en)
+         * Valeurs autorisées : 5 à 16 caractères numériques
       * **[!UICONTROL Generic Author]**
 
-         * Identifie un compte par un ID d&#39;auteur Livefyre (JID). Utilisez cette option pour le contenu provenant de RSS, Tumblr ou URL. Pour trouver cet ID, recherchez le contenu attribué à l&#39;Auteur dans le contenu **de l&#39;application** ou **la bibliothèque de fichiers**, puis sélectionnez un élément. L&#39;ID est disponible dans **le contenu de l&#39;application** sous **Informations** ou dans la bibliothèque **de fichiers** sous **Auteur** dans la section **Détails** .
+         * Identifie un compte à l’aide d’un ID d’auteur Livefyre (JID). Utilisez cette option pour le contenu issu du RSS, de Tumblr ou des URL. Pour rechercher cet ID, recherchez le contenu attribué à l’auteur dans Contenu **** appli ou Bibliothèque **de** fichiers, puis sélectionnez un élément. L’ID est disponible dans Contenu **de l’** application sous **Infos** ou dans la bibliothèque **de** fichiers sous **Auteur dans la section Détails******
 
-         * Valeurs autorisées : Chaîne alphanumérique jusqu&#39;à 255 caractères
+         * Valeurs autorisées : Chaîne alphanumérique pouvant contenir jusqu’à 255 caractères
          ![](assets/privacypage3.png)
 
 
@@ -76,13 +76,13 @@ Pour rechercher et rechercher un utilisateur et générer un rapport de son cont
 
 
 
-1. Cliquez **[!UICONTROL Finish]** sur.
+1. Cliquez sur **[!UICONTROL Finish]**.
 
    ![](assets/privacypage4.png)
 
-1. (Pour supprimer uniquement les requêtes) Confirmez que vous souhaitez supprimer toutes les informations de l&#39;utilisateur.
+1. (Pour les requêtes Supprimer uniquement) Confirmez que vous souhaitez supprimer toutes les informations de l’utilisateur.
 
    >[!IMPORTANT]
    >
-   >La suppression de données d&#39;un compte supprime ou détruise définitivement les données associées au compte. Vous ne pouvez pas annuler cette action, ni récupérer les données après l&#39;avoir supprimée.
+   >La suppression des données d’un compte entraîne la suppression définitive ou la destruction des données associées au compte. Vous ne pouvez pas inverser cette action, ni récupérer les données après leur suppression.
 
