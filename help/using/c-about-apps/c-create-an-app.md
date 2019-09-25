@@ -1,174 +1,174 @@
 ---
-description: Pour ajouter une application à votre site, vous devez d'abord créer une application dans Livefyre Studio.
-seo-description: Pour ajouter une application à votre site, vous devez d'abord créer une application dans Livefyre Studio.
-seo-title: Création d'une application
+description: Pour ajouter une application à votre site, vous devez d’abord créer une application dans Livefyre Studio.
+seo-description: Pour ajouter une application à votre site, vous devez d’abord créer une application dans Livefyre Studio.
+seo-title: Créer une application
 solution: Experience Manager
-title: Création d'une application
-uuid: 8 c 2 c 07 fb-a 951-47 d 9-b 498-4 c 487 ee 83 a 18
+title: Créer une application
+uuid: 8c2c07fb-a951-47d9-b498-4c487ee83a18
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Création d&#39;une application {#create-an-app}
+# Créer une application {#create-an-app}
 
-Pour ajouter une application à votre site, vous devez d&#39;abord créer une application dans Livefyre Studio.
+Pour ajouter une application à votre site, vous devez d’abord créer une application dans Livefyre Studio.
 
 Pour créer une application :
 
-1. Cliquez **[!UICONTROL +New App]** sur dans la page Applications et sélectionnez un type d&#39;application dans le menu déroulant.
-1. La boîte **[!UICONTROL New App]** de dialogue s&#39;affiche. Saisissez un **[!UICONTROL App Title]**, sélectionnez A **[!UICONTROL Site]**, puis cliquez **[!UICONTROL Create]** pour ouvrir la page Aperçu de l&#39;application.
+1. Cliquez sur **[!UICONTROL +New App]** dans la page Applications, puis sélectionnez un type d’application dans le menu déroulant.
+1. La **[!UICONTROL New App]** boîte de dialogue s’affiche. Entrez un **[!UICONTROL App Title]** nom, sélectionnez un **[!UICONTROL Site]**, puis cliquez **[!UICONTROL Create]** sur pour ouvrir la page Aperçu de l’application.
 
-La page Résumé de l&#39;application fournit 4 onglets :
+La page Résumé de l’application comporte 4 onglets :
 
-* **[!UICONTROL App Summary]**: fournit un aperçu du contenu et de l&#39;état de l&#39;application, et fournit des outils permettant d&#39;accéder à l&#39;application sur son site et de générer son code incorporé.
-* **[!UICONTROL Designer]**: vous permet de sélectionner des options de conception pour l&#39;application, y compris les polices, les schémas de couleurs et les options de configuration spécifiques à l&#39;application.
-* **[!UICONTROL Streams]**: répertorie toutes les sources de flux pour le contenu de l&#39;application. Cliquez sur le titre du flux pour ouvrir la page Détails du flux, à partir de laquelle elle peut être modifiée.
-* **[!UICONTROL Settings]**: vous permet de sélectionner des paramètres spécifiques à l&#39;application, y compris des règles permettant d&#39;ajouter du contenu à l&#39;application et les types de contenu à afficher. Cliquez sur **[!UICONTROL Settings]** l&#39;onglet pour remplacer les paramètres réseau et site de l&#39;application.
+* **[!UICONTROL App Summary]**: fournit un aperçu du contenu et de l’état de l’application, ainsi que des outils permettant d’accéder à l’application sur son site et de générer son code incorporé.
+* **[!UICONTROL Designer]**: vous permet de sélectionner des options de conception pour l’application, notamment des polices, des modèles de couleurs et des options de configuration spécifiques à l’application.
+* **[!UICONTROL Streams]**: répertorie toutes les sources de diffusion en continu pour le contenu de l’application. Cliquez sur le titre du flux pour ouvrir la page Détails du flux, à partir de laquelle il peut être modifié.
+* **[!UICONTROL Settings]**: vous permet de sélectionner des paramètres spécifiques à l’application, notamment des règles d’ajout de contenu à l’application et les types de contenu à afficher. Cliquez sur l’ **[!UICONTROL Settings]** onglet pour remplacer les paramètres réseau et de site de l’application.
 
-## Liste Applications {#section_eyp_ykt_bbb}
+## Liste des applications {#section_eyp_ykt_bbb}
 
-La page de la liste Applications donne accès à toutes vos applications Livefyre existantes.
+La page de liste Applications donne accès à toutes vos applications Livefyre existantes.
 
-La page Applications répertorie les informations suivantes :
+La page de liste Applications affiche les informations suivantes :
 
-* **[!UICONTROL Title]**: Répertorie le titre de votre application et inclut une icône indiquant le type d&#39;application.
-* **[!UICONTROL Site]**: Indique l&#39;emplacement de l&#39;application, par site.
-* **[!UICONTROL Content Count]**: Indique le nombre de parties de contenu publiées dans l&#39;application.
-* **[!UICONTROL Date Modified]**: Répertorie la dernière fois que l&#39;application a été modifiée dans App Designer.
-* **[!UICONTROL Embed Code (</>)]**: Cliquez sur l&#39;icône pour générer le code incorporé de votre application.
+* **[!UICONTROL Title]**: Répertorie le titre de votre application et comprend une icône indiquant le type d’application.
+* **[!UICONTROL Site]**: Répertorie l’emplacement de l’application, par site.
+* **[!UICONTROL Content Count]**: Répertorie le nombre d’éléments de contenu publiés dans l’application.
+* **[!UICONTROL Date Modified]**: Répertorie la dernière fois que l’application a été modifiée dans App Designer.
+* **[!UICONTROL Embed Code (</>)]**: Cliquez sur l’icône pour générer le code incorporé de votre application.
 
-## Personnalisation de l&#39;application {#section_lvj_xlt_bbb}
+## Personnalisation de l’application {#section_lvj_xlt_bbb}
 
-Vous pouvez utiliser l&#39;onglet App Designer pour sélectionner **[!UICONTROL Style]** et **[!UICONTROL Configuration]** sélectionner des options pour personnaliser vos applications.
+Vous pouvez utiliser l’onglet Concepteur d’applications pour sélectionner **[!UICONTROL Style]** et **[!UICONTROL Configuration]** sélectionner des options de personnalisation des applications.
 
-**[!UICONTROL Style]** Les options sont cohérentes dans tous les types d&#39;application ; **[!UICONTROL Configuration]** Les options varient selon l&#39;application. La partie inférieure du panneau **[!UICONTROL Style]** et **[!UICONTROL Configuration]** du panneau répertorie la version de l&#39;application Livefyre pour votre application.
+**[!UICONTROL Style]** Les options sont cohérentes pour tous les types d’application ; Les **[!UICONTROL Configuration]** options varient selon l’application. Le bas du **[!UICONTROL Style]** volet et du **[!UICONTROL Configuration]** répertorie la version de l’application Livefyre pour votre application.
 
 **Sélectionner les options de style**
 
-Les applications de style en fonction de la marque de votre site. Utilisez **[!UICONTROL Style]** les options pour sélectionner les styles de couleur et de police de l&#39;application.
+Mettre des applications de style en fonction de la marque de votre site. Utilisez les **[!UICONTROL Style]** options pour sélectionner la couleur et les styles de police de l’application.
 
-* **[!UICONTROL Theme]**. Sélectionnez **[!UICONTROL Light]** ou **[!UICONTROL Dark]** définissez la couleur d&#39;arrière-plan du contenu affiché. Les modifications apportées à ce paramètre sont immédiatement répercutées dans l&#39;aperçu à droite. Ce paramètre contrôle l&#39;arrière-plan, le texte du contenu, la poignée d&#39;utilisateur, l&#39;horodatage, le bouton Partager et la sélection des couleurs d&#39;icône sociale pour l&#39;application.
+* **[!UICONTROL Theme]**. Sélectionnez **[!UICONTROL Light]** ou **[!UICONTROL Dark]** définissez la couleur d’arrière-plan du contenu affiché. Les modifications apportées à ce paramètre sont immédiatement répercutées dans l’aperçu à droite. Ce paramètre contrôle l’arrière-plan, le texte du contenu, le nom d’utilisateur, l’horodatage, le bouton de partage et la sélection de couleur des icônes sociales pour l’application.
 
-* **[!UICONTROL Brand color]**. Sélectionnez une couleur pour votre application. Cette couleur sera utilisée pour les hashtags, les URL, les noms d&#39;utilisateur, @ mentions, les graphiques à barres et d&#39;autres composants spécifiques à l&#39;application, comme indiqué dans le volet d&#39;aperçu à droite.
-* **[!UICONTROL Font family]**. Sélectionnez une police pour le contenu généré par l&#39;utilisateur dans votre application. Sélectionner la Géorgie ou Times New Roman affectera cette police au contenu et Helvetica Neue aux noms d&#39;utilisateur et aux noms d&#39;affichage. Sélectionnez Helvetica, Verdana ou Trebuchet pour affecter ces polices au contenu, aux noms d&#39;utilisateur et aux noms d&#39;affichage.
-* **[!UICONTROL Font size]**. Sélectionnez une taille de police par défaut. Ce paramètre affectera tous les contenus générés par l&#39;utilisateur et les titres affichés dans l&#39;application.
+* **[!UICONTROL Brand color]**. Sélectionnez une couleur pour votre application. Cette couleur sera utilisée pour les hashtags, URL, noms d’utilisateur, @mentions, graphiques à barres et autres composants spécifiques à l’application, comme indiqué dans le volet d’aperçu à droite.
+* **[!UICONTROL Font family]**. Sélectionnez une police pour le contenu généré par l’utilisateur dans votre application. Si vous sélectionnez Georgia ou Times New Roman, vous attribuerez cette police au contenu et Helvetica Neue aux noms d’utilisateur et aux noms d’affichage. Si vous sélectionnez Helvetica, Verdana ou Trebuchet, ces polices seront attribuées au contenu, aux noms d’utilisateur et aux noms d’affichage.
+* **[!UICONTROL Font size]**. Sélectionnez une taille de police par défaut. Ce paramètre affectera l’ensemble du contenu généré par l’utilisateur et des titres affichés dans l’application.
 
 ## Mise à jour des applications {#section_iwb_4bz_vcb}
 
-S&#39;il existe une version plus récente de l&#39;application, un **[!UICONTROL Update]** bouton s&#39;affiche.
+S’il existe une version plus récente de l’application, un **[!UICONTROL Update]** bouton s’affiche.
 
-Cliquez sur le bouton pour mettre à jour la version la plus récente. Actualisez votre application pour utiliser toutes les améliorations et correctifs de fonctionnalités disponibles. Une fois mis à jour, prévisualisez les modifications apportées à votre application (le cas échéant), puis acceptez ou rejetez la mise à jour.
+Cliquez sur le bouton pour mettre à jour la version la plus récente. Actualisez votre application afin d’utiliser toutes les améliorations et correctifs de fonctionnalités disponibles. Une fois la mise à jour effectuée, prévisualisez les modifications apportées à votre application (le cas échéant), puis acceptez ou rejetez la mise à jour.
 
-## Ajout d&#39;un bouton Appel à l&#39;action à une application {#section_cpf_cmt_bbb}
+## Ajout d’un bouton d’appel à l’action à une application {#section_cpf_cmt_bbb}
 
-Ajoutez un bouton Appel à l&#39;action pour générer une conversion depuis UGC.
+Ajoutez un bouton Appel à l’action pour générer des conversions à partir de l’UGC.
 
-Pour ajouter un bouton Appel à l&#39;action à une application :
+Pour ajouter un bouton Appel à l’action à une application :
 
 1. Créez une application Mosaic ou Media Wall.
 
-   Pour plus d&#39;informations sur les personnalisations disponibles dans une mosaïque ou un mur multimédia, voir [Personnalisations de Mosaic](/help/using/c-about-apps/c-mosaic-app/c-mosaic-customizations.md) ou [personnalisations du mur multimédia](../c-about-apps/c-media-wall-app/r-media-wall-customizations.md#r_media_wall_customizations).
-1. Ouvrez Designer pour l&#39;application.
-1. Faites défiler la page jusqu&#39;à **[!UICONTROL Call-to-Action Button]** la section de Designer.
-1. Passez **[!UICONTROL Call-to-Action Button]****[!UICONTROL on]**à.
+   Pour plus d’informations sur les personnalisations disponibles dans un mur de mosaïque ou de médias, voir Personnalisations [de](/help/using/c-about-apps/c-mosaic-app/c-mosaic-customizations.md) mosaïque ou Personnalisations [du mur de](../c-about-apps/c-media-wall-app/r-media-wall-customizations.md#r_media_wall_customizations)médias.
+1. Ouvrez Designer pour l’application.
+1. Accédez à la **[!UICONTROL Call-to-Action Button]** section dans Designer.
+1. Passez **[!UICONTROL Call-to-Action Button]** à **[!UICONTROL on]**.
 
-1. Configurez les options du bouton Appel à l&#39;action.
+1. Configurez les options du bouton Appel à l’action.
 
-## Aperçus d&#39;application {#section_eyy_4mt_bbb}
+## Aperçu de l’application {#section_eyy_4mt_bbb}
 
-App Designer vous permet de prévisualiser votre application dans plusieurs formats de diffusion, avec vos propres données ou données d&#39;exemple.
+App Designer vous permet de prévisualiser votre application dans plusieurs formats de diffusion et d’afficher vos propres données ou des exemples.
 
-Sélectionnez **[!UICONTROL Exit Preview]** cette option pour revenir au mode de conception.
+Sélectionnez **[!UICONTROL Exit Preview]** pour revenir au mode de conception.
 
-Le mode d&#39;aperçu propose les options suivantes :
+Le mode Aperçu offre les options suivantes :
 
-* **[!UICONTROL Preview Options]**: Utilisez le menu déroulant pour sélectionner un format d&#39;aperçu (mobile, tablette ou ordinateur de bureau) et indiquer ou non **[!UICONTROL Sample Data]** les données de flux de l&#39;application.
+* **[!UICONTROL Preview Options]**: Utilisez le menu déroulant pour sélectionner un format d’aperçu (mobile, tablette ou ordinateur de bureau) et indiquer si vous souhaitez afficher **[!UICONTROL Sample Data]** ou non les données de diffusion en continu de l’application.
 
 * 
 
 >[!NOTE]
 >
->Si vous désélectionnez **[!UICONTROL Sample Data]** et qu&#39;aucun flux n&#39;est activé pour l&#39;application, aucun contenu ne s&#39;affiche en mode Aperçu.
+>Si vous désélectionnez **[!UICONTROL Sample Data]** et qu’aucun flux n’est activé pour l’application, aucun contenu ne s’affiche en mode Aperçu.
 
-* **[!UICONTROL Share]**: Ouvre l&#39;application dans un nouvel onglet du navigateur et génère une URL qui peut permettre à vos amis, collègues ou utilisateurs non-Studio de réviser votre application, puis de la tester dans différents navigateurs et périphériques.
+* **[!UICONTROL Share]**: Ouvre l’application dans un nouvel onglet de navigateur et génère une URL qui peut être utilisée pour permettre à des amis, des collègues ou des utilisateurs non-Studio de revoir votre application et de la tester dans différents navigateurs et périphériques.
 
    >[!NOTE]
    >
-   >Tout contenu publié sur une version de révision de votre application sera ajouté à l&#39;application. Si vous ne souhaitez pas que ce contenu apparaisse dans votre application publiée, vous devez le supprimer avant de cliquer **sur Publier**.
+   >Tout contenu publié dans une version de révision de votre application sera ajouté à l’application. Si vous ne souhaitez pas que ce contenu apparaisse dans votre application publiée, vous devez le supprimer avant de cliquer sur **Publier**.
 
-* **[!UICONTROL Exit Preview]**: Renvoie le mode de modification.
-
->[!NOTE]
->
->Le mode d&#39;aperçu est entièrement interactif, ce qui vous permet de tester l&#39;expérience utilisateur de votre application. Si vous activez **[!UICONTROL Allow user posts]** cette option, les utilisateurs disposant du lien d&#39;aperçu peuvent cliquer sur le **[!UICONTROL What’s on your mind]** bouton et publier du contenu dans la version de test. Studio répertorie le contenu tel qu&#39;il est publié.
-
-## Publication de l&#39;application {#section_df1_smt_bbb}
-
-App Designer enregistre automatiquement votre application après une modification. Vous pouvez utiliser **[!UICONTROL Publish]** pour générer un code incorporé ou pour mettre à jour toutes les versions précédemment publiées de cette application avec la version actuelle.
+* **[!UICONTROL Exit Preview]**: Renvoie au mode d’édition.
 
 >[!NOTE]
 >
->Cliquer **[!UICONTROL Publish]** génère un code incorporé pour l&#39;application et met à jour toutes les instances existantes de l&#39;application si précédemment publiées.
+>Le mode Aperçu est entièrement interactif et vous permet de tester l’expérience utilisateur pour votre application. Si vous l’activez **[!UICONTROL Allow user posts]**, les utilisateurs dotés du lien d’aperçu peuvent cliquer sur le **[!UICONTROL What’s on your mind]** bouton et publier du contenu dans votre version de test. Studio répertorie le contenu tel que publié.
 
-## Historique des applications de révision {#section_jsk_vmt_bbb}
+## Publication d’applications {#section_df1_smt_bbb}
 
-App Designer enregistre automatiquement votre application après une modification et génère une nouvelle version pour chaque modification. Vous **[!UICONTROL History]** pouvez ouvrir un panneau répertoriant toutes les versions de votre application. Les versions répertoriées indiquent l&#39;éditeur de chaque version et son âge.
+App Designer enregistre automatiquement votre application une fois que vous avez effectué une modification. Vous pouvez utiliser **[!UICONTROL Publish]** pour générer un code incorporé ou pour mettre à jour toute version précédemment publiée de cette application avec la version actuelle.
 
-Pour examiner l&#39;historique des applications :
+>[!NOTE]
+>
+>Le fait de cliquer sur **[!UICONTROL Publish]** génère un code incorporé pour l’application et met à jour toutes les instances existantes de l’application si elles ont déjà été publiées.
+
+## Vérifier l’historique des applications {#section_jsk_vmt_bbb}
+
+App Designer enregistre automatiquement votre application après avoir apporté une modification et génère une nouvelle version pour chaque modification. Vous pouvez utiliser **[!UICONTROL History]** pour ouvrir un panneau répertoriant toutes les versions de votre application. Les versions répertoriées affichent l’éditeur de chaque version et son âge.
+
+Pour consulter l’historique des applications :
 
 1. Cliquez sur une version pour la sélectionner.
-1. Actualisez l&#39;affichage de l&#39;aperçu.
-1. Cliquez sur **[!UICONTROL Restore Version]** pour cloner la version sélectionnée et travaillez à partir de celle-ci.
-1. Cliquez sur le bouton Précédent pour **[!UICONTROL Version History]** revenir à votre brouillon de travail.
-1. Cliquez sur **[!UICONTROL Share]** pour générer une URL pour l&#39;aperçu.
+1. Actualisez l’affichage de l’aperçu.
+1. Cliquez sur **[!UICONTROL Restore Version]** pour cloner la version sélectionnée et y travailler.
+1. Cliquez sur le bouton Précédent dans **[!UICONTROL Version History]** pour revenir à votre brouillon de travail.
+1. Cliquez sur **[!UICONTROL Share]** pour générer une URL pour l’aperçu.
 
 >[!NOTE]
 >
->Vous ne pouvez pas modifier une application pendant que **[!UICONTROL Version History]** le volet est ouvert.
+>Vous ne pouvez pas modifier une application tant que le **[!UICONTROL Version History]** volet est ouvert.
 
-Si un autre éditeur effectue des modifications pendant que la fenêtre du navigateur est ouverte, Livefyre émet un message d&#39;avertissement lorsque vous tentez de modifier l&#39;application, vous demandant si vous souhaitez revenir à votre version préliminaire (ancienne). (Cela empêche plusieurs éditeurs simultanés d&#39;ignorer accidentellement chacun des changements). Cliquez sur **[!UICONTROL Update to Latest]** pour commencer à travailler à partir de la dernière version. Cliquez pour **[!UICONTROL Overwrite]** revenir à votre état opérationnel (plus ancien), incrémenter le numéro de version du plus récent et continuer à travailler.
+Si un autre éditeur effectue des modifications alors que la fenêtre du navigateur est ouverte, Livefyre affiche un message d’avertissement lorsque vous tentez de modifier l’application, vous demandant si vous souhaitez revenir à votre (ancienne) version préliminaire. (Cela empêche plusieurs éditeurs simultanés d’ignorer accidentellement les modifications de chacun.) Cliquez sur **[!UICONTROL Update to Latest]** pour commencer à travailler à partir de la dernière version. Cliquez sur **[!UICONTROL Overwrite]** pour revenir à l’état de travail (plus ancien), incrémentez le numéro de version du plus récent et continuez à travailler.
 
-## Onglet Résumé de l&#39;application {#section_rxx_xmt_bbb}
+## Onglet Résumé de l’application {#section_rxx_xmt_bbb}
 
-Utilisez l&#39;onglet Résumé de l&#39;application pour gérer les informations relatives aux applications individuelles.
+Utilisez l’onglet Résumé de l’application pour gérer les informations relatives aux applications individuelles.
 
-L&#39;onglet Résumé de l&#39;application vous permet de :
+L’onglet Résumé de l’application vous permet d’effectuer les opérations suivantes :
 
-* **[!UICONTROL See on Site]**: Ouvre l&#39;application sur votre site.
-* **[!UICONTROL Embed code]**: Disponible uniquement pour les applications publiées, fournit un lien cliquable pour générer le code incorporé pour toute application publiée.
+* **[!UICONTROL See on Site]**: Ouvre l’application sur votre site.
+* **[!UICONTROL Embed code]**: Disponible uniquement pour les applications publiées, fournit un lien cliquable permettant de générer le code incorporé pour toute application publiée.
 
    >[!NOTE]
    >
-   >Utilisez ce code incorporé pour ajouter Sondage à vos commentaires ou Application de blog en direct. Pour plus d&#39;informations, voir Interactions personnalisées &gt; HTML personnalisé.
+   >Utilisez ce code incorporé pour ajouter des sondages à vos commentaires ou à votre application de blog en direct. Pour plus d’informations, voir Interactions personnalisées &gt; HTML personnalisé.
 
-* **[!UICONTROL View Content]**: Ouvre la page Contenu qui répertorie tout le contenu publié dans votre application.
-* **[!UICONTROL Moderate]**: Ouvre modq, répertoriant tout le contenu en attente de modération de l&#39;application.
-* **[!UICONTROL Developer Info]**: Fournit l&#39;ID de collection de l&#39;application, l&#39;ID d&#39;article et l&#39;ID du site.
+* **[!UICONTROL View Content]**: Ouvre la page Contenu, qui répertorie tout le contenu publié dans votre application.
+* **[!UICONTROL Moderate]**: Ouvre ModQ, répertoriant tout le contenu en attente de modération pour l’application.
+* **[!UICONTROL Developer Info]**: Fournit l’ID de collection, l’ID d’article et l’ID de site de l’application.
 
-## Incorporation d&#39;une application sur votre site avec studio {#section_w3h_1nt_bbb}
+## Incorporer une application sur votre site à l’aide de Studio {#section_w3h_1nt_bbb}
 
 Générez le code incorporé.
 
-Lorsqu&#39;une application est publiée, Livefyre génère et affiche un code incorporé qui peut être utilisé pour incorporer l&#39;application sur n&#39;importe quelle page de votre réseau. Pour régénérer le fragment de code HTML utilisé pour incorporer votre application sur une page :
+Lorsqu’une application est publiée, Livefyre génère et affiche un code incorporé, qui peut être utilisé pour l’intégrer à n’importe quelle page de votre réseau. Pour régénérer le fragment de code HTML utilisé pour incorporer votre application sur une page :
 
-1. Dans l&#39;écran Aperçu de l&#39;application, cliquez sur le **[!UICONTROL </> Embed Code]** bouton.
-1. Dans **[!UICONTROL Embed Code]** le panneau qui s&#39;ouvre, copiez et collez le fragment de code HTML affiché dans votre page Web.
+1. Dans l’écran Présentation de l’application, cliquez sur le **[!UICONTROL </> Embed Code]** bouton.
+1. Dans le **[!UICONTROL Embed Code]** panneau qui s’ouvre, copiez et collez le fragment de code HTML affiché dans votre page Web.
 
-   Pour les applications nécessitant une authentification utilisateur, votre intégration pour l&#39;utilisateur authentique doit être terminée et placée sur la page avant d&#39;ajouter le code incorporé.
+   Pour les applications nécessitant une authentification utilisateur, votre intégration pour l’authentification utilisateur doit être terminée et située sur la page avant d’ajouter le code incorporé.
 
-## Suppression d&#39;une application {#section_zyx_zyx_xcb}
+## Suppression d’une application {#section_zyx_zyx_xcb}
 
-Vous pouvez supprimer une application de la liste Applications dans Livefyre Studio. Lorsque vous supprimez l&#39;application de Studio, l&#39;application est masquée, mais elle ne supprime ni n&#39;arrête :
+Vous pouvez supprimer une application de la liste Applications de Livefyre Studio. Lorsque vous supprimez l’application de Studio, l’application est masquée de la vue. Elle ne la supprime pas ni ne s’arrête :
 
-* L&#39;application ne peut pas continuer à travailler sur un site.
+* L’application ne peut plus travailler sur un site.
 * Flux associés.
 * Collections associées dans Livefyre.
 
 Pour supprimer une application :
 
-1. Cliquez **[!UICONTROL Apps]** sur.
-1. Cliquez sur les points de suspension à droite du nom de l&#39;application à supprimer.
-1. Cliquez sur **[!UICONTROL Delete App]** pour supprimer l&#39;application.
+1. Cliquez sur **[!UICONTROL Apps]**.
+1. Cliquez sur les points de suspension à droite du nom de l’application à supprimer.
+1. Cliquez sur **[!UICONTROL Delete App]** pour supprimer l’application.
 
