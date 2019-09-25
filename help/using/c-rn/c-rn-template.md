@@ -1,19 +1,19 @@
 ---
-description: Notes de mise à jour pour la version < DATE >.
-seo-description: Notes de mise à jour pour la version < DATE >.
+description: Notes de mise à jour de la version de <DATE>.
+seo-description: Notes de mise à jour de la version de <DATE>.
 seo-title: Notes de mise à jour
 solution: Experience Manager
 title: Notes de mise à jour
-uuid: 34 e 64943-dea 6-46 ac -9 fcc -8 febeab 6 aa 42
+uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: a314ad0bbc845c2f9e1a37d89137110e766529b4
 
 ---
 
 
 # Notes de mise à jour{#release-notes}
 
-Notes de mise à jour de `<DATE>` la version.
+Notes de mise à jour de la `<DATE>` version.
 
 <!--- remove the carets and the quotes and fill in with actual values--->
 
@@ -23,7 +23,7 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 
 ## Version de production
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
 | `<bug/enhancement>` | `<component>` | `<description>` |
 | `<bug/enhancement>` | `<component>` | `<description>` |
@@ -33,7 +33,7 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 
 ## Version de production
 
-| **Type de publication** | **Composant** | **Note de version** |
+| **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
 | `<bug/enhancement>` | `<component>` | `<description>` |
 | `<bug/enhancement>` | `<component>` | `<description>` |
