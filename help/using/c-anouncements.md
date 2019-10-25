@@ -6,12 +6,18 @@ solution: Experience Manager
 title: Annonces
 uuid: c05963db-4d96-494e-bdb3-da3570a14dfe
 translation-type: tm+mt
-source-git-commit: 087a40bf77c3b630acb661b58ffa8cfdedc0aec0
+source-git-commit: 82fde64518079ba1f08f4676449ec0e087ca1f36
 
 ---
 
 
 # Annonces{#announcements}
+
+## 25 octobre 2019
+
+Le 4 septembre 2019, Facebook a supprimé de manière inattendue l’accès à certaines autorisations et fonctionnalités du flux de travail Livefyre, ce qui a interrompu la possibilité de rechercher ou de diffuser en continu du contenu Facebook. Si votre application a besoin d’accéder à publish_pages, user_friends ou à un accès au contenu public de la page, demandez-les par le biais du processus de révision de l’application existante. Nous avons formellement demandé un accès restauré à ces autorisations et attendons l'approbation de Facebook. Nous vous en informerons dès que l'approbation aura été accordée et que le contenu sera à nouveau disponible.
+
+Le contenu déjà publié sur votre ou vos sites Web ne sera pas affecté.
 
 ## 11 juin 2019
 
