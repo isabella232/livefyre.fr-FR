@@ -4,14 +4,17 @@ solution: Experience Manager
 title: Aide sur l’implémentation de Livefyre
 uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
 translation-type: tm+mt
-source-git-commit: bf49abcfe0d29a1fa332161179d37ea14e7efb09
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 6%
 
 ---
 
 
-# Guide de mise en oeuvre d’Experience Manager Livefyre {#livefyre-help}
+# Guide de mise en oeuvre Livefyre {#livefyre-help}
 
-Mettez en oeuvre Livefyre Studio et Livefyre Apps sur votre site Web à l’aide d’outils de développement pour personnaliser votre expérience.
+Mettez en oeuvre Livefyre Studio et les applications Livefyre sur votre site Web à l’aide d’outils de développement pour personnaliser votre expérience.
 
 Pour plus d’informations sur l’utilisation des applications Livefyre Studio et Livefyre dans Livefyre Studio, consultez le Guide [*de l’utilisateur d’*](/help/using/home.md)Adobe Experience Manager Livefyre.
 
@@ -21,7 +24,7 @@ Pour plus d’informations sur l’utilisation des applications Livefyre Studio 
 
 * [Utilisation des applications Livefyre avec Adobe Experience Manager](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html)
 
-* [SDK Android pour mobiles](c-mobile-sdks/c-android-sdk.md)
+* [SDK Android pour Mobile](c-mobile-sdks/c-android-sdk.md)
 
 * [Intégration de commentaires à l’aide des outils de développement](/help/implementation/c-app-integrations/c-comments-integration/c-comments-integration.md)
 
