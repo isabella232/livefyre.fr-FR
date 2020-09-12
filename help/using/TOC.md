@@ -1,9 +1,9 @@
 ---
 product: livefyre
 audience: end-user
-user-guide-title: Documentation Livefyre
+user-guide-title: Guide Livefyre
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: c8f274185f642c528ec684373c63b80cee8fab35
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 6%
@@ -11,7 +11,7 @@ ht-degree: 6%
 ---
 
 
-# Documentation Livefyre {#using}
+# Guide Livefyre {#using}
 
 + [Aide de Livefyre](home.md)
 + [Annonces](c-anouncements.md)
@@ -58,8 +58,8 @@ ht-degree: 6%
       + [Personnalisations de mosaïque](c-about-apps/c-mosaic-app/c-mosaic-customizations.md)
    + Sondages {#polls}
       + [Sondages](c-about-apps/c-polls-app/c-polls-app.md)
-      + [Ajouter un sondage à un commentaire ou une application de blog en direct](c-about-apps/c-polls-app/t-integrate-poll-site.md)
-      + [Ajouter des images à un sondage](c-about-apps/c-polls-app/t-add-images-to-a-poll.md)
+      + [ajouter un sondage à un commentaire ou une application de blog en direct](c-about-apps/c-polls-app/t-integrate-poll-site.md)
+      + [ajouter des images à un sondage](c-about-apps/c-polls-app/t-add-images-to-a-poll.md)
       + [Personnalisations des sondages](c-about-apps/c-polls-app/r-polls-customizations.md)
    + Critiques {#reviews}
       + [Critiques](c-about-apps/c-reviews-app/c-reviews-app.md)
@@ -76,8 +76,8 @@ ht-degree: 6%
       + [Paramètres Storify](c-about-apps/c-storify2/c-storify-settings.md)
       + [Utiliser Google AMP avec Storify 2](c-about-apps/c-storify2/t-use-google-amp-with-storify-2.md)
       + [Création d’un article](c-about-apps/c-storify2/t-create-a-story.md)
-      + [Ajouter du contenu social](c-about-apps/c-storify2/t-add-social-content.md)
-      + [Ajouter du texte](c-about-apps/c-storify2/t-add-local-content.md)
+      + [ajouter le contenu des réseaux sociaux](c-about-apps/c-storify2/t-add-social-content.md)
+      + [ajouter du texte](c-about-apps/c-storify2/t-add-local-content.md)
       + [Prévisualisation d’un article](c-about-apps/c-storify2/t-preview-a-story.md)
       + [Publication d’un article](c-about-apps/c-storify2/t-publish-a-story.md)
       + [Historique des révisions](c-about-apps/c-storify2/t-review-storify2-history.md)
@@ -86,9 +86,9 @@ ht-degree: 6%
       + [Epinglage d’une publication sur une page Storify 2](c-about-apps/c-storify2/t-pin-posts-to-storify2.md)
       + Guide de navigation {#navigation-guide}
          + [Guide de navigation](c-about-apps/c-storify2/c-navigation-guide.md)
-         + [Ajouter un guide de navigation sur une page Storify 2](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
-         + [Ajouter un titre au Guide de navigation](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
-         + [Ajouter les publications dans le Guide de navigation](c-about-apps/c-storify2/t-add-posts-to-the-navigation-guide.md)
+         + [ajouter un guide de navigation sur une page Storify 2](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
+         + [ajouter un titre au guide de navigation](c-about-apps/c-storify2/t-add-a-title-to-the-navigation-guide.md)
+         + [ajouter des publications dans le Guide de navigation](c-about-apps/c-storify2/t-add-posts-to-the-navigation-guide.md)
          + [Définir le nombre de publications dans le Guide de navigation](c-about-apps/c-storify2/t-set-the-number-of-posts-nav-guide.md)
          + [Rendre le guide de navigation attractif](c-about-apps/c-storify2/t-make-nav-guide-sticky.md)
          + [Déplacer le guide de navigation](c-about-apps/c-storify2/t-move-navigation-guide.md)
@@ -135,7 +135,7 @@ ht-degree: 6%
       + [Utilisation du filtre de rentabilité](c-features-livefyre/c-about-moderation/c-profanity-filter.md)
       + [Modérer les utilisateurs](c-features-livefyre/c-about-moderation/t-moderate-users-modq.md)
       + [Modération du contenu à l’aide de ModQ](c-features-livefyre/c-about-moderation/c-modq.md)
-      + [Ajouter à nouveau un élément en mémoire tampon dans une application](c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md)
+      + [ajouter à nouveau un élément en mémoire tampon dans une application](c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md)
       + [Raccourcis clavier de ModQ](c-features-livefyre/c-about-moderation/r-modq-keyboard-shortcuts.md)
       + [Modération du contenu à partir d’un flux](c-features-livefyre/c-about-moderation/c-moderate-inline.md)
       + [Modération du contenu à l’aide du contenu de l’application](c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md)
@@ -148,7 +148,7 @@ ht-degree: 6%
    + [Suivi des renvois](c-features-livefyre/c-referral-tracking.md)
    + Balises actives {#smart-tags}
       + [Balises actives](c-features-livefyre/c-smart-tags/c-smart-tags.md)
-      + [Balises dynamiques de Vue](c-features-livefyre/c-smart-tags/c-view-smart-tags.md)
+      + [Balises dynamiques de vue](c-features-livefyre/c-smart-tags/c-view-smart-tags.md)
    + Partage social {#social-sharing}
       + [Partage social](c-features-livefyre/c-social-sharing/c-social-sharing.md)
       + [Configuration du partage sur les réseaux sociaux](c-features-livefyre/c-social-sharing/c-setting-up-social-sharing.md)
@@ -164,7 +164,7 @@ ht-degree: 6%
       + [Avatars](c-features-livefyre/c-styling-features/c-avatars.md)
       + [Hovercards](c-features-livefyre/c-styling-features/c-hovercards.md)
       + [Badges d’utilisateur](c-features-livefyre/c-styling-features/c-user-badges.md)
-      + [Ajouter des balises d’utilisateur à un compte](c-features-livefyre/c-styling-features/t-add-user-tags.md)
+      + [ajouter des balises d’utilisateur à un compte](c-features-livefyre/c-styling-features/t-add-user-tags.md)
    + [Chaînes de texte personnalisées et de traduction](c-features-livefyre/c-custom-text-strings.md)
    + [UGC Commerce](c-features-livefyre/c-ugc-commerce.md)
    + [Traiter et afficher le contenu UGC](c-features-livefyre/curate-display-ugc.md)
@@ -174,7 +174,7 @@ ht-degree: 6%
       + [Assets](c-library/c-assets/c-assets.md)
       + [Créer des dossiers de ressources](c-library/c-assets/t-create-folders.md)
       + [Gérer les dossiers de ressources](c-library/c-assets/t-manage-folders.md)
-      + [Détails des ressources de Vue](c-library/c-assets/t-manage-assets.md)
+      + [Détails des ressources de vue](c-library/c-assets/t-manage-assets.md)
       + [Publication de fichiers dans des applications](c-library/c-assets/t-publish-assets-to-apps.md)
       + [Recherche de fichiers enregistrés dans la bibliothèque](c-library/c-assets/t-search-for-assets.md)
       + [Télécharger des photos](c-features-livefyre/c-content-behavior-features/t-upload-photos.md)
@@ -182,21 +182,21 @@ ht-degree: 6%
    + [Recherche de contenu YouTube](c-library/t-search-for-youtube-content.md)
    + [Recherche de contenu Twitter](c-streams/c-youtube-rules/t-search-for-twitter-content.md)
    + [Recherche de contenu Instagram](c-library/t-search-for-content.md)
-   + [Détails du contenu de la Vue](c-library/c-view-content-details.md)
+   + [Détails du contenu de la vue](c-library/c-view-content-details.md)
    + [Enregistrer du contenu dans la bibliothèque de fichiers](c-library/t-save-content-to-asset-library.md)
    + [Association de produits au contenu à l’aide de la bibliothèque](c-library/t-associate-products-with-content-using-the-library.md)
    + [Publier du contenu](c-library/t-publish-content.md)
    + [Onglet Contenu de l’application](c-library/c-app-content.md)
-   + [Utilisation d’Adobe Experience Manager Livefyre avec Hootsuite](c-library/c-hootsuite-livefyre.md)
+   + [Utilisation de Adobe Experience Manager Livefyre avec Hootsuite](c-library/c-hootsuite-livefyre.md)
    + [Utiliser Adobe Experience Manager Livefyre avec Adobe Target](c-library/livefyre-target.md)
-   + [Utiliser l&#39;extension Livefyre de lancement Adobe](c-library/launch-extension.md)
+   + [Utiliser l&#39;extension Livefyre de lancement d&#39;Adobe](c-library/launch-extension.md)
 + Flux {#streams}
    + [Flux](c-streams/c-streams.md)
    + [Créer un flux](c-streams/t-create-a-new-stream.md)
-   + [Ajouter des règles pour votre flux](c-streams/t-add-rules-for-your-stream.md)
+   + [ajouter des règles pour votre flux](c-streams/t-add-rules-for-your-stream.md)
    + [Options des règles de diffusion en continu pour toutes les règles de diffusion en continu](c-streams/c-stream-rule-options-for-all-stream-rules.md)
    + [Règles de page Facebook](c-streams/c-facebook-page-rules.md)
-   + [Règles d&#39;émail](c-streams/c-email-rules.md)
+   + [règles d&#39;émail](c-streams/c-email-rules.md)
    + [Règles Instagram](c-streams/c-instagram-rules.md)
    + [Instructions relatives au contenu Instagram](c-streams/c-instagram-content-guidelines.md)
    + [Limite de taux Instagram](c-streams/c-instagram-rate-limiting.md)
@@ -207,12 +207,12 @@ ht-degree: 6%
    + [Règles YouTube](c-streams/c-youtube-rules/c-youtube-rules.md)
 + Demandes de droits {#rights-requests}
    + [Demande de droits](c-how-requesting-rights-works/c-how-requesting-rights-works.md)
-   + [Gestion des demandes de droits](c-how-requesting-rights-works/c-managing-rights-requests.md)
-   + [Configuration de Rights Management](c-how-requesting-rights-works/t-set-up-rights-management.md)
+   + [Gestion des requêtes de droits](c-how-requesting-rights-works/c-managing-rights-requests.md)
+   + [Configuration du Rights Management](c-how-requesting-rights-works/t-set-up-rights-management.md)
    + [Envoyer une demande de droits Twitter](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
    + [Envoyer une demande de droits Instagram partiellement automatisée](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
    + [Envoyer manuellement la demande de droits Instagram](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
-   + [Historique des Activités des droits Vue](c-how-requesting-rights-works/c-view-rights-activity-history.md)
+   + [Historique des Activités des droits vue](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Gérer le contenu avec des requêtes de droits en attente de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [Octroi ou révocation manuelle de droits pour un fichier à partir de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
 + Utilisateurs : Gestion des utilisateurs réseau de Studio et Livefyre {#users-managing}
@@ -220,7 +220,7 @@ ht-degree: 6%
    + [Rechercher des utilisateurs](c-users/t-search-for-users.md)
    + [Affichage des détails du compte](c-users/c-viewing-account-details.md)
    + [Interdire un utilisateur](c-users/t-ban-a-user.md)
-   + [Autoriser la liste d’un utilisateur](c-users/allow-list-a-user.md)
+   + [Placer sur la liste autorisée un utilisateur](c-users/allow-list-a-user.md)
    + [Liaison de comptes d’utilisateurs](c-users/t-link-user-accounts.md)
    + [Utilisateurs changeant de réseau](c-users/c-users-switching-networks.md)
    + [Synchronisation des utilisateurs](c-users/t-set-up-user-sync.md)
@@ -231,18 +231,18 @@ ht-degree: 6%
    + [Connexion à Studio](c-users-creating-accounts-with-studio-access/t-log-into-studio.md)
    + [Gestion des autorisations Studio pour les utilisateurs](c-users-creating-accounts-with-studio-access/t-manage-studio-permissions-for-users.md)
    + [Rôles utilisateur et autorisations](c-users-creating-accounts-with-studio-access/c-user-types.md)
-   + Ajouter un compte Social {#add-social-account}
-      + [Ajouter un compte Social](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
+   + ajouter un compte Social {#add-social-account}
+      + [ajouter un compte Social](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
       + [A propos des comptes Instagram](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
       + [Actualisation d’un jeton pour un compte Social](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
 + Paramètres : Autre {#settings-other}
    + [Configurer les informations d&#39;identification](c-settings-other/t-set-up-credentials.md)
-   + [Ajouter un site à un réseau](c-settings-other/t-add-a-site.md)
+   + [ajouter un site à un réseau](c-settings-other/t-add-a-site.md)
    + Jeux de transformations {#translation-sets}
       + [Jeux de transformations](c-settings-other/c-translation-sets/c-translation-sets.md)
       + [Création et modification de jeux de conversions](c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
       + [Application d’une visionneuse de traduction à un réseau](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-network.md)
-      + [Application d’un jeu de traduction à un site](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-site.md)
+      + [Application d’une visionneuse de conversions à un site](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-site.md)
       + [Suppression d’un jeu de conversions](c-settings-other/c-translation-sets/t-delete-a-translation-set.md)
       + [Localiser les chaînes](c-settings-other/c-translation-sets/c-localize-strings.md)
       + [Vérifier les chaînes de texte](c-settings-other/c-translation-sets/c-review-text-strings.md)
