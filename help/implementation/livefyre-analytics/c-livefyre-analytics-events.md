@@ -6,14 +6,17 @@ solution: Experience Manager
 title: Événements Livefyre Analytics
 uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: 5dc11c42a9f8bf3fa088f3245e21b6942d4865fe
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 4%
 
 ---
 
 
-# Événements Livefyre Analytics {#livefyre-analytics-events}
+# Événements Livefyre Analytics
 
-## Définition d&#39;objet Événement {#section_dh1_yhn_pdb}
+## Définition d&#39;objet événement {#section_dh1_yhn_pdb}
 
 Le code suivant définit les champs de l’objet de événement qui sont reçus par le gestionnaire d’analyses sur une page.
 
@@ -44,7 +47,7 @@ Le code suivant définit les champs de l’objet de événement qui sont reçus 
 
 ## Événements et eVars Livefyre Analytics {#section_u3k_tft_mcb}
 
-Les événements Livefyre suivants à mapper sur des événements personnalisés à utiliser dans les rapports à l’aide du Gestionnaire de Report Suites. Pour plus d’informations sur les suites de rapports dans Adobe Analytics, voir Gestionnaire [de suites de](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)rapports. Pour plus d’informations sur l’utilisation des événements Livefyre avec le Gestionnaire de Report Suites, voir [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
+Les événements Livefyre suivants à mapper sur des événements personnalisés à utiliser dans les rapports à l’aide du Gestionnaire de Report Suites. Pour plus d’informations sur les suites de rapports en Adobe Analytics, voir Gestionnaire [de suites de](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)rapports. Pour plus d’informations sur l’utilisation des événements Livefyre avec le Gestionnaire de Report Suites, voir [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
 
 ## Événements Livefyre Analytics
 
