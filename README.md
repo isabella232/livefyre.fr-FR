@@ -1,15 +1,18 @@
 ---
-source-git-commit: 06ed2854bc5905e963c5dbf6c6b04725670796ec
+source-git-commit: cdc5645b1bc3f2e9cf47329063635e20ec5c2e5e
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '517'
 ht-degree: 6%
 
 ---
 # Article Contribute
 
-Nous accueillons avec plaisir les contributions de notre communauté ainsi que celles des employés d&#39;Adobes de l&#39;extérieur des équipes de documentation.
+| EXL-PR | EXL | Aperçu | Activer | Publié | Aide |
+|--- |--- |--- |--- |--- |--- |
+| [![État de la création](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_pr-exl/lastBuild/) | [![État de la création](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_exl/lastBuild/lastBuild) | [URL de la prévisualisation](https://experienceleague.corp.adobe.com/docs/livefyre/using/home.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [URL en direct](https://experienceleague.adobe.com/docs/livefyre/using/home.html?lang=en) | [Guide de création](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
+Nous accueillons avec plaisir les contributions de notre communauté ainsi que celles des employés d&#39;Adobes de l&#39;extérieur des équipes de documentation.
 
 ## Adobe Code de conduite Open Source
 
