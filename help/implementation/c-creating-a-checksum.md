@@ -2,11 +2,13 @@
 description: Créez une somme de contrôle à l’aide des bibliothèques Livefyre.
 seo-description: Créez une somme de contrôle à l’aide des bibliothèques Livefyre.
 seo-title: Création d’une somme de contrôle
-solution: Livefyre
 title: Création d’une somme de contrôle
 uuid: 2dddedaa-7a6d-434a-8db8-dc179935f810
 translation-type: tm+mt
-source-git-commit: 6545445016517af1f1bbb071761d773ba5a9a597
+source-git-commit: deae9c7c98fa0417f1ed553239da630817c13f02
+workflow-type: tm+mt
+source-wordcount: '35'
+ht-degree: 5%
 
 ---
 
