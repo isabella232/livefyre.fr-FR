@@ -1,19 +1,22 @@
 ---
-description: Renvoie un objet Collection instancié sous forme de type Comments. Exécutez createOrUpdate() à partir de l’objet Collection pour terminer le processus de création.
-seo-description: Renvoie un objet Collection instancié sous forme de type Comments. Exécutez createOrUpdate() à partir de l’objet Collection pour terminer le processus de création.
+description: Renvoie un objet Collection appelé comme type de commentaires. Exécutez createOrUpdate() à partir de l’objet Collection pour terminer le processus de création.
+seo-description: Renvoie un objet Collection appelé comme type de commentaires. Exécutez createOrUpdate() à partir de l’objet Collection pour terminer le processus de création.
 seo-title: buildCommentsCollection, méthode du site
 solution: Experience Manager
 title: buildCommentsCollection, méthode du site
 uuid: 0e5c062e-960d-4ab0-ba32-0965731a1571
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 7%
 
 ---
 
 
 # buildCommentsCollection, méthode du site{#buildcommentscollection-site-method}
 
-Renvoie un objet Collection instancié sous forme de type Comments. Exécutez createOrUpdate() à partir de l’objet Collection pour terminer le processus de création.
+Renvoie un objet Collection appelé comme type de commentaires. Exécutez createOrUpdate() à partir de l’objet Collection pour terminer le processus de création.
 
 | Variable | Type | Description |
 |--- |--- |--- |
