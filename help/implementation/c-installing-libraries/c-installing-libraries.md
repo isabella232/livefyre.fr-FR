@@ -7,6 +7,9 @@ title: Installation
 uuid: f60b4cc7-178f-4a16-ba75-f1d0d171c52f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '317'
+ht-degree: 1%
 
 ---
 
@@ -56,7 +59,7 @@ La bibliothèque Java dépend des modules suivants :
 </dependency> 
 ```
 
-Pour plus d’informations, consultez les documents Java ou consultez la source sur [GitHub](https://github.com/Livefyre/livefyre-java-utils).
+Pour plus d’informations, consultez la documentation Java ou la source sur [GitHub](https://github.com/Livefyre/livefyre-java-utils).
 
 ## NodeJS {#section_swj_pwq_rz}
 
@@ -72,7 +75,7 @@ La bibliothèque NodeJS dépend des modules suivants :
 "jsonwebtoken": ">=5.0.0" 
 ```
 
-Pour plus d’informations, consultez les documents NodeJs ou consultez la source sur [GitHub](https://github.com/Livefyre/livefyre-nodejs-utils).
+Pour plus d’informations, consultez la documentation de NodeJs ou la source sur [GitHub](https://github.com/Livefyre/livefyre-nodejs-utils).
 
 Liens : [Restler](https://github.com/danwrong/restler), [Validator](https://www.npmjs.org/package/validator), [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken).
 
@@ -92,7 +95,7 @@ Installez ensuite à l’aide de :
 composer.phar install 
 ```
 
-Si vous **n’utilisez pas** Composer, obtenez la dernière version de la bibliothèque en utilisant :
+Si **vous n’utilisez pas** Composer, obtenez la dernière version de la bibliothèque à l’aide de :
 
 ```
 git clone https://github.com/Livefyre/livefyre-php-utils 
@@ -112,7 +115,7 @@ La bibliothèque PHP dépend des modules suivants :
 "firebase/php-jwt": ">=2.0" 
 ```
 
-Pour plus d'informations, lisez les documents PHP ou consultez la source sur [GitHub](https://github.com/Livefyre/livefyre-php-utils).
+Pour plus d&#39;informations, lisez les documents PHP ou consultez la source sur [GitHub](https://github.com/Livefyre/livefyre-php-utils).
 
 Liens : [ext-json](https://php.net/manual/en/book.json.php), [Demandes](https://github.com/rmccue/Requests/), [PHP-JWT](https://github.com/firebase/php-jwt/tree/v2.0.0)
 
@@ -132,9 +135,9 @@ enum34 == 1.0
 ordereddict == 1.1 if sys.version_info[:2] < 2.7 
 ```
 
-Pour plus d'informations, lisez les documents Python ou consultez la source sur [GitHub](https://github.com/Livefyre/livefyre-python-utils).
+Pour plus d&#39;informations, consultez les documents Python ou consultez la source sur [GitHub](https://github.com/Livefyre/livefyre-python-utils).
 
-Liens : [PyJWT](https://github.com/progrium/pyjwt), [Demandes](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34, OrderedDict](https://pypi.python.org/pypi/enum34)[](https://pypi.python.org/pypi/ordereddict)
+Liens : [PyJWT](https://github.com/progrium/pyjwt), [Demandes](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34](https://pypi.python.org/pypi/enum34), [OrderedDict](https://pypi.python.org/pypi/ordereddict)
 
 ## Ruby {#section_fv2_tzq_rz}
 
@@ -156,6 +159,6 @@ La bibliothèque Ruby dépend des modules suivants :
 "addressable", '~> 2.3', ">= 2.3.6" 
 ```
 
-Pour plus d'informations, lisez les documents Ruby ou consultez la source sur [GitHub](https://github.com/Livefyre/livefyre-ruby-utils).
+Pour plus d&#39;informations, consultez les documents Ruby ou consultez la source sur [GitHub](https://github.com/Livefyre/livefyre-ruby-utils).
 
-Liens : [Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), client [](https://github.com/rest-client/rest-client/)REST, [adressable](https://github.com/sporkmonger/addressable)
+Liens : [Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), [Client REST](https://github.com/rest-client/rest-client/), [Adressable](https://github.com/sporkmonger/addressable)
