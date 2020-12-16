@@ -27,6 +27,6 @@ Les raccourcis clavier suivants sont disponibles pour les modérateurs dans ModQ
 | Haut de la file d&#39;attente | Accéder au premier élément en haut de la file d&#39;attente | l |  |
 | Désactiver ou désactiver les indicateurs | Désactiver ou désactiver les indicateurs de l&#39;utilisateur sélectionné | Maj + M |  |
 | Interdire l&#39;utilisateur | Interdire l&#39;utilisateur sélectionné pour ce site uniquement | Maj + B |  |
-| Utilisateur de liste blanche | Autoriser la liste de l&#39;utilisateur sélectionné pour ce site uniquement | Maj + W |  |
+| Liste autorisée utilisateur | Placer sur la liste autorisée l&#39;utilisateur sélectionné pour ce site uniquement | Maj + W |  |
 | Effacer le filtre de site | Afficher tous les éléments du réseau | Maj + Q |  |
 
