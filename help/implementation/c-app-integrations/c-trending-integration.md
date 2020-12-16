@@ -1,25 +1,28 @@
 ---
-description: Présente les collections les plus actives sur votre site ou réseau.
-seo-description: Présente les collections les plus actives sur votre site ou réseau.
+description: Présente les collections les plus principales de votre site ou réseau.
+seo-description: Présente les collections les plus principales de votre site ou réseau.
 seo-title: Suivi des tendances
 solution: Experience Manager
 title: Suivi des tendances
 uuid: 3031523d-b487-4eea-bba6-5d8f9971874f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '151'
+ht-degree: 5%
 
 ---
 
 
 # Suivi des tendances{#trending}
 
-Présente les collections les plus actives sur votre site ou réseau.
+Présente les collections les plus principales de votre site ou réseau.
 
-Utilisez l’option Tendance pour présenter les collections présentant l’activité la plus récente de votre site ou réseau.
+Utilisez l’option de tendance pour présenter les collections présentant l’activité la plus récente de votre site ou réseau.
 
 ## Analytics {#section_wtz_whb_c1b}
 
-Le moyen le plus rapide d’intégrer les tendances consiste à utiliser la version intégrée hébergée sur le CDN de Livefyre.
+Le moyen le plus rapide d&#39;intégrer avec Trending est d&#39;utiliser la version intégrée hébergée sur le CDN de Livefyre.
 
 Tout d’abord, ajoutez [Livefyre.js](https://github.com/Livefyre/Livefyre.js) à votre page.
 
@@ -49,7 +52,7 @@ Livefyre.require([
 </script>
 ```
 
-Vous avez maintenant une application de tendance ! Tout cela est en action dans [cet exemple](https://codepen.io/gobengo/pen/GijEy).
+Vous disposez maintenant d’une application de tendance ! Voir tout cela en action dans [cet exemple](https://codepen.io/gobengo/pen/GijEy).
 
 ## Configuration {#section_k5k_qhb_c1b}
 
@@ -66,7 +69,7 @@ var trending = new Trending({
 
 `siteId`
 
-Indiquez l’identifiant du site pour afficher uniquement les collections d’un seul site de votre réseau. (Facultatif.)
+Indiquez l’identifiant du site pour n’afficher que les collections provenant d’un seul site de votre réseau. (Facultatif.)
 
 ```
 var trending = new Trending({ 
@@ -78,7 +81,7 @@ var trending = new Trending({
 
 `tag`
 
-Fournissez une balise Collection unique pour n’afficher que les collections avec cette balise. (Facultatif.)
+Fournissez une seule balise Collection pour n’afficher que les collections avec cette balise. (Facultatif.)
 
 ```
 var trending = new Trending({ 
