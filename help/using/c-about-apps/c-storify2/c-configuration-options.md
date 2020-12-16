@@ -7,6 +7,9 @@ title: Options de configuration
 uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '405'
+ht-degree: 0%
 
 ---
 
@@ -19,15 +22,15 @@ Choisissez les options de configuration Style, Affichage et Engagement des utili
 
 * **[!UICONTROL Theme]**
 
-   Sélectionnez **Clair** ou **Foncé** pour définir la couleur d’arrière-plan du contenu affiché. Les modifications apportées à ce paramètre sont immédiatement répercutées dans l’aperçu à droite. Ce paramètre contrôle l’arrière-plan, le texte du contenu, le nom d’utilisateur, l’horodatage, le bouton de partage et la sélection de couleur des icônes sociales pour l’application.
+   Sélectionnez **Lumière** ou **Foncé** pour définir la couleur d’arrière-plan du contenu affiché. Les modifications apportées à ce paramètre sont immédiatement répercutées dans la prévisualisation à droite. Ce paramètre contrôle l’arrière-plan, le texte du contenu, l’utilisateur, l’horodatage, le bouton de partage et la sélection de couleur des icônes de réseau social pour l’application.
 
 * **[!UICONTROL Brand color]**
 
-   Sélectionnez une couleur pour votre application. Cette couleur sera utilisée pour les hashtags, URL, noms d’utilisateur, @mentions, graphiques à barres et autres composants spécifiques à l’application, comme indiqué dans le volet d’aperçu à droite.
+   Sélectionnez une couleur pour votre application. Cette couleur sera utilisée pour les hashtags, URL, noms d’utilisateur, @mentions, graphiques à barres et autres composants spécifiques à l’application, comme affiché dans le volet de prévisualisation à droite.
 
 * **[!UICONTROL Font family]**
 
-   Sélectionnez une police pour le contenu généré par l’utilisateur dans votre application. Si vous sélectionnez Georgia ou Times New Roman, vous attribuerez cette police au contenu et Helvetica Neue aux noms d’utilisateur et aux noms d’affichage. Si vous sélectionnez Helvetica, Verdana ou Trebuchet, ces polices seront attribuées au contenu, aux noms d’utilisateur et aux noms d’affichage.
+   Sélectionnez une police pour le contenu généré par l’utilisateur dans votre application. Si vous sélectionnez Georgia ou Times New Roman, vous attribuerez cette police au contenu et Helvetica Neue aux noms d’utilisateur et aux noms d’affichage. La sélection de Helvetica, Verdana ou Trebuchet attribuera ces polices au contenu, aux noms d’utilisateur et aux noms d’affichage.
 
 * **[!UICONTROL Posts appear in cards]**
 
@@ -35,43 +38,43 @@ Choisissez les options de configuration Style, Affichage et Engagement des utili
 
 * **[!UICONTROL Show header]**
 
-   S’il est activé, l’en-tête de l’article (menu de tri et nombre de visionneuses) s’affiche.
+   Si cette option est activée, l’en-tête de l’article (menu de tri et nombre de visionneuses) s’affiche.
 
 **Afficher**
 
 * **[!UICONTROL Byline]**
 
-   Si cette option est activée, vous pouvez choisir d’indiquer le nom de l’auteur d’origine ou le nom d’une équipe comme signature de votre article.
+   Si cette option est activée, vous pouvez choisir de liste le nom de l’auteur d’origine ou un nom d’équipe comme signature de votre article.
 
    >[!NOTE]
    >
-   >Les lignes d’entrée individuelles reflètent toujours l’auteur initial du contenu, et non les éditeurs suivants.
+   >Les lignes directrices individuelles reflètent toujours l’auteur initial du contenu, et non les éditeurs suivants.
 
 * **[!UICONTROL Byline type]**
 
-   Si **[!UICONTROL Byline]** est activé, cette liste déroulante vous permet de sélectionner le type de signature à afficher : signature d’équipe ou signature individuelle. Utilisez le champ ci-dessous **[!UICONTROL Byline type]** pour saisir le texte à afficher sous la forme d’une signature.
+   Si **[!UICONTROL Byline]** est activé, cette liste déroulante vous permet de sélectionner le type de signature à afficher : signature d’équipe ou signature individuelle. Utilisez le champ ci-dessous **[!UICONTROL Byline type]** pour saisir le texte à afficher en tant que signature.
 
    >[!NOTE]
    >
-   >La modification la plus récente de ce paramètre, par n’importe quel éditeur Storify 2, sera répercutée lors de la publication.
+   >La dernière modification apportée à ce paramètre, par n’importe quel éditeur Storify 2, sera prise en compte lors de la publication.
 
 * **[!UICONTROL Set time zone]**
 
-   Permet de sélectionner le fuseau horaire à utiliser pour l’article. Cet emplacement sera utilisé pour horodater toutes les publications de l’article. (Les utilisateurs finaux verront cette information traduite à l’heure locale, mais ils peuvent survoler l’horodatage qu’ils voient pour afficher l’horodatage défini pour l’article.)
+   Permet de sélectionner le fuseau horaire à utiliser pour l’article. Cet emplacement sera utilisé pour horodater toutes les publications de l’article. (Les utilisateurs finaux verront ceci traduit à leur heure locale, mais ils peuvent pointer sur l’horodatage qu’ils voient pour afficher l’horodatage défini pour l’article.)
 
 * **[!UICONTROL Load more posts]**
 
-   Choisissez si les publications s’affichent en continu lorsqu’un utilisateur fait défiler l’écran vers le bas ou s’il faut afficher un bouton Afficher plus.
+   Choisissez si les publications s’affichent en continu lorsque l’utilisateur fait défiler la page vers le bas ou s’il convient d’afficher un bouton Afficher plus.
 
 **[!UICONTROL User Engagement]**
 
 * **[!UICONTROL Users may share posts]**
 
-   S’ils sont activés, les utilisateurs peuvent partager votre histoire sur Twitter ou Facebook. Pour plus d’informations sur l’activation du partage, voir Paramètres &gt; Paramètres d’intégration &gt; Partage sur les réseaux sociaux.
+   Si cette option est activée, les utilisateurs peuvent partager votre article sur Twitter ou Facebook. Pour plus d’informations sur l’activation du partage, voir Paramètres > Paramètres d’intégration > Partage sur les réseaux sociaux.
 
 * **[!UICONTROL Users may add sidenotes]**
 
-   S’ils sont activés, les utilisateurs peuvent ajouter des signets à vos publications.
+   Si cette option est activée, les utilisateurs peuvent ajouter des identifiants à vos publications.
 
 * **[!UICONTROL Number of views]**
 
