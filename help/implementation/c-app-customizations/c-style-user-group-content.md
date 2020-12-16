@@ -14,7 +14,7 @@ ht-degree: 4%
 ---
 
 
-# Contenu du groupe d’utilisateurs Style{#style-user-group-content}
+# Style Contenu du groupe d’utilisateurs{#style-user-group-content}
 
 Utilisez un style personnalisé pour différencier vos utilisateurs.
 
@@ -32,4 +32,4 @@ Pour ajouter un style personnalisé pour des groupes d’utilisateurs spécifiqu
 
 Les groupes d’utilisateurs et les balises d’utilisateur sont équivalents dans Studio. Ajouter un utilisateur à un groupe d’utilisateurs ajoute une balise d’utilisateur à son compte, que vous pouvez mettre en forme à l’aide des personnalisations CSS Livefyre.
 
-Tous les utilisateurs qui ont publié du contenu dans une collection peuvent être ajoutés à un ou plusieurs groupes d’utilisateurs via Studio. Cela inclut les utilisateurs interdits et autorisés, ainsi que le contenu provenant de SocialSync et de Traiter.
+Tous les utilisateurs qui ont publié du contenu dans une collection peuvent être ajoutés à un ou plusieurs groupes d’utilisateurs via Studio. Cela inclut les utilisateurs interdits et placés sur la liste autorisée, ainsi que le contenu provenant de SocialSync et de Traiter.
