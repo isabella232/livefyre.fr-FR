@@ -7,6 +7,9 @@ title: Événements JavaScript pour les applications de conversation
 uuid: cce112b5-7c3a-4721-9854-fc8471f3d5d0
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 73%
 
 ---
 
@@ -15,9 +18,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
 
-## Matrice des applications de conversation et des événements {#section_y4j_x4m_ybb}
+## Matrice des applications et des Événements de conversation {#section_y4j_x4m_ybb}
 
-Voici une matrice des événements disponibles pour les applications de conversation. Un X indique que l’événement est disponible pour l’application, S/O indique que l’événement ne s’applique pas à l’application et qu’aucun marquage ne signifie que l’événement n’est pas disponible pour cette application :
+Voici une matrice des événements disponibles pour les applications de conversation. Un X indique que le événement est disponible pour l’application, S/O indique que le événement ne s’applique pas à l’application et qu’aucun marquage ne signifie que le événement n’est pas disponible pour cette application :
 
 ### Événements d’application de conversation
 
@@ -30,7 +33,7 @@ Voici une matrice des événements disponibles pour les applications de conversa
 | Publié | X | X | X | X | X | N/D | N/D |
 | Réponse Twitter | X | X | X | N/D | N/D | N/D | N/D |
 | J’aime Twitter | X | X | X | N/D | N/D | N/D | N/D |
-| LF comme | X | X | X | X | N/D | N/D | N/D |
+| LF | X | X | X | X | N/D | N/D | N/D |
 | LF | X | X | X | X | N/D | N/D | N/D |
 | Partager sur publication | X | X |  | X | N/D | N/D | N/D |
 | Bouton Partager | X | X | X | X |  | N/D | N/D |
@@ -41,7 +44,7 @@ Voici une matrice des événements disponibles pour les applications de conversa
 | Réduire les réponses | X | S.O. | X | X | N/D | N/D | N/D |
 | Bouton Indicateur | X | X | X | X | N/D | N/D | N/D |
 | Marquer d’un indicateur | X | X | X | X | X | N/D | N/D |
-| Annuler l'indicateur | X | X | X | X | N/D | N/D | N/D |
+| Annuler l&#39;indicateur | X | X | X | X | N/D | N/D | N/D |
 | S’abonner | X | S.O. | X | X | N/D | N/D | N/D |
 | Annuler | X | S.O. | X | X | N/D | N/D | N/D |
 | RequestMore | X | X | X | X | N/D | N/D | N/D |
@@ -51,7 +54,7 @@ Voici une matrice des événements disponibles pour les applications de conversa
 | Nombre de commentaires mis à jour | X | X | X | X | N/D | N/D | N/D |
 | Utilisateur connecté |  |  |  |  |  | N/D | N/D |
 | Utilisateur déconnecté |  |  |  |  |  | N/D | N/D |
-| Fonctionnalités des commentaires |  | N/D |  |  | N/D | N/D | N/D |
+| Commentaires présentés |  | N/D |  |  | N/D | N/D | N/D |
 | Commentaire non présenté |  | N/D |  |  | N/D | N/D | N/D |
 | Commentaire voté | N/D | N/D | N/D | X | X | N/D | N/D |
 | Sondage | N/D | N/D | N/D | N/D | N/D |  | N/D |
