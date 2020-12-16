@@ -13,7 +13,7 @@ ht-degree: 5%
 ---
 
 
-# Création d’une somme de contrôle {#creating-a-checksum}
+# Création d&#39;une somme de contrôle {#creating-a-checksum}
 
 Créez une somme de contrôle à l’aide des bibliothèques Livefyre.
 
