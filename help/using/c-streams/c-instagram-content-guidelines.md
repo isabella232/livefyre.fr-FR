@@ -18,9 +18,9 @@ ht-degree: 0%
 
 Lorsque vous traitez du contenu à partir d’Instagram, vous devez suivre leurs directives et leurs bonnes pratiques.
 
-Vous devez configurer un compte *professionnel* Instagram pour créer des flux Instagram à partir d&#39;un autre compte professionnel Instagram spécifique à l&#39;aide du **[!UICONTROL By Author]** champ. Le compte utilisateur que vous identifiez dans le **[!UICONTROL By Author]** champ doit être un compte professionnel.
+Vous devez configurer un *compte commercial Instagram* pour créer des flux Instagram à partir d&#39;un autre compte commercial Instagram spécifique en utilisant le champ **[!UICONTROL By Author]**. Le compte utilisateur que vous identifiez dans le champ **[!UICONTROL By Author]** doit être un compte professionnel.
 
-Pour plus d&#39;informations sur la configuration d&#39;un compte d&#39;entreprise Instagram dans Livefyre, consultez [A propos des comptes](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)Instagram.
+Pour plus d&#39;informations sur la configuration d&#39;un compte d&#39;entreprise Instagram dans Livefyre, voir [A propos des comptes Instagram](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 Instagram applique les règles suivantes pour obtenir du contenu à partir de sa plateforme :
 
@@ -41,4 +41,4 @@ Instagram, comme d&#39;autres marques, a également besoin d&#39;utiliser leurs 
 * Fournissez une attribution à Instagram et au propriétaire du contenu.
 * Être clairement différencié du contenu des autres médias sociaux s&#39;il est affiché avec les médias d&#39;autres réseaux.
 
-Pour plus d&#39;informations, consultez le document d&#39;Instagram : [Utilisation des ressources](https://help.instagram.com/304689166306603)de marque Instagram.
+Pour plus d&#39;informations, consultez le document d&#39;Instagram : [Utilisation des ressources de marque Instagram](https://help.instagram.com/304689166306603).
