@@ -1,19 +1,22 @@
 ---
-description: De nombreuses fonctionnalités sont fournies avec l’application de commentaires pour intégrer des conversations en temps réel sur votre site.
-seo-description: De nombreuses fonctionnalités sont fournies avec l’application de commentaires pour intégrer des conversations en temps réel sur votre site.
+description: De nombreuses fonctions sont fournies avec l’application de commentaires pour incorporer des conversations en temps réel dans votre site.
+seo-description: De nombreuses fonctions sont fournies avec l’application de commentaires pour incorporer des conversations en temps réel dans votre site.
 seo-title: Fonctionnalités des commentaires
 solution: Experience Manager
 title: Fonctionnalités des commentaires
 uuid: ec00fcc9-1b5e-4d0b-b1da-95f9f26b4cc1
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 7%
 
 ---
 
 
 # Fonctionnalités des commentaires{#comments-features}
 
-De nombreuses fonctionnalités sont fournies avec l’application de commentaires pour intégrer des conversations en temps réel sur votre site.
+De nombreuses fonctions sont fournies avec l’application de commentaires pour incorporer des conversations en temps réel dans votre site.
 
 * [Authentification](/help/using/c-features-livefyre/c-authentication.md#c_authentication)
 * [Avatars](/help/using/c-features-livefyre/c-styling-features/c-avatars.md#c_avatars)
@@ -25,9 +28,9 @@ De nombreuses fonctionnalités sont fournies avec l’application de commentaire
 * [Chaînes de texte personnalisées](/help/using/c-features-livefyre/c-custom-text-strings.md#c_custom_text_strings)
 * [Date et horodatage](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md#c_date_and_timestamp)
 * [Notifications électroniques](/help/using/c-features-livefyre/c-notifications-features/c-email-notifications.md#c_email_notifications)
-* [Intégration Embedly](/help/using/c-features-livefyre/c-content-collection-tags/c-embedly-integration.md#c_embedly_integration)
+* [Intégration Embedly ](/help/using/c-features-livefyre/c-content-collection-tags/c-embedly-integration.md#c_embedly_integration)
 * [Contenu proposé](/help/using/c-features-livefyre/c-content-collection-tags/c-featured-content.md#c_featured_content)
-* [Mentions d'ami](/help/using/c-features-livefyre/c-enagement-features.md#section_yw5_fdm_d1b)
+* [Mentions d&#39;ami](/help/using/c-features-livefyre/c-enagement-features.md#section_yw5_fdm_d1b)
 * [Suivre la conversation](/help/using/c-features-livefyre/c-enagement-features.md#section_bw3_ndm_d1b)
 * [Threads chauds](/help/using/c-features-livefyre/c-sort-features-composite/c-hot-threads.md#c_hot_threads)
 * [Hovercards](/help/using/c-features-livefyre/c-styling-features/c-hovercards.md#c_hovercards)
@@ -35,22 +38,22 @@ De nombreuses fonctionnalités sont fournies avec l’application de commentaire
 * [J’aime](/help/using/c-features-livefyre/c-enagement-features.md#section_q4j_ycm_d1b)
 * [Nombre d’écouteurs](/help/using/c-features-livefyre/c-listener-count.md#c_listener_count)
 * [Expansion des médias](/help/using/c-features-livefyre/c-enagement-features.md#section_pmq_ycm_d1b)
-* [Modération en ligne](/help/using/c-features-livefyre/c-about-moderation/c-moderate-inline.md#c_moderate_inline)
+* [Modérer en ligne](/help/using/c-features-livefyre/c-about-moderation/c-moderate-inline.md#c_moderate_inline)
 * [ModQ](/help/using/c-features-livefyre/c-about-moderation/c-modq.md#c_modq)
-* [Commentaires de file d’attente](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_p21_bbm_d1b)
-* [Suivi des références](/help/using/c-features-livefyre/c-referral-tracking.md#c_referral_tracking)
+* [Commentaires de la file d&#39;attente](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_p21_bbm_d1b)
+* [Suivi des renvois](/help/using/c-features-livefyre/c-referral-tracking.md#c_referral_tracking)
 * [Permalinks](/help/using/c-features-livefyre/c-content-collection-tags/c-permalinks.md#c_permalinks)
 * [Pagination](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_mb5_lzl_d1b)
 * [Téléchargement de photo](/help/using/c-features-livefyre/c-content-behavior-features/c-photo-upload.md#c_photo_upload)
-* [SÛR](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation)
+* [SÉCURITÉ](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation)
 * [Partage social](/help/using/c-features-livefyre/c-social-sharing/c-social-sharing.md#c_social_sharing)
 * [Diffusion en temps réel](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_emd_syl_d1b)
-* [Caractéristiques de style](/help/using/c-features-livefyre/c-styling-features/c-styling-features.md#c_styling_features)
+* [Fonctionnalités de style](/help/using/c-features-livefyre/c-styling-features/c-styling-features.md#c_styling_features)
 * [Téléchargement de texte](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_pwy_m2s_d1b)
 * [Ralentir les commentaires](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_d5c_2bm_d1b)
 * [Principaux commentaires](/help/using/c-features-livefyre/c-sort-features-composite/c-top-comments.md#c_top_comments)
 * [Jeux de transformations](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
 * [Boutons d’action Twitter](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
-* [Badges utilisateur](/help/using/c-features-livefyre/c-styling-features/c-user-badges.md#c_user_badges)
+* [Badges d’utilisateur](/help/using/c-features-livefyre/c-styling-features/c-user-badges.md#c_user_badges)
 * [Publications utilisateur](/help/using/c-features-livefyre/c-content-behavior-features/c-user-posts.md#c_user_posts)
 
