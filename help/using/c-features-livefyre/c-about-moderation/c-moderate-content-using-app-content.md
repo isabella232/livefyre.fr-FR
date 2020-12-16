@@ -6,6 +6,9 @@ title: Modération du contenu à l’aide du contenu de l’application
 uuid: 1c648128-e7ef-4836-afe5-eff52de30e7e
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '465'
+ht-degree: 0%
 
 ---
 
@@ -14,19 +17,19 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 L’onglet Contenu de l’application de votre bibliothèque vous permet de modérer le contenu publié dans vos applications.
 
-## Modération du contenu {#section_md5_sqm_zz}
+## Contenu modéré {#section_md5_sqm_zz}
 
-Utilisez le panneau Contenu de l’application pour modérer le contenu répertorié, en modifiant son état, en modifiant l’état de son auteur ou en ajoutant une note. Pour modérer le contenu, placez le pointeur de la souris sur le contenu de la liste pour modifier les marqueurs disponibles ou utilisez le **[!UICONTROL pulldown]** menu pour modifier l’état d’un ou de plusieurs contenus sélectionnés.
+Utilisez le panneau Contenu de l’application pour modérer le contenu de la liste, en modifiant son état, l’état de son auteur ou en ajoutant une note. Pour modérer le contenu, placez le pointeur de la souris sur le contenu de la liste pour modifier les marqueurs disponibles ou utilisez le menu **[!UICONTROL pulldown]** pour modifier l’état d’un ou de plusieurs contenus sélectionnés.
 
 ![](assets/PublishedActionsMenu-1024x402.png)
 
 Dans le contenu de l’application, vous pouvez :
 
-* **[!UICONTROL Tag Content]**. Choisissez **[!UICONTROL Tag Content]** d’ajouter des balises à un ou plusieurs éléments de contenu simultanément.
+* **[!UICONTROL Tag Content]**. Sélectionnez **[!UICONTROL Tag Content]** pour ajouter simultanément des balises à un ou plusieurs éléments de contenu.
 
-* **[!UICONTROL Ignore Flags]**. Sélectionnez cette option **[!UICONTROL Ignore Flags]** pour exclure le contenu sélectionné des résultats du filtre de recherche balisée. La sélection **[!UICONTROL Ignore Flags]** d'un élément ne change pas son statut ; il le supprime simplement des résultats de recherche pour ce filtre de recherche à venir, pour tous les utilisateurs de Studio.
+* **[!UICONTROL Ignore Flags]**. Sélectionnez **[!UICONTROL Ignore Flags]** pour exclure le contenu sélectionné des résultats du filtre de recherche marqué. La sélection de **[!UICONTROL Ignore Flags]** pour un élément ne change pas son état ; il le supprime simplement des résultats de recherche pour ce filtre de recherche à venir, pour tous les utilisateurs de Studio.
 
-* **[!UICONTROL Change Content Status]**. Cliquez sur un élément de contenu, puis utilisez le **[!UICONTROL Actions]** menu pour modifier son état. (Utilisez la touche Commande ou Contrôle pour sélectionner plusieurs éléments, puis utilisez le menu pour modifier simultanément l’état de plusieurs éléments de contenu.)
+* **[!UICONTROL Change Content Status]**. Cliquez sur un élément de contenu, puis utilisez le menu **[!UICONTROL Actions]** pour modifier son état. (Utilisez la touche Commande ou Contrôle pour sélectionner plusieurs éléments, puis utilisez le menu pour modifier simultanément l’état de plusieurs éléments de contenu.)
 
    Les options varient en fonction de l’état actuel du contenu répertorié.
 
@@ -37,29 +40,29 @@ Dans le contenu de l’application, vous pouvez :
    | Corbeille | Approuvé, En Attente, Bozo, Supprimer |
    | En attente | Approuvé, Corbeille, Bozo |
 
-* **[!UICONTROL Save as Assets]**. Sélectionnez cette option **[!UICONTROL Save as Assets]** pour ouvrir la boîte de dialogue Options avancées, à partir de laquelle vous pouvez enregistrer les éléments sélectionnés dans votre bibliothèque de fichiers, les publier dans une application ou demander des droits de réutilisation à son auteur.
+* **[!UICONTROL Save as Assets]**. Sélectionnez **[!UICONTROL Save as Assets]** pour ouvrir la boîte de dialogue Options avancées, à partir de laquelle vous pouvez enregistrer les éléments sélectionnés dans votre bibliothèque de fichiers, les publier sur une application ou demander à son auteur des droits de réutilisation.
 
-* Modérez en fonction des recommandations. Utilisez le contenu **[!UICONTROL Moderation Recommendation Indicator]** de l’application pour filtrer le contenu que la recommandation de modération identifie comme susceptible d’être corrompu.
+* Modérée en fonction des recommandations. Utilisez **[!UICONTROL Moderation Recommendation Indicator]** dans Contenu de l’application pour filtrer le contenu que la recommandation de modération identifie comme susceptible d’être corrompu.
 
-   Dans Contenu de l’application, les recommandations de modération se présentent comme suit :  ![](assets/modreco3.png)
+   Dans le contenu de l’application, les recommandations de modération se présentent comme suit :  ![](assets/modreco3.png)
 
-## Modérer le contenu identifie le contenu {#section_i2s_nqm_zz}
+## Modérer le contenu des identifications {#section_i2s_nqm_zz}
 
-L’utilisation de Sidenotes dans le panneau Contenu diffère de l’utilisation d’autres types de contenu de plusieurs manières :
+L’utilisation des identités dans le panneau Contenu diffère de l’utilisation d’autres types de contenu de plusieurs manières :
 
 * Les onglets Plus d’informations, Réponses, Indicateurs et Rapports et Ajouter une note ne sont pas disponibles.
-* Vous ne pouvez pas baliser le contenu Sidenotes ou le marquer comme Contenu proposé.
+* Vous ne pouvez pas baliser le contenu Sidenotes ou le marquer comme En vedette.
 
-Il diffère également en ce qu'il affiche non seulement le contenu à modérer, il affiche également le texte sélectionné lors de l’ajout de la Sidenote, ce qui vous permet d’évaluer le contenu en contexte.
+Il diffère également en ce qu’il affiche non seulement le contenu à modérer ; il affiche également le texte sélectionné lors de l’ajout de la Sidenote, ce qui vous permet d’évaluer le contenu en contexte.
 
 ![](assets/SidenotesContent.png)
 
-Cliquez sur la zone de texte pour la développer et inclure l'intégralité du devis sélectionné par votre utilisateur.
+Cliquez sur la zone de texte pour la développer et inclure l&#39;intégralité du devis sélectionné par votre utilisateur.
 
-Identifie la modération du contenu pour les modifications en masse et les modifications d’état individuelles, comme décrit ci-dessus.
+Identifie la modération de contenu qui permet à la fois des modifications en masse et des modifications d’état individuelles, comme décrit ci-dessus.
 
-## Modération des utilisateurs de Livefyre {#section_grw_mqm_zz}
+## Utilisateurs modérés de Livefyre {#section_grw_mqm_zz}
 
-Placez le pointeur de la souris sur le nom d’utilisateur d’un utilisateur de Livefyre pour ouvrir un menu déroulant, ce qui vous permet d’ **[!UICONTROL Ban the User]** afficher **[!UICONTROL More Info]** ou d’afficher la liste de ses **[!UICONTROL Comments]** utilisateurs. Cliquez sur ce menu pour ouvrir la fiche d'information de l'utilisateur dans la **[!UICONTROL Users]** page de Studio.
+Placez le pointeur de la souris sur le nom d’utilisateur pour qu’un utilisateur de Livefyre ouvre un menu déroulant, ce qui vous permet d’accéder à **[!UICONTROL Ban the User]**, d’obtenir **[!UICONTROL More Info]** ou de vue une liste de leur **[!UICONTROL Comments]** menu déroulant. Cliquez sur ce menu pour ouvrir la carte d&#39;information de l&#39;utilisateur dans la page **[!UICONTROL Users]** de Studio.
 
-Pour plus d’informations sur la manière de modérer les utilisateurs dans la **[!UICONTROL Users]** page, voir Modération des utilisateurs [dans la méthode](/help/using/c-features-livefyre/c-about-moderation/t-moderate-users-modq.md#t_moderate_users_modq).
+Pour plus d’informations sur la manière de modérer les utilisateurs dans la page **[!UICONTROL Users]**, voir [Modérer les utilisateurs ModQ](/help/using/c-features-livefyre/c-about-moderation/t-moderate-users-modq.md#t_moderate_users_modq).
