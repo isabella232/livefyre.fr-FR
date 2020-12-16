@@ -24,7 +24,7 @@ Livefyre utilise une interface PUSH pour envoyer des informations système exter
 |--- |--- |
 | propriétaire | Cet utilisateur est propriétaire et peut à la fois modérer le contenu et affecter de nouveaux modérateurs. |
 | admin | Cet utilisateur est un modérateur et peut modérer le contenu. |
-| membre | Cet utilisateur est autorisé à accéder à la liste. Le contenu publié ne passe pas par des filtres de spam ou de profanation et ne nécessite pas d’approbation dans les flux prémodérés. |
+| membre | Cet utilisateur est placé sur la liste autorisée. Le contenu publié ne passe pas par des filtres de spam ou de profanation et ne nécessite pas d’approbation dans les flux prémodérés. |
 | Aucune | Cet utilisateur est un utilisateur standard et ne dispose pas d’autorisations spéciales. |
 | décapité | Cet utilisateur n&#39;a pas le droit de participer à une quelconque conversation. |
 
@@ -46,7 +46,7 @@ L’URL enregistrée doit accepter les POST avec les données suivantes comme ty
 
 | Paramètre | Description |
 |--- |--- |
-| jid | JID de l’utilisateur dont l’affiliation a été modifiée. Un JID est une chaîne du formulaire `user_id@network`. |
+| jid | JID de l’utilisateur dont l’affiliation a été modifiée. Un JID est une chaîne de la forme `user_id@network`. |
 | affiliation | Nom des autorisations attribuées, qui doit être l’une des suivantes :  `{admin | member | none | outcast | owner}` |
 
-Pour plus d’informations sur la mise à jour des paramètres d’affiliation des utilisateurs, voir le Guide de référence [de l’API d’affiliation](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post)Ajoute des utilisateurs.
+Pour plus d&#39;informations sur la mise à jour des paramètres d&#39;affiliation des utilisateurs, consultez le [Guide de référence de l&#39;API d&#39;affiliation des utilisateurs Ajoutée](https://api.livefyre.com/docs/apis/by-category/user-management#operation=urn:livefyre:apis:quill:operations:api:v3.0:affiliation:add:method=post).
