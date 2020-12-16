@@ -1,20 +1,23 @@
 ---
-description: Utilisez CSS avec des balises d’utilisateur pour créer des badges d’utilisateur pour les membres de votre communauté.
-seo-description: Utilisez CSS avec des balises d’utilisateur pour créer des badges d’utilisateur pour les membres de votre communauté.
-seo-title: Badges utilisateur
-title: Badges utilisateur
+description: Utilisez CSS avec balises d’utilisateur pour créer des badges d’utilisateur pour les membres de votre communauté.
+seo-description: Utilisez CSS avec balises d’utilisateur pour créer des badges d’utilisateur pour les membres de votre communauté.
+seo-title: Badges d’utilisateur
+title: Badges d’utilisateur
 uuid: ff1451e1-7eb3-45dc-8c5a-1a6d1313e344
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 1%
 
 ---
 
 
 # Badges utilisateur{#user-badges}
 
-Utilisez CSS avec des balises d’utilisateur pour créer des badges d’utilisateur pour les membres de votre communauté.
+Utilisez CSS avec balises d’utilisateur pour créer des badges d’utilisateur pour les membres de votre communauté.
 
-Les badges d’utilisateur sont des fonctions de style personnalisées qui vous permettent de mettre en forme le contenu Livefyre publié par des types d’utilisateurs spécifiques (modérateurs, éditeurs ou tout autre groupe d’utilisateurs que vous souhaitez définir) dans Livefyre Chat, Comments, Reviews ou Live Blog Apps. Cela vous permet de mettre ce contenu en évidence pour vos utilisateurs.
+Les badges d’utilisateur sont des fonctions de style personnalisées qui vous permettent de mettre en forme le contenu Livefyre publié par des types d’utilisateurs spécifiques (modérateurs, éditeurs ou tout autre groupe d’utilisateurs que vous souhaitez définir, par exemple) dans des conversations, des commentaires, des révisions ou des applications de blog en direct sur Livefyre. Cela vous permet de mettre ce contenu en évidence pour vos utilisateurs.
 
 Applications qui utilisent cette fonctionnalité :
 
