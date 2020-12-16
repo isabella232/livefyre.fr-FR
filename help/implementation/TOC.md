@@ -11,7 +11,7 @@ ht-degree: 4%
 ---
 
 
-# Guide de mise en oeuvre Livefyre {#implementation}
+# Guide de mise en oeuvre de Livefyre {#implementation}
 
 + [Guide de mise en oeuvre Livefyre](home.md)
 + Prise en main {#getting-started}
@@ -23,13 +23,13 @@ ht-degree: 4%
       + [Mise en oeuvre de Livefyre avec intégration tierce](c-app-integrations/implement-livefyre-3rd-party.md)
       + [Architecture](c-getting-started/c-implementation-process/c-architecture.md)
       + [Incorporer une application](c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
-      + [Ajouter d’authentification à une application à l’aide de Livefyre.js](c-getting-started/c-implementation-process/c-add-authetication-to-an-app-using-livefyre.js.md)
+      + [Ajouter l’authentification à une application à l’aide de Livefyre.js](c-getting-started/c-implementation-process/c-add-authetication-to-an-app-using-livefyre.js.md)
       + [Créer des jetons côté serveur](c-getting-started/c-implementation-process/c-build-server-side-tokens.md)
       + [CollectionMeta Token](c-getting-started/c-implementation-process/c-collectionmeta-tokent.md)
       + [Jeton d’authentification utilisateur](c-getting-started/c-implementation-process/c-user-auth-token.md)
       + [Création d’une collection à l’aide du jeton CollectionMeta](t-create-a-collectionmeta-token.md)
       + [Création d’une somme de contrôle](c-creating-a-checksum.md)
-+ Intégration d’identité {#identity-integration}
++ Intégration d&#39;identité {#identity-integration}
    + [Intégration d’identité](t-about-identity-integration/t-about-identity-integration.md)
    + [Package d’authentification](t-about-identity-integration/c-authorization-package.md)
    + [AuthDelegate, objet](t-about-identity-integration/c-building-an-auth-delegate.md)
@@ -106,7 +106,7 @@ ht-degree: 4%
    + [Critiques](c-app-integrations/c-reviews-integration.md)
    + Sidenotes {#sidenotes}
       + [Intégration de Sidenotes](c-app-integrations/c-sidenotes-integration/r-sidenotes-integration.md)
-      + [Ajout de cotes à une page](c-app-integrations/c-sidenotes-integration/r-adding-sidenotes-to-a-page.md)
+      + [Ajouter des identifiants à une page](c-app-integrations/c-sidenotes-integration/r-adding-sidenotes-to-a-page.md)
       + [Identifie les Événements d’application](c-app-integrations/c-sidenotes-integration/r-app-events.md)
       + [Identifie les options de configuration](c-app-integrations/c-sidenotes-integration/r-configuration-options.md)
       + [Identifie les styles personnalisés](c-app-integrations/c-sidenotes-integration/r-custom-styles.md)
@@ -139,10 +139,10 @@ ht-degree: 4%
    + [Contenu proposé agrégé à l’aide des API phare](c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md)
    + Contenu du style {#style-content}
       + [Contenu du groupe d’utilisateurs Style](c-app-customizations/c-style-user-group-content.md)
-      + [Ajout d’utilisateurs à des groupes](c-app-customizations/c-adding-users-to-groups.md)
+      + [Ajouter des utilisateurs aux groupes](c-app-customizations/c-adding-users-to-groups.md)
    + Appliquer des styles personnalisés {#apply-custom-styles}
       + [Application de styles personnalisés](c-app-customizations/c-applying-custom-styles-.md)
-      + [Ajouter boutons personnalisés](c-app-customizations/t-add-custom-buttons.md)
+      + [Ajouter des boutons personnalisés](c-app-customizations/t-add-custom-buttons.md)
    + Événements JavaScript {#javascript-events}
       + [Définitions et exemples de Événements JavaScript](c-app-customizations/c-javascript-events.md)
       + [Événements JavaScript pour les applications de visualisation](c-app-customizations/c-javascript-events-for-visualization-apps.md)
@@ -163,7 +163,7 @@ ht-degree: 4%
    + [Afficher le nombre de commentaires](c-advanced-topics/t-display-comment-count.md)
    + [Activation du partage sur les réseaux sociaux](c-advanced-topics/c-enabling-social-sharing.md)
    + [Flux d’Activité](c-advanced-topics/c-activity-stream.md)
-   + [Bootstrap HTML](c-advanced-topics/c-bootstrap-html.md)
+   + [HTML Bootstrap](c-advanced-topics/c-bootstrap-html.md)
    + [Modifier la collection](c-advanced-topics/c-change-collection.md)
    + [Collections multiples](c-advanced-topics/c-multiple-collections.md)
    + [Changer les types d’application principaux](c-advanced-topics/c-switch-core-app-types.md)
