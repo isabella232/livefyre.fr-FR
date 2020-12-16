@@ -1,18 +1,21 @@
 ---
-description: Vous pouvez mettre en forme vos applications Livefyre pour qu’elles se comportent de différentes manières ou les modifier pour qu’elles ressemblent au reste de votre campagne de marque.
-seo-description: Vous pouvez mettre en forme vos applications Livefyre pour qu’elles se comportent de différentes manières ou les modifier pour qu’elles ressemblent au reste de votre campagne de marque.
-seo-title: Caractéristiques de style
-title: Caractéristiques de style
+description: Vous pouvez mettre en forme vos applications Livefyre pour qu’elles se comportent de différentes manières ou les modifier pour qu’elles ressemblent au reste de la campagne de votre marque.
+seo-description: Vous pouvez mettre en forme vos applications Livefyre pour qu’elles se comportent de différentes manières ou les modifier pour qu’elles ressemblent au reste de la campagne de votre marque.
+seo-title: Fonctionnalités de style
+title: Fonctionnalités de style
 uuid: 72a3843d-692a-43ff-b72b-6bd840de87d6
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 7%
 
 ---
 
 
-# Caractéristiques de style{#styling-features}
+# Fonctionnalités de style{#styling-features}
 
-Vous pouvez mettre en forme vos applications Livefyre pour qu’elles se comportent de différentes manières ou les modifier pour qu’elles ressemblent au reste de votre campagne de marque.
+Vous pouvez mettre en forme vos applications Livefyre pour qu’elles se comportent de différentes manières ou les modifier pour qu’elles ressemblent au reste de la campagne de votre marque.
 
 ## Style par défaut {#section_yjl_rfs_d1b}
 
@@ -23,9 +26,9 @@ Applications qui utilisent cette fonctionnalité :
 * [Carrousel](/help/using/c-about-apps/c-carousel-app/c-carousel-app.md#c_carousel_app)
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
-* [Feature Card](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
+* [Carte des fonctionnalités](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
 * [Carte](/help/using/c-about-apps/c-map-app/c-map-app.md#c_map_app)
-* [Media Wall](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
+* [Mur multimédia](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
 * [Mosaïque](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Sondages](/help/using/c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
 * [Critiques](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
