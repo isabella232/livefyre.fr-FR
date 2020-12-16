@@ -1,19 +1,22 @@
 ---
-description: Renvoie un objet Collection appelé en tant que type de blog. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
-seo-description: Renvoie un objet Collection appelé en tant que type de blog. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+description: Renvoie un objet Collection appelé comme type de blog. Exécutez create_or_update() à partir de l'objet Collection pour terminer le processus de création.
+seo-description: Renvoie un objet Collection appelé comme type de blog. Exécutez create_or_update() à partir de l'objet Collection pour terminer le processus de création.
 seo-title: buildBlogCollection, méthode du site
 solution: Experience Manager
 title: buildBlogCollection, méthode du site
 uuid: 6a5ec6b9-bc32-467a-abe6-a57c6defe067
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 
 
 # buildBlogCollection, méthode du site{#buildblogcollection-site-method}
 
-Renvoie un objet Collection appelé en tant que type de blog. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+Renvoie un objet Collection appelé comme type de blog. Exécutez create_or_update() à partir de l&#39;objet Collection pour terminer le processus de création.
 
 | Variable | Type | Description |
 |--- |--- |--- |
