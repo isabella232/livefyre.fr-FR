@@ -5,21 +5,24 @@ title: Incorporer une application
 uuid: e75caf0e-04ea-4b04-89ed-fea1183ecf63
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 0%
 
 ---
 
 
-# Incorporer une application{#embed-an-app}
+# Incorporer une application {#embed-an-app}
 
-Ajoutez des applications Livefyre à vos pages Web à l’aide de la structure de code intégré Livefyre.js.
+Ajoutez les applications Livefyre sur vos pages Web à l’aide de la structure de code intégrée Livefyre.js.
 
-Cette documentation est destinée à un public technique. Pour obtenir des informations [non techniques sur les applications](/help/using/c-about-apps/c-about-apps.md).
+Cette documentation est destinée à une audience technique. Pour [des informations non techniques sur les applications](/help/using/c-about-apps/c-about-apps.md).
 
-Cette section décrit la structure de code que vous devrez inclure dans le modèle de page pour incorporer les applications Livefyre à votre site.
+Cette section décrit la structure de code que vous devrez inclure dans votre modèle de page pour incorporer les applications Livefyre sur votre site.
 
 1. Créez un fichier .html avec un espace réservé Livefyre.
 
-   Créez un fichier .html dans l’éditeur de texte de votre choix. Créez un `<div>` élément Livefyre d’espace réservé dans lequel l’application sera intégrée.
+   Créez un fichier .html dans l’éditeur de texte de votre choix. Créez un espace réservé Livefyre `<div>` dans lequel l’application sera incorporée.
 
    ```
    <html> 
@@ -32,7 +35,7 @@ Cette section décrit la structure de code que vous devrez inclure dans le modè
 
 1. Incluez la bibliothèque Livefyre.js.
 
-   Incluez ensuite la bibliothèque Livefyre JS. Placez la référence suivante dans un `<script>` élément de votre `<head>` élément. Ouvrez ensuite votre page dans un navigateur et utilisez l’inspecteur Web de votre navigateur pour confirmer que Livefyre est chargé.
+   Incluez ensuite la bibliothèque Livefyre JS. Placez la référence suivante dans un élément `<script>` de votre élément `<head>`. Ouvrez ensuite votre page dans un navigateur et utilisez l’inspecteur Web de votre navigateur pour confirmer que Livefyre est chargé.
 
    ```
    <head> 
@@ -42,7 +45,7 @@ Cette section décrit la structure de code que vous devrez inclure dans le modè
 
 1. Créez l’application Livefyre.
 
-   Utilisez `Livefyre.require` pour créer des applications de base et des applications SDK en transmettant le ou les packages Livefyre que vous prévoyez d’utiliser.
+   Utilisez `Livefyre.require` pour construire des applications de base et des applications SDK en transmettant le ou les packages Livefyre que vous prévoyez d’utiliser.
 
    1. Créez une application principale.
 
@@ -74,6 +77,6 @@ Cette section décrit la structure de code que vous devrez inclure dans le modè
       }); 
       ```
 
-      Voir [plus d’informations sur des applications](/help/using/c-about-apps/c-about-apps.md)spécifiques. Il est recommandé d’épingler la dernière version majeure du paquet (qui peut être trouvée via [Livefyre.require](https://cdn.livefyre.com/packages.html)), afin d’éviter des intégrations inattendues.
+      Voir [plus d&#39;informations sur des applications spécifiques](/help/using/c-about-apps/c-about-apps.md). Il est recommandé d’épingler la dernière version majeure du package (qui peut être trouvée via [Livefyre.require](https://cdn.livefyre.com/packages.html)), afin d’éviter des intégrations inattendues rompues.
 
-Suivant : Ajoutez une authentification à votre site pour permettre aux utilisateurs de publier des commentaires.
+Suivant : Ajoutez l’authentification sur votre site pour permettre aux utilisateurs de publier des commentaires.
