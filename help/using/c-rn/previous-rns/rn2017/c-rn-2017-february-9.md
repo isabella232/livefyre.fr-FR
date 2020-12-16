@@ -13,7 +13,7 @@ ht-degree: 5%
 ---
 
 
-# February 9, 2017{#february}
+# 9 février 2017{#february}
 
 Notes de mise à jour de la version du 9 février 2017.
 
@@ -27,14 +27,14 @@ SocialSync pour Twitter fait partie de notre fonctionnalité principale depuis p
 |--- |--- |--- |
 | bogue | Mur multimédia | Correction d’un bogue en raison duquel les vidéos Facebook pouvaient être lues correctement. |
 | bogue | ModQ | Correction d’un bogue qui empêchait l’affichage des objets de courrier électronique dans le contenu du flux de courrier électronique. |
-| bogue | Mosaïque | Ajout de la prise en charge de l’accessibilité à Mosaic pour permettre aux utilisateurs de modifier la tabulation entre les cartes de contenu. |
+| bogue | Mosaïque | Ajout de la prise en charge de l’accessibilité à Mosaic pour permettre aux utilisateurs de changer de tabulation entre les cartes de contenu. |
 | bogue | Critiques | Correction d’un bogue en raison duquel les modifications d’évaluation n’apparaissaient pas correctement. |
 | bogue | Recherche sociale | Correction d’un bogue en raison duquel le bouton Afficher plus était coupé dans les résultats de la recherche de Listes Twitter. |
 | Amélioration | Storify 2 | Amélioration de Storify 2 pour la prise en charge de la recherche de contenu Gratuit en copie. Copywrite Free recherche des images gratuites sur Flickr, Noun Project, Kuler, Pixabay et Unsplash. |
 | bogue | Flux | Correction d’un bogue qui empêchait l’enregistrement des règles de flux Tumblr. |
 | bogue | Flux | Correction d’un bogue en raison duquel des ID de générateur incorrects étaient générés dans la collection JSON pour les flux RSS. |
-| Amélioration | Flux | Correction de la configuration de l’option &quot;Comptes vérifiés uniquement&quot; pour qu’elle soit désactivée par défaut. |
-| Amélioration | Flux | Ajouté une nouvelle fonctionnalité permettant aux catégories de contenu (par le biais d’une règle de diffusion en continu) d’être répertoriées et de contourner la modération. |
+| Amélioration | Flux | Correction de la définition de l’option &quot;Comptes vérifiés uniquement&quot; à désactiver par défaut. |
+| Amélioration | Flux | Ajouté une nouvelle fonctionnalité permettant de placer sur la liste autorisée les catégories de contenu (par le biais d’une règle de diffusion en continu) et de contourner la modération. |
 | bogue | Flux | Correction d’un bogue en raison duquel les paramètres &quot;Prémodéré&quot; et &quot;Prémodéré média&quot; étaient reportés à une nouvelle règle de diffusion en continu. |
 
 ## Version UAT {#section_dyx_yl2_wy}
