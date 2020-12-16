@@ -1,12 +1,15 @@
 ---
-description: Utilisez Bootstrap et Stream API avec les applications Livefyre.
-seo-description: Utilisez Bootstrap et Stream API avec les applications Livefyre.
-seo-title: Implémentation de l’application
+description: Utilisez l’API Bootstrap et Stream avec les applications Livefyre.
+seo-description: Utilisez l’API Bootstrap et Stream avec les applications Livefyre.
+seo-title: Mise en oeuvre de l’application
 solution: Experience Manager
-title: Implémentation de l’application
+title: Mise en oeuvre de l’application
 uuid: null
 translation-type: tm+mt
 source-git-commit: b737f2c6afb03d91041a317cc0afb790c3eadcb1
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 0%
 
 ---
 
@@ -14,19 +17,19 @@ source-git-commit: b737f2c6afb03d91041a317cc0afb790c3eadcb1
 
 Cas d’utilisation : En tant que client, je souhaite intégrer Livefyre dans mon CMS tiers à l’aide de la méthode Livefyre.js.
 
-Il existe trois manières d’implémenter Livefyre dans un composant AEM personnalisé ou un autre CMS comme WordPress, Sitecore ou DemandWare : Implémentation d’application Designer, API, implémentation et intégration d’authentification tierce.
+Il existe trois façons d’implémenter Livefyre dans un composant AEM personnalisé ou un autre composant CMS tel que WordPress, Sitecore ou DemandWare : Mise en oeuvre de l’application Designer, API, mise en oeuvre et intégration d’authentification tierce.
 
-## Implémentation d’applications Designer {#designerapp}
+## Implémentation de l’application Designer {#designerapp}
 
-Quoi : Méthode la plus simple et la plus rapide d’intégration d’une application Livefyre. Vous pouvez concevoir, configurer et générer un code incorporé JavaScript personnalisé pour intégrer une application Liveyfre sur une page en quelques minutes.
+Quoi : Méthode d’intégration la plus simple et la plus rapide d’une application Livefyre. Vous pouvez concevoir, configurer et générer un code incorporé JavaScript personnalisé pour intégrer une application Liveyfre sur une page en quelques minutes.
 
-Comment : [Créer, prévisualiser, publier et incorporer une application Livefyre](/help/using/c-about-apps/c-create-an-app.md)
+Comment : [Créer, Prévisualisation, publier et incorporer une application Livefyre](/help/using/c-about-apps/c-create-an-app.md)
 
 Exemple : [https://codepen.io/dharafyre/pen/bvGrLo](https://codepen.io/dharafyre/pen/bvGrLo)
 
 ### Implémentation de Livefyre.js {#livefyrejsimp}
 
-Quoi : [Livefyre.js](/help/implementation/c-livefyre.js.md) est la bibliothèque principale qui alimente les applications et l’authentification sur un site. Il définit l’ `window.Livefyre` objet global et une méthode publique unique, Livefyre.require, qui peut être utilisée pour charger d’autres bibliothèques JavaScript Livefyre qui permettent d’incorporer des applications Livefyre et de les intégrer à des plateformes User Auth tierces.
+Quoi : [Livefyre.js](/help/implementation/c-livefyre.js.md) est la bibliothèque principale qui alimente Apps et Auth sur un site. Il définit l’objet global `window.Livefyre` et une méthode publique unique, Livefyre.require, qui peut être utilisée pour charger d’autres bibliothèques JavaScript Livefyre qui permettent d’incorporer des applications Livefyre et de s’intégrer à des plateformes User Auth tierces.
 
 Comment :
 
@@ -44,17 +47,17 @@ Exemples :
 
 * Pour des personnalisations avancées à l’aide du SDK, voir SDK StreamHub.
 
-## Implémentation d’API {#apiimplementation}
+## Implémentation de l&#39;API {#apiimplementation}
 
-Pour créer des expériences personnalisées et des visualisations de données, vous pouvez créer des applications Livefyre à partir de zéro en utilisant les données Livefyre et sociales à l’aide de l’API d’amorçage et de diffusion en continu.
+Pour créer des expériences personnalisées et des visualisations de données, vous pouvez créer des applications Livefyre à partir de zéro en consommant des données Livefyre et sociales à l’aide du Bootstrap et de l’API de diffusion en continu.
 
-## Intégration de l’authentification tierce {#thirdpartyauth}
+## Intégration d’authentification tierce {#thirdpartyauth}
 
-Pour les applications Livefyre nécessitant une authentification, voir Intégration [d’](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) identité pour les plateformes d’authentification tierces.
+Pour les applications Livefyre nécessitant une authentification, voir [Intégration d’identité](/help/implementation/t-about-identity-integration/t-about-identity-integration.md) pour les plateformes d’authentification tierces.
 
 ## Exemples de clients {#customerexamples}
 
-Les clients suivants ont implémenté Livefyre avec des intégrations CMS tierces :
+Les clients suivants ont mis en oeuvre Livefyre avec des intégrations CMS tierces :
 
 * [PGA Tour Media Wall](https://www.pgatour.com/social-hub.html)
 
