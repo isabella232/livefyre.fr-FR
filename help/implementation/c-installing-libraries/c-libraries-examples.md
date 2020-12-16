@@ -1,19 +1,22 @@
 ---
-description: Exemples d’utilisation des bibliothèques.
-seo-description: Exemples d’utilisation des bibliothèques.
+description: Voici quelques exemples d’utilisation des bibliothèques.
+seo-description: Voici quelques exemples d’utilisation des bibliothèques.
 seo-title: Exemples
 solution: Experience Manager
 title: Exemples
 uuid: 94e38dab-6234-43a2-a840-13a87f0237f1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '31'
+ht-degree: 9%
 
 ---
 
 
 # Exemples{#examples}
 
-Exemples d’utilisation des bibliothèques.
+Voici quelques exemples d’utilisation des bibliothèques.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
