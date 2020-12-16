@@ -1,19 +1,22 @@
 ---
-description: Renvoie la somme de contrôle de cette collection.
-seo-description: Renvoie la somme de contrôle de cette collection.
+description: Renvoie la somme de contrôle pour cette collection.
+seo-description: Renvoie la somme de contrôle pour cette collection.
 seo-title: Méthode de collecte buildChecksum
 solution: Experience Manager
 title: Méthode de collecte buildChecksum
 uuid: 692e8e13-6218-4e38-abc8-7cf49bebde9c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
 
 # Méthode de collecte buildChecksum{#buildchecksum-collection-method}
 
-Renvoie la somme de contrôle de cette collection.
+Renvoie la somme de contrôle pour cette collection.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
