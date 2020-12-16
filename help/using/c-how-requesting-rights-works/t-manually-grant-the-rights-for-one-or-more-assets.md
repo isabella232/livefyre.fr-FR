@@ -7,6 +7,9 @@ title: Octroi ou révocation manuelle de droits pour un fichier à partir de la 
 uuid: 1f70ab9a-239d-4a9c-a17c-d2bc54ff3859
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
 
@@ -17,8 +20,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 >
 >L’octroi manuel de droits sur un élément de contenu indique que vous êtes propriétaire du contenu. N’accordez pas manuellement des droits sans vérifier que vous êtes propriétaire du contenu.
 
-1. Cliquez sur **[!UICONTROL Library]** pour accéder au **[!UICONTROL Asset Library]**.
+1. Cliquez sur **[!UICONTROL Library]** pour accéder à **[!UICONTROL Asset Library]**.
 1. Ouvrez un dossier et cliquez sur un élément de contenu que vous avez enregistré sur Twitter ou Instagram. Vous pouvez voir d’où provient le contenu en regardant l’icône sur l’élément de contenu. Par exemple, un élément de contenu de Twitter comporte le logo Twitter.
-1. Cliquez sur l’icône d’ellipse qui s’affiche lorsque vous passez la souris sur la carte de contenu pour **[!UICONTROL More Options]**.
-1. Cliquez sur **[!UICONTROL Rights]** pour ouvrir la **[!UICONTROL Rights options]** fenêtre.
+1. Cliquez sur l’icône représentant des points de suspension qui s’affiche lorsque vous passez la souris sur la carte de contenu pour **[!UICONTROL More Options]**.
+1. Cliquez sur **[!UICONTROL Rights]** pour ouvrir la fenêtre **[!UICONTROL Rights options]**.
 1. Cliquez sur **[!UICONTROL Manually Grant Rights]**.
