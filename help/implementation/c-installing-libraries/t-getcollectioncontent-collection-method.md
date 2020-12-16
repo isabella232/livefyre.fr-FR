@@ -1,19 +1,22 @@
 ---
-description: Récupère les informations de collection de Livefyre en tant qu’objet JSONObject.
-seo-description: Récupère les informations de collection de Livefyre en tant qu’objet JSONObject.
-seo-title: getCollectionContent Collection, méthode
+description: Récupère les informations de collecte de Livefyre en tant qu’objet JSONObject.
+seo-description: Récupère les informations de collecte de Livefyre en tant qu’objet JSONObject.
+seo-title: getCollectionContent, méthode de collecte
 solution: Experience Manager
-title: getCollectionContent Collection, méthode
+title: getCollectionContent, méthode de collecte
 uuid: 270dcea5-4de5-4d3b-a751-79e6b9c4fd93
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '43'
+ht-degree: 0%
 
 ---
 
 
-# getCollectionContent Collection, méthode{#getcollectioncontent-collection-method}
+# getCollectionContent, méthode de collecte{#getcollectioncontent-collection-method}
 
-Récupère les informations de collection de Livefyre en tant qu’objet JSONObject.
+Récupère les informations de collecte de Livefyre en tant qu’objet JSONObject.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
