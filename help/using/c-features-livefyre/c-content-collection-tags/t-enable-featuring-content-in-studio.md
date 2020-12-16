@@ -1,19 +1,22 @@
 ---
-description: Pour présenter du contenu, vous devez d’abord activer le paramètre Activer les commentaires présentés dans Studio.
-seo-description: Pour présenter du contenu, vous devez d’abord activer le paramètre Activer les commentaires présentés dans Studio.
-seo-title: Activer le contenu de présentation dans Studio
+description: Pour afficher du contenu, vous devez d’abord activer le paramètre Activer les commentaires présentés dans Studio.
+seo-description: Pour afficher du contenu, vous devez d’abord activer le paramètre Activer les commentaires présentés dans Studio.
+seo-title: Activation du contenu phare dans Studio
 solution: Experience Manager
-title: Activer le contenu de présentation dans Studio
+title: Activation du contenu phare dans Studio
 uuid: d903a2fd-4173-4dd1-8afb-2f9b2c4468d1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 2%
 
 ---
 
 
 # Activer le contenu de présentation dans Studio{#enable-featuring-content-in-studio}
 
-Pour présenter du contenu, vous devez d’abord activer le paramètre Activer les commentaires présentés dans Studio.
+Pour afficher du contenu, vous devez d’abord activer le paramètre Activer les commentaires présentés dans Studio.
 
 1. Atteindre **[!UICONTROL Studio > Settings > Network Settings > Default Settings]**.
-1. Active/désactive le **[!UICONTROL Enable Featured Comments]** paramètre pour vous permettre de mettre en surbrillance les commentaires récemment présentés au-dessus de l’éditeur.
+1. Active/désactive le paramètre **[!UICONTROL Enable Featured Comments]** pour vous permettre de mettre en surbrillance les commentaires récemment présentés au-dessus de l’éditeur.
