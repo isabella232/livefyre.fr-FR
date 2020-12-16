@@ -1,25 +1,28 @@
 ---
-description: Permet aux utilisateurs de cliquer sur Collections à partir d’une mise en page et d’une URL uniques.
-seo-description: Permet aux utilisateurs de cliquer sur Collections à partir d’une mise en page et d’une URL uniques.
+description: Permet aux utilisateurs de cliquer sur Collections à partir d’une seule mise en page et d’une seule URL de page.
+seo-description: Permet aux utilisateurs de cliquer sur Collections à partir d’une seule mise en page et d’une seule URL de page.
 seo-title: Modifier la collection
 solution: Experience Manager
 title: Modifier la collection
 uuid: 69bafcc7-c55e-47d6-bc79-b0db80fdf138
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 0%
 
 ---
 
 
 # Modifier la collection{#change-collection}
 
-Permet aux utilisateurs de cliquer sur Collections à partir d’une mise en page et d’une URL uniques.
+Permet aux utilisateurs de cliquer sur Collections à partir d’une seule mise en page et d’une seule URL de page.
 
 Utilisez le délégué Modifier la collection pour modifier la collection affichée sur une page, sans modifier l’URL, pendant qu’une application Livefyre est déjà chargée. Utilisez cette fonction pour afficher des galeries de photos ou de vidéos ou d’autres applications dans lesquelles la collection affichée doit changer après une action de l’utilisateur.
 
 Par exemple, un clic sur une vidéo ou une photo dans une galerie charge une collection spécifique à cette sélection, tandis que l’URL de la page ne change pas.
 
-Pour charger l’une des trois collections à partir d’une seule page de comptage [des](/help/implementation/c-advanced-topics/t-display-comment-count.md) commentaires :
+Pour charger l&#39;une des trois collections à partir d&#39;une seule [page de nombre de commentaires](/help/implementation/c-advanced-topics/t-display-comment-count.md) :
 
 ```
 <html> 
