@@ -7,6 +7,9 @@ title: Méthodes de classe réseau
 uuid: 4130beda-dd09-49ae-aafb-f6b956e30b51
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 13%
 
 ---
 
@@ -15,13 +18,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Créez un objet Network.
 
-Une fois que vous avez créé un objet réseau, le reste de la page suppose que vous avez un objet réseau instancié dans votre session.
+Une fois que vous avez créé un objet réseau, le reste de la page suppose que votre session contient un objet réseau instancié.
 
 ## Objet réseau
 
 | Paramètre | Type | Description |
 |---|---|---|
-| *`network`* | Chaîne | Votre réseau Livefyre. For example: “`labs.fyre.co`”. |
+| *`network`* | Chaîne | Votre réseau Livefyre. Par exemple: “`labs.fyre.co`”. |
 | *`networkKey`* | Chaîne | La clé secrète fournie par Livefyre pour le réseau. |
 
 ## Java {#section_myk_dzs_kbb}
