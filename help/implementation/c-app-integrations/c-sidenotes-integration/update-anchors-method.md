@@ -7,15 +7,18 @@ title: Livefyre.js
 uuid: null
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '109'
+ht-degree: 1%
 
 ---
 
 
 # updateAnchors, méthode {#updateAnchorsMethod}
 
-Utilisez la méthode updateAnchors pour ajouter dynamiquement du contenu sidenoté à la page.
+Utilisez la méthode updateAnchors pour ajouter dynamiquement du contenu mis en place sur la page.
 
-Cette méthode s’avère utile pour la pagination ou dans d’autres cas où du contenu localisable est ajouté dynamiquement à la page. Cette méthode définit de nouvelles ancres pour les éléments correspondants et utilise un seul argument : newSélecteurs.
+Cette méthode est utile pour la pagination, ou dans d’autres cas où du contenu pouvant être mis à part est ajouté dynamiquement à la page. Cette méthode définit de nouvelles ancres pour les éléments correspondants et prend un seul argument : newSélecteurs.
 
 **newSélecteurs**. Sélecteurs à ajouter aux Sidenotes. Il peut s’agir d’une chaîne de sélecteur, d’un objet jQuery ou d’un tableau d’éléments (tous les types acceptés par l’argument sélecteurs transmis lors de la construction de l’application).
 Format:
