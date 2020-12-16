@@ -34,7 +34,7 @@ ht-degree: 7%
       + [Commentaires](c-about-apps/c-comments/c-comments.md)
       + [Fonctionnalités des commentaires](c-about-apps/c-comments/r-comments-features.md)
       + [Personnalisations des commentaires](c-about-apps/c-comments/r-comments-customizations.md)
-   + Carte des fonctionnalités {#featurecard}
+   + Feature Card {#featurecard}
       + [Carte des fonctionnalités](c-about-apps/c-feature-card-app/c-feature-card-app.md)
       + [Personnalisations des cartes de fonctions](c-about-apps/c-feature-card-app/r-feature-card-customizations.md)
    + Filmstrip {#filmstrip}
@@ -49,7 +49,7 @@ ht-degree: 7%
       + [Carte](c-about-apps/c-map-app/c-map-app.md)
       + [Fonctions de mappage](c-about-apps/c-map-app/r-map-features.md)
       + [Mapper les personnalisations](c-about-apps/c-map-app/r-map-customizations.md)
-   + Mur multimédia {#mediawall}
+   + Mur de médias {#mediawall}
       + [Mur multimédia](c-about-apps/c-media-wall-app/c-media-wall-app.md)
       + [Fonctionnalités du mur multimédia](c-about-apps/c-media-wall-app/r-media-wall-features.md)
       + [Personnalisations du mur de médias](c-about-apps/c-media-wall-app/r-media-wall-customizations.md)
@@ -101,7 +101,7 @@ ht-degree: 7%
       + [Bouton Télécharger](c-about-apps/c-upload-button-app/c-upload-button-app.md)
       + [Personnalisations des boutons de transfert](c-about-apps/c-upload-button-app/r-upload-button-customizations.md)
       + [Chaînes de texte de bouton de téléchargement](c-about-apps/c-upload-button-app/c-upload-button-text-strings.md)
-+ Fonctionnalités de l’application {#app-features}
++ Fonctionnalités de l&#39;application {#app-features}
    + [Fonctionnalités d’accessibilité](c-features-livefyre/c-accessibility-features.md)
    + [Fonctionnalités d’authentification](c-features-livefyre/c-authentication.md)
    + [Bouton Appel à l’action personnalisé](c-features-livefyre/c-call-to-action-button.md)
@@ -147,13 +147,13 @@ ht-degree: 7%
       + [Configurer le courriel réseau](c-features-livefyre/c-notifications-features/t-set-up-network-email.md)
    + [Fonctionnalités de contribution sur site](c-features-livefyre/c-on-site-contribution-features.md)
    + [Suivi des renvois](c-features-livefyre/c-referral-tracking.md)
-   + Balises actives {#smart-tags}
+   + Balises dynamiques {#smart-tags}
       + [Balises actives](c-features-livefyre/c-smart-tags/c-smart-tags.md)
       + [Balises dynamiques de vue](c-features-livefyre/c-smart-tags/c-view-smart-tags.md)
    + Partage social {#social-sharing}
       + [Partage social](c-features-livefyre/c-social-sharing/c-social-sharing.md)
       + [Configuration du partage sur les réseaux sociaux](c-features-livefyre/c-social-sharing/c-setting-up-social-sharing.md)
-   + Fonctionnalités de tri {#sort-features}
+   + Trier les fonctionnalités {#sort-features}
       + [Fonctionnalités de tri](c-features-livefyre/c-sort-features-composite/c-sort-features-composite.md)
       + [Principaux commentaires](c-features-livefyre/c-sort-features-composite/c-top-comments.md)
       + [Threads chauds](c-features-livefyre/c-sort-features-composite/c-hot-threads.md)
@@ -216,7 +216,7 @@ ht-degree: 7%
    + [Historique des Activités des droits vue](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [Gérer le contenu avec des requêtes de droits en attente de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [Octroi ou révocation manuelle de droits pour un fichier à partir de la bibliothèque de fichiers](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
-+ Utilisateurs : Gestion des utilisateurs réseau de Studio et Livefyre {#users-managing}
++ Utilisateurs : Gestion des utilisateurs du réseau Studio et Livefyre {#users-managing}
    + [Utilisateurs : Gestion des utilisateurs réseau de Studio et Livefyre](c-users/c-users.md)
    + [Rechercher des utilisateurs](c-users/t-search-for-users.md)
    + [Affichage des détails du compte](c-users/c-viewing-account-details.md)
@@ -239,7 +239,7 @@ ht-degree: 7%
 + Paramètres : Autre {#settings-other}
    + [Configurer les informations d&#39;identification](c-settings-other/t-set-up-credentials.md)
    + [Ajouter un site à un réseau](c-settings-other/t-add-a-site.md)
-   + Jeux de transformations {#translation-sets}
+   + Jeux de conversions {#translation-sets}
       + [Jeux de transformations](c-settings-other/c-translation-sets/c-translation-sets.md)
       + [Création et modification de jeux de conversions](c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
       + [Application d’une visionneuse de traduction à un réseau](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-network.md)
@@ -259,14 +259,14 @@ ht-degree: 7%
       + [userPrivacyOptOut](c-settings-other/c-gdpr-compliance/c-userprivacyoptout.md)
 + Notes de mise à jour {#release-notes}
    + [Notes de mise à jour les plus récentes](c-rn/c-rn.md)
-   + Release Notes 2019 {#rn2019}
+   + Notes de mise à jour 2019 {#rn2019}
       + [21 mars 2019](c-rn/previous-rns/rn2019/c-rn-2019-march-21.md)
       + [14 mars 2019](c-rn/previous-rns/rn2019/c-rn-2019-march-14.md)
       + [21 février 2019](c-rn/previous-rns/rn2019/c-rn-2019-february-21.md)
       + [7 février 2019](c-rn/previous-rns/rn2019/c-rn-2019-february-7.md)
       + [31 janvier 2019](c-rn/previous-rns/rn2019/c-rn-2019-january-31.md)
       + [17 janvier 2019](c-rn/previous-rns/rn2019/c-rn-2019-january-17.md)
-   + Release Notes 2018 {#rn2018}
+   + Notes de mise à jour 2018 {#rn2018}
       + [18 décembre 2018](c-rn/previous-rns/rn2018/c-rn-2018-december-18.md)
       + [13 décembre 2018](c-rn/previous-rns/rn2018/c-rn-2018-december-13.md)
       + [15 novembre 2018](c-rn/previous-rns/rn2018/c-rn-2018-november-15.md)
@@ -287,7 +287,7 @@ ht-degree: 7%
       + [15 février 2018](c-rn/previous-rns/rn2018/c-rn-2018-february-15.md)
       + [1 février 2018](c-rn/previous-rns/rn2018/c-2018-february-1.md)
       + [18 janvier 2018](c-rn/previous-rns/rn2018/c-rn-2018-january-18.md)
-   + Release Notes 2017 {#rn2017}
+   + Notes de mise à jour 2017 {#rn2017}
       + [16 novembre 2017](c-rn/previous-rns/rn2017/c-rn-2017-november-16.md)
       + [2 novembre 2017](c-rn/previous-rns/rn2017/c-rn-2017-november-2.md)
       + [19 octobre 2017](c-rn/previous-rns/rn2017/c-rn-2017-october-19.md)
