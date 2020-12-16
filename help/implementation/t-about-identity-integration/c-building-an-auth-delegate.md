@@ -1,29 +1,32 @@
 ---
-description: L’objet AuthDelegate met en oeuvre le comportement souhaité pour exécuter des actions et des événements d’authentification afin de personnaliser l’intégration au système d’authentification existant de votre site.
-seo-description: L’objet AuthDelegate met en oeuvre le comportement souhaité pour exécuter des actions et des événements d’authentification afin de personnaliser l’intégration au système d’authentification existant de votre site.
+description: L’objet AuthDelegate met en oeuvre le comportement souhaité pour l’exécution d’actions et de événements d’authentification afin que vous puissiez personnaliser l’intégration avec le système d’authentification existant de votre site.
+seo-description: L’objet AuthDelegate met en oeuvre le comportement souhaité pour l’exécution d’actions et de événements d’authentification afin que vous puissiez personnaliser l’intégration avec le système d’authentification existant de votre site.
 seo-title: AuthDelegate, objet
 solution: Experience Manager
 title: AuthDelegate, objet
-uuid: a6ac4ef-d442-4782-9bfa-bbe494547c2e
+uuid: a6acc4ef-d442-4782-9bfa-bbe494547c2e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 0%
 
 ---
 
 
 # AuthDelegate, objet{#authdelegate-object}
 
-L’objet AuthDelegate met en oeuvre le comportement souhaité pour exécuter des actions et des événements d’authentification afin de personnaliser l’intégration au système d’authentification existant de votre site.
+L’objet AuthDelegate met en oeuvre le comportement souhaité pour l’exécution d’actions et de événements d’authentification afin que vous puissiez personnaliser l’intégration avec le système d’authentification existant de votre site.
 
-## Création d’un délégué d’authentification {#section_wmn_tv2_gz}
+## Création d&#39;un délégué d&#39;authentification {#section_wmn_tv2_gz}
 
-Le package d’authentification doit être fourni avec un délégué d’authentification avant de pouvoir effectuer une action. Un délégué auth est tout objet JavaScript qui implémente l’une des méthodes de cette rubrique.
+Le package d&#39;authentification doit être fourni avec un délégué d&#39;authentification pour pouvoir exécuter une action. Un délégué d’authentification est tout objet JavaScript qui implémente l’une des méthodes de cette rubrique.
 
-## .login(finLogin) {#section_mpk_lv2_gz}
+## .login(endLogin) {#section_mpk_lv2_gz}
 
-Connectez-vous à un utilisateur valide et appelez la fonction boutLogin avec un objet Error en cas d’erreur ou les informations d’identification Livefyre de l’utilisateur. Les implémentations courantes de cette méthode redirigent l’utilisateur vers une page de connexion ou ouvrent une nouvelle fenêtre ou un nouveau mode.
+Connectez-vous à un utilisateur valide et appelez la fonction endLogin avec un objet Error en cas d’erreur ou les informations d’identification Livefyre de l’utilisateur. Les implémentations courantes de cette méthode redirigent l’utilisateur vers une page de connexion ou ouvrent une nouvelle fenêtre ou un nouveau module.
 
-Cet exemple informe automatiquement l’auteur d’un utilisateur Livefyre avec le jeton d’authentification :
+Cet exemple montre comment avertir automatiquement l&#39;auteur d&#39;un utilisateur Livefyre avec le jeton d&#39;authentification :
 
 ```
 authDelegate.login = function (finishLogin) { 
@@ -47,9 +50,9 @@ authDelegate.login = function contrivedLogin(finishLogin) {
 };
 ```
 
-## .logout(finLogout) {#section_uqz_2v2_gz}
+## {#section_uqz_2v2_gz}
 
-Déconnectez un utilisateur et appelez la fonction finendLogout avec un objet Error en cas d’erreur, ou null pour informer l’authentification que la déconnexion a réussi.
+Déconnectez un utilisateur et appelez la fonction endLogout avec un objet Error en cas d’erreur, ou null pour signaler à l’authentification que la déconnexion a réussi.
 
 Par exemple :
 
@@ -62,7 +65,7 @@ authDelegate.logout = function (finishLogout) {
 
 ## .viewProfile(user) {#section_kkv_dv2_gz}
 
-Prenez des mesures pour afficher le profil d’un utilisateur.
+Prendre des mesures pour vue le profil d’un utilisateur.
 
 ```
 authDelegate.viewProfile = function (user) { 
@@ -72,7 +75,7 @@ authDelegate.viewProfile = function (user) {
 
 ## .editProfile(user) {#section_bkx_pq2_gz}
 
-Prenez des mesures pour modifier le profil d’un utilisateur.
+Effectuez une action pour modifier le profil d’un utilisateur.
 
 ```
 authDelegate.editProfile = function (user) { 
@@ -80,7 +83,7 @@ authDelegate.editProfile = function (user) {
 }
 ```
 
-En implémentant toutes les méthodes répertoriées ci-dessus, l’authentification peut être configurée avec un délégué d’authentification personnalisé. Une fois qu'un délégué a été créé, il peut être fourni à l'authentification à l'aide de la méthode déléguée.
+En implémentant toutes les méthodes répertoriées ci-dessus, l’authentification peut être configurée avec un délégué d’authentification personnalisé. Une fois qu&#39;un délégué a été créé, il peut être fourni à l&#39;authentification à l&#39;aide de la méthode delegate.
 
 ```
 var authDelegate = { 
