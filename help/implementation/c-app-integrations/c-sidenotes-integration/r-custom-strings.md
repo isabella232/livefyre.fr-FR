@@ -6,13 +6,16 @@ title: Sidenotes Chaînes personnalisées
 uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
 translation-type: tm+mt
 source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+workflow-type: tm+mt
+source-wordcount: '341'
+ht-degree: 11%
 
 ---
 
 
 # Sidenotes Chaînes personnalisées{#sidenotes-custom-strings}
 
-Les chaînes personnalisées sont appliquées via un objet injecté dans le constructeur Sidenotes et remplacent les chaînes par défaut utilisées dans l’application. Elles peuvent être utilisées pour personnaliser n’importe quelle partie de la langue en fonction de votre style ou de vos spécifications linguistiques. Les chaînes fusionnent automatiquement avec les valeurs par défaut.
+Les chaînes personnalisées sont appliquées via un objet injecté dans le constructeur Sidenotes et remplacent les chaînes par défaut utilisées dans l’application. Ils peuvent être utilisés pour personnaliser n’importe quelle partie de la langue en fonction de vos spécifications de style ou de langue. Les chaînes fusionnent automatiquement avec les valeurs par défaut.
 
 ```
 var customStrings = { 
@@ -29,7 +32,7 @@ new Livefyre.Sidenotes({
 | commentModeratorTag | Mod |
 | commentPendingTag | En attente |
 | commentReadMoreLink | En savoir plus |
-| commentReplyLink | Voir {nombre} réponses |
+| commentReplyLink | Voir {number} réponses |
 | commentReplyLinkSing | Voir réponse |
 | commentVoteCount | votes |
 | commentVoteCountSing | vote |
@@ -39,30 +42,30 @@ new Livefyre.Sidenotes({
 | editorPosting | Publication… |
 | editorReplyBtn | Poster une réponse |
 | editorReplyTitle | Répondre en écriture |
-| editorTitle | Note d'écriture |
+| editorTitle | Note d&#39;écriture |
 | emptyImageBlockTxt | Que penses-tu ? |
 | emptyTextBlockTxt | + |
 | errorConnection | Oh oh. Vous ne semblez pas avoir une bonne connexion. |
-| errorDuplicate | Nous aimons votre note aussi, mais vous ne pouvez pas la poster deux fois. |
-| errorGeneral | Une erreur s'est produite. Veuillez réessayer. |
-| errorServer | Quelque chose a mal tourné avec notre serveur. Essaie encore ça ? |
-| facebookShareCaption | SideNotes sur "{title}" |
-| menuAuthSignedInMsg | Vous devez vous connecter à {action} |
+| errorDuplicate | Votre note nous plaît aussi, mais vous ne pouvez pas la poster deux fois. |
+| errorGeneral | Une erreur s&#39;est produite. Veuillez réessayer. |
+| errorServer | Quelque chose s&#39;est mal passé avec notre serveur. Essaie encore ça ? |
+| facebookShareCaption | SideNotes sur &quot;{title}&quot; |
+| menuAuthSignedInMsg | Vous devez être connecté à {action} |
 | menuAuthSignInBtn | Se connecter |
 | menuBackBtn | Retour |
 | menuConfirmAccept | Oui, {action} |
 | menuConfirmCancel | Annuler |
 | menuConfirmTitle | Etes-vous sûr ? |
 | menuEtcOptionApprouver | Approuver |
-| menuEtcOptionDelete | Supprimer |
-| menuEtcOptionEdit | Modifier      |
-| menuEtcOptionFlag | Marquer d’un indicateur |
+| menuOptionOptionSupprimer | Supprimer |
+| menuOptionEdition | Modifier      |
+| menuOptionFlag | Marquer d’un indicateur |
 | menuEtcOptionShare | Partager |
 | menuEtcPostedAt | Publié le {date} |
 | menuEtcTitle | Plus |
-| menuFlagOptionDésaccord | Désapprouver |
+| menuFlagOptionDésaccord | Désaccord |
 | menuFlagOptionOffensive | Offensive |
-| menuFlagOptionOffTopic | Hors rubrique |
+| menuFlagOptionOffTopic | Désactivé la rubrique |
 | menuFlagOptionSpam | Indésirables |
 | menuFlagTitle | Marquer comme... |
 | menuInfoCopyright | © Livefyre, Inc. 2014 |
@@ -81,15 +84,15 @@ new Livefyre.Sidenotes({
 | notificationFlagged | Avec indicateur |
 | permalinkBackBtn | Toutes |
 | permalinkTitle | Permalink |
-| questionExplication | Vous pouvez maintenant lire et écrire des commentaires directement sur des phrases, des paragraphes, des images et des guillemets.<br><br>Mettez le texte en surbrillance et cliquez sur l’icône "fycon-write" ou cliquez sur l’icône "fycon-action-view" à la fin de chaque paragraphe. |
-| questionMockText | Ce qui est "familiairement connu" n'est pas correctement connu, juste pour la raison qu'il est "familier". |
-| questionTitle | Qu'est-ce qu'une Sidenote ? |
-| file d’attenteCommentairesPlural | {number} Nouveaux Sidenotes |
-| queueCommentsSingular | 1 Nouveau Sidenote |
-| file d'attenteRéponsesPlural | {number} nouvelles réponses |
-| queuedRepliesSingular | 1 Nouvelle réponse |
+| questionExplication | Vous pouvez maintenant lire et écrire des commentaires directement sur des phrases, des paragraphes, des images et des guillemets.<br><br>Mettez le texte en surbrillance et cliquez sur l’icône &quot;fycon-write&quot; ou cliquez sur l’icône &quot;fycon-action-vue&quot; à la fin de chaque paragraphe. |
+| questionMockText | Ce qui est &quot;familiairement connu&quot; n&#39;est pas correctement connu, juste pour la raison qu&#39;il est &quot;familier&quot;. |
+| questionTitle | Qu&#39;est-ce qu&#39;une Sidenote ? |
+| file d&#39;attenteCommentairesPlural | {number} Nouveaux identifiants |
+| queuedCommentsSingular | 1 nouveau logo |
+| file d&#39;attenteRéponsesPlural | {number} Nouvelles réponses |
+| file d&#39;attenteRéponsesSingular | 1 Nouvelle réponse |
 | responseBtn | Répondre |
-| signInToPost | Connectez-vous pour écrire une note de connexion |
+| signInToPost | Se connecter pour écrire une note de connexion |
 | sliderCommentTally | of |
 | sliderInviteRead | Lu |
 | sliderInviteWrite | Écriture |
