@@ -1,19 +1,22 @@
 ---
-description: Les clients qui utilisent Janrain Capture et Backplane peuvent utiliser Livefyre Auth pour l’authentification unique (SSO), ce qui permet aux utilisateurs d’interagir immédiatement avec vos applications Livefyre lorsqu’ils se connectent à votre site.
-seo-description: Les clients qui utilisent Janrain Capture et Backplane peuvent utiliser Livefyre Auth pour l’authentification unique (SSO), ce qui permet aux utilisateurs d’interagir immédiatement avec vos applications Livefyre lorsqu’ils se connectent à votre site.
-seo-title: Capture Janrain/fond de panier
+description: Les clients qui utilisent la capture et le fond de panier de Janrain peuvent utiliser l’authentification Livefyre pour l’authentification unique (SSO), ce qui permet aux utilisateurs de contacter immédiatement vos applications Livefyre lorsqu’ils se connectent à votre site.
+seo-description: Les clients qui utilisent la capture et le fond de panier de Janrain peuvent utiliser l’authentification Livefyre pour l’authentification unique (SSO), ce qui permet aux utilisateurs de contacter immédiatement vos applications Livefyre lorsqu’ils se connectent à votre site.
+seo-title: Capture/fond de panier en janvier
 solution: Experience Manager
-title: Capture Janrain/fond de panier
+title: Capture/fond de panier en janvier
 uuid: 776e9626-db04-4c34-adfe-681a71b552c5
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '959'
+ht-degree: 1%
 
 ---
 
 
-# Capture Janrain/fond de panier{#janrain-capture-backplane}
+# Capture/fond de panier de janvier{#janrain-capture-backplane}
 
-Les clients qui utilisent Janrain Capture et Backplane peuvent utiliser Livefyre Auth pour l’authentification unique (SSO), ce qui permet aux utilisateurs d’interagir immédiatement avec vos applications Livefyre lorsqu’ils se connectent à votre site.
+Les clients qui utilisent la capture et le fond de panier de Janrain peuvent utiliser l’authentification Livefyre pour l’authentification unique (SSO), ce qui permet aux utilisateurs de contacter immédiatement vos applications Livefyre lorsqu’ils se connectent à votre site.
 
 Pour bénéficier de cette intégration Capture/Backplane intégrée, vous devez modifier la configuration de votre application Capture et de votre intégration Livefyre.js.
 
@@ -21,49 +24,49 @@ Pour bénéficier de cette intégration Capture/Backplane intégrée, vous devez
 >
 >Ignorez cette section si vous n’utilisez pas Janrain Capture.
 
-Pour plus d’informations, consultez la documentation [de](https://developers.janrain.com/how-to/integrations/self-serve-integrations-and-tools/backplane-1-2/)Janrain sur fond de panier.
+Pour plus d’informations, voir la [documentation de Janrain’s Backplane](https://developers.janrain.com/how-to/integrations/self-serve-integrations-and-tools/backplane-1-2/).
 
-1. [Configurer Capture.](#c_janrain_capture_backplane/section_r2f_kxt_bbb)
-1. (Facultatif) [Ajoutez les valeurs par défaut de Livefyre à votre application](#c_janrain_capture_backplane/section_z2s_txt_bbb)Capture.
+1. [Configuration de la capture.](#c_janrain_capture_backplane/section_r2f_kxt_bbb)
+1. (Facultatif) [Ajoutez par défaut Livefyre à votre application Capture](#c_janrain_capture_backplane/section_z2s_txt_bbb).
 1. [Créez l’objet AuthDelegate.](#c_janrain_capture_backplane/section_asv_vyt_bbb)
-1. [Synchroniser sur Livefyre avec Ping pour Pull.](#c_janrain_capture_backplane/section_ilv_bzt_bbb)
+1. [Synchronisation avec Livefyre avec Ping pour Pull.](#c_janrain_capture_backplane/section_ilv_bzt_bbb)
 
 ## Étape 1 : Configurer la capture {#section_r2f_kxt_bbb}
 
-Livefyre a besoin de certaines informations d’identification de votre application Janrain Capture.
+Livefyre a besoin de certaines informations d&#39;identification de votre application Janrain Capture.
 
 1. Configurez l’application Janrain Capture.
-1. Recueillez les informations suivantes pour Livefyre :
+1. Rassemblez les informations suivantes pour Livefyre :
 
-   * Accès à votre instance de capture Janrain.
-   * Accès à votre tableau de bord Interagir avec Janrain.
-   * Vos paramètres et informations d’identification Capture.
+   * Accédez à votre instance de capture Janrain.
+   * Accès à votre tableau de bord d&#39;engagement Janrain.
+   * Vos paramètres et informations d’identification Capturer.
    * Vos informations d’identification Interagir.
-   * Votre URL d'identité.
+   * Votre URL d&#39;identité.
 
 >[!NOTE]
 >
->Livefyre reçoit les données directement du CNAME; par conséquent, cette URL d’identité ne peut pas être un enregistrement CNAMEd (un CNAME d’URL de vanité) qui résout le CNAME réel de Janrain Capture.
+>Livefyre reçoit directement les données du CNAME ; par conséquent, cette URL d’identité ne peut pas être un enregistrement CNAMEd (un CNAME d’URL vanity) qui correspond au CNAME réel de Janrain Capture.
 
-## Étape 2 : (Facultatif) Ajoutez les valeurs par défaut de Livefyre à votre application Capture. {#section_z2s_txt_bbb}
+## Étape 2 : (Facultatif) Ajoutez les valeurs par défaut de Livefyre sur votre application de capture {#section_z2s_txt_bbb}
 
-Ajoutez les paramètres par défaut de Livefyre aux utilisateurs stockés dans votre application Capture pour vous permettre d’envoyer des notifications par courrier électronique aux utilisateurs ou de suivre automatiquement les conversations sur lesquelles les utilisateurs commentent.
+Ajouter Livefyre permet par défaut aux utilisateurs stockés dans votre application Capture d’envoyer des notifications électroniques aux utilisateurs ou de les autoriser à suivre automatiquement les conversations sur lesquelles les utilisateurs commentent.
 
-1. Terminer [l’étape 1 : Configurez Capture](#c_janrain_capture_backplane/section_r2f_kxt_bbb).
-1. Ajoutez les champs par défaut suivants de Livefyre. Tous les champs sont facultatifs.
+1. Terminer [Étape 1 : Configurer Capture](#c_janrain_capture_backplane/section_r2f_kxt_bbb).
+1. Ajoutez les champs par défaut suivants pour Livefyre. Tous les champs sont facultatifs.
 
 | Paramètre | Type | Description |
 |---|---|---|
-| **[!UICONTROL livefyre_comments]** | Chaîne | Avertissez l’utilisateur lorsqu’un utilisateur commente un article qu’il suit. Peut être immédiatement, souvent ou jamais. |
-| **[!UICONTROL livefyre_likes]** | Chaîne | Avertissez l’utilisateur lorsqu’un utilisateur aime une de ses publications. Peut être immédiatement, souvent ou jamais. |
+| **[!UICONTROL livefyre_comments]** | Chaîne | Avertissez l’utilisateur lorsqu’un utilisateur commente un article qu’il suit. Peut être immédiatement, souvent, ou jamais. |
+| **[!UICONTROL livefyre_likes]** | Chaîne | Avertissez l’utilisateur lorsqu’un utilisateur aime une de ses publications. Peut être immédiatement, souvent, ou jamais. |
 | **[!UICONTROL livefyre_replies]** | Chaîne | Avertissez l’utilisateur lorsqu’un utilisateur répond à l’une de ses publications. Peut être immédiatement, souvent ou jamais. |
-| **[!UICONTROL livefyre_moderator_comments]** | Chaîne | Avertissez le modérateur lorsqu’un utilisateur commente une conversation qu’il modére. Peut être immédiatement, souvent ou jamais. |
-| **[!UICONTROL livefyre_moderator_flags]** | Chaîne | Avertissez le modérateur lorsqu’un utilisateur marque une publication sur une conversation qu’il modére.Cela peut se produire immédiatement, souvent ou jamais. |
+| **[!UICONTROL livefyre_moderator_comments]** | Chaîne | Avertissez le modérateur lorsqu’une personne commente une conversation qu’elle modérait. Cela peut être immédiat, fréquent ou jamais. |
+| **[!UICONTROL livefyre_moderator_flags]** | Chaîne | Avertissez le modérateur lorsqu’un utilisateur marque une publication sur une conversation qu’il modérait.Cela peut être immédiat, fréquent ou jamais. |
 | **[!UICONTROL livefyre_autofollow_conversations]** | Booléen | Demandez à l’utilisateur de suivre automatiquement une conversation lorsqu’il quitte une publication. Peut être vrai ou faux. |
 
-## Étape 3 : Création de l’objet AuthDelegate pour l’intégration de Janrain {#section_asv_vyt_bbb}
+## Étape 3 : Création de l&#39;objet AuthDelegate pour l&#39;intégration de Janrain {#section_asv_vyt_bbb}
 
-Livefyre.require fournit un plugin qui permet à l'auth d'écouter le bus du Backplane de Janrain.
+Livefyre.require fournit un plugin qui permet à l&#39;auteur d&#39;écouter le bus du Backplane de Janrain.
 
 ### Connexion {#login}
 
@@ -82,13 +85,13 @@ Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePl
 
 >[!NOTE]
 >
->L’objet window.Backplane doit être défini sur votre page avant d’appeler auth.plugin avec le module externe Livefyre Backplane. Pour vous assurer que l’objet Backplane est disponible, appelez le code d’instanciation Livefyre à partir d’un rappel onReady. Consultez votre contact Janrain pour savoir quand d'autres applications peuvent utiliser l'objet Backplane.
+>L’objet window.Backplane doit être défini sur votre page avant d’appeler auth.plugin avec le module externe Livefyre Backplane. Pour vous assurer que l’objet Backplane est disponible, appelez le code d’instanciation Livefyre à partir d’un rappel onReady. Consultez votre contact Janrain pour déterminer si d&#39;autres applications peuvent utiliser l&#39;objet Backplane.
 
 
 
 >[!NOTE]
 >
->Votre délégué d’authentification varie selon votre instance Janrain.
+>Votre délégué d’authentification varie en fonction de votre instance Janrain.
 
 Vous trouverez ci-dessous quelques exemples de la manière dont un délégué d’authentification peut rechercher une intégration de capture Janrain.
 
@@ -149,7 +152,7 @@ authDelegate.logout = function(finishLogout) {
 
 ### Modifier le profil {#editprofile}
 
-Ce lien peut renvoyer à n’importe quelle partie du site que vous souhaitez que les utilisateurs consultent pour consulter leur propre page de profil. Cet exemple n’imprime que l’objet d’auteur transmis.
+Ce lien peut renvoyer à n&#39;importe quelle partie du site que vous souhaitez que les utilisateurs visitent pour accéder à la vue de leur propre page de profil. Cet exemple montre comment simplement imprimer l&#39;objet auteur transmis.
 
 ```
 /** 
@@ -161,9 +164,9 @@ authDelegate.editProfile = function(user) {
 }; 
 ```
 
-### Afficher le profil {#viewprofile}
+### Profil de vue {#viewprofile}
 
-Tout comme Modifier le profil, ce lien doit renvoyer à la page d’un utilisateur qui diffère de celle de l’utilisateur actuellement connecté. Cela peut être mis en oeuvre comme vous le souhaitez. Cet exemple montre comment simplement consigner le paramètre author dans la console.
+Tout comme Modifier le Profil, ce lien doit renvoyer à la page d’un utilisateur qui diffère de celle de l’utilisateur actuellement connecté. Cela peut être mis en oeuvre comme bon vous semble. Cet exemple montre comment simplement consigner le paramètre author dans la console.
 
 ```
 /** 
@@ -175,29 +178,29 @@ authDelegate.viewProfile = function(user) {
 };
 ```
 
-## Étape 4 : Synchronisation avec Livefyre avec Ping pour l’intégration de Pull pour Janrain {#section_ilv_bzt_bbb}
+## Étape 4 : Synchroniser avec Livefyre avec Ping pour Pull pour l’intégration Janrain {#section_ilv_bzt_bbb}
 
-La synchronisation des profils distants Livefyre avec votre système de gestion des utilisateurs Capture implique une série d’étapes appelées Ping for Pull. Ce processus nécessite que vous obteniez un jeton d’accès valide auprès de Janrain, puis que vous le transmettiez à un point de fin spécifié à l’étape 3 ci-dessous.
+Pour synchroniser les Profils distants de Livefyre avec votre système de gestion des utilisateurs Capture, vous devez suivre une série d&#39;étapes appelées Ping for Pull. Ce processus nécessite que vous obteniez un jeton d&#39;accès valide auprès de Janrain, puis que vous transmettiez ce jeton à un point de terminaison spécifié à l’étape 3 ci-dessous.
 
-1. Obtenez un code d'accès de Janrain.
+1. Obtenez un code d&#39;accès de Janrain.
 
-   Pour obtenir le code d’accès, fournissez les informations d’identification nécessaires, spécifiez user_type comme "user" et uuid comme uuuid de l’utilisateur actuel à mettre à jour. Pour plus d’informations, voir [https://developers.janrain.com/rest-api/methods/authentication/access-codes-and-tokens/getauthorizationcode/](https://developers.janrain.com/rest-api/methods/authentication/access-codes-and-tokens/getauthorizationcode/).
+   Pour obtenir le code d’accès, fournissez les informations d’identification nécessaires, spécifiez user_type comme &quot;user&quot; et uuid comme uuid de l’utilisateur actuel à mettre à jour. Pour plus d’informations, voir [https://developers.janrain.com/rest-api/methods/authentication/access-codes-and-tokens/getauthorizationcode/](https://developers.janrain.com/rest-api/methods/authentication/access-codes-and-tokens/getauthorizationcode/).
 
-1. Échangez le code d’accès pour un jeton d’accès. Fournissez les informations d’identification nécessaires, le code d’accès reçu de l’étape 1 et spécifiez grant_type comme "authorized_code".
+1. Échangez le code d&#39;accès d&#39;un jeton d&#39;accès. Fournissez les informations d’identification nécessaires, le code d’accès reçu de l’étape 1 et spécifiez grant_type comme &quot;authorized_code&quot;.
 
    Pour plus d’informations, voir [https://developers.janrain.com/rest-api/methods/authentication/oauth/token/](https://developers.janrain.com/rest-api/methods/authentication/oauth/token/).
 
-1. Accédez au point de terminaison Livefyre "Ping to Pull Capture".
+1. Accédez au point de terminaison Livefyre &quot;Ping to Pull Capture&quot;.
 
-   URL du point de fin : [!DNL https://{networkName}/api/v1.1/private/capture/profile_updated/?jrtoken={token}] où ***{networkName}*** est le nom du réseau fourni par Livefyre et le jeton est le jeton reçu de Janrain à l’étape 2.
+   URL du point de terminaison : [!DNL https://{networkName}/api/v1.1/private/capture/profile_updated/?jrtoken={token}] où ***{networkName}*** est le nom réseau fourni par Livefyre et le jeton est le jeton reçu de Janrain à l’étape 2.
 
-   Une fois que vous avez atteint ce point de fin, vous recevez une réponse 202 et Livefyre commence un processus asynchrone.
+   Une fois que vous avez atteint ce point de terminaison, vous recevez une réponse 202 et Livefyre commence un processus asynchrone.
 
-## How It All Works {#concept_mty_f31_2cb}
+## Fonctionnement de tout {#concept_mty_f31_2cb}
 
 Pour bénéficier de cette intégration Capture/Backplane intégrée, vous devez apporter quelques modifications à la configuration de votre application Capture et de votre intégration Livefyre.js.
 
-Janrain envoie des messages de connexion/déconnexion réussis via le bus Backplane, sur lequel l'application Livefyre, lorsqu'elle est correctement configurée, écoute. Ces messages contiennent toutes les informations nécessaires pour montrer aux utilisateurs de l’application qu’ils sont connectés ou déconnectés. Les développeurs peuvent afficher les messages du bus du fond de panier en consultant l’onglet Réseau de la console de développement de votre navigateur.
+Janrain envoie des messages de connexion/déconnexion réussis via le bus Backplane, sur lequel l&#39;application Livefyre, lorsqu&#39;elle est correctement configurée, écoute. Ces messages contiennent toutes les informations nécessaires pour montrer aux utilisateurs de l’application qu’ils sont connectés ou déconnectés. Les développeurs peuvent vue les messages du bus du fond de panier en consultant l’onglet Réseau de la console de développement de votre navigateur.
 
 ## Exemple de code de connexion {#section_ftt_tvp_mz}
 
@@ -284,4 +287,4 @@ Réponse:
 Backplane.finishInit("{CHANNEL}");
 ```
 
-Si ces messages n’apparaissent pas dans vos demandes réseau, Livefyre ne sera pas au courant des tentatives de connexion/déconnexion et, par conséquent, Livefyre ne pourra pas intégrer l’utilisateur dans l’application.
+Si ces messages ne s’affichent pas dans vos requêtes réseau, Livefyre ne sera pas au courant des tentatives de connexion/déconnexion et, par conséquent, Livefyre ne pourra pas intégrer l’utilisateur dans l’application.
