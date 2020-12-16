@@ -1,18 +1,21 @@
 ---
-description: Apprenez-en plus sur le Règlement général sur la protection des données (RDPC) et comment terminer les demandes d'accès et de suppression permises en vertu du RDPC, pour les données collectées dans le cadre de votre utilisation de Livefyre, ainsi que d'autres contrôles de confidentialité connexes.
-seo-description: Apprenez-en plus sur le Règlement général sur la protection des données (RDPC) et comment terminer les demandes d'accès et de suppression permises en vertu du RDPC, pour les données collectées dans le cadre de votre utilisation de Livefyre, ainsi que d'autres contrôles de confidentialité connexes.
-seo-title: Requêtes de confidentialité (prêtes pour le RDPC)
+description: Découvrez le Règlement général sur la protection des données (RGPD) et comment compléter les demandes d'accès et de suppression permises en vertu du RGMD, pour les données collectées dans votre utilisation de Livefyre, ainsi que d'autres contrôles de confidentialité connexes.
+seo-description: Découvrez le Règlement général sur la protection des données (RGPD) et comment compléter les demandes d'accès et de suppression permises en vertu du RGMD, pour les données collectées dans votre utilisation de Livefyre, ainsi que d'autres contrôles de confidentialité connexes.
+seo-title: Demandes de confidentialité (prêtes pour le RMPD)
 solution: Experience Manager
-title: Requêtes de confidentialité (prêtes pour le RDPC)
+title: Demandes de confidentialité (prêtes pour le RMPD)
 uuid: 8c8b2001-f94d-4afc-8acd-ff4c096dc2f9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '188'
+ht-degree: 0%
 
 ---
 
 
-# Requêtes de confidentialité (prêtes pour le RDPC){#privacy-requests-gdpr-ready}
+# Demandes de confidentialité (prêtes pour le RGPD){#privacy-requests-gdpr-ready}
 
-Apprenez-en plus sur le Règlement général sur la protection des données (RDPC) et comment terminer les demandes d'accès et de suppression permises en vertu du RDPC, pour les données collectées dans le cadre de votre utilisation de Livefyre, ainsi que d'autres contrôles de confidentialité connexes.
+Découvrez le Règlement général sur la protection des données (RGPD) et comment compléter les demandes d&#39;accès et de suppression permises en vertu du RGMD, pour les données collectées dans votre utilisation de Livefyre, ainsi que d&#39;autres contrôles de confidentialité connexes.
 
-The [General Data Protection Regulation (GDPR)](https://adobe.io/apis/cloudplatform/gdpr.html) is a regulation intended to strengthen and unify data protection for individuals within the European Union (EU). Outre d’autres contrôles de confidentialité pour vous aider à remplir les demandes d’accès et de suppression que vous pouvez recevoir de vos utilisateurs finaux (personnes concernées), Adobe a préparé une solution prête pour le RDDC pour introduire des fonctionnalités pour Livefyre qui vous permettent de demander ou de supprimer les données collectées dans votre utilisation de Livefyre.
+Le [Règlement général sur la protection des données (RGPD)](https://adobe.io/apis/cloudplatform/gdpr.html) est un règlement visant à renforcer et à unifier la protection des données pour les individus au sein de l&#39;Union européenne (UE). En plus d&#39;autres contrôles de confidentialité pour vous aider à compléter les demandes d&#39;accès et de suppression que vous pouvez recevoir de vos utilisateurs finaux (personnes concernées par les données), l&#39;Adobe a préparé une solution prête pour le RMMD pour une fonctionnalité introduite pour Livefyre qui vous permet de demander ou de supprimer les données collectées dans votre utilisation de Livefyre.
