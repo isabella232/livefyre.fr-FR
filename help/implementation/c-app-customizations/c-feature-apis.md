@@ -1,22 +1,25 @@
 ---
-description: Automatisation du processus à l’aide des API de fonctionnalités
-seo-description: Automatisation du processus à l’aide des API de fonctionnalités
+description: Automatisation du processus à l’aide des API de fonctions
+seo-description: Automatisation du processus à l’aide des API de fonctions
 seo-title: API de fonctionnalités
 title: API de fonctionnalités
 uuid: eac3a156-0b60-4ffa-8b6f-e451eb03da77
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 1%
 
 ---
 
 
 # API de fonctionnalités{#feature-apis}
 
-Automatisation du processus à l’aide des API de fonctionnalités
+Automatisation du processus à l’aide des API de fonctions
 
-Utilisez les API de fonctionnalités pour automatiser le processus selon lequel le contenu est proposé. Par exemple, lors de la création d’un blog en direct ou d’une application de commentaires, mettez en vedette tout le contenu publié par un modérateur sélectionné afin de diriger la conversation et d’assurer la cohérence au sein du flux.
+Utilisez les API de fonctionnalités pour automatiser le processus selon lequel le contenu est proposé. Par exemple, lors de la création d’un blog en direct ou d’une application de commentaires, incluez tout le contenu publié par un modérateur sélectionné pour diriger la conversation et assurer la cohérence au sein du flux.
 
-Livefyre propose des API Fonctionnalités et Unfeature.
+Offres Livefyre à la fois des API Fonctionnalités et Unfeature.
 
 ## Fonctionnalité {#section_jpw_nqw_xz}
 
@@ -34,7 +37,7 @@ POST: https://{networkName}.quill.fyre.co/api/v3.0/collection/<collectionId>/fea
 {value: <number>} 
 ```
 
-La valeur sera utilisée pour trier le contenu incitatif, du plus grand au plus petit (10 apparaîtra avant 1 dans la liste de contenu incitatif). Par défaut, cette valeur est **maintenant** dans l’époque. Les commentaires présentés sont donc généralement triés du plus récent au plus ancien.
+La valeur sera utilisée pour trier le contenu incitatif, de la plus grande à la plus petite (10 apparaîtra avant 1 dans la liste de contenu incitatif). Par défaut, cette valeur est **now** dans l’époque, de sorte que les commentaires présentés sont généralement triés du plus récent au plus ancien.
 
 **Exemple de réponse**
 
@@ -44,9 +47,9 @@ La valeur sera utilisée pour trier le contenu incitatif, du plus grand au plus 
 
 >[!NOTE]
 >
->Le champ de données n’est pas encore utilisé.
+>Le champ de données n&#39;est pas encore utilisé.
 
-## Annuler {#section_knh_mqw_xz}
+## Désactiver {#section_knh_mqw_xz}
 
 **Ressource**
 
@@ -54,7 +57,7 @@ La valeur sera utilisée pour trier le contenu incitatif, du plus grand au plus 
 POST: https://{networkName}.quill.fyre.co/api/v3.0/collection/<collectionId>/unfeature/<commentId>/?lftoken=<base64userToken>
 ```
 
-Entrez le jeton utilisateur pour le modérateur sélectionné.
+Saisissez le jeton utilisateur pour le modérateur sélectionné.
 
 **Exemple de réponse**
 
@@ -64,5 +67,5 @@ Entrez le jeton utilisateur pour le modérateur sélectionné.
 
 >[!NOTE]
 >
->Le champ de données n’est pas encore utilisé.
+>Le champ de données n&#39;est pas encore utilisé.
 
