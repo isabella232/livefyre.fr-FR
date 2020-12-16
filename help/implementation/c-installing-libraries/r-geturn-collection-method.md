@@ -1,12 +1,15 @@
 ---
-description: This method returns the URN for this Collection. Vous devez exécuter createOrUpdate() avant d’exécuter cette méthode.
-seo-description: This method returns the URN for this Collection. Vous devez exécuter createOrUpdate() avant d’exécuter cette méthode.
+description: Cette méthode renvoie l’URL pour cette collection. Vous devez exécuter createOrUpdate() avant d’exécuter cette méthode.
+seo-description: Cette méthode renvoie l’URL pour cette collection. Vous devez exécuter createOrUpdate() avant d’exécuter cette méthode.
 seo-title: getUrn, méthode de collecte
 solution: Experience Manager
 title: getUrn, méthode de collecte
 uuid: 2f4d7796-2ae5-4b74-a958-40825c6bff16
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 0%
 
 ---
 
