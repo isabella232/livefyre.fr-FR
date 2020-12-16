@@ -1,39 +1,42 @@
 ---
-description: Liste des navigateurs et des périphériques pris en charge par la suite Livefyre App.
-seo-description: Liste des navigateurs et des périphériques pris en charge par la suite Livefyre App.
+description: Liste de navigateurs et de périphériques pris en charge par la suite d’applications Livefyre.
+seo-description: Liste de navigateurs et de périphériques pris en charge par la suite d’applications Livefyre.
 seo-title: Prise en charge du périphérique et du navigateur
 title: Prise en charge du périphérique et du navigateur
 uuid: 338f78b2-051d-4831-a0b9-e987f92660ce
 translation-type: tm+mt
 source-git-commit: 7d7af443eeffdbb09c2fa58006813c328785ad56
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 8%
 
 ---
 
 
 # Prise en charge du périphérique et du navigateur{#device-and-browser-support}
 
-Liste des navigateurs et des périphériques pris en charge par la suite Livefyre App.
+Liste de navigateurs et de périphériques pris en charge par la suite d’applications Livefyre.
 
 Livefyre prend en charge les périphériques, systèmes d’exploitation et navigateurs suivants.
 
-|  | Applications principales | Storify 2 | Studio | ModQ |
+|  | Applications de base | Storify 2 | Studio | ModQ |
 |---|---|---|---|---|
 | **Navigateurs de bureau** |  |  |  |  |
-| Chrome | ✓ | ✓ | ✓ | ✓ |
-| Edge | ✓ | ✓ | ✓ | ✓ |
-| IE 11 | Limité | Limité | Limité | Limité |
-| Firefox | ✓ | ✓ | ✓ | ✓ |
-| Safari | ✓ | ✓ | ✓ | ✓ |
+| Chrome | obj | obj | obj | obj |
+| Edge | obj | obj | obj | obj |
+| IE 11 | Limited | Limited | Limited | Limited |
+| Firefox | obj | obj | obj | obj |
+| Safari | obj | obj | obj | obj |
 |  |  |  |  |  |
 | **Périphériques** |  |  |  |  |
-| Android Browser 2.3+ | Limité | Limité | S.O. | Limité |
-| Google Chrome sur Android 4.1+ | Limité | Limité | S.O. | Limité |
-| Versions précédentes d’iOS | Limité | Limité | S.O. | Limité |
-| Version actuelle d’iOS | Limité | Limité | S.O. | Limité |
+| Android Browser 2.3+ | Limited | Limited | S.O. | Limited |
+| Google Chrome sur Android 4.1+ | Limited | Limited | S.O. | Limited |
+| Versions précédentes d’iOS | Limited | Limited | S.O. | Limited |
+| Version actuelle d’iOS | Limited | Limited | S.O. | Limited |
 
 >[!NOTE]
 >
->Bien que Livefyre s'efforce de conserver les fonctionnalités existantes, il est possible que les nouveaux produits et fonctionnalités ne soient pas entièrement pris en charge sur les navigateurs répertoriés ici avec une prise en charge limitée.
+>Bien que Livefyre s&#39;efforce de conserver les fonctionnalités existantes, il est possible que les nouveaux produits et fonctionnalités ne soient pas entièrement pris en charge sur les navigateurs répertoriés ici avec une prise en charge limitée.
 
 >[!NOTE]
 >
