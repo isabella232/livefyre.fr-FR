@@ -1,18 +1,21 @@
 ---
-description: Livefyre.require fournit un plugin qui permet à l'auth d'écouter le bus du Backplane de Janrain.
-seo-description: Livefyre.require fournit un plugin qui permet à l'auth d'écouter le bus du Backplane de Janrain.
+description: Livefyre.require fournit un plugin qui permet à l'auteur d'écouter le bus du Backplane de Janrain.
+seo-description: Livefyre.require fournit un plugin qui permet à l'auteur d'écouter le bus du Backplane de Janrain.
 seo-title: Connexion de Janrain à Livefyre à l’aide d’AuthDelegate
 title: Connexion de Janrain à Livefyre à l’aide d’AuthDelegate
 uuid: 9d56e3f4-960a-4108-aab5-2795b0e71c88
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '276'
+ht-degree: 1%
 
 ---
 
 
 # Connexion de Janrain à Livefyre à l’aide d’AuthDelegate{#connecting-janrain-to-livefyre-using-authdelegate}
 
-Livefyre.require fournit un plugin qui permet à l'auth d'écouter le bus du Backplane de Janrain.
+Livefyre.require fournit un plugin qui permet à l&#39;auteur d&#39;écouter le bus du Backplane de Janrain.
 
 Lorsqu’un message d’identité/de connexion est diffusé sur le canal du fond de panier, la fonction auth.authenticate() est appelée pour vous avec le jeton d’authentification Livefyre de l’utilisateur. Vous devez tout de même implémenter un AuthDelegate.
 
@@ -29,18 +32,18 @@ Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePl
 
 >[!NOTE]
 >
->L’objet window.Backplane doit être défini sur votre page avant d’appeler auth.plugin avec le module externe Livefyre Backplane. Pour vous assurer que l’objet Backplane est disponible, appelez le code d’instanciation Livefyre à partir d’un rappel onReady. Consultez votre contact Janrain pour savoir quand d'autres applications peuvent utiliser l'objet Backplane.
+>L’objet window.Backplane doit être défini sur votre page avant d’appeler auth.plugin avec le module externe Livefyre Backplane. Pour vous assurer que l’objet Backplane est disponible, appelez le code d’instanciation Livefyre à partir d’un rappel onReady. Consultez votre contact Janrain pour déterminer si d&#39;autres applications peuvent utiliser l&#39;objet Backplane.
 
 Vous trouverez ci-dessous quelques exemples de la manière dont un délégué d’authentification peut rechercher une intégration de capture Janrain.
 
 >[!NOTE]
 >
->Votre délégué d’authentification varie selon votre instance Janrain.
+>Votre délégué d’authentification varie en fonction de votre instance Janrain.
 
 <!--Hannah: Mystery stray bullet found here. Please check against source. -Bob -->
 
-*  Rappel transmis à la méthode de connexion du délégué d’authentification
-*  Référence à votre variable de capture Janrain.
+* Rappel transmis à la méthode de connexion du délégué d’authentification
+* Référence à votre variable de capture Janrain.
 * : Référence à l’objet Backplane.
 
 ```
@@ -76,9 +79,9 @@ authDelegate.login = function(finishLogin) {
 
 Déconnexion
 
-* **** finallyLogout : Rappel transmis à la méthode de connexion du délégué d’authentification.
+* **completeLogout :** rappel transmis à la méthode de connexion du délégué d’authentification.
 
-* **** window.Backplane : Référence à l’objet Backplane.
+* **window.Backplane :** référence à l’objet Backplane.
 
 ```
 /** 
@@ -96,7 +99,7 @@ authDelegate.logout = function(finishLogout) {
 
 Modifier le profil
 
-Ce lien peut renvoyer à n’importe quelle partie du site que vous souhaitez que les utilisateurs consultent pour consulter leur propre page de profil. Cet exemple n’imprime que l’objet d’auteur transmis.
+Ce lien peut renvoyer à n&#39;importe quelle partie du site que vous souhaitez que les utilisateurs visitent pour accéder à la vue de leur propre page de profil. Cet exemple montre comment simplement imprimer l&#39;objet auteur transmis.
 
 ```
 /** 
@@ -108,9 +111,9 @@ authDelegate.editProfile = function(user) {
 }; 
 ```
 
-Afficher le profil
+Profil vue
 
-Tout comme Modifier le profil, ce lien doit renvoyer à la page d’un utilisateur qui diffère de celle de l’utilisateur actuellement connecté. Cela peut être mis en oeuvre comme vous le souhaitez. Cet exemple montre comment simplement consigner le paramètre author dans la console.
+Tout comme Modifier le Profil, ce lien doit renvoyer à la page d’un utilisateur qui diffère de celle de l’utilisateur actuellement connecté. Cela peut être mis en oeuvre comme bon vous semble. Cet exemple montre comment simplement consigner le paramètre author dans la console.
 
 ```
 /** 
