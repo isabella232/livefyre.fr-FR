@@ -1,19 +1,22 @@
 ---
-description: Ajustez les paramètres de Storify 2 articles, tels que les balises, la modération et le contenu autorisé.
-seo-description: Ajustez les paramètres de Storify 2 articles, tels que les balises, la modération et le contenu autorisé.
+description: Ajustez les paramètres de la page Storify 2, tels que les balises, la modération et le contenu autorisé.
+seo-description: Ajustez les paramètres de la page Storify 2, tels que les balises, la modération et le contenu autorisé.
 seo-title: Paramètres Storify
 solution: Experience Manager
 title: Paramètres Storify
 uuid: 030936fb-7c8b-487e-b468-7128b641c8ed
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 0%
 
 ---
 
 
 # Paramètres Storify{#storify-settings}
 
-Ajustez les paramètres de Storify 2 articles, tels que les balises, la modération et le contenu autorisé.
+Ajustez les paramètres de la page Storify 2, tels que les balises, la modération et le contenu autorisé.
 
 >[!NOTE]
 >
@@ -29,23 +32,23 @@ Ajustez les paramètres de Storify 2 articles, tels que les balises, la modérat
 
 * **[!UICONTROL Article URL]**
 
-   URL à utiliser pour SocialSync et les liens permalins.
+   URL à utiliser pour SocialSync et les liens de perfusion.
 
 * **[!UICONTROL Premoderate Content]**
 
-   Exigez l’approbation du modérateur avant que les Sidenotes ne soient rendus publics.
+   Exiger l’approbation du modérateur avant que les Sidenotes ne soient rendus publics.
 
 * **[!UICONTROL Display Media]**
 
-   Affichez des vignettes cliquables pour les photos et la vidéo.
+   Affichez les vignettes cliquables pour les photos et la vidéo.
 
 * **[!UICONTROL Premoderate Media]**
 
-   Exigez l’approbation du modérateur avant que le contenu multimédia de Sidenotes ne soit rendu public.
+   Exiger l’approbation du modérateur avant que le contenu multimédia des Sidenotes ne soit rendu public.
 
 * **[!UICONTROL Queue New Content]**
 
-   Désactivez la diffusion en direct et mettez en file d’attente le nouveau contenu et les réponses.
+   Désactivez la diffusion en continu en direct et mettez en file d’attente le nouveau contenu et les réponses.
 
 * **[!UICONTROL Throttle Content]**
 
@@ -53,5 +56,5 @@ Ajustez les paramètres de Storify 2 articles, tels que les balises, la modérat
 
 * **[!UICONTROL Allow Bulk Content]**
 
-   Autoriser plusieurs publications qui incluent du texte correspondant.
+   Autoriser plusieurs publications incluant le texte correspondant.
 
