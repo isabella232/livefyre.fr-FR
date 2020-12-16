@@ -7,6 +7,9 @@ title: Déplacer le logo Livefyre
 uuid: 807304ae-6070-4505-87db-169a925f714c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Repositionnez le logo Livefyre sur votre page.
 
-Si votre accord avec Livefyre le permet, vous pouvez déplacer le logo Livefyre du haut du flux de contenu vers le bas.
+Si votre accord avec Livefyre le permet, vous pouvez déplacer le logo de Livefyre du haut du flux de contenu vers le bas.
 
 Par exemple, ajoutez le code HTML suivant à votre page immédiatement après l’élément qui contient l’application Livefyre :
 
