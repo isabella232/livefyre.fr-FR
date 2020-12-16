@@ -7,6 +7,9 @@ title: Personnalisations des sondages
 uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +22,11 @@ Modifiez les options de taille, de largeur et d’interaction de l’application
 
 * **[!UICONTROL Type]**
 
-   Sélectionnez le type de sondage que vous souhaitez créer. **[!UICONTROL Single image]** vous permet d’ajouter une image à la question du sondage. **[!UICONTROL Multiple image]** vous permet d’ajouter une image pour les réponses du sondage. **[!UICONTROL Text only]** crée un sondage sans images.
+   Sélectionnez le type de sondage que vous souhaitez créer. **[!UICONTROL Single image]** vous permet d’ajouter une image pour la question du sondage. **[!UICONTROL Multiple image]** vous permet d’ajouter une image pour les réponses au sondage. **[!UICONTROL Text only]** crée un sondage sans images.
 
 * **[!UICONTROL Question]**  *requis*
 
-   Entrez la question qui s’affichera pour votre sondage.
+   Entrez la question qui s&#39;affichera pour votre sondage.
 
 * **[!UICONTROL Choices]** (2 minimum)
 
@@ -47,15 +50,15 @@ Modifiez les options de taille, de largeur et d’interaction de l’application
 
 * **[!UICONTROL Show poll results]**
 
-   Si cette option est activée, les utilisateurs pourront voir les résultats du sondage. S’ils sont désactivés, les électeurs ne verront qu’un écran de remerciement après avoir rempli le sondage.
+   Si cette option est activée, les utilisateurs pourront afficher les résultats du sondage. Si elle est désactivée, les électeurs ne verront qu&#39;un écran de remerciement après avoir rempli le sondage.
 
 * **[!UICONTROL Disclaimer]** *facultatif*
 
    Une clause exonératoire de responsabilité facultative à afficher avec votre sondage.
 
-Vous pouvez personnaliser les sondages à l’aide des éléments suivants :
+Vous pouvez personnaliser des sondages à l’aide des éléments suivants :
 
-* **[!UICONTROL Style]** et **[!UICONTROL Config]** les options pour toutes les applications dans le **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options standard **[!UICONTROL Style]** et **[!UICONTROL Config]** pour toutes les applications dans le **[!UICONTROL App Designer]**.
+* **[!UICONTROL Style]** et  **[!UICONTROL Config]** options pour toutes les applications dans le  **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options **[!UICONTROL Style]** et **[!UICONTROL Config]** standard pour toutes les applications dans le **[!UICONTROL App Designer]**.
 
 * Outils d’intégration. Voir Sondages pour en savoir plus sur la personnalisation des applications à l’aide des outils d’intégration.
 
