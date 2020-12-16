@@ -1,37 +1,40 @@
 ---
-description: Le panneau Partage sur les réseaux sociaux vous permet d’ajouter les informations d’identification de votre application réseau de réseaux sociaux.
-seo-description: Le panneau Partage sur les réseaux sociaux vous permet d’ajouter les informations d’identification de votre application réseau de réseaux sociaux.
+description: Le panneau Partage sur les réseaux sociaux vous permet d’ajouter vos informations d’identification d’application réseau de réseaux sociaux.
+seo-description: Le panneau Partage sur les réseaux sociaux vous permet d’ajouter vos informations d’identification d’application réseau de réseaux sociaux.
 seo-title: Configuration du partage sur les réseaux sociaux
 title: Configuration du partage sur les réseaux sociaux
 uuid: e1940e30-9fbb-41e8-b5bb-497a5b06643f
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '355'
+ht-degree: 2%
 
 ---
 
 
-# Configuration du partage sur les réseaux sociaux{#setting-up-social-sharing}
+# Configuration du partage sur les réseaux sociaux {#setting-up-social-sharing}
 
-Le panneau Partage sur les réseaux sociaux vous permet d’ajouter les informations d’identification de votre application réseau de réseaux sociaux.
+Le panneau Partage sur les réseaux sociaux vous permet d’ajouter vos informations d’identification d’application réseau de réseaux sociaux.
 
-Livefyre utilise ces informations pour se connecter aux réseaux sociaux répertoriés pour le compte de votre application sociale et pour publier du contenu partagé pour vos utilisateurs en leur nom. Entrez ces valeurs pour activer l’intégration sociale. Ils peuvent être modifiés à tout moment.
+Livefyre utilise ces informations pour se connecter aux réseaux sociaux répertoriés pour le compte de votre application sociale et pour publier du contenu partagé pour vos utilisateurs en leur nom. Saisissez ces valeurs pour activer l’intégration sociale. Ils peuvent être modifiés à tout moment.
 
-Les paramètres disponibles sur cette page seront mis à jour pour refléter votre système de partage sur les réseaux sociaux, tel que défini lors du processus d’intégration de Livefyre. Les personnes qui s’intègrent à l’aide de leurs propres systèmes d’identité utilisateur personnalisés doivent fournir des informations d’identification de réseau social pour Facebook, LinkedIn et Twitter, si elles souhaitent autoriser leurs utilisateurs finaux à partager sur ces plateformes. Les clients de Janrain Engage doivent uniquement fournir leurs informations d’identification Janrain, et non Facebook, Twitter ou LinkedIn.
+Les paramètres disponibles sur cette page seront mis à jour pour refléter votre système de partage sur les réseaux sociaux, tel que défini lors de votre processus d’intégration Livefyre. Les personnes qui s’intègrent à leurs propres systèmes d’identité utilisateur personnalisés doivent fournir des informations d’identification de réseau social pour Facebook, LinkedIn et Twitter, si elles souhaitent autoriser leurs utilisateurs finaux à partager sur ces plateformes. Janrain Engagez les clients à fournir uniquement leurs informations d’identification Janrain, et non Facebook, Twitter ou LinkedIn.
 
 >[!NOTE]
 >
->Une seule application par site de médias sociaux peut être activée pour votre réseau. Vous pouvez inclure ces applications sur plusieurs sites, mais votre réseau ne dispose que d’une intégration Facebook, Twitter, LinkedIn et Bly.
+>Une seule application par site de médias sociaux peut être activée pour votre réseau. Vous pouvez inclure ces applications sur plusieurs sites, mais votre réseau ne dispose que d’un seul Facebook, d’un seul Twitter, d’un seul LinkedIn et d’une seule intégration Bly.
 
-## Intervention de Janvier {#section_dzq_1p1_21b}
+## Janrain Engager {#section_dzq_1p1_21b}
 
 Pour activer l’intégration de Janrain Engage, saisissez les informations d’identification suivantes :
 
-* **[!UICONTROL Engage API Key:]** Clé API de votre compte Janrain Engage.
+* **[!UICONTROL Engage API Key:]** Clé d’API de votre compte Janrain Engage.
 * **[!UICONTROL Engage Domain:]** Votre Janrain a fourni le nom de domaine.
 
 ## Facebook {#section_tch_gp1_21b}
 
-Pour le partager sur Facebook, saisissez les informations d’identification suivantes pour l’application Facebook :
+Pour partager sur Facebook, saisissez les informations d’identification suivantes pour l’application Facebook :
 
 * **[!UICONTROL Client ID:]** ID client fourni avec votre application Facebook.
 * **[!UICONTROL Client Secret:]** Le secret client fourni avec votre application Facebook.
@@ -55,7 +58,7 @@ Pour partager sur LinkedIn, saisissez les informations d’identification suivan
 
 ## Bly {#section_ur2_np1_21b}
 
-Pour activer les liens binaires Bly, saisissez les informations suivantes pour votre intégration Bly :
+Pour activer les liens de perfusion Bly, saisissez les informations suivantes pour votre intégration Bly :
 
 * **[!UICONTROL Login:]** Votre nom d’utilisateur final fourni par Bly.
 * **[!UICONTROL API Key:]** Votre clé d’API fournie par Bly.
@@ -66,9 +69,9 @@ Applications qui utilisent cette fonctionnalité :
 * [Carrousel](/help/using/c-about-apps/c-carousel-app/c-carousel-app.md#c_carousel_app)
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
-* [Feature Card](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
+* [Carte des fonctionnalités](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
 * [Carte](/help/using/c-about-apps/c-map-app/c-map-app.md#c_map_app)
-* [Media Wall](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
+* [Mur multimédia](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
 * [Mosaïque](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Sondages](/help/using/c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
 * [Critiques](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
