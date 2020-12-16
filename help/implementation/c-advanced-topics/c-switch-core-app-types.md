@@ -7,6 +7,9 @@ title: Changer les types d’application principaux
 uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
@@ -15,9 +18,9 @@ source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 Découvrez comment passer d’un type d’application de conversation à un autre.
 
-Lifefyre vous permet de changer les collections d’un type d’application de base Livefyre en un autre (commentaires, blog en direct ou conversation) en modifiant simplement certains paramètres de vos `collectionMeta` données.
+Lifefyre vous permet de changer les collections d’un type d’application principale Livefyre en un autre (Commentaires, Live Blog ou Chat) en modifiant simplement certains paramètres de vos données `collectionMeta`.
 
-Pour mettre en oeuvre un type spécifique d’application, ajoutez un nouveau champ à votre `collectionMeta` objet. Les commentaires sont la valeur par défaut. Vous n’aurez donc pas besoin de les mettre à jour s’il s’agit de votre application. Pour passer à une autre application après la création d’une collection, transmettez une valeur de somme de contrôle lors de l’initialisation de l’application. Pour en savoir plus sur la création d’une valeur de somme de contrôle dans notre documentation sur les `collectionMeta` jetons.
+Pour mettre en oeuvre un type spécifique d&#39;application, ajoutez un nouveau champ à votre objet `collectionMeta`. Les commentaires sont la valeur par défaut. Il n’est donc pas nécessaire d’effectuer ces mises à jour s’il s’agit de l’application souhaitée. Pour passer à une autre application après la création d’une collection, transmettez une valeur de somme de contrôle pendant l’initialisation de l’application. Pour en savoir plus sur la création d’une valeur de somme de contrôle, consultez notre documentation sur les jetons `collectionMeta`.
 
 ## Live Blog {#section_kvj_3jj_11b}
 
