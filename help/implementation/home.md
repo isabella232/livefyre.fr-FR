@@ -12,11 +12,11 @@ ht-degree: 6%
 ---
 
 
-# Guide de mise en oeuvre Livefyre {#livefyre-help}
+# Guide de mise en oeuvre de Livefyre {#livefyre-help}
 
 Mettez en oeuvre Livefyre Studio et les applications Livefyre sur votre site Web à l’aide d’outils de développement pour personnaliser votre expérience.
 
-Pour plus d’informations sur l’utilisation des applications Livefyre Studio et Livefyre dans Livefyre Studio, consultez le Guide [*de l’utilisateur d’*](/help/using/home.md)Adobe Experience Manager Livefyre.
+Pour plus d&#39;informations sur l&#39;utilisation des applications Livefyre Studio et Livefyre dans Livefyre Studio, consultez le [*Guide de l&#39;utilisateur Adobe Experience Manager Livefyre*](/help/using/home.md).
 
 ## Rubriques populaires
 
