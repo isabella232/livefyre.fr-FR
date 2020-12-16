@@ -7,11 +7,14 @@ title: validateLivefyreToken, méthode réseau
 uuid: 2bac11de-d6c4-419f-9c7b-92cfb541d07e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 4%
 
 ---
 
 
-# validateLivefyreToken, méthode réseau{#validatelivefyretoken-network-method}
+# validateLivefyreToken Network, méthode{#validatelivefyretoken-network-method}
 
 Vérifie si un jeton Livefyre est toujours valide pour ce réseau. Renvoie une valeur de type Boolean.
 
