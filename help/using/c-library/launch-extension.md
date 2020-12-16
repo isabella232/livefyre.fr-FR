@@ -1,18 +1,21 @@
 ---
-description: Découvrez comment configurer Adobe Livefyre Extension for Adobe Launch.
-seo-description: Découvrez comment configurer Adobe Livefyre Extension for Adobe Launch.
-seo-title: Adobe Launch Livefyre Extension
-title: Adobe Launch Livefyre Extension
-uuid: 98108ddb-5710-4331-891b-7e1bb106059
+description: Apprenez à configurer l'extension Livefyre Adobe pour le lancement d'Adobe.
+seo-description: Apprenez à configurer l'extension Livefyre Adobe pour le lancement d'Adobe.
+seo-title: Lancement de l'Adobe Livefyre Extension
+title: Lancement de l'Adobe Livefyre Extension
+uuid: 98108ddb-5710-4331-891b-7e1bbb106059
 translation-type: tm+mt
 source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
+workflow-type: tm+mt
+source-wordcount: '142'
+ht-degree: 37%
 
 ---
 
-# Adobe Launch Livefyre Extension {#lf-launch-extension}
+# Lancement d&#39;Adobe Livefyre Extension {#lf-launch-extension}
 
-Découvrez comment configurer Adobe Livefyre Extension for Adobe Launch.
+Apprenez à configurer l&#39;extension Livefyre Adobe pour le lancement d&#39;Adobe.
 
-Conçu par Adobe, Launch est la nouvelle génération de fonctionnalités de gestion de SDK mobile et de balises de sites web. Le lancement offre aux clients une méthode simple pour déployer et gérer toutes les intégrations d’analyse, de marketing et de publicité nécessaires pour générer des expériences client pertinentes.
+Conçu par Adobe, Launch est la nouvelle génération de fonctionnalités de gestion de SDK mobile et de balises de sites web. Le lancement permet aux clients de déployer et de gérer facilement toutes les intégrations d’analyses, de marketing et de publicité nécessaires pour générer des expériences client pertinentes.
 
-Launch permet à tous les utilisateurs de créer et gérer leurs propres intégrations avec Launch, appelées extensions. Ces extensions sont disponibles pour les clients Launch web et mobiles sous la forme d’une expérience de boutique d’applications qui leur permet d’installer, configurer et déployer rapidement leurs intégrations. Pour savoir comment mettre en oeuvre et configurer Livefyre Extension, reportez-vous à la documentation [Adobe Launch pour Livefyre Extension](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension).
+Launch permet à tous les utilisateurs de créer et gérer leurs propres intégrations avec Launch, appelées extensions. Ces extensions sont disponibles pour les clients Launch web et mobiles sous la forme d’une expérience de boutique d’applications qui leur permet d’installer, configurer et déployer rapidement leurs intégrations. Pour savoir comment mettre en oeuvre et configurer l’extension Livefyre, consultez la [documentation relative au lancement d’Adobe de l’extension Livefyre](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension).
