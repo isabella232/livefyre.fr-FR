@@ -1,24 +1,27 @@
 ---
-description: Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion HTTP en HTTPS.
-seo-description: Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion HTTP en HTTPS.
+description: Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion du protocole HTTP en protocole HTTPS.
+seo-description: Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion du protocole HTTP en protocole HTTPS.
 seo-title: Liste de contrôle SSL
 title: Liste de contrôle SSL
 uuid: 2b176c73-8a6a-4835-88b3-047c6661cba9
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 0%
 
 ---
 
 
 # Liste de contrôle SSL{#ssl-checklist}
 
-Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion HTTP en HTTPS.
+Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion du protocole HTTP en protocole HTTPS.
 
-La conversion HTTP en HTTPS est effectuée si les éléments suivants sont terminés :
+Si les éléments suivants sont terminés, la conversion HTTP en HTTPS est réussie :
 
 * Toutes mes intégrations serveur à serveur utilisent HTTPS.
 * Toutes mes intégrations serveur à serveur prennent en charge le chiffrement TLS 1.2.
-* Toutes mes applications mobiles utilisent HTTPS.
+* Toutes mes applications mobiles utilisent le protocole HTTPS.
 * Toutes mes applications mobiles prennent en charge le chiffrement TLS 1.2.
 * Toutes mes intégrations JavaScript personnalisées (StreamhubSDK ou utilisation directe d’API) utilisent HTTPS.
 * Si je rassemble du code JavaScript Livefyre, nous utilisons les dernières versions.
