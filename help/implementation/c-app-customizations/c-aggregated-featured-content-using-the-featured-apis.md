@@ -1,23 +1,26 @@
 ---
-description: Livefyre fournit quatre API phare, ce qui vous permet de récupérer les 50 derniers éléments de contenu phare pour le réseau, le site ou la collection d’entrée, ou les deux éléments de contenu phare en haut d’une collection d’entrée.
-seo-description: Livefyre fournit quatre API phare, ce qui vous permet de récupérer les 50 derniers éléments de contenu phare pour le réseau, le site ou la collection d’entrée, ou les deux éléments de contenu phare en haut d’une collection d’entrée.
+description: Livefyre fournit quatre API phare, ce qui vous permet de récupérer les 50 éléments de contenu phare les plus récents pour le réseau, le site ou la collection d’entrée, ou les deux éléments de contenu phare en haut d’une collection d’entrée.
+seo-description: Livefyre fournit quatre API phare, ce qui vous permet de récupérer les 50 éléments de contenu phare les plus récents pour le réseau, le site ou la collection d’entrée, ou les deux éléments de contenu phare en haut d’une collection d’entrée.
 seo-title: Contenu proposé agrégé à l’aide des API phare
 solution: Experience Manager
 title: Contenu proposé agrégé à l’aide des API phare
 uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 1%
 
 ---
 
 
 # Contenu proposé agrégé à l’aide des API phare{#aggregated-featured-content-using-the-featured-apis}
 
-Livefyre fournit quatre API phare, ce qui vous permet de récupérer les 50 derniers éléments de contenu phare pour le réseau, le site ou la collection d’entrée, ou les deux éléments de contenu phare en haut d’une collection d’entrée.
+Livefyre fournit quatre API phare, ce qui vous permet de récupérer les 50 éléments de contenu phare les plus récents pour le réseau, le site ou la collection d’entrée, ou les deux éléments de contenu phare en haut d’une collection d’entrée.
 
-## En vedette (réseau) {#section_cgm_1nw_xz}
+## En vedette (Réseau) {#section_cgm_1nw_xz}
 
-Récupère les 50 derniers éléments de contenu incitatif (et ses auteurs) pour le réseau d’entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que seulement les 50 derniers.)
+Récupère les 50 derniers éléments de contenu incitatif (et ses auteurs) pour le réseau d’entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que les 50 dernières années.)
 
 **Ressource**
 
@@ -153,7 +156,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/featured
 
 ## En vedette (Site) {#section_lq5_ymw_xz}
 
-Renvoie les 50 éléments de contenu incitatif les plus récents (et ses auteurs) pour le site d’entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que seulement les 50 derniers.)
+Renvoie les 50 éléments de contenu incitatif les plus récents (et ses auteurs) pour le site d’entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que les 50 dernières années.)
 
 **Ressource**
 
@@ -255,7 +258,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/featured
 
 ## En vedette (collection) {#section_kgc_xmw_xz}
 
-Renvoie les 50 derniers éléments de contenu incitatif (et ses auteurs) pour la collection d’entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que seulement les 50 derniers.)
+Renvoie les 50 éléments de contenu incitatif les plus récents (et ses auteurs) pour la collection d’entrée. (Utilisez la pagination pour renvoyer tout le contenu, plutôt que les 50 dernières années.)
 
 **Ressource**
 
@@ -355,9 +358,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64arti
 }
 ```
 
-## En vedette (en-tête) {#section_n4b_lmw_xz}
+## En vedette (Head) {#section_n4b_lmw_xz}
 
-Renvoie les deux derniers éléments de contenu phare pour la collection d’entrée.
+Renvoie les deux tout derniers éléments de contenu phare pour la collection d’entrée.
 
 **Ressource**
 
