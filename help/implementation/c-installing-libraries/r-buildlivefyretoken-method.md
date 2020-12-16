@@ -7,17 +7,20 @@ title: buildLivefyreToken, méthode réseau
 uuid: 7c72a05f-669b-4df3-8117-aa4af2f7a179
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '137'
+ht-degree: 0%
 
 ---
 
 
-# buildLivefyreToken, méthode réseau{#buildlivefyretoken-network-method}
+# buildLivefyreToken Network Method{#buildlivefyretoken-network-method}
 
 Renvoie un jeton Livefyre valide chiffré qui peut être utilisé pour interagir avec d’autres API Livefyre pour le réseau à partir duquel il est appelé.
 
 Renvoie un jeton Livefyre valide chiffré qui peut être utilisé pour interagir avec d’autres API Livefyre pour le réseau à partir duquel il est appelé.
 
-Par défaut, ce jeton expire dans les 24 heures suivant sa création.
+Par défaut, ce jeton expire dans 24 heures à compter de sa création.
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
