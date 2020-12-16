@@ -7,15 +7,18 @@ title: Incorporer une application de commentaires
 uuid: e4982ad3-cab1-4805-a55c-594cca3b7203
 translation-type: tm+mt
 source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 1%
 
 ---
 
 
-# Incorporer une application de commentaires{#embed-a-comments-app}
+# Incorporer une application de commentaires {#embed-a-comments-app}
 
 L’incorporation de l’application de commentaires suit le processus d’incorporation d’une application principale.
 
-L’incorporation de l’application de commentaires suit le processus d’incorporation d’une application principale décrite dans [Incorporation d’une application.](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+L’incorporation de l’application Commentaires suit le processus d’incorporation d’une application principale décrite dans [Incorporation d’une application](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
 
 ## Exemple
 
@@ -54,7 +57,7 @@ L’incorporation de l’application de commentaires suit le processus d’incor
 </html>
 ```
 
-Comme indiqué dans la section Building CollectionMeta, CollectionMeta est un objet JSON codé. Dans l’exemple ci-dessus, l’objet JSON utilise le format suivant avant d’être codé JWT :
+Comme indiqué dans la section Building CollectionMeta, CollectionMeta est un objet JSON codé. Dans l’exemple ci-dessus, l’objet JSON utilise le format suivant avant d’être codé en JWT :
 
 ```
 { 
