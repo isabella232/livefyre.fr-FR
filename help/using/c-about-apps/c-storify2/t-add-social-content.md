@@ -1,21 +1,24 @@
 ---
-description: Storify 2 propose plusieurs sources de contenu pour ajouter du contenu social.
-seo-description: Storify 2 propose plusieurs sources de contenu pour ajouter du contenu social.
-seo-title: Ajouter du contenu social
+description: Storify 2 offre plusieurs sources de contenu pour ajouter du contenu social.
+seo-description: Storify 2 offre plusieurs sources de contenu pour ajouter du contenu social.
+seo-title: Ajouter le contenu des réseaux sociaux
 solution: Experience Manager
-title: Ajouter du contenu social
+title: Ajouter le contenu des réseaux sociaux
 uuid: 0bd6579e-ac55-4201-a403-4fcb19e8684b
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 0%
 
 ---
 
 
-# Ajouter du contenu social{#add-social-content}
+# Ajouter le contenu social{#add-social-content}
 
-Storify 2 propose plusieurs sources de contenu pour ajouter du contenu social.
+Storify 2 offre plusieurs sources de contenu pour ajouter du contenu social.
 
-L'onglet Rechercher vous permet de rechercher sur les réseaux sociaux, d'offrir des recherches sur le Web général et d'images.
+L&#39;onglet Rechercher vous permet de rechercher sur les réseaux de médias sociaux, les offres du Web général et les recherches d&#39;images.
 
 >[!NOTE]
 >
@@ -23,11 +26,11 @@ L'onglet Rechercher vous permet de rechercher sur les réseaux sociaux, d'offrir
 
 >[!NOTE]
 >
->L’API de recherche de Twitter renvoie uniquement le contenu des 7 derniers jours.
+>L’API de recherche de Twitter ne renverra que le contenu des 7 derniers jours.
 
 Pour ajouter du contenu à votre article :
 
-1. Dans l’ **[!UICONTROL Search]** onglet, cliquez sur une icône pour sélectionner votre source.
-1. Storify affiche les options de recherche propres à la source.
-1. Entrez vos paramètres de recherche, puis cliquez sur l'icône de recherche (loupe) ou cliquez sur Retour à la recherche.
+1. Dans l&#39;onglet **[!UICONTROL Search]**, cliquez sur une icône pour sélectionner votre source.
+1. Storify affiche les options de recherche spécifiques à la source.
+1. Entrez vos paramètres de recherche, puis cliquez sur l&#39;icône de recherche (loupe) ou cliquez sur Retour pour effectuer la recherche.
 1. Une fois que vous avez trouvé des éléments à inclure, faites-les simplement glisser de la liste vers n’importe quelle section de votre histoire.
