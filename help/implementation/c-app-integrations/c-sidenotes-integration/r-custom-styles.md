@@ -1,20 +1,23 @@
 ---
 description: Les styles personnalisés sont appliqués par le biais d’un objet injecté dans le constructeur Sidenotes.
 seo-description: Les styles personnalisés sont appliqués par le biais d’un objet injecté dans le constructeur Sidenotes.
-seo-title: Sidenotes Styles personnalisés
-title: Sidenotes Styles personnalisés
+seo-title: Identifie les styles personnalisés
+title: Identifie les styles personnalisés
 uuid: 0f6d7ad6-1f6a-4ed2-b86a-0d03782e591e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '425'
+ht-degree: 0%
 
 ---
 
 
-# Sidenotes Styles personnalisés{#sidenotes-custom-styles}
+# Identifie les styles personnalisés{#sidenotes-custom-styles}
 
 Les styles personnalisés sont appliqués par le biais d’un objet injecté dans le constructeur Sidenotes.
 
-Les "clés" sont des clés d’objet qui représentent des éléments DOM, tandis que les "propriétés" sont des propriétés CSS prises en charge pour la clé particulière. Par exemple, pour personnaliser le style de blockBtn (le bouton qui lance la fenêtre contextuelle Sidenotes), vous devez créer un objet tel que :
+Les &quot;clés&quot; sont des clés d’objet qui représentent des éléments DOM, tandis que les &quot;propriétés&quot; sont des propriétés CSS prises en charge pour la clé particulière. Par exemple, pour personnaliser le style de blockBtn (qui est le bouton qui lance la fenêtre contextuelle Sidenotes), vous devez créer un objet tel que :
 
 ```
 var styles = { 
@@ -31,27 +34,27 @@ new Livefyre.Sidenotes({
 
 | **Clé** | **Propriétés** | Description |
 |---|---|---|
-| `anonymousAvatar` | "hauteur", "largeur" | Image d’avatar anonyme, à gauche de l’éditeur de zone de texte. |
-| `blockBtn` | ‘fontColor’, ‘fontSize’, ‘left’, ‘position’, ‘right’, ‘top’ | L'"icône de lanceur" est placée en regard des éléments spécifiés comme pouvant être mis à part. |
-| `blockBtnActive` | ‘fontColor’, ‘fontSize’, ‘left’, ‘position’, ‘right’, ‘top’ | Icône de lanceur lorsque l’état est actif. |
-| `commentAvatar` | "hauteur", "largeur" | Image d’avatar à gauche des notes de niveau supérieur. |
-| `commentBody` | ‘fontColor’, ‘fontFamily’, ‘fontSize’, ‘fontWeight’, ‘lineHeight’ | Corps de texte des notes liées. |
-| `commentDisplayName` | ‘fontColor’, ‘fontFamily’, ‘fontSize’, ‘fontWeight’, ‘lineHeight’ | Nom d’affichage de l’utilisateur qui a laissé une note. |
-| `commentDownvote` | ‘fontColor’, ‘fontSize’ | Bouton de téléchargement sur une note. |
-| `commentReplyExpand` | "BackgroundColor", "borderColor", "borderWidth", "fontColor", "fontFamily", "fontSize", "fontWeight", "lineHeight" | Bouton permettant d’étendre les threads avec un grand nombre de réponses. |
-| `commentTags` | ‘fontColor’, ‘fontFamily’, ‘fontSize’, ‘fontWeight’, ‘lineHeight’ | Balises relatives à un utilisateur sur une note. |
-| `commentUpvote` | ‘fontColor’, ‘fontSize’ | Bouton Mettre à jour sur une note. |
-| `editorTextarea` | "height", "width", "fontColor", "fontFamily", "fontSize", "fontWeight", "lineHeight" | Zone de saisie de zone de texte pour laisser des notes. |
-| `mediaBlockBtn` | ‘fontColor’, ‘fontSize’, ‘left’, ‘position’, ‘right’, ‘top’ | Icône du lanceur de médias lorsqu’il se trouve au-dessus d’un élément multimédia (image, vidéo). |
-| `mediaBlockBtnActive` | ‘fontColor’, ‘fontSize’, ‘left’, ‘position’, ‘right’, ‘top’ | Icône du lanceur de médias à l’état actif. |
-| `numSidenotes` | "fontColor", "fontFamily", "fontSize", "fontWeight", "lineHeight", "BackgroundColor", "borderColor", "borderWidth", "height", "width" | Bouton cliquable qui affiche le nombre de Sidenotes dans la collection. |
-| `numSidenotesPopover` | "fontColor", "fontFamily", "fontSize", "fontWeight", "lineHeight", "BackgroundColor", "borderColor", "borderWidth", "height", "width" | Popover avec une brève explication des Sidenotes pour l'utilisateur. |
-| `popover` | "BackgroundColor" | Cette fenêtre contextuelle s’affiche lorsque l’icône de lancement est appelée. |
-| `popoverArrowLeft` | "fondImage", "hauteur", "gauche", "droite", "haut", "largeur" | Elément de flèche gauche sur la fenêtre contextuelle qui pointe vers l’élément DOM contenant une icône de lanceur. |
-| `popoverArrorRight` | "fondImage", "hauteur", "gauche", "droite", "haut", "largeur" | Elément de flèche vers la droite sur la fenêtre contextuelle qui pointe vers l’élément DOM contenant une icône de lanceur. |
-| `popoverArrowTop` | "fondImage", "hauteur", "gauche", "droite", "haut", "largeur" | Elément de flèche supérieure dans la fenêtre contextuelle qui pointe vers l’élément DOM contenant une icône de lanceur. |
-| `replyAvatar` | "hauteur", "largeur" | Image de l’avatar à gauche des notes de niveau réponse. |
-| `streamPoweredBy` | "BackgroundColor", "borderColor", "lineHeight" | Pied de page "Optimisé par" dans la fenêtre contextuelle. |
-| `streamQueueButton` | "BackgroundColor", "borderColor", "borderWidth", "fontColor", "fontFamily", "fontSize", "fontWeight", "lineHeight" | Bouton pour indiquer quand les nouvelles notes se répandent dans une fenêtre contextuelle ouverte. |
-| `userAvatar` | "hauteur", "largeur" | L’avatar de l’utilisateur authentifié, à gauche de l’éditeur de zone de texte. |
+| `anonymousAvatar` | &quot;hauteur&quot;, &quot;largeur&quot; | Image d’avatar anonyme, à gauche de l’éditeur de zone de texte. |
+| `blockBtn` | &quot;fontColor&quot;, &quot;fontSize&quot;, &quot;left&quot;, &quot;position&quot;, &quot;right&quot;, &quot;top&quot; | &quot;Icône de lancement&quot; placée en regard des éléments spécifiés comme pouvant être mis à part. |
+| `blockBtnActive` | &quot;fontColor&quot;, &quot;fontSize&quot;, &quot;left&quot;, &quot;position&quot;, &quot;right&quot;, &quot;top&quot; | Icône du lanceur lorsque l’état est principal. |
+| `commentAvatar` | &quot;hauteur&quot;, &quot;largeur&quot; | Image d’avatar à gauche des notes de niveau supérieur. |
+| `commentBody` | &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot; | Corps de texte des notes liées. |
+| `commentDisplayName` | &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot; | Nom d’affichage de l’utilisateur qui a laissé une note. |
+| `commentDownvote` | &quot;fontColor&quot;, &quot;fontSize&quot; | Bouton Télévoter sur une note. |
+| `commentReplyExpand` | &quot;BackgroundColor&quot;, &quot;borderColor&quot;, &quot;borderWidth&quot;, &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot; | Bouton permettant d’étendre les threads avec un grand nombre de réponses. |
+| `commentTags` | &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot; | Balises relatives à un utilisateur sur une note. |
+| `commentUpvote` | &quot;fontColor&quot;, &quot;fontSize&quot; | Bouton Mettre à jour sur une note. |
+| `editorTextarea` | &quot;height&quot;, &quot;width&quot;, &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot; | Zone de saisie de zone de texte pour les notes de fin. |
+| `mediaBlockBtn` | &quot;fontColor&quot;, &quot;fontSize&quot;, &quot;left&quot;, &quot;position&quot;, &quot;right&quot;, &quot;top&quot; | Icône du lanceur de médias lorsqu’il se trouve au-dessus d’un élément multimédia (image, vidéo). |
+| `mediaBlockBtnActive` | &quot;fontColor&quot;, &quot;fontSize&quot;, &quot;left&quot;, &quot;position&quot;, &quot;right&quot;, &quot;top&quot; | Icône du lanceur de médias dans un état principal. |
+| `numSidenotes` | &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot;, &quot;BackgroundColor&quot;, &quot;borderColor&quot;, &quot;borderWidth&quot;, &quot;height&quot;, &quot;width&quot; | Bouton cliquable qui affiche le nombre de Sidenotes dans la collection. |
+| `numSidenotesPopover` | &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot;, &quot;BackgroundColor&quot;, &quot;borderColor&quot;, &quot;borderWidth&quot;, &quot;height&quot;, &quot;width&quot; | Popover avec une brève explication des Sidenotes pour l’utilisateur. |
+| `popover` | &quot;BackgroundColor&quot; | Popup qui est affiché lorsque l’icône de lancement est appelée. |
+| `popoverArrowLeft` | &quot;BackgroundImage&quot;, &quot;height&quot;, &quot;left&quot;, &quot;right&quot;, &quot;top&quot;, &quot;width&quot; | Elément flèche gauche sur la fenêtre contextuelle qui pointe vers l’élément DOM contenant une icône de lancement. |
+| `popoverArrorRight` | &quot;BackgroundImage&quot;, &quot;height&quot;, &quot;left&quot;, &quot;right&quot;, &quot;top&quot;, &quot;width&quot; | Elément de flèche vers la droite sur la fenêtre contextuelle qui pointe vers l’élément DOM contenant une icône de lancement. |
+| `popoverArrowTop` | &quot;BackgroundImage&quot;, &quot;height&quot;, &quot;left&quot;, &quot;right&quot;, &quot;top&quot;, &quot;width&quot; | Elément flèche supérieure sur la fenêtre contextuelle qui pointe vers l’élément DOM contenant une icône de lancement. |
+| `replyAvatar` | &quot;hauteur&quot;, &quot;largeur&quot; | Image d’avatar à gauche des notes de niveau réponse. |
+| `streamPoweredBy` | &quot;BackgroundColor&quot;, &quot;borderColor&quot;, &quot;lineHeight&quot; | Pied de page &quot;Powered by&quot; sur la fenêtre contextuelle. |
+| `streamQueueButton` | &quot;BackgroundColor&quot;, &quot;borderColor&quot;, &quot;borderWidth&quot;, &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot; | Bouton pour indiquer quand les nouvelles notes se propagent dans une fenêtre contextuelle ouverte. |
+| `userAvatar` | &quot;hauteur&quot;, &quot;largeur&quot; | L’avatar de l’utilisateur authentifié, à gauche de l’éditeur de zone de texte. |
 
