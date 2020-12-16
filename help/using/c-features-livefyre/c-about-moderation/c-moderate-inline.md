@@ -1,38 +1,41 @@
 ---
-description: Modérez le contenu provenant d’un flux à l’aide de la bibliothèque.
-seo-description: Modérez le contenu provenant d’un flux à l’aide de la bibliothèque.
-seo-title: Modération du contenu d’un flux
-title: Modération du contenu d’un flux
+description: Modérez le contenu provenant d’un flux en utilisant la bibliothèque.
+seo-description: Modérez le contenu provenant d’un flux en utilisant la bibliothèque.
+seo-title: Modération du contenu à partir d’un flux
+title: Modération du contenu à partir d’un flux
 uuid: 38faf651-c547-49b3-b3d1-1a1d65c0f81c
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 0%
 
 ---
 
 
-# Modération du contenu d’un flux{#moderate-content-from-a-stream}
+# Modération du contenu à partir d’un flux {#moderate-content-from-a-stream}
 
-Modérez le contenu provenant d’un flux à l’aide de la bibliothèque.
+Modérez le contenu provenant d’un flux en utilisant la bibliothèque.
 
 Les modérateurs peuvent approuver ou rejeter les commentaires en attente directement à partir du flux, à l’aide de la bibliothèque.
 
-Pour modérer le contenu en attente, il suffit de survoler le **[!UICONTROL Pending]** bouton avec la souris.
+Pour modérer le contenu en attente, placez le pointeur de la souris sur le bouton **[!UICONTROL Pending]**.
 
-Le **[!UICONTROL Pending]** bouton change et vous pouvez choisir de refuser ( **[!UICONTROL x]**) ou d’approuver ( **[!UICONTROL ✓]**) le commentaire.
+Le bouton **[!UICONTROL Pending]** change et vous pouvez choisir de refuser ( **[!UICONTROL x]**) ou d&#39;approuver ( **[!UICONTROL ✓]**) le commentaire.
 
 Placez le pointeur de la souris sur l’espace de commentaire et les options de modération suivantes s’affichent :
 
-* **[!UICONTROL Ban user:]** interdit à l’utilisateur d’ajouter du contenu au site.
+* **[!UICONTROL Ban user:]** interdit à l&#39;utilisateur d&#39;ajouter du contenu au site.
 
    >[!NOTE]
    >
-   >Cette option est spécifique au site et n’interdira pas l’utilisateur de l’ensemble de votre réseau. Pour Sidenotes, les utilisateurs peuvent être interdits uniquement depuis Studio, et non depuis le flux.
+   >Cette option est spécifique au site et n&#39;interdira pas l&#39;utilisateur de l&#39;ensemble de votre réseau. Pour les Sidenotes, les utilisateurs ne peuvent être interdits que depuis Studio, et non depuis le flux.
 
-* **[!UICONTROL Bozo:]** Fait vibrer l’auteur du contenu. Pour les Sidenotes, les utilisateurs peuvent être des Bozos uniquement depuis Studio, et non depuis le flux.
+* **[!UICONTROL Bozo:]** Fait un effet de bozos sur l’auteur du contenu. Pour les Sidenotes, les utilisateurs peuvent être Bozo’d seulement depuis Studio, et non depuis le flux.
 * **[!UICONTROL Delete:]** Supprime le contenu du thread.
-* **[!UICONTROL Flag:]** Ouvre un mode d’affichage Indicateur, qui vous permet de sélectionner un indicateur pour le contenu (indésirable, Offensif, En désaccord ou Non-sujet), de saisir une adresse électronique à associer à l’indicateur, le cas échéant, et d’ajouter une note.
-* **[!UICONTROL Share:]** Ouvre un module Partager, qui vous permet de partager sur Facebook ou Twitter, de modifier le texte et d’inclure un lien de pourcentage vers le contenu lui-même.
-* **[!UICONTROL Feature:]** Fonctionne avec le contenu.
+* **[!UICONTROL Flag:]** Ouvre un module Indicateur qui vous permet de sélectionner un indicateur pour le contenu (indésirable, offensant, en désaccord ou hors sujet), de saisir une adresse électronique à associer à l&#39;indicateur, si nécessaire, et d&#39;ajouter une note.
+* **[!UICONTROL Share:]** Ouvre un module Partager qui vous permet de partager sur Facebook ou Twitter, de modifier le texte et d’inclure un lien de perméable vers le contenu lui-même.
+* **[!UICONTROL Feature:]** Présente le contenu.
 
 
 
