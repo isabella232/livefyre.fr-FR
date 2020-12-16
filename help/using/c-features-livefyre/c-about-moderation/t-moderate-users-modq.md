@@ -36,6 +36,6 @@ Les informations suivantes s’affichent (si elles sont disponibles) pour chacun
 * **[!UICONTROL IP Address]**: leur adresse IP, déterminée par Livefyre.
 * **[!UICONTROL Bio]**: description de l’utilisateur.
 * **[!UICONTROL Bans]**: liste les sites pour lesquels l&#39;utilisateur a été interdit ou Bozo’d.
-* **[!UICONTROL Whitelists]**: liste les sites pour lesquels l&#39;utilisateur a été autorisé à figurer dans la liste.
+* **[!UICONTROL Whitelists]**: liste les sites pour lesquels l&#39;utilisateur a été placé sur la liste autorisée.
 
-Pour plus d’informations sur la manière de modérer les utilisateurs dans l’onglet Contenu de l’application, voir [Modérer l’utilisation du contenu](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content)de l’application.
+Pour plus d’informations sur la manière de modérer les utilisateurs dans l’onglet Contenu de l’application, voir [Modérer l’utilisation du contenu de l’application](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).
