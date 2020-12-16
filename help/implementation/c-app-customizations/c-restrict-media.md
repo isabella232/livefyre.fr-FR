@@ -7,6 +7,9 @@ title: Restreindre le média
 uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 
@@ -15,13 +18,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Limitez le type de média entrant dans le flux d’application.
 
-Par défaut, toutes les pièces jointes peuvent être incorporées dans les applications. Livefyre vous permet de modifier cette option pour empêcher les utilisateurs de publier certains types de pièces jointes dans vos applications.
+Par défaut, toutes les pièces jointes peuvent être incorporées dans des applications. Livefyre vous permet de modifier cette option pour empêcher les utilisateurs de publier certains types de pièces jointes dans vos applications.
 
 >[!NOTE]
 >
->Livefyre travaille en partenariat avec Embetly pour l'intégration des médias. Pour plus d’informations, voir Intégration de contenu &gt; Intégration héritée. Contactez votre gestionnaire de compte technique pour toute question concernant l’extension des liens ou les sources.
+>Livefyre travaille en partenariat avec Embetly pour l&#39;intégration des médias. Pour plus d’informations, voir Intégration de contenu > Intégration héritée. Contactez votre gestionnaire de compte technique pour toute question concernant l&#39;extension des liens ou les sources.
 
-Cet exemple bloque les intégrations YouTube et Vimeo de votre flux de commentaires :
+Cet exemple bloque l’intégration de YouTube et de Vimeo dans votre flux de commentaires :
 
 ```
 var attachmentDelegate = function(embedObj) { 
