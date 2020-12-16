@@ -1,23 +1,26 @@
 ---
-description: Informe Livefyre de mettre à jour l’URL de synchronisation utilisateur du réseau vers celle fournie. Renvoie une valeur de type Boolean.
-seo-description: Informe Livefyre de mettre à jour l’URL de synchronisation utilisateur du réseau vers celle fournie. Renvoie une valeur de type Boolean.
+description: Informe Livefyre de mettre à jour l’URL de synchronisation utilisateur du réseau avec celle fournie. Renvoie une valeur de type Boolean.
+seo-description: Informe Livefyre de mettre à jour l’URL de synchronisation utilisateur du réseau avec celle fournie. Renvoie une valeur de type Boolean.
 seo-title: setUserSyncUrl, méthode réseau
 solution: Experience Manager
 title: setUserSyncUrl, méthode réseau
 uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 3%
 
 ---
 
 
 # setUserSyncUrl, méthode réseau{#setusersyncurl-network-method}
 
-Informe Livefyre de mettre à jour l’URL de synchronisation utilisateur du réseau vers celle fournie. Renvoie une valeur de type Boolean.
+Informe Livefyre de mettre à jour l’URL de synchronisation utilisateur du réseau avec celle fournie. Renvoie une valeur de type Boolean.
 
 | Variable | Type | Description |
 |--- |--- |--- |
-| urlTemplate | Chaîne | URL d’enregistrement auprès de Livefyre pour la synchronisation des ID utilisateur. "`{id}`" doit faire partie de la chaîne URL fournie. |
+| urlTemplate | Chaîne | URL d’enregistrement auprès de Livefyre pour la synchronisation des identifiants d’utilisateur. Nécessite que &quot;`{id}`&quot; fasse partie de la chaîne URL fournie. |
 
 ## Exemple Java {#section_nyl_ycs_rz}
 
