@@ -50,8 +50,8 @@ ModQ est divisé en deux panneaux à onglets :
 Les deux onglets offre de nombreux filtres et outils de modération identiques.
 
 * **[!UICONTROL Item Count]** Le nombre d’éléments restants dans la file d’attente s’affiche dans le coin supérieur gauche de ModQ.
-* **[!UICONTROL Filter]** Cliquez sur **[!UICONTROL Filter]** pour définir les paramètres par lesquels le contenu sera répertorié dans le volet.
-* **[!UICONTROL History]** Cliquez sur le **[!UICONTROL History]** bouton en haut à droite de l’écran pour ouvrir une liste de contenu récemment modéré, ce qui vous permet de revoir votre travail ou de modifier une action de modération récente. Cliquez de nouveau sur le bouton pour revenir au contenu en file d’attente. Seules les 100 actions les plus récentes s’affichent. **L&#39;historique** ne liste pas les actions entreprises par un autre modérateur.
+* **[!UICONTROL Filter]** Cliquez sur  **[!UICONTROL Filter]** pour définir les paramètres par lesquels le contenu sera répertorié dans le volet.
+* **[!UICONTROL History]** Cliquez sur le  **[!UICONTROL History]** bouton en haut à droite de l’écran pour ouvrir une liste de contenu récemment modéré, ce qui vous permet de revoir votre travail ou de modifier une action de modération récente. Cliquez de nouveau sur le bouton pour revenir au contenu en file d’attente. Seules les 100 actions les plus récentes s’affichent. **L&#39;** histoire ne liste pas les actions entreprises par un autre modérateur.
 
 * **[!UICONTROL User Pane]** Cliquez sur les boutons Développer ou Réduire en haut à droite de la page pour ouvrir ou fermer le volet Utilisateur.
 
@@ -85,33 +85,33 @@ Les informations suivantes s’affichent lorsque vous sélectionnez un élément
 
 Cliquez sur **[!UICONTROL Filter]** en haut à gauche de la fenêtre ModQ pour ouvrir un panneau contenant les options de filtre disponibles pour le contenu répertorié. Lorsque vous sélectionnez des options, ModQ met automatiquement à jour vers la liste votre contenu filtré uniquement. Cliquez sur **[!UICONTROL Clear filters]** pour effacer toutes les options sélectionnées et recharger la liste complète des éléments.
 
-Différentes options de filtre sont disponibles pour les **[!UICONTROL Items]** onglets et les **[!UICONTROL Streams Premoderation]** onglets.
+Différentes options de filtre sont disponibles pour les onglets **[!UICONTROL Items]** et **[!UICONTROL Streams Premoderation]**.
 
-Les options suivantes sont disponibles pour ModQ sous **[!UICONTROL Items]** et **[!UICONTROL Streams Premoderation]**:
+Les options suivantes sont disponibles pour ModQ sous **[!UICONTROL Items]** et **[!UICONTROL Streams Premoderation]** :
 
 * **[!UICONTROL App]**. Utilisez le champ Rechercher des applications pour filtrer les résultats par application. Plusieurs applications peuvent être sélectionnées.
 * **[!UICONTROL System Flags]**. Vous pouvez filtrer le contenu selon des règles telles que les règles Indésirable, Profanité, Sécurité et Prémodération.
 
-   * La sélection **[!UICONTROL Spam]** liste tous les contenus marqués comme indésirables par SAFE.
-   * La sélection **[!UICONTROL Profanity]** liste tout le contenu balisé Profane par votre Liste de profil réseau ou de site.
-   * La sélection **[!UICONTROL SAFE]** liste tout le contenu entrant dans ModQ à la suite de vos règles SAFE.
-   * La sélection **[!UICONTROL Premoderation]** liste tout le contenu balisé pour la modération par vos paramètres réseau, de diffusion en continu ou d’application.
+   * La sélection de **[!UICONTROL Spam]** liste tous les contenus marqués comme indésirables par SAFE.
+   * La sélection de **[!UICONTROL Profanity]** liste tout le contenu balisé Profane par votre Liste de profil réseau ou de site.
+   * La sélection de **[!UICONTROL SAFE]** liste tout le contenu entrant ModQ en raison de vos règles SAFE.
+   * La sélection de **[!UICONTROL Premoderation]** liste tout le contenu balisé pour la prémodération par vos paramètres réseau, de diffusion en continu ou d’application.
 
 * **[!UICONTROL User Flags]** Filtrez le contenu par indicateurs utilisateur. Les options disponibles sont Offensive, Spam, Hors sujet et Désaccord.
 * **[!UICONTROL Rights Requests.]** Affichez uniquement le contenu avec les droits accordés en cochant la case.
 * **[!UICONTROL Entered the queue.]** Vous pouvez filtrer le contenu selon la période au cours de laquelle le contenu a été envoyé à ModQ. L’heure à laquelle le contenu a été envoyé à ModQ n’est pas nécessairement celle à laquelle le contenu a été publié sur son application.
 
-Les options suivantes sont disponibles pour ModQ sous **[!UICONTROL Streams Premoderation]**:
+Les options suivantes sont disponibles pour ModQ sous **[!UICONTROL Streams Premoderation]** :
 
 * **[!UICONTROL Social Source]** Filtrez le contenu selon la source sociale d’où provient le contenu. Par exemple, les options des sources sociales sont Twitter, Instagram, Facebook et RSS.
 
-L’option suivante est disponible pour ModQ sous **[!UICONTROL Items]**:
+L’option suivante est disponible pour ModQ sous **[!UICONTROL Items]** :
 
 **[!UICONTROL Moderation Recommendations]**. Filtrez le contenu selon la recommandation donnée par la recommandation de modération automatisée.
 
-Les images suivantes montrent à quoi ressemblent les recommandations de modération dans ModQ :  ![](assets/mod_reco1.png)
+Les images suivantes montrent à quoi ressemble la Recommendations de modération dans ModQ :  ![](assets/mod_reco1.png)
 
-La recommandation de modération est donnée pour le contenu lorsqu’il est configuré dans **[!UICONTROL Network Settings > Moderation]** et **[!UICONTROL Network Settings > ModQ]**.
+La recommandation de modération est donnée pour le contenu lorsqu’elle est configurée dans **[!UICONTROL Network Settings > Moderation]** et **[!UICONTROL Network Settings > ModQ]**.
 
 ## Actions que vous pouvez utiliser dans ModQ {#section_h4g_wrn_z1b}
 
@@ -119,8 +119,8 @@ Vous pouvez décider ce que vous voulez faire de chaque élément de contenu dan
 
 Sélectionnez l’une des options suivantes :
 
-* L’ **[!UICONTROL Checkbox]** icône permettant d’approuver le contenu
-* L&#39; **[!UICONTROL Trash can]** icône permettant d&#39;envoyer le contenu à la corbeille
+* L&#39;icône **[!UICONTROL Checkbox]** pour approuver le contenu
+* L&#39;icône **[!UICONTROL Trash can]** pour envoyer le contenu à la corbeille
 * **[!UICONTROL Request Rights]** pour demander les droits sur le contenu au propriétaire du contenu.
 
    >[!NOTE]
@@ -141,25 +141,25 @@ Si le contenu est déjà dans l’état souhaité, l’option Corbeille, Bozo ou
 >
 >Le contenu du flux ne peut pas être Bozo. Le contenu du flux de suivi le supprime définitivement du flux et ne peut pas être annulé.
 
-Une fois le contenu modéré, il est supprimé du ModQ du modérateur et son auteur ne peut plus le modifier dans le flux. Si un modérateur rejette un élément ou si un utilisateur supprime son commentaire, celui-ci apparaît grisé dans les files d’attente d’autres modérateurs en temps réel. Lorsque le contenu a été grisé, le **[!UICONTROL Clear Moderated]** bouton s’affiche sur la page, ce qui permet aux modérateurs de le supprimer de leurs listes et de conserver leur place sur la page, quelle que soit l’activité du modérateur.
+Une fois le contenu modéré, il est supprimé du ModQ du modérateur et son auteur ne peut plus le modifier dans le flux. Si un modérateur rejette un élément ou si un utilisateur supprime son commentaire, celui-ci apparaît grisé dans les files d’attente d’autres modérateurs en temps réel. Lorsque le contenu a été grisé, le bouton **[!UICONTROL Clear Moderated]** s’affiche sur la page, ce qui permet aux modérateurs de le supprimer de leurs listes et de conserver leur place sur la page, quelle que soit l’activité du modérateur.
 
 ## Utilisation de la fonction Corbeille dans ModQ {#section_tpx_qgz_y1b}
 
 Utilisez la section Paramètres pour sélectionner les options disponibles lorsque le contenu est marqué comme étant en pointillé.
 
-* ****[!UICONTROL Confirm Trash]**** Activez cette option pour exiger que les modérateurs confirment leur action lors de la définition du contenu dans la corbeille. Lorsqu’elle est activée, la sélection **[!UICONTROL Trash]** du contenu affiche une boîte de dialogue demandant un **[!UICONTROL Reason for Moderation]** champ et l’offre d’un champ dans lequel un **[!UICONTROL Note]** champ peut être saisi.
+* ****[!UICONTROL Confirm Trash]**** Activez cette option pour exiger que les modérateurs confirment leur action lors de la définition du contenu dans la corbeille. Lorsqu&#39;elle est activée, la sélection de **[!UICONTROL Trash]** pour le contenu affiche une boîte de dialogue demandant un **[!UICONTROL Reason for Moderation]** et offre un champ dans lequel un **[!UICONTROL Note]** peut être saisi.
 
    (Ce paramètre est disponible **[!UICONTROL only]** au niveau du réseau et s&#39;applique à tous les sites sous votre réseau.)
 
 * ****[!UICONTROL Hide Replies]**** Activez cette option pour corrompre automatiquement les réponses lorsqu’un commentaire parent est corrompu ou que Bozo est corrompu.
 
-## Modifier le statut d’utilisateur dans ModQ {#section_tmw_lg1_z1b}
+## Modifier le statut d&#39;utilisateur dans ModQ {#section_tmw_lg1_z1b}
 
-Cliquez sur le **[!UICONTROL User actions]** bouton du panneau Résumé utilisateur pour mettre l’utilisateur en sourdine, interdire ou autoriser la liste.
+Cliquez sur le bouton **[!UICONTROL User actions]** du panneau Résumé pour l’utilisateur pour mettre l’utilisateur en sourdine, interdire ou Placer sur la liste autorisée.
 
 * **[!UICONTROL Mute:]** vous permet de mettre en sourdine les indicateurs de l’utilisateur qui a marqué l’élément de contenu répertorié. Utilisez cette option pour exclure les indicateurs de l’utilisateur de vos filtres de prémodération. Le contenu qu’ils signalent n’entre pas dans ModQ en raison de l’indicateur et leurs indicateurs ne sont pas inclus dans les règles d’indicateur.
 * **[!UICONTROL Ban:]** vous permet d’interdire l’utilisateur répertorié sur votre site ou réseau. (Seuls les administrateurs Studio ou les gestionnaires d’utilisateurs peuvent interdire un utilisateur sur le réseau.)
-* **[!UICONTROL Whitelist:]** vous permet d’autoriser-liste l’utilisateur répertorié pour votre site ou réseau. (Seuls les administrateurs de Studio ou les gestionnaires d’utilisateurs peuvent autoriser en réseau la liste d’un utilisateur.)
+* **[!UICONTROL Whitelist:]** vous permet de placer sur la liste autorisée l’utilisateur répertorié pour votre site ou réseau. (Seuls les administrateurs Studio ou les gestionnaires d’utilisateurs peuvent mettre en réseau une liste autorisée d’utilisateur.)
 
 
 
