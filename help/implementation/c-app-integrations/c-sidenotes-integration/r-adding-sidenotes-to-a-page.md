@@ -1,76 +1,79 @@
 ---
 description: valeur nulle
 seo-description: valeur nulle
-seo-title: Ajout de signets à une page
+seo-title: Ajouter des identifiants à une page
 solution: Experience Manager
-title: Ajout de signets à une page
+title: Ajouter des identifiants à une page
 uuid: 6499c45a-3773-4adb-a6c7-22a628309afd
 translation-type: tm+mt
 source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+workflow-type: tm+mt
+source-wordcount: '635'
+ht-degree: 0%
 
 ---
 
 
-# Ajout de signets à une page {#adding-sidenotes-to-a-page}
+# Ajouter des identifiants à une page {#adding-sidenotes-to-a-page}
 
 Livefyre propose plusieurs options de configuration pour positionner les Sidenotes sur votre page :
 
-* L’option Sélecteurs définit les éléments sur lesquels les Sidenotes doivent apparaître.
+* L&#39;option Sélecteurs définit les éléments sur lesquels les Sidenotes doivent apparaître.
 * Les ancres représentent des éléments qui peuvent être mis à l’écart.
-* Le conteneur de threads personnalisé vous permet de définir l’emplacement du thread Sidenotes par rapport au contenu sidenoting.
-* L’option Nombre de Sidenotes vous permet d’afficher le nombre de Sidenotes ajoutés à l’emplacement indiqué.
-* Utilisez plusieurs `ConvConfig` objets pour ajouter des Sidenotes à plusieurs articles sur une même page.
+* Le conteneur de thread personnalisé vous permet de définir l&#39;emplacement du thread Sidenotes par rapport au contenu mis en place.
+* L&#39;option Nombre de Sidenotes vous permet d&#39;afficher le nombre de Sidenotes ajoutés à l&#39;emplacement indiqué.
+* Utilisez plusieurs objets `ConvConfig` pour ajouter des identifiants à plusieurs articles sur une même page.
 
 ## Sélecteurs {#section_wyj_4sv_sy}
 
-L’option sélecteurs permet aux Sidenotes de rechercher du contenu sur la page. La valeur de cette option vous permet de déterminer de manière dynamique les éléments qui seront utilisés. Il peut s’agir d’une chaîne de sélecteur (telle que "#content p", #content img), d’un objet jQuery (tel `$(‘#content’)`), d’un tableau d’éléments DOM ou d’un objet doté de deux propriétés : incluez et excluez. L’application Sidenotes utilise alors les éléments spécifiés ou les éléments correspondants sur la page. Si des propriétés d’inclusion et d’exclusion sont utilisées, les Sidenotes analysent d’abord la page pour rechercher tous les éléments de la propriété include, puis suppriment tous les éléments trouvés dans la propriété exclude.
+L’option sélecteurs permet aux Sidenotes de rechercher du contenu sur la page. La valeur de cette option vous permet de déterminer de manière dynamique les éléments qui seront utilisés. Il peut s’agir d’une chaîne de sélecteur (telle que &quot;#content p, #content img&quot;), d’un objet jQuery (tel que `$(‘#content’)`), d’un tableau d’éléments DOM ou d’un objet doté de deux propriétés : inclure et exclure. L’application Sidenotes utilise alors les éléments spécifiés ou les éléments correspondants sur la page. Si des propriétés d’inclusion et d’exclusion sont utilisées, les Sidenotes analysent d’abord la page pour rechercher tous les éléments de la propriété include, puis suppriment tous les éléments trouvés sur la propriété exclude.
 
 ## Ancrages {#section_ehq_psv_sy}
 
-Les ancres représentent un élément dont le contenu peut être mis à l’écart. Un élément d’ancrage peut contenir du texte ou une image. L’option de sélecteur transmise lors de la construction de l’application détermine les éléments d’ancrage.
+Les ancres représentent un élément dont le contenu peut être mis de côté. Un élément d’ancrage peut contenir du texte ou une image. L’option de sélecteurs transmise lors de la construction de l’application détermine les éléments d’ancrage.
 
-## ID d’ancre {#section_rsb_rsv_sy}
+## Identifiants d’ancrage {#section_rsb_rsv_sy}
 
-Les ancres de la page sont identifiées à l’aide d’une `data-lf-anchor-id`.
+Les ancres de la page sont identifiées à l’aide d’un `data-lf-anchor-id`.
 
-Pour définir vous-même l’ID d’une ancre, ajoutez l’attribut `data-lf-custom-anchor-id` à l’élément que vous souhaitez mapper à une ancre. Cela s’avère utile lorsque la détection automatique des ancres échoue.
+Pour définir vous-même l’identifiant d’une ancre, ajoutez l’attribut `data-lf-custom-anchor-id` à l’élément que vous souhaitez mapper à une ancre. Cela s’avère utile dans les cas où la détection automatique des ancres échouerait.
 
-Par exemple, si vous prévoyez d’utiliser une URL différente pour les versions pour ordinateur de bureau et mobile d’une image, deux URL différentes peuvent être mappées à des ancres différentes. Si, au lieu de cela, votre code HTML fournit un `data-lf-custom-anchor-id` code qui est identique sur le mobile et le bureau, l’élément d’image sera traité comme une ancre unique.
+Par exemple, si vous prévoyez d’utiliser une URL différente pour les versions pour ordinateur de bureau et mobile d’une image, deux URL différentes peuvent être mappées à des ancres différentes. Si, à la place, votre code HTML fournit un `data-lf-custom-anchor-id` identique sur les périphériques mobiles et les ordinateurs de bureau, l’élément d’image est traité comme une ancre unique.
 
-Les ancres ont un type qui est déterminé dynamiquement, mais qui peut également être défini explicitement à l’aide de l’ `data-lf-custom-anchor-type` attribut.
+Les ancres ont un type qui est déterminé dynamiquement, mais qui peut également être défini explicitement à l&#39;aide de l&#39;attribut `data-lf-custom-anchor-type`.
 
 >[!NOTE]
 >
->La valeur du numéro d'énumération doit être utilisée.
+>La valeur du numéro de énumération doit être utilisée.
 
 Les types disponibles sont :
 
-* **** Texte : 1
-* **** Image : 2
-* **** Média : 3
-* **** Riche : 4
+* **Texte:** 1
+* **Image:** 2
+* **Média:** 3
+* **Rich:** 4
 
-Voir la méthode [updateAnchors](/help/implementation/c-app-integrations/c-sidenotes-integration/update-anchors-method.md) pour en savoir plus sur l’utilisation de la `updateAnchors` méthode pour ajouter du contenu Sidenote à la page de manière dynamique.
+Voir [méthode updateAnchors](/help/implementation/c-app-integrations/c-sidenotes-integration/update-anchors-method.md) pour en savoir plus sur l&#39;utilisation de la méthode `updateAnchors` pour ajouter dynamiquement du contenu Sidenote à la page.
 
-## Conteneur de threads personnalisé {#section_jdh_btv_sy}
+## Conteneur de thread personnalisé {#section_jdh_btv_sy}
 
-Utilisez l’ `threadContainerEl` option pour spécifier un emplacement pour un thread Sidenotes, autre que la position par défaut. Par défaut, lorsqu’une ancre est activée, les Sidenotes apparaissent en regard ou en dessous du contenu pertinent. Pour modifier cette valeur par défaut, utilisez `threadContainerEl` pour spécifier l’élément dans lequel le thread doit apparaître.
+Utilisez l&#39;option `threadContainerEl` pour spécifier un emplacement pour un thread Sidenotes, autre que la position par défaut. Par défaut, lorsqu’une ancre est activée, les Sidenotes apparaissent en regard ou en dessous du contenu pertinent. Pour modifier cette valeur par défaut, utilisez `threadContainerEl` pour spécifier l&#39;élément où le thread doit apparaître.
 
-Cette valeur de cette option fonctionne de la même manière que l’option des sélecteurs, sauf que seul le premier élément valide sera utilisé.
+Cette valeur pour cette option fonctionne de la même manière que l’option de sélecteurs, sauf que seul le premier élément valide sera utilisé.
 
-## Nombre de Sidenotes {#section_pld_ntv_sy}
+## Nombre de sidents {#section_pld_ntv_sy}
 
-Utilisez l’ `numSidenotesEl` option pour incorporer un widget Sidenotes count facultatif sur votre page. Cette option accepte la même entrée que l’option des sélecteurs, mais n’utilise que le premier élément valide du tableau d’entrée.
+Utilisez l&#39;option `numSidenotesEl` pour incorporer un widget Sidenotes count facultatif sur votre page. Cette option accepte la même entrée que l&#39;option de sélecteurs mais n&#39;utilise que le premier élément valide du tableau d&#39;entrée.
 
-Le widget décorera l’élément fourni ou l’élément mis en correspondance et inclura l’icône d’entrée Sidenotes, le nombre de signets saisis à cet emplacement et une icône d’aide.
+Le widget décorera l’élément fourni ou correspondant et inclura l’icône d’entrée Sidenotes, le nombre de Sidenotes entrés à cet emplacement et une icône d’aide.
 
-Cliquez sur le widget pour afficher une fenêtre contextuelle avec une brève explication des Sidenotes et de leur utilisation.
+Un clic sur le widget affiche une fenêtre contextuelle contenant une brève explication des Sidenotes et de leur utilisation.
 
-L’explication et l’exemple de texte sont configurables à l’aide de chaînes personnalisées ( `questionExplanation` et `questionMockText`, respectivement). L’aspect du widget de comptage et de la fenêtre contextuelle peuvent également être configurés à l’aide de styles personnalisés ( `numSidenotes` et `numSidenotesPopover`, respectivement).
+L&#39;explication et l&#39;exemple de texte sont configurables à l&#39;aide de chaînes personnalisées ( `questionExplanation` et `questionMockText`, respectivement). L’aspect du widget de comptage et de la fenêtre contextuelle peut également être configuré à l’aide de styles personnalisés ( `numSidenotes` et `numSidenotesPopover`, respectivement).
 
-## Ajout de collections Sidenotes multiples à une seule page {#section_pjl_ptv_sy}
+## Ajouter plusieurs collections Sidenotes à une seule page {#section_pjl_ptv_sy}
 
-Livefyre vous permet d’ajouter plusieurs collections Sidenotes à une seule page. Par exemple, si la page comprend trois articles d’actualité, vous souhaiterez peut-être inclure trois itérations distinctes de l’application Sidenotes. Pour ce faire, vous devez définir un `ConvConfig` objet distinct pour chaque instance de Sidenotes que vous souhaitez créer. Par exemple :
+Livefyre vous permet d&#39;ajouter plusieurs collections Sidenotes à une seule page. Par exemple, si la page comporte trois articles d’actualité, vous pouvez inclure trois itérations distinctes de l’application Sidenotes. Pour ce faire, vous devez définir un objet `ConvConfig` distinct pour chaque instance de Sidenotes que vous souhaitez créer. Par exemple :
 
 ```
 <html> 
