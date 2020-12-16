@@ -47,7 +47,7 @@ Le code suivant définit les champs de l’objet de événement qui sont reçus 
 
 ## Événements et eVars Livefyre Analytics {#section_u3k_tft_mcb}
 
-Les événements Livefyre suivants à mapper sur des événements personnalisés à utiliser dans les rapports à l’aide du Gestionnaire de Report Suites. Pour plus d’informations sur les suites de rapports en Adobe Analytics, voir Gestionnaire [de suites de](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)rapports. Pour plus d’informations sur l’utilisation des événements Livefyre avec le Gestionnaire de Report Suites, voir [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
+Les événements Livefyre suivants à mapper sur des événements personnalisés à utiliser dans les rapports à l’aide du Gestionnaire de Report Suites. Pour plus d’informations sur les Report Suites en Adobe Analytics, voir [Gestionnaire de Report Suites](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html). Pour plus d&#39;informations sur l&#39;utilisation des événements Livefyre avec le Gestionnaire de Report Suites, voir [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
 
 ## Événements Livefyre Analytics
 
@@ -100,7 +100,7 @@ Voici une liste de variables de conversion (eVars) fournies par Livefyre.
 
 Pour plus d&#39;informations sur les sujets abordés sur cette page, voir :
 
-* [Report Suite](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
+* [Report Suite ](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[ManagerDTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
 
 * [Règles](https://docs.adobe.com/content/help/en/dtm/using/resources/rules/create-rules.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
