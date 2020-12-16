@@ -1,19 +1,22 @@
 ---
-description: Renvoie un objet Collection appelé comme type de révision. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
-seo-description: Renvoie un objet Collection appelé comme type de révision. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+description: Renvoie un objet Collection instancié sous la forme d’un type Reviews. Exécutez create_or_update() à partir de l'objet Collection pour terminer le processus de création.
+seo-description: Renvoie un objet Collection instancié sous la forme d’un type Reviews. Exécutez create_or_update() à partir de l'objet Collection pour terminer le processus de création.
 seo-title: buildReviewsCollection, méthode du site
 solution: Experience Manager
 title: buildReviewsCollection, méthode du site
 uuid: 88af4c68-57de-4ae9-9394-550c94ede48f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 
 
 # buildReviewsCollection, méthode du site{#buildreviewscollection-site-method}
 
-Renvoie un objet Collection appelé comme type de révision. Exécutez create_or_update() depuis l'objet Collection pour terminer le processus de création.
+Renvoie un objet Collection instancié sous la forme d’un type Reviews. Exécutez create_or_update() à partir de l&#39;objet Collection pour terminer le processus de création.
 
 | Variable | Type | Description |
 |--- |--- |--- |
