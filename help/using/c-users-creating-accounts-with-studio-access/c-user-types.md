@@ -14,7 +14,7 @@ ht-degree: 0%
 ---
 
 
-# User Roles and Permissions{#user-roles-and-permissions}
+# Rôles utilisateur et autorisations{#user-roles-and-permissions}
 
 Livefyre fournit plusieurs types d’utilisateurs avec différents niveaux d’autorisations.
 
@@ -43,7 +43,7 @@ Les rôles d’utilisateur suivants et les privilèges d’accès répertoriés 
 
 * **User Manager**
    * Vue et modification des détails du compte d’utilisateur final
-   * Interdire ou autoriser la liste des utilisateurs finaux
+   * Interdire ou placer sur la liste autorisée les utilisateurs finaux
 
 * **Gestionnaire de données :** accorde l’accès à l’utilisation du tableau de bord Livefyre Analytics.
 * **App Manager**
