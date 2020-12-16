@@ -7,15 +7,18 @@ title: Compteur social
 uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '242'
+ht-degree: 10%
 
 ---
 
 
 # Compteur social{#social-counter}
 
-Comptez le nombre d’éléments sociaux traités. Pour obtenir la liste complète des points de fin disponibles, consultez la section Référence [de l’](https://api.livefyre.com/docs) API Livefyre.
+Comptez le nombre d’éléments sociaux traités. Pour obtenir la liste complète des points de terminaison disponibles, consultez la section Livefyre [Référence API](https://api.livefyre.com/docs).
 
-L’API Compteur de réseau social renvoie le nombre de règles de traitement correspondantes dans une collection donnée pour des intervalles sur une période donnée.
+L’API Compteur de réseau social renvoie des comptes pour les règles de traitement correspondantes dans une collection donnée pour des intervalles sur une période donnée.
 
 >[!NOTE]
 >
@@ -33,8 +36,8 @@ API de compteur de réseau social :
 GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{query}.json
 ```
 
-* **** networkName :Votre Livefyre a fourni un nom réseau. Par exemple : Des *labos* `labs.fyre.co`.
-* **** query : Hachage codé en base 64 sécurisé par l’URL de tous les sites, ID d’article, tuples de type règle pour lesquels les informations de décompte doivent être récupérées (pré-codées)
+* **networkName : nom réseau fourni par** votre Livefyre. Par exemple : *labs* dans `labs.fyre.co`.
+* **requête :** hachage codé url-safe base64 de l’ensemble du site, identifiant de l’article, tuples de type règle pour lesquels les informations de décompte doivent être récupérées (pré-codées)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
@@ -43,8 +46,8 @@ GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{q
    >[!NOTE]
    >La requête est limitée à 10 sites, ID d’article, tuples de type règle. (L’exemple précédent contient 3 tuples.)
 
-* **from**`(optional)` spécifie la période relative ou absolue à suivre pour le graphique ; from spécifie le début et prend par défaut la valeur 24 heures auparavant, si omis.
-* **jusqu** ’à ce que `(optional)` spécifie la période relative ou absolue à représenter par le graphique ; until spécifie le début et l’heure actuelle (maintenant) par défaut, si omis.
+* **** `(optional)` froment spécifie la période relative ou absolue à tracer ; from indique le début et prend par défaut la valeur il y a 24 heures, s’il est omis.
+* **** `(optional)` untilindique la période relative ou absolue à tracer ; until indique le début et l’heure actuelle (maintenant), par défaut, s’il est omis.
 
 ### Temps relatif
 
@@ -64,13 +67,13 @@ Exemple :
 https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2OnNvbWUtYXJ0aWNsZS1pZDsy.json&from=-7d&until=-6d
 ```
 
-## Heure absolue {#section_xqr_jgc_11b}
+## Temps absolu {#section_xqr_jgc_11b}
 
-FORMAT : HH:MM_YYYMJJ
+FORMAT : HH:MM_AAAAMMJJ
 
 | Abréviation | Signification |
 |---|---|
-| HH | Heures (au format 24h/24) |
+| HH | Heures (au format d&#39;horloge de 24h) |
 | MM | Minutes |
 | AAAA | Année à 4 chiffres |
 | MM | Mois |
@@ -90,7 +93,7 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 Exemple :
 
-Pour obtenir des comptes à la dernière minute pour l’ID du site `123456` et de l’article `some-article-id` et le type de règle `2`, par exemple : `123456:some-article-id;2:`
+Pour obtenir des comptes à la dernière minute pour le site `123456` et l’ID d’article `some-article-id` et le type de règle `2`, par exemple : `123456:some-article-id;2:`
 
 ```
 curl -XGET "https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2OnNvbWUtYXJ0aWNsZS1pZDsy.json&from=-1min" 
