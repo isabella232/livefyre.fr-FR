@@ -1,25 +1,28 @@
 ---
-description: Téléchargez des images dans un flux de blog en direct, de conversation, de commentaires ou de commentaires.
-seo-description: Téléchargez des images dans un flux de blog en direct, de conversation, de commentaires ou de commentaires.
+description: Téléchargez des images dans un flux de blogs, de discussions, de commentaires ou de commentaires en direct.
+seo-description: Téléchargez des images dans un flux de blogs, de discussions, de commentaires ou de commentaires en direct.
 seo-title: Téléchargement de photo
 solution: Experience Manager
 title: Téléchargement de photo
 uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '127'
+ht-degree: 3%
 
 ---
 
 
 # Téléchargement de photo{#photo-upload}
 
-Téléchargez des images dans un flux de blog en direct, de conversation, de commentaires ou de commentaires.
+Téléchargez des images dans un flux de blogs, de discussions, de commentaires ou de commentaires en direct.
 
 Les photos peuvent être téléchargées directement dans n’importe quelle application à partir de la bibliothèque de photos mobiles, du disque dur de l’ordinateur ou des comptes de réseau social d’un utilisateur.
 
 Les paramètres d’une collection ou d’un site vous permettent de définir si les utilisateurs peuvent télécharger des photos dans une application. Cette option peut être activée au niveau du réseau, du site ou de la collection. Les propriétaires et les modérateurs peuvent toujours télécharger des photos dans n’importe quelle application.
 
-Cette fonction de téléchargement de photos peut être utilisée conjointement avec le paramètre "Média prémodéré".
+Cette fonction de téléchargement de photos peut être utilisée conjointement avec le paramètre &quot;Média prémodéré&quot;.
 
 Applications qui utilisent cette fonctionnalité :
 
