@@ -1,23 +1,26 @@
 ---
-description: Supprimez les composants d’application Livefyre standard de votre application.
-seo-description: Supprimez les composants d’application Livefyre standard de votre application.
+description: Supprimez les composants standard de l’application Livefyre de votre application.
+seo-description: Supprimez les composants standard de l’application Livefyre de votre application.
 seo-title: Masquer les éléments d’application
 solution: Experience Manager
 title: Masquer les éléments d’application
 uuid: ea090b6e-99f5-4bd7-aa9e-d39a4dff1543
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 1%
 
 ---
 
 
-# Masquer les éléments d’application{#hide-app-elements}
+# Masquer les éléments de l’application{#hide-app-elements}
 
-Supprimez les composants d’application Livefyre standard de votre application.
+Supprimez les composants standard de l’application Livefyre de votre application.
 
 Utilisez CSS pour masquer les éléments par défaut de l’application Livefyre de votre page, ce qui vous permet de personnaliser l’expérience utilisateur en fonction de vos besoins.
 
-Pour masquer des éléments de l’application, définissez simplement display sur none.
+Pour masquer des éléments de l’application, il vous suffit de définir display sur none.
 
 Exemples :
 
