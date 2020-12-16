@@ -1,20 +1,23 @@
 ---
-description: Créez des murs multimédias avec des images, des chats, des vidéos et d’autres contenus en flux continu.
-seo-description: Créez des murs multimédias avec des images, des chats, des vidéos et d’autres contenus en flux continu.
-seo-title: Media Wall
+description: Créez des murs multimédia avec des images, des conversations en ligne, de la vidéo et d’autres contenus en flux continu.
+seo-description: Créez des murs multimédia avec des images, des conversations en ligne, de la vidéo et d’autres contenus en flux continu.
+seo-title: Mur multimédia
 solution: Experience Manager
-title: Media Wall
+title: Mur multimédia
 uuid: 54f4fb0b-e427-4b73-bb96-31325805b081
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 0%
 
 ---
 
 
 # Media Wall{#media-wall}
 
-Créez des murs multimédias avec des images, des chats, des vidéos et d’autres contenus en flux continu.
+Créez des murs multimédia avec des images, des conversations en ligne, de la vidéo et d’autres contenus en flux continu.
 
-Media Wall est une application construite sur le SDK JavaScript Livefyre qui diffuse des images en direct et d’autres contenus, regroupés depuis Instagram, Twitter, Vine et d’autres réseaux sociaux, sur un mur social en temps réel, visualisant toute l’activité entourant un événement. Même ceux qui suivent l'événement à distance se sentent là. Vous pouvez afficher des applications de mur multimédia sur de grands écrans lors d’événements en direct ou les ajouter à votre site Web pour vous assurer que votre site est la destination idéale pour la couverture d’événements. Cela augmente l'engagement lors d'événements tels que concerts, conférences, lancements de produits, expositions de prix, événements sportifs, etc.
+Media Wall est une application créée à partir du SDK JavaScript de Livefyre qui diffuse des images en direct et d&#39;autres contenus, regroupés depuis Instagram, Twitter, Vine et d&#39;autres réseaux sociaux, en un mur social en temps réel, visualisant toute activité entourant un événement. Même ceux qui suivent le événement à distance ont l&#39;impression d&#39;y être. Vous pouvez afficher les applications de mur multimédia sur de grands écrans en événement réel ou les ajouter à votre site Web pour vous assurer que votre site est la destination idéale pour la couverture par événement. Cela augmente l&#39;engagement pendant les événements tels que les concerts, les conférences, les lancements de produits, les prix, les événements sportifs, etc.
 
-Utilisez Studio pour créer des applications de mur multimédia, qui peuvent être incorporées à votre page Web. Utilisez le SDK Media Wall pour créer des expériences Media Wall personnalisées pour votre audience.
+Utilisez Studio pour créer des applications de mur multimédia, qui peuvent être incorporées à votre page Web. Utilisez le SDK de mur multimédia pour créer des expériences de mur multimédia plus personnalisées pour votre audience.
