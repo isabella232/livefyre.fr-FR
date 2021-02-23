@@ -1,14 +1,14 @@
 ---
-description: Filmstrip est une application de visualisation qui présente du contenu généré par l’utilisateur dans une bande de photos unique et horizontale dynamique, semblable à une bande de film prise avec un appareil photo.
+description: 'Découvrez l''application Filmstrip avec notre guide complet. L''application de visualisation présente vos images dans une bande de pellicules de caméra rétro. Principal-le avec nos conseils. '
 seo-description: Filmstrip est une application de visualisation qui présente du contenu généré par l’utilisateur dans une bande de photos unique et horizontale dynamique, semblable à une bande de film prise avec un appareil photo.
 seo-title: Filmstrip
 solution: Experience Manager
-title: Filmstrip
+title: Guide de l’application Filmstrip
 uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 2584041dd080c08ee769bd897e55157ec05ce8b6
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '821'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Filmstrip est une application de visualisation qui présente du contenu généré par l’utilisateur dans une bande de photos unique et horizontale dynamique, semblable à une bande de film prise avec un appareil photo.
 
-## A propos de Filmstrip {#section_tng_slj_yy}
+## Découvrez comment utiliser Filmstrip {#section_tng_slj_yy}
 
 Vous pouvez utiliser Filmstrip avec UGC dans des scénarios de commerce électronique, tels que des pages de produits ou des sites Web transactionnels. Les utilisateurs finaux peuvent naviguer dans le film strip en cliquant sur les flèches latérales pour faire défiler le contenu disponible de gauche à droite. Le nouveau contenu s’affiche à gauche lorsqu’il est intégré à l’application. Vous pouvez choisir si l&#39;UGC récemment diffusé comporte une étiquette indiquant *New* pour aider les visiteurs du site à identifier rapidement le nouveau contenu.
 
@@ -48,7 +48,7 @@ Vous ne pouvez pas publier du contenu contenant du texte uniquement dans un film
 
 Un visiteur de site voit le contenu renseigné dans un film strip à partir de Studio à partir d’un flux Studio, d’une bibliothèque ou d’une recherche sociale. Si un nouveau contenu est publié sur l’application alors qu’un visiteur de site se trouve sur la page, le nouveau contenu s’affiche à gauche et pousse l’ancien contenu à droite en temps réel sans qu’un visiteur de site ait à actualiser sa page. Si vous choisissez d&#39;avertir le visiteur du site d&#39;un nouveau contenu, le visiteur du site voit apparaître une notification indiquant &quot;nouveau&quot; et une flèche pointant vers la gauche pour indiquer qu&#39;il doit faire défiler vers la gauche pour afficher le nouveau contenu.
 
-## Que se passe-t-il lorsqu’un visiteur de site clique sur un élément d’un film strip ? {#section_cvz_nlj_yy}
+## Que se passe-t-il lorsqu&#39;un visiteur de site clique sur un élément d&#39;un film strip ? {#section_cvz_nlj_yy}
 
 Sur un ordinateur ou un périphérique mobile, cliquez sur une carte pour partager du contenu, vue une image plus grande, regarder une vidéo, voir plusieurs éléments multimédias ou les produits associés à la vue balisés dans l’UGC.
 
