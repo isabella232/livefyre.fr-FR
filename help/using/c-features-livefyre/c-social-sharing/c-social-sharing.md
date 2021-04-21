@@ -1,34 +1,30 @@
 ---
-description: Partagez votre contenu ou contenu d’un autre utilisateur, sur Facebook, Twitter ou LinkedIn.
-seo-description: Partagez votre contenu ou contenu d’un autre utilisateur, sur Facebook, Twitter ou LinkedIn.
-seo-title: Partage social
-solution: Experience Manager
+description: Partagez votre contenu ou votre contenu d’un autre utilisateur, à Facebook, Twitter ou LinkedIn.
 title: Partage social
-uuid: 3fd8a628-2414-45b5-b91c-2ad33aad2634
+exl-id: 3950fd0c-a121-450a-b9f2-07a0737c2d9b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '623'
 ht-degree: 1%
 
 ---
 
-
 # Partage social{#social-sharing}
 
-Partagez votre contenu ou contenu d’un autre utilisateur, sur Facebook, Twitter ou LinkedIn.
+Partagez votre contenu ou votre contenu d’un autre utilisateur, à Facebook, Twitter ou LinkedIn.
 
-Le partage sur les réseaux sociaux permet à votre communauté de partager ses réflexions depuis votre application avec ses amis sur les réseaux sociaux, notamment Facebook, Twitter et LinkedIn, et de partager le contenu d’autres utilisateurs sur Facebook et Twitter. L’activation du partage sur les réseaux sociaux permet à votre communauté de diffuser la meilleure réponse à votre contenu et d’attirer davantage de trafic sur votre site.
+Le partage sur les réseaux sociaux permet à votre communauté de partager ses réflexions depuis votre application avec ses amis sur les réseaux sociaux, y compris Facebook, Twitter et LinkedIn, et de partager le contenu d’autres utilisateurs avec Facebook et Twitter. L’activation du partage sur les réseaux sociaux permet à votre communauté de diffuser la meilleure réponse à votre contenu et d’attirer davantage de trafic sur votre site.
 
 ## Partage de contenu sur les réseaux sociaux {#section_t1q_mz2_wy}
 
-Vous pouvez configurer votre réseau pour permettre aux utilisateurs de partager du contenu sur Twitter, Facebook ou LinkedIn lors de la publication de contenu sur vos applications Livefyre. La version par défaut de Livefyre **[!UICONTROL Share Modal]** comprend des liens vers les trois sites. Vous pouvez personnaliser ce module à l’aide de l’API Publier vers pour remplacer la valeur par défaut de Livefyre et mettre en oeuvre la vôtre. Pour plus d’informations, voir Rubriques avancées > Activation du partage sur les réseaux sociaux.
+Vous pouvez configurer votre réseau pour permettre aux utilisateurs de partager du contenu sur Twitter, Facebook ou LinkedIn lorsque vous publiez du contenu sur vos applications Livefyre. La version par défaut de Livefyre **[!UICONTROL Share Modal]** comprend des liens vers les trois sites. Vous pouvez personnaliser ce module à l’aide de l’API Publier vers pour remplacer la valeur par défaut de Livefyre et mettre en oeuvre la vôtre. Pour plus d’informations, voir Rubriques avancées > Activation du partage sur les réseaux sociaux.
 
 Lorsque les utilisateurs cliquent sur **[!UICONTROL Share]** pour publier leur commentaire sur les réseaux sociaux (Facebook, Twitter ou LinkedIn), ils sont invités à se connecter via l’application sociale. (La liste des options de partage disponibles peut être personnalisée. Par défaut, les cases à cocher Partage Facebook et Twitter s’affichent sur toutes les applications.) Pour les réseaux personnalisés, les applications sociales doivent être configurées pour être vos applications sociales. Dans le cadre de votre processus d’intégration, ajoutez les informations d’identification de votre application via la page Paramètres d’intégration dans Studio.
 
 >[!NOTE]
 >
->LinkedIn est inclus par défaut dans les commentaires de la communauté Livefyre. Les réseaux personnalisés doivent transmettre la valeur &quot;li&quot; lors de l’incorporation de l’application afin d’activer le bouton LinkedIn sur la barre d’outils des commentaires. (Pour plus d’informations, voir Activation du partage sur les réseaux sociaux dans la documentation destinée aux développeurs.)
+>linkedIn est inclus par défaut dans les commentaires de la communauté Livefyre. Les réseaux personnalisés doivent transmettre la valeur &quot;li&quot; lors de l’incorporation de l’application afin d’activer le bouton LinkedIn dans la barre d’outils des commentaires. (Pour plus d’informations, voir Activation du partage sur les réseaux sociaux dans la documentation destinée aux développeurs.)
 
 ## Partage du contenu des autres utilisateurs sur les réseaux sociaux {#section_blw_vy2_wy}
 
@@ -76,4 +72,3 @@ Applications qui utilisent cette fonctionnalité :
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Suivi des tendances](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
-
