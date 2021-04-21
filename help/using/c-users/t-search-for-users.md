@@ -1,18 +1,14 @@
 ---
 description: Utilisez le champ Rechercher en haut de la page pour rechercher des visiteurs du site par nom d'affichage, ID utilisateur, adresse électronique ou date d'adhésion à votre réseau Livefyre.
-seo-description: Utilisez le champ Rechercher en haut de la page pour rechercher des visiteurs du site par nom d'affichage, ID utilisateur, adresse électronique ou date d'adhésion à votre réseau Livefyre.
-seo-title: Rechercher des utilisateurs
-solution: Experience Manager
 title: Rechercher des utilisateurs
-uuid: 613ea931-760a-4db6-ac00-a4199708b95c
+exl-id: 7e85fe5a-1bcc-400c-9e0c-bf00c455b860
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # Rechercher des utilisateurs{#search-for-users}
 
@@ -28,4 +24,3 @@ Utilisez le champ Rechercher en haut de la page pour rechercher des visiteurs du
 1. Liste uniquement des utilisateurs **[!UICONTROL Banned]** ou **[!UICONTROL Whitelisted]**.
 1. Liste uniquement **[!UICONTROL Studio]** utilisateurs.
 1. Liste uniquement les comptes auxquels est jointe l&#39;entrée **[!UICONTROL User Tags]**. ![](assets/UsersFilter-1024x568.png)
-
