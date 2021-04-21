@@ -1,18 +1,14 @@
 ---
 description: Réponses aux questions fréquentes (FAQ) sur les demandes de protection des renseignements personnels prêtes pour le RMMD.
-seo-description: Réponses aux questions fréquentes (FAQ) sur les demandes de protection des renseignements personnels prêtes pour le RMMD.
-seo-title: FAQ sur les requêtes de confidentialité
-solution: Experience Manager
 title: FAQ sur les requêtes de confidentialité
-uuid: 0cd6f0d2-504d-46e9-ac46-070536cda086
+exl-id: 6d0add45-589a-46d0-b15a-63a7599aad73
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '412'
 ht-degree: 1%
 
 ---
-
 
 # FAQ sur la demande de confidentialité{#privacy-request-faqs}
 
@@ -40,5 +36,4 @@ Réponses aux questions fréquentes (FAQ) sur les demandes de protection des ren
 
 * **Comment puis-je produire un rapport des données suivies d&#39;un employé actuel ou ancien employé ?** [Vue d’un ](../../c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md#c_view_a_privacy_report) rapport de confidentialité pour générer un rapport de données suivies pour un compte d’utilisateur.
 
-* **Livefyre est-il compatible avec les flux sociaux ?** Lorsqu’un utilisateur supprime une publication ou un tweet de son réseau social, dans les 24 heures, le contenu est également supprimé de toutes les sources de Livefyre. Cela s’applique à Twitter et Facebook.
-
+* **Livefyre est-il compatible avec les flux sociaux ?** Lorsqu’un utilisateur supprime une publication ou un tweet de son réseau social, dans les 24 heures, le contenu est également supprimé de toutes les sources de Livefyre. Cela s&#39;applique à Twitter et Facebook.
