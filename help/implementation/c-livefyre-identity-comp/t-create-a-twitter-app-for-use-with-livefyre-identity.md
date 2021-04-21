@@ -1,22 +1,18 @@
 ---
-description: Vous pouvez utiliser l’identité Livefyre avec Twitter pour permettre aux utilisateurs d’utiliser leurs identifiants de connexion Twitter pour interagir avec les applications de votre site.
-seo-description: Vous pouvez utiliser l’identité Livefyre avec Twitter pour permettre aux utilisateurs d’utiliser leurs identifiants de connexion Twitter pour interagir avec les applications de votre site.
-seo-title: Création d’une application Twitter à utiliser avec l’identité Livefyre
-solution: Experience Manager
+description: Vous pouvez utiliser Livefyre Identity avec Twitter pour permettre aux utilisateurs d'utiliser leurs connexions Twitter pour interagir avec les applications de votre site.
 title: Création d’une application Twitter à utiliser avec l’identité Livefyre
-uuid: 841cce7c-618d-4154-85a3-1de96d04bb69
+exl-id: 4f2b919f-fe5d-49a3-8432-04ffb3d68ce4
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
+# Création d’une application Twitter à utiliser avec l’identité Livefyre{#create-a-twitter-app-for-use-with-livefyre-identity}
 
-# Créer une application Twitter à utiliser avec l’identité Livefyre{#create-a-twitter-app-for-use-with-livefyre-identity}
-
-Vous pouvez utiliser l’identité Livefyre avec Twitter pour permettre aux utilisateurs d’utiliser leurs identifiants de connexion Twitter pour interagir avec les applications de votre site.
+Vous pouvez utiliser Livefyre Identity avec Twitter pour permettre aux utilisateurs d&#39;utiliser leurs connexions Twitter pour interagir avec les applications de votre site.
 
 Pour activer la connexion Twitter, Livefyre requiert les informations suivantes sur l&#39;application Twitter :
 
@@ -34,4 +30,4 @@ Pour créer une application Twitter à utiliser avec l’identité Livefyre :
 
 1. Dans l&#39;onglet **[!UICONTROL Permissions]**, sélectionnez **[!UICONTROL Access: Read only]**.
 
-Une fois l’opération terminée, la page Gestion des applications de Twitter > Clés et Jetons d&#39;accès liste le Consumer key de l’application (clé d’API) et le Secret du client (clé secrète d’API) à utiliser dans la page Paramètres d’intégration de Studio.
+Une fois l’opération terminée, la page Gestion des applications > Clés et Jetons d&#39;accès de Twitter liste le Consumer key (clé d’API) et le Secret du client (clé secrète d’API) de l’application pour l’utiliser dans la page Paramètres d’intégration de Studio.
