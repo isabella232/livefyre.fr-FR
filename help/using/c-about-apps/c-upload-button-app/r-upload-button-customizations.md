@@ -1,18 +1,14 @@
 ---
 description: Modifiez les options de taille, de largeur et d’interaction du bouton Télécharger.
-seo-description: Modifiez les options de taille, de largeur et d’interaction du bouton Télécharger.
-seo-title: Personnalisations des boutons de transfert
-solution: Experience Manager
 title: Personnalisations des boutons de transfert
-uuid: d820bbec-8c76-4864-9e70-55394010c35d
+exl-id: 7481911f-2fb5-4721-8345-cbdd5e4ea202
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 8%
+source-wordcount: '384'
+ht-degree: 5%
 
 ---
-
 
 # Personnalisations des boutons de transfert{#upload-button-customizations}
 
@@ -52,4 +48,3 @@ Vous pouvez personnaliser le bouton de téléchargement à l’aide des élémen
 * **[!UICONTROL Style]** et  **[!UICONTROL Config]** options pour toutes les applications dans le  **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options **[!UICONTROL Style]** et **[!UICONTROL Config]** standard pour toutes les applications dans le **[!UICONTROL App Designer]**
 
 * Outils d’intégration. Pour plus d’informations sur la personnalisation des applications à l’aide des outils d’intégration, voir Intégration d’applications.
-
