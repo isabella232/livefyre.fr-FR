@@ -1,18 +1,14 @@
 ---
 description: Storify 2 offre plusieurs sources de contenu pour ajouter du contenu social.
-seo-description: Storify 2 offre plusieurs sources de contenu pour ajouter du contenu social.
-seo-title: Ajouter le contenu des réseaux sociaux
-solution: Experience Manager
 title: Ajouter le contenu des réseaux sociaux
-uuid: 0bd6579e-ac55-4201-a403-4fcb19e8684b
+exl-id: 2277b525-ef0e-4e66-9260-f81898d93bf1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter le contenu social{#add-social-content}
 
@@ -26,7 +22,7 @@ L&#39;onglet Rechercher vous permet de rechercher sur les réseaux de médias so
 
 >[!NOTE]
 >
->L’API de recherche de Twitter ne renverra que le contenu des 7 derniers jours.
+>L’API de recherche de twitter ne renverra que le contenu des 7 derniers jours.
 
 Pour ajouter du contenu à votre article :
 
