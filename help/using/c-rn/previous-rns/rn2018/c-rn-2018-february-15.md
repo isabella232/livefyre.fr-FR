@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 15 février 2018.
-seo-description: Notes de mise à jour de la version du 15 février 2018.
-seo-title: 15 février 2018
-solution: Experience Manager
 title: 15 février 2018
-uuid: ee46f088-9fb7-49e2-a42c-e0d4b2f24a32
+exl-id: 7276de37-c8cd-4e85-bc92-90c272e5bf94
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '294'
 ht-degree: 5%
 
 ---
-
 
 # 15 février 2018{#february}
 
@@ -54,4 +50,3 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 | Amélioration | Applications | Ajoute la possibilité de supprimer des applications de Livefyre. |
 | Problème | Sondages | Modification des sondages pour utiliser le protocole HTTPS exclusivement. Auparavant, les sondages étaient toujours autorisés à être utilisés avec HTTP. |
 | Problème | UGC | Correction d’un problème en raison duquel l’UGC dans une application de visualisation ne filtrait pas par ID de produit comme prévu. |
-
