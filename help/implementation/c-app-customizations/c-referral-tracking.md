@@ -1,18 +1,14 @@
 ---
 description: Effectuez le suivi des clics vers votre page à partir du trafic de référence.
-seo-description: Effectuez le suivi des clics vers votre page à partir du trafic de référence.
-seo-title: Suivi des renvois
-solution: Experience Manager
 title: Suivi des renvois
-uuid: 5206cc16-9671-4b3d-a013-be1a3e8c029d
+exl-id: 9955d4a4-184d-421f-bcde-b19342b0b181
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
-
 
 # Suivi des renvois{#referral-tracking}
 
