@@ -1,18 +1,14 @@
 ---
 description: Studio offre un accès facile à vos applications, ce qui vous permet de rechercher, modifier et gérer des applications personnalisées à partir d’une seule page.
-seo-description: Studio offre un accès facile à vos applications, ce qui vous permet de rechercher, modifier et gérer des applications personnalisées à partir d’une seule page.
-seo-title: Applications
-solution: Experience Manager
 title: Applications
-uuid: 672db3b6-722a-4eca-97e5-b877b926b5f6
+exl-id: 1f6df4a9-6d2e-4d62-9f1f-8d38f42e78f9
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
-
 
 # Applications{#apps}
 
