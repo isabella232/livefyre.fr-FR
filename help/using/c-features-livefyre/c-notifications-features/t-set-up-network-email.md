@@ -1,18 +1,14 @@
 ---
 description: Personnalisez les champs de notification par courrier électronique disponibles.
-seo-description: Personnalisez les champs de notification par courrier électronique disponibles.
-seo-title: Configurer le courriel réseau
-solution: Experience Manager
 title: Configurer le courriel réseau
-uuid: c368d236-e25a-4118-8abc-5230618c97ee
+exl-id: 5305f3d2-d89d-4da2-9baa-64fabe41c74a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # Configurer le courriel réseau {#set-up-network-email}
 
@@ -30,4 +26,3 @@ Configurez vos notifications par courrier électronique.
    >Si ce champ est vide, aucune notification électronique ne sera envoyée.
 
 * **Nom d’affichage du courrier électronique :** entrez le nom qui apparaîtra à la place de votre adresse électronique dans les notifications électroniques de commentaires.
-
