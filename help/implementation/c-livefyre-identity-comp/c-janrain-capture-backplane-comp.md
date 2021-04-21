@@ -1,18 +1,14 @@
 ---
 description: Les clients qui utilisent la capture et le fond de panier de Janrain peuvent utiliser l’authentification Livefyre pour l’authentification unique (SSO), ce qui permet aux utilisateurs de contacter immédiatement vos applications Livefyre lorsqu’ils se connectent à votre site.
-seo-description: Les clients qui utilisent la capture et le fond de panier de Janrain peuvent utiliser l’authentification Livefyre pour l’authentification unique (SSO), ce qui permet aux utilisateurs de contacter immédiatement vos applications Livefyre lorsqu’ils se connectent à votre site.
-seo-title: Capture/fond de panier en janvier
-solution: Experience Manager
 title: Capture/fond de panier en janvier
-uuid: 776e9626-db04-4c34-adfe-681a71b552c5
+exl-id: c7e6cfef-7570-4f9c-9d2c-79f890ee5c49
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '926'
 ht-degree: 1%
 
 ---
-
 
 # Capture/fond de panier de janvier{#janrain-capture-backplane}
 
