@@ -1,18 +1,14 @@
 ---
 description: Chat offre plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
-seo-description: Chat offre plusieurs fonctionnalités pour encourager un dialogue rapide et engageant.
-seo-title: Fonctions de conversation
-solution: Experience Manager
 title: Fonctions de conversation
-uuid: 8773a8f9-96cd-41db-80dd-261af749e4b1
+exl-id: 38812de7-ee3f-411f-afac-7a1d5b672292
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Fonctionnalités de la conversation {#chat-features}
 
@@ -30,4 +26,3 @@ Pour encourager un dialogue rapide et engageant, Chat diffère des autres applic
 * Le bouton J’aime s’affiche uniquement lorsque vous passez la souris sur un commentaire.
 * Les mentions J’aime sur un commentaire s’affichent sans avatars, uniquement le nombre de mentions J’aime.
 * La largeur du flux peut être réduite à 250 pixels.
-
