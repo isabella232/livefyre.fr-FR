@@ -1,18 +1,14 @@
 ---
 description: Ajustez les paramètres de la page Storify 2, tels que les balises, la modération et le contenu autorisé.
-seo-description: Ajustez les paramètres de la page Storify 2, tels que les balises, la modération et le contenu autorisé.
-seo-title: Paramètres Storify
-solution: Experience Manager
 title: Paramètres Storify
-uuid: 030936fb-7c8b-487e-b468-7128b641c8ed
+exl-id: 11eed2ef-5e6d-4a7c-b6bb-b195b89fc79d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # Paramètres Storify{#storify-settings}
 
@@ -57,4 +53,3 @@ Ajustez les paramètres de la page Storify 2, tels que les balises, la modérati
 * **[!UICONTROL Allow Bulk Content]**
 
    Autoriser plusieurs publications incluant le texte correspondant.
-
