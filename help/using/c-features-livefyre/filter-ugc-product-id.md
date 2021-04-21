@@ -1,17 +1,14 @@
 ---
 description: Le filtrage des CU par ID de produit vous permet d’incorporer la même application sur plusieurs pages tout en affichant des CU spécifiques à chaque produit pour chaque page.
-seo-description: Le filtrage des CU par ID de produit vous permet d’incorporer la même application sur plusieurs pages tout en affichant des CU spécifiques à chaque produit pour chaque page.
-seo-title: Filtrage de l'UGC par ID de produit
 title: Filtrage de l'UGC par ID de produit
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
+exl-id: c98ee899-fcac-45dd-a26a-f678814776fd
 translation-type: tm+mt
-source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # Filtrer l&#39;UGC par ID de produit {#filter-ugc-product-id}
 
