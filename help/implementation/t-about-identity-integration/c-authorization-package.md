@@ -1,18 +1,14 @@
 ---
 description: Installez le package d’authentification pour activer l’authentification des utilisateurs afin que ces derniers puissent interagir avec vos applications.
-seo-description: Installez le package d’authentification pour activer l’authentification des utilisateurs afin que ces derniers puissent interagir avec vos applications.
-seo-title: Package d’authentification
-solution: Experience Manager
 title: Package d’authentification
-uuid: 4eec30cf-66b6-408d-985d-3e23b8b70d01
+exl-id: 639032ee-ed7d-4cb0-83ba-f11d3dc607b6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '263'
 ht-degree: 1%
 
 ---
-
 
 # Package d’authentification{#authentication-package}
 
@@ -26,7 +22,7 @@ Pour activer l’authentification sur votre page, ajoutez d’abord `Livefyre.js
 <script src="//cdn.livefyre.com/Livefyre.js"></script>
 ```
 
-L&#39;utilisation de Livefyre.require pour activer l&#39;authentification est similaire à l&#39;utilisation de require pour appeler d&#39;autres packages. Le code d’intégration qui requiert une authentification ressemble à ceci :
+L&#39;utilisation de Livefyre.require pour activer l&#39;authentification est similaire à l&#39;utilisation de require pour appeler d&#39;autres packages. Le code d’intégration pour lequel une authentification est requise ressemble à ceci :
 
 ```
 Livefyre.require(['auth'], function (auth) {  
@@ -44,4 +40,3 @@ Une fois inclus comme indiqué ci-dessus à l&#39;aide de `Livefyre.require`, le
 | `.logout(callback)` | Avertissez l’authentification que l’utilisateur final s’est déconnecté par un moyen externe et que toutes les applications qui dépendent doivent effacer leur état d’authentification jusqu’à la prochaine connexion. Ceci effacera la session interne gérée par Auth. |
 | `.authenticate(credentials)` | Avertissez Auth qu’un utilisateur s’est authentifié par un moyen externe et qu’un jeton d’authentification Livefyre a été acheté pour l’utilisateur final. Utilisez cette option si vous définissez un cookie avec le jeton Livefyre ou si vous disposez d’un jeton pour l’utilisateur et souhaitez le connecter explicitement. Par exemple: <br>`auth.authenticate({&nbsp;livefyre:&nbsp;`<br>`'<insert&nbsp;lftoken&nbsp;string&nbsp;for&nbsp;newly&nbsp;logged-in&nbsp;user>'&nbsp;});` |
 | `.delegate(authDelegate)` | Déléguez les détails d’implémentation de l’authentification (par exemple, votre flux d’authentification personnalisé) à un objet que vous définissez. Ceci doit être appelé par la page hôte pour activer les fonctionnalités interactives des applications Livefyre. |
-
