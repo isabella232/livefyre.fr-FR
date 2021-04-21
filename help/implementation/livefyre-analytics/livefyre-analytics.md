@@ -1,18 +1,14 @@
 ---
 description: Analyser l’activité des utilisateurs, du contenu et du modérateur de votre site.
-seo-description: Analyser l’activité des utilisateurs, du contenu et du modérateur de votre site.
-seo-title: Analytics
-solution: Experience Manager
 title: Analytics
-uuid: b022aa77-59b9-422a-8d9f-fb9d8a1b0478
+exl-id: dc0545ec-2294-44ab-87c4-67eb30c3f787
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '720'
 ht-degree: 1%
 
 ---
-
 
 # Analytics{#analytics}
 
@@ -114,4 +110,3 @@ Le tableau de bord de modération liste des événements par modérateur, ce qui
 Le tableau de bord Utilisateurs présente l’activité du site par utilisateur, ce qui vous permet d’analyser comment les utilisateurs interagissent avec votre site. Utilisez ce tableau de bord pour identifier vos utilisateurs les plus principaux sur votre site et pour évaluer les activités les plus populaires du site.
 
 ![](assets/analytics-users.png)
-
