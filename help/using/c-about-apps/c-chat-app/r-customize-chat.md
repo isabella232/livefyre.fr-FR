@@ -1,18 +1,14 @@
 ---
 description: Personnalisez les applications de messagerie instantanée pour afficher le contenu sous la forme d'un flux continu de discussions illimitées, ce qui permet à votre audience de discuter en temps réel autour des événements ou annonces en direct.
-seo-description: Personnalisez les applications de messagerie instantanée pour afficher le contenu sous la forme d'un flux continu de discussions illimitées, ce qui permet à votre audience de discuter en temps réel autour des événements ou annonces en direct.
-seo-title: Personnalisations de la conversation
-solution: Experience Manager
 title: Personnalisations de la conversation
-uuid: eac7be2f-2dcd-4a6b-ac84-e5e650af82e0
+exl-id: da6a3d41-426a-4734-a3e7-951cbe9e9988
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
-
 
 # Personnalisations de la conversation {#chat-customizations}
 
@@ -59,4 +55,3 @@ Vous pouvez personnaliser la messagerie instantanée à l&#39;aide des élément
 * **[!UICONTROL Style]** et  **[!UICONTROL Config]** options pour toutes les applications dans le  **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options **[!UICONTROL Style]** et **[!UICONTROL Config]** standard pour toutes les applications dans le **[!UICONTROL App Designer]**.
 
 * Outils d’intégration. Pour plus d’informations sur la personnalisation de la messagerie instantanée à l’aide des outils d’intégration, voir Chat.
-
