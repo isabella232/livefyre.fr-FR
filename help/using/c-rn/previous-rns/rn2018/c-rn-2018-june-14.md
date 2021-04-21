@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 14 juin 2018.
-seo-description: Notes de mise à jour de la version du 14 juin 2018.
-seo-title: 14 juin 2018
-solution: Experience Manager
 title: 14 juin 2018
-uuid: f1bba3af-2020-4dfc-9938-05b1183c30ab
+exl-id: 4f91c91e-1979-4d1e-899c-11839524bfe2
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '138'
 ht-degree: 13%
 
 ---
-
 
 # 14 juin 2018{#june}
 
@@ -48,7 +44,7 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 
 | **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| bogue | Bibliothèque/Recherche | Correction d’un problème en raison duquel les vidéos Instagram ne s’affichaient pas correctement dans Recherche sociale ou Contenu de l’application. |
+| bogue | Bibliothèque/Recherche | Correction d’un problème en raison duquel les vidéos Instagram ne s’affichaient pas correctement dans la recherche sur les réseaux sociaux ou dans le contenu de l’application. |
 | bogue | Balises actives | Correction d’un problème en raison duquel les balises actives ne s’affichaient pas pour le contenu rassemblé à partir d’Instagram. |
 
 ## Version UAT
