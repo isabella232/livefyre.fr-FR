@@ -1,17 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 29 juin 2017.
-seo-description: Notes de mise à jour de la version du 29 juin 2017.
-seo-title: 29 juin 2017
 title: 29 juin 2017
-uuid: f7d901fc-fe5a-463c-92ac-b77cda3bff1b
+exl-id: 507b781a-d284-4fcc-87f2-ce28bf717355
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 8%
+source-wordcount: '314'
+ht-degree: 7%
 
 ---
-
 
 # 29 juin 2017{#june}
 
@@ -22,9 +19,9 @@ Notes de mise à jour de la version du 29 juin 2017.
 | **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
 | bogue | Bibliothèque | Lorsque vous effacez les filtres de la bibliothèque, vous restez dans la même sélection de dossiers, au lieu d’être redirigé vers une autre page. |
-| bogue | Critiques | Correction d’un bogue dans les révisions afin de s’assurer que les médias étaient chargés via HTTPS dans toutes les implémentations. |
+| bogue | Critiques | Correction d’un bogue dans les révisions afin de s’assurer que les médias sont chargés via HTTPS dans toutes les implémentations. |
 | bogue | Critiques | Correction d’un bogue dans les révisions qui empêchait le chargement correct de certaines images en raison d’erreurs HTTPS. |
-| Amélioration | Social Sync | Synchronisation sociale Twitter obsolète. |
+| Amélioration | Social Sync | Synchronisation Twitter Social obsolète. |
 
 ## Version UAT
 
@@ -39,5 +36,3 @@ Notes de mise à jour de la version du 29 juin 2017.
 | Amélioration | Mosaïque | Mise à jour de l’apparence dans le module Détails des cartes mosaïques. |
 | Amélioration | Recherche sociale | Texte Ajouté expliquant pourquoi les demandes de droits ne peuvent pas être demandées dans une recherche sociale lorsque plusieurs ressources sont sélectionnées, que le fournisseur de droits n’est pas pris en charge pour les demandes de droits ou qu’aucun compte de demande de droits n’est activé pour un fournisseur de droits sur le réseau. |
 | bogue | Studio | Correction d’un bogue en raison duquel les nouvelles interdictions de navigateur n’étaient pas appliquées par les nouveaux gestionnaires et administrateurs d’utilisateurs. |
-
-
