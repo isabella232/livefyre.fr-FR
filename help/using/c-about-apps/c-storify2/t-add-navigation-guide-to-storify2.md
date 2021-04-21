@@ -1,18 +1,14 @@
 ---
 description: Ajoutez un guide de navigation dans votre application Storify 2 pour créer une liste de publications avec un lien permanent dans un emplacement visible à côté de votre article.
-seo-description: Ajoutez un guide de navigation dans votre application Storify 2 pour créer une liste de publications avec un lien permanent dans un emplacement visible à côté de votre article.
-seo-title: Ajouter un guide de navigation sur une page Storify 2
-solution: Experience Manager
 title: Ajouter un guide de navigation sur une page Storify 2
-uuid: 2db131b2-54b8-4409-a947-b86169656cad
+exl-id: 183a5035-4603-4c9d-a883-95966550accb
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter un guide de navigation à un Storify 2{#add-a-navigation-guide-to-a-storify}
 
