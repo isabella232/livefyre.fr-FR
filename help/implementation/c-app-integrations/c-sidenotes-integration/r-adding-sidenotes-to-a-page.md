@@ -1,18 +1,14 @@
 ---
-description: valeur nulle
-seo-description: valeur nulle
-seo-title: Ajouter des identifiants à une page
-solution: Experience Manager
 title: Ajouter des identifiants à une page
-uuid: 6499c45a-3773-4adb-a6c7-22a628309afd
+description: Ajouter des identifiants à une page
+exl-id: 3ec089d0-3d51-4918-b510-d30ef645c9c2
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '633'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter des identifiants à une page {#adding-sidenotes-to-a-page}
 
