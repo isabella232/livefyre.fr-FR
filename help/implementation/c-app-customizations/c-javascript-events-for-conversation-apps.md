@@ -1,18 +1,14 @@
 ---
 description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
-seo-description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
-seo-title: Événements JavaScript pour les applications de conversation
-solution: Experience Manager
 title: Événements JavaScript pour les applications de conversation
-uuid: cce112b5-7c3a-4721-9854-fc8471f3d5d0
+exl-id: 2497346e-b2cc-44b2-bcd9-906dd443fe38
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '516'
 ht-degree: 73%
 
 ---
-
 
 # Événements JavaScript pour les applications de conversation{#javascript-events-for-conversation-apps}
 
@@ -32,7 +28,7 @@ Voici une matrice des événements disponibles pour les applications de conversa
 | Publication | X | X | X | X |  | N/D | N/D |
 | Publié | X | X | X | X | X | N/D | N/D |
 | Réponse Twitter | X | X | X | N/D | N/D | N/D | N/D |
-| J’aime Twitter | X | X | X | N/D | N/D | N/D | N/D |
+| Twitter Like | X | X | X | N/D | N/D | N/D | N/D |
 | LF | X | X | X | X | N/D | N/D | N/D |
 | LF | X | X | X | X | N/D | N/D | N/D |
 | Partager sur publication | X | X |  | X | N/D | N/D | N/D |
@@ -49,7 +45,7 @@ Voici une matrice des événements disponibles pour les applications de conversa
 | Annuler | X | S.O. | X | X | N/D | N/D | N/D |
 | RequestMore | X | X | X | X | N/D | N/D | N/D |
 | ModalView |  | N/D | N/D | N/D | N/D | N/D | N/D |
-| Retweet Twitter | X | X | X | N/D | N/D | N/D | N/D |
+| Retweet twitter | X | X | X | N/D | N/D | N/D | N/D |
 | Bouton Publication | N/D | N/D | N/D | N/D | N/D | N/D | N/D |
 | Nombre de commentaires mis à jour | X | X | X | X | N/D | N/D | N/D |
 | Utilisateur connecté |  |  |  |  |  | N/D | N/D |
@@ -66,4 +62,3 @@ Voici une matrice des événements disponibles pour les applications de conversa
 | Type de contenu | X | X | X | X |  |  |  |
 | Date de publication dans l’application |  |  |  |  |  |  |  |
 | Connecté à l’application destinée aux utilisateurs finaux |  |  |  |  |  |  |  |
-
