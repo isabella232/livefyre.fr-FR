@@ -1,17 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 27 avril 2017.
-seo-description: Notes de mise à jour de la version du 27 avril 2017.
-seo-title: 27 avril 2017
 title: 27 avril 2017
-uuid: 30284115-92c0-4a85-acdb-adc70605ed5f
+exl-id: ebafb0ee-bb72-4187-ae35-316135434740
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '300'
 ht-degree: 8%
 
 ---
-
 
 # 27 avril 2017{#april}
 
@@ -39,4 +36,3 @@ Notes de mise à jour de la version du 27 avril 2017.
 | Amélioration | API | Publication d’une nouvelle API pour récupérer les codes incorporés d’application. Plus d&#39;informations sont disponibles à l&#39;adresse https://api.livefyre.com/docs/apis/by-category/apps. |
 | bogue | Bibliothèque de ressources | Correction d’un bogue qui plafonnait la première page des résultats de la bibliothèque à 10 fichiers. |
 | Amélioration | Studio | Amélioration du contraste sur la bascule des composants dans Studio pour une meilleure visibilité. |
-
