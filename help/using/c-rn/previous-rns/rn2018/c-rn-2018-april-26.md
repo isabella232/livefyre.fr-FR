@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 26 avril 2018.
-seo-description: Notes de mise à jour de la version du 26 avril 2018.
-seo-title: 26 avril 2018
-solution: Experience Manager
 title: 26 avril 2018
-uuid: a84ebe5c-40d5-43b5-a300-3e041ab22046
+exl-id: af0ee64d-d60c-4b21-a628-08848313781c
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '366'
 ht-degree: 4%
 
 ---
-
 
 # 26 avril 2018{#april}
 
@@ -38,7 +34,7 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 | **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
 | bogue | Rights Management | Correction d’un problème en raison duquel les demandes de droits ne fonctionnaient pas pour les ressources après les avoir trouvées dans une recherche sur les réseaux sociaux. |
-| Amélioration | Flux | Mise à jour du mécanisme de diffusion en flux continu qui permet au contenu de diffuser en continu à partir de Facebook afin de se conformer à une modification principale créée par Facebook. |
+| Amélioration | Flux | Mise à jour du mécanisme de diffusion en continu qui permet au contenu de circuler à partir de Facebook en conformité avec une modification principale créée par Facebook. |
 | bogue | UGC Commerce | Correction d’un problème en raison duquel le bouton &quot;Acheter&quot; de la LTC ne s’affichait pas dans une application Mosaic ou Filmstrip ou dans un module de produits lorsque vous survoliez une carte avec un produit lorsque le bouton CTA était activé. |
 | Amélioration | UGC Commerce | Correction d’un problème en raison duquel l’indicateur de commerce UGC était défini sur &quot;désactivé&quot; par défaut au lieu de &quot;activé&quot;. |
 
@@ -48,4 +44,3 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 |---|---|---|
 | bogue | Bibliothèque/Recherche | Correction d’un problème en raison duquel le téléchargement des vidéos n’était pas correct. |
 | Amélioration | Studio | Ajoute la possibilité d’afficher les mots suggérés lors de la saisie dans les noms de balise. |
-
