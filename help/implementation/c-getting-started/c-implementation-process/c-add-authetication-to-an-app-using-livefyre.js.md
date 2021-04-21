@@ -1,18 +1,14 @@
 ---
 description: Utilisez Livefyre.js pour ajouter une authentification à l’échelle de la page pour vos applications Livefyre.
-seo-description: Utilisez Livefyre.js pour ajouter une authentification à l’échelle de la page pour vos applications Livefyre.
-seo-title: Ajouter l’authentification à une application à l’aide de Livefyre.js
-solution: Experience Manager
 title: Ajouter l’authentification à une application à l’aide de Livefyre.js
-uuid: b7c61e07-e341-45d7-9112-c50155e38f1d
+exl-id: 6246a2bc-e7ff-4f86-a63a-36261c71d460
 translation-type: tm+mt
-source-git-commit: a6aebcc14325632cab0415e4aa4a24fda8a19bfc
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # Ajouter l’authentification à une application à l’aide de Livefyre.js{#add-authetication-to-an-app-using-livefyre-js}
 
@@ -30,7 +26,7 @@ Utilisez `Livefyre.js` pour activer l&#39;authentification pour une page afin de
    <script src="//cdn.livefyre.com/Livefyre.js"></script>
    ```
 
-1. Utilisez `Livefyre.require` pour activer l&#39;authentification. L&#39;utilisation de `Livefyre.require` est similaire à l&#39;utilisation de require pour appeler d&#39;autres packages. Le code d’intégration qui requiert une authentification ressemble à ceci :
+1. Utilisez `Livefyre.require` pour activer l&#39;authentification. L&#39;utilisation de `Livefyre.require` est similaire à l&#39;utilisation de require pour appeler d&#39;autres packages. Le code d’intégration pour lequel une authentification est requise ressemble à ceci :
 
    ```
    Livefyre.require(['auth'], function (auth) { // Do authy things...});
