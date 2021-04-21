@@ -1,16 +1,14 @@
 ---
-seo-title: Guide de l'utilisateur Livefyre
-solution: Experience Manager
 title: Guide de l'utilisateur Livefyre
-uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
+description: Guide de l'utilisateur Livefyre
+exl-id: 1b106519-9165-4cce-bddf-c0980424f54d
 translation-type: tm+mt
-source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 4%
 
 ---
-
 
 # Guide de l&#39;utilisateur Livefyre {#livefyre-help}
 
@@ -38,4 +36,3 @@ Pour plus d’informations sur la mise en oeuvre et la personnalisation des appl
 * [Utiliser Livefyre avec l&#39;extension Livefyre pour le lancement d&#39;Adobe](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
 
 * [Notes de mise à jour](c-rn/c-rn.md#c_rn)
-
