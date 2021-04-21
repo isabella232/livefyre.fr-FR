@@ -1,18 +1,14 @@
 ---
 description: Personnalisez les horodatages et les dates à l’aide de Livefyre.js.
-seo-description: Personnalisez les horodatages et les dates à l’aide de Livefyre.js.
-seo-title: Personnalisation de l’horodatage et de la date
-solution: Experience Manager
 title: Personnalisation de l’horodatage et de la date
-uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
+exl-id: 77130793-00ba-4a5c-8318-4221d971da6c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
-
 
 # Personnaliser l’horodatage et la date{#customize-the-date-and-time-stamp}
 
