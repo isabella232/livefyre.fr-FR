@@ -1,18 +1,14 @@
 ---
 description: Les applications et identités Livefyre contiennent des fonctions d’accessibilité qui permettent à tous les visiteurs du site d’interagir avec le contenu, y compris ceux qui peuvent utiliser des lecteurs d’écran et d’autres dispositifs d’assistance.
-seo-description: Les applications et identités Livefyre contiennent des fonctions d’accessibilité qui permettent à tous les visiteurs du site d’interagir avec le contenu, y compris ceux qui peuvent utiliser des lecteurs d’écran et d’autres dispositifs d’assistance.
-seo-title: Fonctionnalités d’accessibilité
-solution: Experience Manager
 title: Fonctionnalités d’accessibilité
-uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
+exl-id: c1f10835-06a8-459b-8d58-63ad61a3e0b7
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '325'
 ht-degree: 1%
 
 ---
-
 
 # Fonctionnalités d’accessibilité{#accessibility-features}
 
@@ -56,4 +52,3 @@ Applications et fonctionnalités Livefyre accessibles :
 * [Mosaïque](../c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Sondages](../c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
 * [Sidenotes](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-
