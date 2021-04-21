@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 11 octobre 2018.
-seo-description: Notes de mise à jour de la version du 11 octobre 2018.
-seo-title: 11 octobre 2018
-solution: Experience Manager
 title: 11 octobre 2018
-uuid: 8f08b2d1-295f-4b6a-82ef-74d21f15f784
+exl-id: f7f2ef09-78c2-4939-94c2-6c187c0c7092
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '206'
 ht-degree: 9%
 
 ---
-
 
 # 11 octobre 2018{#october}
 
@@ -22,7 +18,7 @@ Notes de mise à jour de la version du 11 octobre 2018.
 
 Les nouvelles fonctionnalités suivantes ont été publiées dans la version de production de cette version :
 
-* Lorsqu’un utilisateur supprime un compte Twitter, le contenu de ce compte est également supprimé dans les 24 heures de la page de Livefyre, toutes sources confondues.
+* Lorsqu’un utilisateur supprime un compte de Twitter, le contenu de ce compte est également supprimé dans les 24 heures de la page de Livefyre, toutes sources confondues.
 
 ## Problèmes {#section_ehw_ndt_wcb}
 
@@ -44,5 +40,4 @@ Les problèmes des tableaux suivants ont été résolus dans la version UAT de c
 
 | **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
-| bogue | aem | Correction d’un problème en raison duquel les liens des tweets importés en AEM Assets via Livefyre étaient rompus. |
-
+| bogue | AEM | Correction d’un problème en raison duquel les liens des tweets importés en AEM Assets via Livefyre étaient rompus. |
