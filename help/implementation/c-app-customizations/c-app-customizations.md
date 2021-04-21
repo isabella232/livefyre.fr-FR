@@ -1,18 +1,14 @@
 ---
 description: Personnalisez les options d’affichage de l’application pour qu’elles correspondent à votre marque et à votre style et ajoutez des fonctionnalités personnalisées.
-seo-description: Personnalisez les options d’affichage de l’application pour qu’elles correspondent à votre marque et à votre style et ajoutez des fonctionnalités personnalisées.
-seo-title: Personnalisations de l’application
-solution: Experience Manager
 title: Personnalisations de l’application
-uuid: 6f27654d-c2b4-45b5-aae7-6fbf312fb829
+exl-id: 897579fb-11b5-4a00-b2bf-86f505b79003
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Personnalisations de l’application{#app-customizations}
 
@@ -41,4 +37,3 @@ Livefyre offre plusieurs moyens par lesquels vous pouvez modifier l’interactio
 * **Ecouter les Événements d’application**
 
    Utilisez les événements JavaScript disponibles pour personnaliser et suivre davantage votre expérience utilisateur.
-
