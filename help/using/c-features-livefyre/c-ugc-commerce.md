@@ -1,14 +1,10 @@
 ---
-description: Proposez une gestion centralisée des stocks spécifique au produit à des points spécifiques du parcours client afin d'augmenter le mode d'achat et la conversion à l'aide de la fonction Commerce UGC.
-seo-description: Proposez une gestion centralisée des stocks spécifique au produit à des points spécifiques du parcours client afin d'augmenter le mode d'achat et la conversion à l'aide de la fonction Commerce UGC.
-seo-title: UGC Commerce
-solution: Experience Manager
+description: Proposez une gestion centralisée des stocks spécifique au produit à des points spécifiques du parcours client afin d’augmenter le mode d’achat et la conversion à l’aide de la fonction Commerce de l’UGC.
 title: UGC Commerce
-uuid: 71e64901-a2b6-4957-ba88-058e4eaca537
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '854'
 ht-degree: 2%
 
 ---
@@ -16,15 +12,15 @@ ht-degree: 2%
 
 # UGC Commerce{#ugc-commerce}
 
-Proposez une gestion centralisée des stocks spécifique au produit à des points spécifiques du parcours client afin d&#39;augmenter le mode d&#39;achat et la conversion à l&#39;aide de la fonction Commerce UGC.
+Proposez une gestion centralisée des stocks spécifique au produit à des points spécifiques du parcours client afin d’augmenter le mode d’achat et la conversion à l’aide de la fonction Commerce de l’UGC.
 
 Utilisez la fonction Commerce UGC pour influencer le mode d&#39;achat et la conversion sur les pages de détails des produits et des commandes UGC. Accélérer la mise sur le marché en associant de manière transparente l&#39;UGC à l&#39;inventaire des produits. Fidélisez votre marque en créant une communauté à l’aide de l’outil UGC pour mettre en évidence les témoignages authentiques des clients.
 
-aem Livefyre fournit plusieurs méthodes pour importer les informations du catalogue de produits, notamment le SKU, les images miniatures, le prix et le nom du produit. Gérez facilement l’association des produits avec l’UGC en utilisant les demandes de droits d’AEM Livefyre, le balisage des règles de diffusion automatique et les workflows de modération.
+AEM Livefyre fournit plusieurs méthodes pour importer les informations du catalogue de produits, notamment le SKU, les images miniatures, le prix et le nom du produit. Gérez facilement l’association des produits avec l’UGC en utilisant les demandes de droits d’AEM Livefyre, le balisage des règles de diffusion automatique et les workflows de modération.
 
 En plus d’influencer les achats, les capacités de l’offre commerciale UGC d’AEM Livefyre peuvent être exploitées pour générer des conversions de différentes manières, notamment :
 
-* Génération de pistes B2B : placer des boutons d&#39;appel à l&#39;action sous l&#39;UGC pour capturer des pistes
+* Génération de pistes B2B : placer des boutons d&#39;appel à l&#39;action sous l&#39;UGC pour capturer les pistes
 * Téléchargements d’applications B2C : inviter les utilisateurs à télécharger une application
 * Références à l&#39;article : lier les utilisateurs aux articles liés à des éléments de l&#39;UGC
 
@@ -34,7 +30,7 @@ Placez des appels à l’action de produit en même temps que l’UGC pour gén�
 * Incorporez les applications de visualisation AEM Livefyre qui prennent en charge les fonctionnalités de commerce UGC, telles que Media Wall et Mosaic, dans les pages de détails des produits.
 * Utilisez des codes de suivi de référence configurables avec une solution d&#39;analyse pour mesurer les conversions à partir des DEC de produit placées sur les CU et CU placées sur les pages de détails des produits.
 
-aem Les utilisateurs du commerce peuvent intégrer en toute transparence leur catalogue de produits existant dans Livefyre afin de stimuler l’engagement des utilisateurs dans les applications de visualisation de Livefyre. Les utilisateurs de Livefyre qui n’utilisent pas AEM Commerce peuvent importer manuellement leurs catalogues de produits dans Livefyre. Voir [Télécharger des produits vers Livefyre à l’aide du téléchargement de fichier](/help/using/c-features-livefyre/c-ugc-commerce.md), pour en savoir plus.
+AEM Les utilisateurs du commerce peuvent intégrer en toute transparence leur catalogue de produits existant dans Livefyre afin de stimuler l’engagement des utilisateurs dans les applications de visualisation de Livefyre. Les utilisateurs de Livefyre qui n’utilisent pas AEM Commerce peuvent importer manuellement leurs catalogues de produits dans Livefyre. Voir [Télécharger des produits vers Livefyre à l’aide du téléchargement de fichier](/help/using/c-features-livefyre/c-ugc-commerce.md), pour en savoir plus.
 
 Applications qui utilisent cette fonctionnalité :
 
