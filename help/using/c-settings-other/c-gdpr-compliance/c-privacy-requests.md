@@ -1,17 +1,14 @@
 ---
 description: Créez une demande de confidentialité dans Livefyre.
-seo-description: Créez une demande de confidentialité dans Livefyre.
-seo-title: Créer une demande de confidentialité
 title: Créer une demande de confidentialité
-uuid: 9fdbd564-0cea-4e4f-bdea-d5b8744fe63a
+exl-id: 117e1edb-becd-45f2-bfe5-12fb19ad01e0
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
-
 
 # Créer une demande de confidentialité{#create-a-privacy-request}
 
@@ -60,7 +57,7 @@ Pour rechercher et rechercher un utilisateur et générer un rapport sur son con
          * Valeurs autorisées : 5 à 16 caractères numériques
       * **[!UICONTROL Twitter User]**
 
-         * Identifie un compte à l’aide d’un identifiant numérique fourni par Twitter. La personne qui demande la modification de la vie privée devrait fournir cette information. Vous trouverez des instructions sur la manière de localiser l’ID Twitter numérique d’un compte Twitter en effectuant une recherche en ligne.
+         * Identifie un compte à l’aide d’un identifiant numérique fourni par Twitter. La personne qui demande la modification de la vie privée devrait fournir cette information. Vous trouverez des instructions sur la manière de localiser l’identifiant Twitter numérique d’un compte Twitter en effectuant une recherche en ligne.
          * Valeurs autorisées : 5 à 16 caractères numériques
       * **[!UICONTROL YouTube User]**
 
@@ -90,4 +87,3 @@ Pour rechercher et rechercher un utilisateur et générer un rapport sur son con
    >[!IMPORTANT]
    >
    >La suppression des données d’un compte entraîne la suppression définitive ou la destruction des données associées à ce compte. Vous ne pouvez pas annuler cette action ni récupérer les données après l’avoir supprimée.
-
