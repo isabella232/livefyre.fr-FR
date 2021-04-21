@@ -1,17 +1,14 @@
 ---
 description: Définir les sources à partir desquelles les utilisateurs peuvent publier des médias et celles à partir desquelles les publications de médias seront interdites.
-seo-description: Définir les sources à partir desquelles les utilisateurs peuvent publier des médias et celles à partir desquelles les publications de médias seront interdites.
-seo-title: Gérer les supports incorporés
 title: Gérer les supports incorporés
-uuid: d8621be1-dcfb-429f-954e-b21fdcf02715
+exl-id: f0cc257b-cc82-47bc-9d42-6aef3e0fe8a7
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Gérer les médias incorporés {#manage-embedded-media}
 
@@ -30,4 +27,3 @@ Applications qui utilisent cette fonctionnalité :
 * [Carte des fonctionnalités](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
 * [Carte](/help/using/c-about-apps/c-map-app/c-map-app.md#c_map_app)
 * [Mur multimédia](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
-
