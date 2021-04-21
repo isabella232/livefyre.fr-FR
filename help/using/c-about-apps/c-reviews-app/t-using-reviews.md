@@ -1,18 +1,14 @@
 ---
 description: Tout utilisateur connecté au système d’authentification de votre site peut publier une révision à l’aide de ce processus.
-seo-description: Tout utilisateur connecté au système d’authentification de votre site peut publier une révision à l’aide de ce processus.
-seo-title: Publication d’une révision
-solution: Experience Manager
 title: Publication d’une révision
-uuid: b5744b06-9e6b-425b-9a49-a919d32dfe1d
+exl-id: b1edf142-8cb7-4bc6-974b-a749cb631709
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Publier une révision{#post-a-review}
 
