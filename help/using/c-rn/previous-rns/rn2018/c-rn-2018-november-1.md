@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 1er novembre 2018.
-seo-description: Notes de mise à jour de la version du 1er novembre 2018.
-seo-title: 1er novembre 2018
-solution: Experience Manager
 title: 1er novembre 2018
-uuid: ed1a3bf1-b3f1-4746-8462-07283723ba62
+exl-id: b12b6a56-f14f-4447-9fde-25cb3acf6665
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '353'
 ht-degree: 4%
 
 ---
-
 
 # 1er novembre 2018{#november}
 
@@ -35,9 +31,9 @@ Les nouvelles fonctionnalités suivantes ont été publiées dans la version de 
 
    Pour plus d&#39;informations, voir [Balises dynamiques](/help/using/c-features-livefyre/c-smart-tags/c-smart-tags.md#c_smart_tags).
 
-* Limite de taux Instagram
+* Limite du taux d&#39;Instagram
 
-   Instagram a modifié le nombre de requêtes que toute société utilisant l&#39;API Instagram, y compris Livefyre, peut faire de 5 000 requêtes par heure par jeton à 200 requêtes par heure par jeton. Il s’agit de la limite de débit **. Pour plus d’informations, voir [Limite de taux Instagram](/help/using/c-streams/c-instagram-rate-limiting.md).
+   Instagram a modifié le nombre de requêtes que toute société utilisant l’API Instagram, y compris Livefyre, peut faire de 5 000 requêtes par heure par jeton à 200 requêtes par heure par jeton. Il s’agit de la limite de débit **. Pour plus d’informations, voir [Limitation des taux d’Instagram](/help/using/c-streams/c-instagram-rate-limiting.md).
 
 * Fichiers audio de la bibliothèque
 
@@ -61,6 +57,5 @@ Les problèmes des tableaux suivants ont été résolus dans la version UAT de c
 |---|---|---|
 | Amélioration | RGPD | Toutes les données attribuées aux anciens clients dans Analytics seront supprimées. |
 | bogue | Bibliothèque | Correction d’un problème en raison duquel une vidéo téléchargée dans la bibliothèque, puis affichée dans les détails de la ressource, ne s’affichait pas correctement. |
-| bogue | Mosaïque | Correction d’un problème en raison duquel une mosaïque affichait le dernier élément de contenu d’un carrousel Instagram comme une miniature, au lieu d’une carte. |
-| bogue | Recherche sociale | Correction d’un problème en raison duquel la recherche sociale sur Instagram ne fonctionnait pas comme prévu. |
-
+| bogue | Mosaïque | Correction d’un problème en raison duquel une mosaïque affichait le dernier élément de contenu d’un carrousel Instagram sous forme de miniature, au lieu d’une carte. |
+| bogue | Recherche sociale | Correction d’un problème en raison duquel la recherche sociale Instagram ne fonctionnait pas comme prévu. |
