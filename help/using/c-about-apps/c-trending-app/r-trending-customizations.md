@@ -1,18 +1,14 @@
 ---
 description: Modifiez les options de taille, de largeur et d’interaction de l’application Carte.
-seo-description: Modifiez les options de taille, de largeur et d’interaction de l’application Carte.
-seo-title: Personnalisations des tendances
-solution: Experience Manager
 title: Personnalisations des tendances
-uuid: 4dc58d90-8924-4c89-8f2a-650ac6e0538a
+exl-id: 224fc481-0c71-4d56-b73b-adf53451e968
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # Personnalisations des tendances{#trending-customizations}
 
@@ -32,4 +28,3 @@ Vous pouvez personnaliser les commentaires à l’aide des éléments suivants :
 * **[!UICONTROL Style]** et  **[!UICONTROL Config]** options pour toutes les applications dans le  **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options **[!UICONTROL Style]** et **[!UICONTROL Config]** standard pour toutes les applications dans le **[!UICONTROL App Designer]**.
 
 * Outils d’intégration. Voir Tendance pour en savoir plus sur la personnalisation des applications à l’aide des outils d’intégration.
-
