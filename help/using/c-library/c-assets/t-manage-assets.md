@@ -1,18 +1,14 @@
 ---
 description: La bibliothèque vous permet d’ajouter des informations au contenu enregistré afin que vous puissiez organiser vos fichiers en fonction de la stratégie de votre marque.
-seo-description: La bibliothèque vous permet d’ajouter des informations au contenu enregistré afin que vous puissiez organiser vos fichiers en fonction de la stratégie de votre marque.
-seo-title: Détails des ressources de vue
-solution: Experience Manager
 title: Détails des ressources de vue
-uuid: 06a19bca-d7b9-431b-abc4-9d6f154901b9
+exl-id: 1f0153df-17b9-4082-a335-c2136486d900
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # Détails des ressources de vue{#view-asset-details}
 
