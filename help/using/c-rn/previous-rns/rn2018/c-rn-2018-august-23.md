@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 23 août 2018.
-seo-description: Notes de mise à jour de la version du 23 août 2018.
-seo-title: 23 août 2018
-solution: Experience Manager
 title: 23 août 2018
-uuid: 668058d8-cd31-416e-afc3-eaf158109e3e
+exl-id: 13117917-6137-49f1-a138-4d4d2e76f17f
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 8%
+source-wordcount: '277'
+ht-degree: 7%
 
 ---
-
 
 # 23 août 2018{#august}
 
