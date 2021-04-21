@@ -1,18 +1,14 @@
 ---
 description: Définissez les paramètres de demande de droits pour les publications Instagram et Twitter.
-seo-description: Définissez les paramètres de demande de droits pour les publications Instagram et Twitter.
-seo-title: Configuration du Rights Management
-solution: Experience Manager
 title: Configuration du Rights Management
-uuid: 3ffcbc95-484f-4eba-b817-658c1d658bf8
+exl-id: d3d3e837-0ed0-47a8-ac5c-7b9da431d149
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
-
 
 # Configuration du Rights Management{#set-up-rights-management}
 
@@ -35,11 +31,11 @@ Avant de pouvoir définir des paramètres de demande de droits, vous devez confi
 
    >[!NOTE]
    >
-   >Pour les comptes Instagram, vous devez disposer d&#39;un compte d&#39;entreprise Instagram pour demander des droits avec une automatisation partielle. Pour plus d&#39;informations sur les différents types de comptes Instagram et comment les utiliser, voir [A propos des comptes Instagram](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+   >Pour les comptes Instagram, vous devez disposer d’un compte d’entreprise Instagram pour demander des droits avec une automatisation partielle. Pour plus d&#39;informations sur les différents types de comptes Instagram et comment les utiliser, voir [A propos des comptes Instagram](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 1. Renseignez les champs affichés. Tous les champs sont obligatoires.
 
-   * **[!UICONTROL Display name:]** Entrez un nom d’affichage pour identifier le compte Twitter ou Instagram à utiliser pour votre compte Rights Request. Ce nom est interne uniquement.
+   * **[!UICONTROL Display name:]** Entrez un nom d’affichage pour identifier le compte Twitter ou Instagram à utiliser pour votre compte Demande de droits. Ce nom est interne uniquement.
    * **[!UICONTROL Enabled:]**Défini sur activé par défaut. Permet la gestion des droits pour le compte.
    * **[!UICONTROL Approval hashtag:]** Hashtag que le propriétaire du contenu utilisera pour indiquer qu’il consent à utiliser son contenu.
    * **[!UICONTROL Terms and conditions:]** Lien vers les Conditions générales de votre réseau pour la réutilisation du contenu. Ce champ est sensible à la casse.
