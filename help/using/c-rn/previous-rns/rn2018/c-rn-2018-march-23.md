@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 23 mars 2018.
-seo-description: Notes de mise à jour de la version du 23 mars 2018.
-seo-title: 23 mars 2018
-solution: Experience Manager
 title: 23 mars 2018
-uuid: b69b8715-ace4-48e0-8f54-ce4e12170ef3
+exl-id: 85fd6f79-7fa8-425e-b4c7-2e1635d6ef17
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '202'
 ht-degree: 7%
 
 ---
-
 
 # 23 mars 2018{#march}
 
@@ -22,7 +18,7 @@ Notes de mise à jour de la version du 23 mars 2018.
 
 Les fonctionnalités suivantes sont nouvelles dans la version de production de cette version :
 
-* **Nouveau en production :** Facebook a créé une mise à jour de sécurité de la connexion à Facebook qui entraîne le mauvais fonctionnement de la connexion à Facebook d’un client. Pour résoudre ce problème, vous devez :
+* **Nouveau en production :** Facebook a créé une mise à jour de sécurité de la connexion Facebook, qui entraîne le mauvais fonctionnement de la connexion Facebook d’un client. Pour résoudre ce problème, vous devez :
 
    1. Ajoutez l’URL suivante au champ **[!UICONTROL Valid OAuth redirect URIs]** dans Paramètres OAuth du client. Remplacez `<networkname>` par le nom réseau correct :
       `https://identity.livefyre.com/<networkname>/api/v1.0/public/profile/social/complete/facebook_fyre`
@@ -49,4 +45,3 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 |---|---|---|
 | Amélioration | Filmstrip | Correction de certains problèmes pour rendre Filmstrip plus accessible. |
 | Amélioration | Studio | Vous pouvez désormais vous connecter à Livefyre à l’aide d’une connexion IMS. |
-
