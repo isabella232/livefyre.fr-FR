@@ -1,18 +1,14 @@
 ---
 description: Choisissez les options de configuration Style, Affichage et Engagement des utilisateurs pour Storify 2 dans Livefyre Studio.
-seo-description: Choisissez les options de configuration Style, Affichage et Engagement des utilisateurs pour Storify 2 dans Livefyre Studio.
-seo-title: Options de configuration
-solution: Experience Manager
 title: Options de configuration
-uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
+exl-id: bdb5210e-860c-477f-95cd-37a1233469f1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
-
 
 # Options de configuration{#configuration-options}
 
@@ -70,7 +66,7 @@ Choisissez les options de configuration Style, Affichage et Engagement des utili
 
 * **[!UICONTROL Users may share posts]**
 
-   Si cette option est activée, les utilisateurs peuvent partager votre article sur Twitter ou Facebook. Pour plus d’informations sur l’activation du partage, voir Paramètres > Paramètres d’intégration > Partage sur les réseaux sociaux.
+   S’ils sont activés, les utilisateurs peuvent partager votre histoire avec Twitter ou Facebook. Pour plus d’informations sur l’activation du partage, voir Paramètres > Paramètres d’intégration > Partage sur les réseaux sociaux.
 
 * **[!UICONTROL Users may add sidenotes]**
 
@@ -79,4 +75,3 @@ Choisissez les options de configuration Style, Affichage et Engagement des utili
 * **[!UICONTROL Number of views]**
 
    Si cette option est activée, le nombre de fois où l’article a été consulté s’affiche.
-
