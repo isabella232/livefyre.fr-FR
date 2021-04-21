@@ -1,18 +1,14 @@
 ---
 description: Evaluez et consultez tout élément de contenu de votre site Web, en temps réel.
-seo-description: Evaluez et consultez tout élément de contenu de votre site Web, en temps réel.
-seo-title: Critiques
-solution: Experience Manager
 title: Critiques
-uuid: 5386fc74-7a3b-4b2a-91fd-cfe5300e602d
+exl-id: e065319b-5ee6-40c4-8d04-56a06e0c92fa
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
-
 
 # Critiques{#reviews}
 
@@ -38,4 +34,3 @@ Vérifie les offres de plusieurs fonctionnalités spécifiques à cette applicat
 * Révisions de file d’attente pour affichage, tout en conservant la révision de l’utilisateur en haut de la liste pour sa vue.
 * Permettre aux utilisateurs de voter sur l’utilité des révisions, puis de trier en fonction de la note la plus utile et/ou la note la plus élevée.
 * Interface compatible avec les mobiles.
-
