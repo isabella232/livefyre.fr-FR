@@ -1,17 +1,14 @@
 ---
 description: Les raccourcis clavier suivants sont disponibles pour les modérateurs dans ModQ.
-seo-description: Les raccourcis clavier suivants sont disponibles pour les modérateurs dans ModQ.
-seo-title: Raccourcis clavier de ModQ
 title: Raccourcis clavier de ModQ
-uuid: fc4e7796-b6b5-4782-a0fc-b2326ca56d66
+exl-id: 759a1e8a-ac84-4a5b-b630-b63530fb3907
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 5%
+source-wordcount: '141'
+ht-degree: 6%
 
 ---
-
 
 # Raccourcis clavier de ModQ{#modq-keyboard-shortcuts}
 
@@ -29,4 +26,3 @@ Les raccourcis clavier suivants sont disponibles pour les modérateurs dans ModQ
 | Interdire l&#39;utilisateur | Interdire l&#39;utilisateur sélectionné pour ce site uniquement | Maj + B |  |
 | Liste autorisée utilisateur | Placer sur la liste autorisée l&#39;utilisateur sélectionné pour ce site uniquement | Maj + W |  |
 | Effacer le filtre de site | Afficher tous les éléments du réseau | Maj + Q |  |
-
