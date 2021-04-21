@@ -1,18 +1,14 @@
 ---
 description: Guide pour la création de jetons CollectionMeta et Auth.
-seo-description: Guide pour la création de jetons CollectionMeta et Auth.
-seo-title: Créer des jetons côté serveur
-solution: Experience Manager
 title: Créer des jetons côté serveur
-uuid: 8313f26e-5ceb-414e-a61a-480bb7a8ba66
+exl-id: f709b79e-9236-443e-b862-c7d281815d91
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '240'
 ht-degree: 1%
 
 ---
-
 
 # Créer des jetons côté serveur{#build-server-side-tokens}
 
@@ -41,4 +37,3 @@ Pour créer le jeton, utilisez votre bibliothèque de langues préférée pour t
 | l’userID | Chaîne *requise* | ID de l’utilisateur se connectant tel qu’il est stocké dans votre système de gestion des utilisateurs (seuls les caractères alphanumériques, les tirets, les traits de soulignement et les points sont autorisés) : `[a-zA-Z0-9_-.]`). **Remarque :** l’ID utilisateur doit être unique. |
 | expire | Entier *requis* | Date à laquelle le jeton doit expirer à partir de maintenant (en secondes). **Remarque :** Cette valeur peut également être transmise sous la forme d’un nombre flottant. Le jeton Web JSON produit stockera cette valeur dans l’époque UNIX. |
 | displayName | Chaîne *requise* | Texte permettant d’identifier cet utilisateur dans l’interface utilisateur et dans les commentaires. (Nombre maximal de caractères : 50.) |
-
