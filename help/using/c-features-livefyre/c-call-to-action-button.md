@@ -1,17 +1,14 @@
 ---
-description: valeur nulle
-seo-description: valeur nulle
-seo-title: Bouton Appel à l’action personnalisé
 title: Bouton Appel à l’action personnalisé
-uuid: 8c653799-1602-4e38-a2bc-6de0f99c40ff
+description: Bouton Appel à l’action personnalisé
+exl-id: bcbde20f-7fc3-4a15-970d-6500ea888b59
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 3%
+source-wordcount: '287'
+ht-degree: 2%
 
 ---
-
 
 # Bouton d’appel à l’action personnalisé{#custom-call-to-action-button}
 
