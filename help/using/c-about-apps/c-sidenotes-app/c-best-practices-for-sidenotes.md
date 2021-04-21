@@ -1,18 +1,14 @@
 ---
 description: Transformez chaque élément de chaque page de votre site en toile collaborative et interactive.
-seo-description: Transformez chaque élément de chaque page de votre site en toile collaborative et interactive.
-seo-title: Bonnes pratiques pour les identifiants
-solution: Experience Manager
 title: Bonnes pratiques pour les identifiants
-uuid: 0f511fff-275a-436f-a81f-dbdf0bd39900
+exl-id: 2aa42a8b-89c2-4fd1-b21e-96eeb427bc47
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
-
 
 # Bonnes pratiques pour les identités{#best-practices-for-sidenotes}
 
@@ -30,7 +26,7 @@ Puisque Sidenotes présente une nouvelle façon de commenter, les équipes produ
 
 ## Développer la portée {#section_w1c_rc4_sy}
 
-Sidenotes offre non seulement une nouvelle perspective sur les commentaires, mais aussi sur le partage de contenu socialement. Lorsque vos lecteurs mettent en surbrillance un texte, les Sidenotes affichent un bouton pour qu’ils puissent partager votre contenu directement sur Twitter ou Facebook en deux clics. Cette expérience de faible friction augmente votre portée virale tout en offrant à vos utilisateurs un nouveau moyen de s&#39;engager facilement dans votre contenu.
+Sidenotes offre non seulement une nouvelle perspective sur les commentaires, mais aussi sur le partage de contenu socialement. Lorsque vos lecteurs mettent en surbrillance un bout de texte, Sidenotes affiche un bouton pour qu’ils puissent partager votre contenu directement sur Twitter ou Facebook en deux clics. Cette expérience de faible friction augmente votre portée virale tout en offrant à vos utilisateurs un nouveau moyen de s&#39;engager facilement dans votre contenu.
 
 ## Inscrivez votre communauté {#section_ipc_xc4_sy}
 
