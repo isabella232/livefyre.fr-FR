@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 9 août 2018.
-seo-description: Notes de mise à jour de la version du 9 août 2018.
-seo-title: 9 août 2018
-solution: Experience Manager
 title: 9 août 2018
-uuid: c59ae5ec-9d26-41c4-9a98-cb95c89ee26a
+exl-id: 7b2fb562-33bf-4c34-ab83-5fc34f5d1f4f
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '469'
 ht-degree: 8%
 
 ---
-
 
 # 9 août 2018{#august}
 
@@ -31,14 +27,14 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 | **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
 | bogue | Contenu de l’application | Correction d’un problème qui empêchait les administrateurs et les gestionnaires de contenu de modifier le contenu dans l’application Contenu. |
-| Amélioration | Applications | Les réseaux sociaux ont apporté des modifications à la vie privée, ce qui signifie que les mentions sociales ne seront plus prises en charge pour Facebook ou Twitter. |
+| Amélioration | Applications | Les réseaux sociaux ont apporté des modifications à la vie privée qui signifient que les mentions sociales ne seront plus prises en charge pour Facebook ou Twitter. |
 | Amélioration | Applications | Les réseaux sociaux ont apporté des changements à la vie privée. La fonction &quot;Publier vers&quot; qui publie automatiquement du contenu sur les réseaux sociaux (Facebook, LinkedIn, Twitter) a été supprimée. |
 | Amélioration | RGPD | Suppression de la bascule pour le mode Détails de la page des détails de la requête sous Paramètres > Confidentialité. La bascule du mode Détails est toujours accessible en ajoutant /dbg à la fin de l&#39;URL. |
-| bogue | Intégration : aem | Correction d’un problème en raison duquel le glisser-déplacer des applications Livefyre dans AEM apparaissait comme créant plusieurs applications. |
+| bogue | Intégration : AEM | Correction d’un problème en raison duquel le glisser-déplacer des applications Livefyre dans AEM apparaissait comme créant plusieurs applications. |
 | bogue | Bibliothèque | Correction d’un problème en raison duquel une ressource n’était pas correctement enregistrée dans la bibliothèque. |
 | bogue | Identité Livefyre | Correction d’un problème d’identité LF qui provoquait des erreurs 403 lors de la connexion. |
-| bogue | Recherche sociale | Correction d’un problème en raison duquel les utilisateurs ne pouvaient pas rechercher de publications Facebook publiques à l’aide de l’option URL dans la recherche sociale. |
-| Amélioration | Social Sync | Les réseaux sociaux ont apporté des modifications à la confidentialité, ce qui signifie que Social Sync ne sera plus pris en charge pour Facebook. |
+| bogue | Recherche sociale | Correction d’un problème en raison duquel les utilisateurs ne pouvaient pas rechercher des publications Facebook publiques à l’aide de l’option URL dans la recherche sociale. |
+| Amélioration | Social Sync | Les réseaux sociaux ont apporté des modifications à la vie privée qui signifient que Social Sync ne sera plus pris en charge pour Facebook. |
 | Amélioration | Flux | Désormais, lorsque vous supprimez une application, vous supprimez tous les flux associés à cette application. |
 | Amélioration | Studio | Les clients ont désormais la possibilité d&#39;émettre des événements Livefyre à Adobe Analytics individuellement, par opposition aux lots. |
 | Amélioration | Studio | Les fenêtres modales qui s’affichent dans les applications de conversation pour les réseaux sociaux seront désormais des fenêtres modales du réseau social au lieu de Adobe Experience Manager Livefyre ou d’autres fenêtres modales de marque. |
@@ -58,4 +54,3 @@ Les problèmes des tableaux suivants ont été résolus dans la version UAT.
 | bogue | Flux | Correction d’un problème d’affichage des flux sur l’environnement d’évaluation. |
 | Amélioration | Flux | Ajouté une bascule SFW (Safe For Work) et Not Safe For Work (NSFW) pour basculer dans Streams. |
 | Amélioration | Studio | Ajouté la fonctionnalité de balises actives au contenu téléchargé vers la bibliothèque Livefyre Studio via FileStack (fonctionnalité de téléchargement dans tous les fichiers). |
-
