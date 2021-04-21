@@ -1,18 +1,14 @@
 ---
 description: Ajouter la discussion en direct sur votre page.
-seo-description: Ajouter la discussion en direct sur votre page.
-seo-title: Chat
-solution: Experience Manager
 title: Chat
-uuid: d6761a69-efa5-4ad3-abaf-1ba8e6c17f94
+exl-id: f383bf19-0ff1-42ca-9b32-209a22679ad2
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1429'
 ht-degree: 3%
 
 ---
-
 
 # Chat{#chat}
 
