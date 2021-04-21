@@ -1,18 +1,14 @@
 ---
-description: valeur nulle
-seo-description: valeur nulle
-seo-title: Application SSL
-solution: Experience Manager
 title: Application SSL
-uuid: e64af8c2-3ab6-4034-b385-0e552d828c6e
+description: Application SSL
+exl-id: 033e15d9-84f6-42d5-8457-04263dcbd11c
 translation-type: tm+mt
-source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '540'
 ht-degree: 2%
 
 ---
-
 
 # Application SSL{#ssl-enforcement}
 
@@ -67,7 +63,7 @@ Une personne qui travaille au développement de votre site peut :
 
 Les JVM Oracle et OpenJDK pour Java 8 et versions ultérieures sont configurés pour utiliser TLS 1.2, par défaut, pour toutes les connexions SSL. Vous n’avez pas besoin d’effectuer d’autres actions si vous utilisez Java 8 ou une version ultérieure.
 
-Les utilisateurs de Java 7 ou version antérieure doivent consulter la documentation publique pour savoir comment activer TLS 1.2.
+Les utilisateurs de Java 7 ou version antérieure doivent consulter la documentation publique sur la façon d&#39;activer TLS 1.2.
 
 ## Pourquoi dois-je changer les noms de mes hôtes ? {#section_d5q_p25_kcb}
 
