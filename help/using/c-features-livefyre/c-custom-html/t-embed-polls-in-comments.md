@@ -1,18 +1,14 @@
 ---
 description: Incorporez des sondages dans votre flux de commentaires ou de blogs en direct.
-seo-description: Incorporez des sondages dans votre flux de commentaires ou de blogs en direct.
-seo-title: Incorporer les sondages dans les commentaires
-solution: Experience Manager
 title: Incorporer les sondages dans les commentaires
-uuid: 56f83743-352a-4ade-9a62-aeb46004b5db
+exl-id: 9005dfd2-d7f4-4d33-9f9b-e1fad3a72ae5
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
-
 
 # Incorporer les sondages dans les commentaires{#embed-polls-in-comments}
 
