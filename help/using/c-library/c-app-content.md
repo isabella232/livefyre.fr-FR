@@ -1,18 +1,14 @@
 ---
 description: Gestion du contenu sur votre réseau Livefyre.
-seo-description: Gestion du contenu sur votre réseau Livefyre.
-seo-title: Onglet Contenu de l’application
-solution: Experience Manager
 title: Onglet Contenu de l’application
-uuid: 65b23085-2b79-4a6f-96c9-44b421805312
+exl-id: 8b3e5281-59ba-4321-8fee-4160ab7a5d5e
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
-
 
 # Onglet Contenu de l’application{#app-content-tab}
 
@@ -66,7 +62,7 @@ Utilisez la barre **[!UICONTROL Filter by]** pour filtrer selon les options suiv
 
 * **** AuteurVous permet de filtrer selon l’ **[!UICONTROL IP]** adresse de l’auteur,  **[!UICONTROL Display Name]** (située dans le panneau Utilisateurs ou au-dessus du contenu publié par l’auteur) ou  **[!UICONTROL User ID]**(située dans le panneau Utilisateurs).
 
-* **** Contains (Contient) Permet de filtrer les 90 derniers jours de contenu par  **[!UICONTROL Keyword]** ou  **[!UICONTROL Content Tag]** par. Cochez la case **[!UICONTROL Media]** pour renvoyer uniquement le contenu contenant Media. (Pour rechercher tout le contenu, faites défiler le contenu vers le bas dans la liste, puis cliquez sur **[!UICONTROL Search full data]**.)
+* **** ContientPermet de filtrer les 90 derniers jours de contenu par  **[!UICONTROL Keyword]** ou  **[!UICONTROL Content Tag]** ou. Cochez la case **[!UICONTROL Media]** pour renvoyer uniquement le contenu contenant Media. (Pour rechercher tout le contenu, faites défiler le contenu vers le bas dans la liste, puis cliquez sur **[!UICONTROL Search full data]**.)
 
    **Remarque : la recherche de** plusieurs mots-clés et balises de contenu n’est pas prise en charge. Si plusieurs mots-clés ou balises sont entrés, le dernier mot est utilisé pour la recherche.
 
@@ -150,4 +146,3 @@ La plupart des actions régulières sur le contenu peuvent être effectuées sur
 
 * Le contenu proposé ne peut pas être balisé.
 * Les utilisateurs ne peuvent pas modifier leur contenu une fois celui-ci proposé, même s’ils peuvent le supprimer s’ils le souhaitent. Les modérateurs peuvent modifier le contenu proposé.
-
