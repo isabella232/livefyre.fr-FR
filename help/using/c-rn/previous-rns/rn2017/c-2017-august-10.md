@@ -1,17 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 10 août 2017.
-seo-description: Notes de mise à jour de la version du 10 août 2017.
-seo-title: 10 août 2017
 title: 10 août 2017
-uuid: a41ef369-3ef0-4c54-bfc5-e03713b08535
+exl-id: 9f92ac3b-a992-4c70-9860-4ffbc520a597
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '122'
 ht-degree: 13%
 
 ---
-
 
 # 10 août 2017{#august}
 
@@ -32,4 +29,3 @@ Notes de mise à jour de la version du 10 août 2017.
 | bogue | Commentaires | Correction d’un bogue dans les commentaires afin d’activer le téléchargement de .mov ou .mpg. |
 | bogue | Studio | Correction d’un bogue en raison duquel le tri était activé selon &quot;la plupart des participants&quot; et &quot;la plupart des éléments&quot;. |
 | bogue | Studio | Correction d’un bogue en raison duquel les commentaires de suivi en masse étaient autorisés. |
-
