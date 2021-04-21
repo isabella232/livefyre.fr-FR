@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 14 mars 2019 de Livefyre.
-seo-description: Notes de mise à jour de la version du 14 mars 2019 de Livefyre.
-seo-title: Notes de mise à jour
-solution: Experience Manager
 title: Notes de mise à jour de Livefyre pour le 14 mars 2019
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+exl-id: 16400d16-681f-47eb-9c6e-23ddf09752c6
 translation-type: tm+mt
-source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 9%
+source-wordcount: '156'
+ht-degree: 8%
 
 ---
-
 
 # Notes de mise à jour - 14 mars 2019
 
@@ -23,7 +19,7 @@ ht-degree: 9%
 ## Améliorations
 
 * Mise en oeuvre de la prise en charge de l’appel à l’action et au commerce (Produits) avec les intégrations natives Instagram.
-* Pour remédier aux abandons effectués par Instagram, les détails du contenu pour les applications ont été modifiés afin de rendre les Incorporations natives Instagram.
+* Pour remédier aux abandons effectués par Instagram, les détails du contenu pour les applications ont été modifiés afin de rendre Instagram Native Embed.
 
 
 ## Corrections de bogues
