@@ -1,17 +1,14 @@
 ---
 description: Modérez le contenu provenant d’un flux en utilisant la bibliothèque.
-seo-description: Modérez le contenu provenant d’un flux en utilisant la bibliothèque.
-seo-title: Modération du contenu à partir d’un flux
 title: Modération du contenu à partir d’un flux
-uuid: 38faf651-c547-49b3-b3d1-1a1d65c0f81c
+exl-id: 60111467-be63-4236-a06a-eb59b4c29bbe
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # Modération du contenu à partir d’un flux {#moderate-content-from-a-stream}
 
@@ -34,7 +31,7 @@ Placez le pointeur de la souris sur l’espace de commentaire et les options de 
 * **[!UICONTROL Bozo:]** Fait un effet de bozos sur l’auteur du contenu. Pour les Sidenotes, les utilisateurs peuvent être Bozo’d seulement depuis Studio, et non depuis le flux.
 * **[!UICONTROL Delete:]** Supprime le contenu du thread.
 * **[!UICONTROL Flag:]** Ouvre un module Indicateur qui vous permet de sélectionner un indicateur pour le contenu (indésirable, offensant, en désaccord ou hors sujet), de saisir une adresse électronique à associer à l&#39;indicateur, si nécessaire, et d&#39;ajouter une note.
-* **[!UICONTROL Share:]** Ouvre un module Partager qui vous permet de partager sur Facebook ou Twitter, de modifier le texte et d’inclure un lien de perméable vers le contenu lui-même.
+* **[!UICONTROL Share:]** Ouvre un module Partager, qui vous permet de partager sur Facebook ou Twitter, de modifier le texte et d’inclure un lien de pérennité dans le contenu lui-même.
 * **[!UICONTROL Feature:]** Présente le contenu.
 
 
@@ -46,4 +43,3 @@ Applications qui utilisent cette fonctionnalité :
 * [Critiques](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-
