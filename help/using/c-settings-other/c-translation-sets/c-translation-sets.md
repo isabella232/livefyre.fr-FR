@@ -1,18 +1,14 @@
 ---
 description: Les jeux de traduction vous permettent de spécifier une autre langue pour les applications.
-seo-description: Les jeux de traduction vous permettent de spécifier une autre langue pour les applications.
-seo-title: Jeux de transformations
-solution: Experience Manager
 title: Jeux de transformations
-uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
+exl-id: 1de99602-b97e-42e9-8450-39abd4ba2f9b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1347'
+source-wordcount: '1335'
 ht-degree: 7%
 
 ---
-
 
 # Jeux de traduction{#translation-sets}
 
@@ -332,4 +328,3 @@ Chaînes disponibles pour les messages d’erreur généraux.
 |  | errorDuplicate | Votre note nous plaît aussi, mais vous ne pouvez pas la poster deux fois. |
 |  | errorGeneral | Une erreur s&#39;est produite. Veuillez réessayer. |
 |  | errorServer | Quelque chose s&#39;est mal passé avec notre serveur. Essaie encore ça ? |
-
