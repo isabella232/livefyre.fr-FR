@@ -1,18 +1,14 @@
 ---
 description: Permettre aux utilisateurs de publier, modifier, marquer, supprimer, répondre et aimer du contenu dans vos collections, avec une gamme complète d'options de formatage de texte enrichi.
-seo-description: Permettre aux utilisateurs de publier, modifier, marquer, supprimer, répondre et aimer du contenu dans vos collections, avec une gamme complète d'options de formatage de texte enrichi.
-seo-title: Publications utilisateur
-solution: Experience Manager
 title: Publications utilisateur
-uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
+exl-id: 8a9e2bef-d53c-4693-bc54-6186d08ac7d0
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '630'
 ht-degree: 1%
 
 ---
-
 
 # Publications utilisateur{#user-posts}
 
@@ -102,4 +98,3 @@ Applications qui utilisent les publications utilisateur :
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Bouton Télécharger](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
