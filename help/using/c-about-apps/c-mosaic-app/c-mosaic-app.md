@@ -1,18 +1,14 @@
 ---
 description: Ajoutez un mur dynamique de couleurs, de photos et de vidéos sur votre site à l’aide d’une application Mosaic.
-seo-description: Ajoutez un mur dynamique de couleurs, de photos et de vidéos sur votre site à l’aide d’une application Mosaic.
-seo-title: Mosaïque
-solution: Experience Manager
 title: Mosaïque
-uuid: 331c5f80-7440-4b91-8ac6-4f56a8a5befe
+exl-id: 79259c77-169d-4819-a7b0-39f64d92ea1e
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '789'
 ht-degree: 1%
 
 ---
-
 
 # Mosaïque{#mosaic}
 
@@ -103,4 +99,3 @@ La localisation est disponible pour Mosaïque. Vous pouvez :
 * Création et modification d’un jeu de traduction pour Mosaic
 * Application d’une visionneuse de conversions à un site
 * Application d’une visionneuse de traduction à un réseau
-
