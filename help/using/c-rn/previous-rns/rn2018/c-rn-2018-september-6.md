@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 6 septembre 2018.
-seo-description: Notes de mise à jour de la version du 6 septembre 2018.
-seo-title: 6 septembre 2018
-solution: Experience Manager
 title: 6 septembre 2018
-uuid: 8dbe8be0-cc3c-4d96-af56-1808d8555af3
+exl-id: 61a4b43e-d40f-41bf-b9cc-0303b0232c6b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '427'
 ht-degree: 4%
 
 ---
-
 
 # 6 septembre 2018{#september}
 
@@ -49,8 +45,8 @@ Les problèmes des tableaux suivants ont été résolus dans la version de produ
 | **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
 | bogue | Commentaires | Correction d’un problème en raison duquel les fichiers audio ne s’affichaient pas correctement dans l’application de commentaires. |
-| bogue | Bibliothèque | Correction d’un problème en raison duquel la recherche sur Instagram à l’aide de la recherche d’URL de bibliothèque affichait un bouton de lecture sur la miniature lorsque la carte affichait une image et non une vidéo. |
-| bogue | Bibliothèque | Correction d’un problème en raison duquel la publication de contenu sur une application issue d’une recherche d’URL Instagram n’affichait pas de miniature. |
+| bogue | Bibliothèque | Correction d’un problème en raison duquel la recherche dans Instagram à l’aide de la recherche d’URL de bibliothèque affichait un bouton de lecture sur la miniature lorsque la carte affichait une image et non une vidéo. |
+| bogue | Bibliothèque | Correction d’un problème en raison duquel la publication de contenu sur une application obtenue lors d’une recherche d’URL Instagram n’affichait pas de miniature. |
 | bogue | Bibliothèque | Correction d’un problème en raison duquel, après l’ajout d’un produit à une ressource, l’ouverture des détails de cette ressource, puis le fait de cliquer sur l’onglet de conversion, les produits de cette ressource ne s’affichaient pas. |
 
 ## Version UAT {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
@@ -60,4 +56,3 @@ Les problèmes des tableaux suivants ont été résolus dans la version UAT de c
 | **Type de problème** | **Composant** | **Note de mise à jour** |
 |---|---|---|
 | bogue | Composant social : Téléchargement de média | Correction d’un problème en raison duquel les utilisateurs ne pouvaient pas télécharger de médias dans le film strip comme prévu. |
-
