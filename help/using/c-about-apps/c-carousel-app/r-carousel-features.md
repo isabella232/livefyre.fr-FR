@@ -1,18 +1,14 @@
 ---
 description: L’application Carrousel offre ces fonctionnalités pour votre site.
-seo-description: L’application Carrousel offre ces fonctionnalités pour votre site.
-seo-title: Fonctionnalités du carrousel
-solution: Experience Manager
 title: Fonctionnalités du carrousel
-uuid: c5c95675-d7ca-4677-b293-16de5ccf0022
+exl-id: bb3555fd-e861-4100-a1ce-c6f22ca9dbfc
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '52'
 ht-degree: 3%
 
 ---
-
 
 # Caractéristiques du carrousel {#carousel-features}
 
@@ -30,4 +26,3 @@ Les fonctionnalités suivantes sont disponibles dans un carrousel :
 * [SÉCURITÉ](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation)
 * [Jeux de transformations](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
 * [Fonctionnalités de contribution sur site](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_vzs_t2s_d1b)
-
