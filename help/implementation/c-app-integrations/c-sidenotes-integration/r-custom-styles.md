@@ -1,17 +1,14 @@
 ---
 description: Les styles personnalisés sont appliqués par le biais d’un objet injecté dans le constructeur Sidenotes.
-seo-description: Les styles personnalisés sont appliqués par le biais d’un objet injecté dans le constructeur Sidenotes.
-seo-title: Identifie les styles personnalisés
 title: Identifie les styles personnalisés
-uuid: 0f6d7ad6-1f6a-4ed2-b86a-0d03782e591e
+exl-id: 846605b7-a21e-4600-bf17-18841d2ed96d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
-
 
 # Identifie les styles personnalisés{#sidenotes-custom-styles}
 
@@ -57,4 +54,3 @@ new Livefyre.Sidenotes({
 | `streamPoweredBy` | &quot;BackgroundColor&quot;, &quot;borderColor&quot;, &quot;lineHeight&quot; | Pied de page &quot;Powered by&quot; sur la fenêtre contextuelle. |
 | `streamQueueButton` | &quot;BackgroundColor&quot;, &quot;borderColor&quot;, &quot;borderWidth&quot;, &quot;fontColor&quot;, &quot;fontFamily&quot;, &quot;fontSize&quot;, &quot;fontWeight&quot;, &quot;lineHeight&quot; | Bouton pour indiquer quand les nouvelles notes se propagent dans une fenêtre contextuelle ouverte. |
 | `userAvatar` | &quot;hauteur&quot;, &quot;largeur&quot; | L’avatar de l’utilisateur authentifié, à gauche de l’éditeur de zone de texte. |
-
