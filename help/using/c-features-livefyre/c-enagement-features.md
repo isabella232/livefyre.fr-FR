@@ -1,18 +1,14 @@
 ---
 description: Engagez les visiteurs de votre site avec des fonctionnalités qui les empêchent de revenir sur votre site lorsqu'ils découvrent votre contenu.
-seo-description: Engagez les visiteurs de votre site avec des fonctionnalités qui les empêchent de revenir sur votre site lorsqu'ils découvrent votre contenu.
-seo-title: Fonctions d’engagement
-solution: Experience Manager
 title: Fonctions d’engagement
-uuid: 5841a183-62c0-40ae-9cef-884bffb7c39b
+exl-id: 2e5554ad-42f8-445f-90f7-e12d320416d0
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
-
 
 # Fonctionnalités d’engagement{#enagement-features}
 
@@ -97,4 +93,3 @@ La suite d’une conversation permet aux utilisateurs de recevoir des notificati
 >[!NOTE]
 >
 >Les courriels ne sont envoyés que pour du contenu publié manuellement, et non pour du contenu extrait dans le flux par l’intermédiaire de SocialSync ou de Traiter.
-
