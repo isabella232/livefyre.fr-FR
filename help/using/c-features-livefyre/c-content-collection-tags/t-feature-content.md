@@ -1,18 +1,14 @@
 ---
 description: Utilisez un style personnalisé pour mettre en surbrillance le contenu phare.
-seo-description: Utilisez un style personnalisé pour mettre en surbrillance le contenu phare.
-seo-title: Contenu des fonctionnalités
-solution: Experience Manager
 title: Contenu des fonctionnalités
-uuid: 0e347703-f119-4778-9609-2d6500844d6e
+exl-id: e11d7d1c-b249-4bb0-84c3-04f9f19f120e
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # Contenu des fonctionnalités{#feature-content}
 
@@ -40,4 +36,3 @@ La fonctionnalité de contenu vous permet d’attirer l’attention sur les publ
    * [En vedette (site)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_lq5_ymw_xz)
    * [En vedette (collection)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_kgc_xmw_xz)
    * [En vedette (Head)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_n4b_lmw_xz)
-
