@@ -1,18 +1,14 @@
 ---
 description: Consultez et modifiez les ressources de Livefyre avec une demande de droits en attente.
-seo-description: Consultez et modifiez les ressources de Livefyre avec une demande de droits en attente.
-seo-title: Gérer le contenu avec des requêtes de droits en attente de la bibliothèque de fichiers
-solution: Experience Manager
 title: Gérer le contenu avec des requêtes de droits en attente de la bibliothèque de fichiers
-uuid: fab285af-de09-4061-a946-5bede91603de
+exl-id: f25be7d8-6d53-4365-9215-d6076b39f7b4
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # Gérer le contenu avec des requêtes de droits en attente de la bibliothèque de fichiers{#manage-content-with-a-pending-rights-requests-from-the-asset-library}
 
