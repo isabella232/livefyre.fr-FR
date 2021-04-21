@@ -1,16 +1,13 @@
 ---
 description: valeur nulle
-seo-description: valeur nulle
-seo-title: Utilisation de Livefyre avec Adobe Analytics et Dynamic Tag Manager (DTM) lk xavvn   utilisation d’Adobe Analytics et de la gestion dynamique des balises (DTM)
-uuid: 9a1c25c0-c474-46ff-82ac-e89357007c7f
+exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1003'
 ht-degree: 1%
 
 ---
-
 
 # Utilisation de Livefyre avec Adobe Analytics et Dynamic Tag Manager (DTM){#use-livefyre-with-adobe-analytics-and-dynamic-tag-manager-dtm}
 
