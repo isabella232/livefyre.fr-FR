@@ -1,18 +1,14 @@
 ---
 description: Tuyauterie de contenu sélectionné dans vos applications Livefyre ou votre bibliothèque Studio.
-seo-description: Tuyauterie de contenu sélectionné dans vos applications Livefyre ou votre bibliothèque Studio.
-seo-title: Flux
-solution: Experience Manager
 title: Flux
-uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
+exl-id: 5abc2e7c-ee5f-4f73-8eb4-8d8a1c8c73a3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # Flux{#streams}
 
@@ -33,4 +29,3 @@ Utilisez l’interface Flux pour définir les règles selon lesquelles Studio di
 >[!NOTE]
 >
 >Le contenu créé pendant que votre flux est principal apparaîtra dans vos applications. Le contenu créé avant la définition des règles et le flux principal, ou après la désactivation d’un flux, ne s’affiche pas dans vos applications.
-
