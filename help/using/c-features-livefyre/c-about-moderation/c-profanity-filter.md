@@ -1,18 +1,14 @@
 ---
-description: valeur nulle
-seo-description: valeur nulle
-seo-title: Utilisation du filtre de rentabilité
-solution: Experience Manager
 title: Utilisation du filtre de rentabilité
-uuid: b0b1fbae-c88c-403c-9b91-df6620675f39
+description: Utilisation du filtre de rentabilité
+exl-id: 6ea7d913-f562-42a5-a6ea-241aa4e1089a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '691'
-ht-degree: 1%
+source-wordcount: '689'
+ht-degree: 0%
 
 ---
-
 
 # Utilisation du filtre de rentabilité{#using-the-profanity-filter}
 
@@ -90,4 +86,3 @@ Pour créer des règles de modération, sélectionnez **[!UICONTROL Settings > N
 >[!NOTE]
 >
 >Seuls les administrateurs et les modérateurs de Studio peuvent modifier les Listes Profanity.
-
