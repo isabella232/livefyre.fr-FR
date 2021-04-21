@@ -1,18 +1,14 @@
 ---
 description: User Sync vous permet d’entrer le point de terminaison utilisé pour récupérer les données de profil utilisateur de votre système de gestion des utilisateurs.
-seo-description: User Sync vous permet d’entrer le point de terminaison utilisé pour récupérer les données de profil utilisateur de votre système de gestion des utilisateurs.
-seo-title: Synchronisation des utilisateurs
-solution: Experience Manager
 title: Synchronisation des utilisateurs
-uuid: 6259e6fa-0541-4f5b-9d14-4c7c932ef997
+exl-id: 6a7a4bb3-a344-48be-8ba1-fd6d27a3b4af
 translation-type: tm+mt
-source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 1%
+source-wordcount: '85'
+ht-degree: 2%
 
 ---
-
 
 # User Sync{#user-sync}
 
@@ -24,4 +20,3 @@ Voir **[!UICONTROL Identity Integration > Your Identity Service]** pour plus d�
 
 **URL de synchronisation des profils :** entrez l’URL à partir de laquelle Livefyre récupérera vos informations de profil d’utilisateur mises à jour.
 * Par exemple: `https://example.yoursite.com/some_path/?id={***id***}`
-
