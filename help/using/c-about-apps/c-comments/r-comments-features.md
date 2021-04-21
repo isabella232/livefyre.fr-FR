@@ -1,22 +1,18 @@
 ---
-description: De nombreuses fonctions sont fournies avec l’application de commentaires pour incorporer des conversations en temps réel dans votre site.
-seo-description: De nombreuses fonctions sont fournies avec l’application de commentaires pour incorporer des conversations en temps réel dans votre site.
-seo-title: Fonctionnalités des commentaires
-solution: Experience Manager
+description: De nombreuses fonctions sont fournies avec l’application de commentaires pour intégrer des conversations en temps réel sur votre site.
 title: Fonctionnalités des commentaires
-uuid: ec00fcc9-1b5e-4d0b-b1da-95f9f26b4cc1
+exl-id: aca45cfc-07cb-4f58-8ad4-f7d07fe250ca
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 7%
+source-wordcount: '106'
+ht-degree: 8%
 
 ---
 
-
 # Fonctionnalités des commentaires{#comments-features}
 
-De nombreuses fonctions sont fournies avec l’application de commentaires pour incorporer des conversations en temps réel dans votre site.
+De nombreuses fonctions sont fournies avec l’application de commentaires pour intégrer des conversations en temps réel sur votre site.
 
 * [Authentification](/help/using/c-features-livefyre/c-authentication.md#c_authentication)
 * [Avatars](/help/using/c-features-livefyre/c-styling-features/c-avatars.md#c_avatars)
@@ -53,7 +49,6 @@ De nombreuses fonctions sont fournies avec l’application de commentaires pour 
 * [Ralentir les commentaires](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_d5c_2bm_d1b)
 * [Principaux commentaires](/help/using/c-features-livefyre/c-sort-features-composite/c-top-comments.md#c_top_comments)
 * [Jeux de transformations](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
-* [Boutons d’action Twitter](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
+* [Boutons d’action twitter](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
 * [Badges d’utilisateur](/help/using/c-features-livefyre/c-styling-features/c-user-badges.md#c_user_badges)
 * [Publications utilisateur](/help/using/c-features-livefyre/c-content-behavior-features/c-user-posts.md#c_user_posts)
-
