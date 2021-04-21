@@ -1,18 +1,14 @@
 ---
 description: Modifiez les options de taille, de largeur et d’interaction de l’application Carte.
-seo-description: Modifiez les options de taille, de largeur et d’interaction de l’application Carte.
-seo-title: Personnalisations des cartes de fonctions
-solution: Experience Manager
 title: Personnalisations des cartes de fonctions
-uuid: dd43c076-027f-42c8-be2e-7d863d4e3976
+exl-id: b907885a-211d-4628-9955-5f1a5ec577cf
 translation-type: tm+mt
-source-git-commit: a014b5cd618672934843f1adf20d6b2cc504e2d8
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # Personnalisations des cartes de fonctionnalités{#feature-card-customizations}
 
@@ -49,4 +45,3 @@ Vous pouvez personnaliser les cartes de fonctions à l’aide des éléments sui
    * **[!UICONTROL Filter UGC by Product ID]**. Sélectionnez cette option pour créer une application pour plusieurs pages de produits. Filtrez l’UGC spécifique à chaque produit dans l’application pour chaque page de produit. Vous pouvez sélectionner un ou plusieurs dossiers pour associer des collections spécifiques à l’application.
    * **[!UICONTROL Select Product folders]**. Sélectionnez les dossiers de produits de niveau supérieur à utiliser pour filtrer les fichiers UGC. Utilisez `CTRL/Command + click` pour sélectionner plusieurs dossiers. Livefyre utilise ce dossier pour déterminer les produits qu’il contient à afficher dans l’application sur différentes pages.
    * **[!UICONTROL Show related content]**. Activez cette option pour afficher le contenu publié sur l’application, mais balisé avec un autre ID de produit. Une fois que le contenu spécifique à un produit pour l’application s’affiche, Livefyre affiche le contenu pour d’autres produits et le contenu qui n’est pas associé à un produit. Livefyre donne d’abord la priorité au contenu avec le même ID de produit, puis au contenu publié sur l’application avec d’autres ID de produit, puis au contenu publié sur l’application sans ID de produit.
-
