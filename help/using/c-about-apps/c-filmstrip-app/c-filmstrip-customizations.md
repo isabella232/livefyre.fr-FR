@@ -1,18 +1,14 @@
 ---
-description: valeur nulle
-seo-description: valeur nulle
-seo-title: Personnalisations du film strip
-solution: Experience Manager
 title: Personnalisations du film strip
-uuid: 99f8b697-4aa3-4813-bcac-d0e0bdee252d
+description: Personnalisations du film strip
+exl-id: 2765699f-7adc-4b17-acfb-ef594ff65e89
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # Personnalisations du film strip{#filmstrip-customizations}
 
@@ -54,4 +50,3 @@ Vous pouvez personnaliser le film strip à l’aide des options supplémentaires
    * **[!UICONTROL Show related content]**. Activez cette option pour afficher le contenu publié sur l’application, mais balisé avec un autre ID de produit. Une fois que le contenu spécifique à un produit pour l’application s’affiche, Livefyre affiche le contenu pour d’autres produits et le contenu qui n’est pas associé à un produit. Livefyre donne d’abord la priorité au contenu avec le même ID de produit, puis au contenu publié sur l’application avec d’autres ID de produit, puis au contenu publié sur l’application sans ID de produit.
 
 Pour plus d’informations sur la personnalisation d’une bande de film à l’aide de Livefyre.js, voir [Options de bande de film](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md).
-
