@@ -1,18 +1,14 @@
 ---
 description: Vous pouvez utiliser Livefyre Identity avec Yahoo! pour permettre aux utilisateurs d’utiliser leur Yahoo! se connecte pour interagir avec les applications sur votre site.
-seo-description: Vous pouvez utiliser Livefyre Identity avec Yahoo! pour permettre aux utilisateurs d’utiliser leur Yahoo! se connecte pour interagir avec les applications sur votre site.
-seo-title: Créez un Yahoo! Application à utiliser avec l’identité Livefyre
-solution: Experience Manager
 title: Créez un Yahoo! Application à utiliser avec l’identité Livefyre
-uuid: 6863cd2e-eb0d-465b-b706-88ecaccf41bc
+exl-id: 6b4c6ea9-1cb0-4496-aabe-70811f464a3d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # Créez un Yahoo! Application à utiliser avec l’identité Livefyre{#create-a-yahoo-app-for-use-with-livefyre-identity}
 
