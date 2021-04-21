@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 12 avril 2018.
-seo-description: Notes de mise à jour de la version du 12 avril 2018.
-seo-title: 12 avril 2018
-solution: Experience Manager
 title: 12 avril 2018
-uuid: f6c3f1f1-d716-4da3-9ba9-3f3623d8d9f5
+exl-id: caa7a8e9-0648-4d5b-8623-390c904cf750
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '534'
 ht-degree: 5%
 
 ---
-
 
 # 12 avril 2018{#april}
 
@@ -42,7 +38,7 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 | Amélioration | Filmstrip | Correction de certains problèmes pour rendre Filmstrip plus accessible. |
 | Amélioration | Bibliothèque, applications | Correction d’un problème en raison duquel les vidéos d’Instagram qui étaient plus anciennes que trois mois ne s’affichaient pas correctement dans la bibliothèque et les applications. |
 | Amélioration | Mur multimédia | Amélioration de l’accessibilité du mur multimédia des manières suivantes : <br>L’ouverture et la fermeture des modules par le biais des commandes du clavier ne décaleront plus la sélection<br>vers le haut de la page. La cible d’action reste concentrée sur l’élément qui a été le dernier avant la fenêtre contextuelle modale.  <br>Le bouton Charger plus peut être enfoncé et déclenché à l’aide de la touche Entrée du clavier. |
-| Amélioration | Mur multimédia | Correction d’un problème en raison duquel le fait de cliquer sur une icône Twitter, Instagram ou Facebook vous conduisait à la page d’accueil, mais indiquait incorrectement dans les lecteurs d’écran que l’icône vous conduisait à la publication individuelle. Ce problème a été corrigé afin d’identifier que l’icône vous conduit à la page d’accueil et non à la publication. |
+| Amélioration | Mur multimédia | Correction d’un problème en raison duquel le fait de cliquer sur une icône Twitter, Instagram ou Facebook vous amenait à la page d’accueil, mais indiquait incorrectement dans les lecteurs d’écran que l’icône vous conduisait à la publication individuelle. Ce problème a été corrigé afin d’identifier que l’icône vous conduit à la page d’accueil et non à la publication. |
 | bogue | Mosaïque | Correction d’un problème en raison duquel une application Mosaic n’affichait pas la couleur correcte dans le Concepteur d’applications. |
 | bogue | Rights Management | Correction d’un problème en raison duquel les demandes de droits ne fonctionnaient pas pour les ressources après les avoir trouvées dans une recherche sur les réseaux sociaux. |
 | Amélioration | Sidenotes | Correction d’un problème d’accessibilité dans l’application Sidenotes en raison duquel le rôle du bouton n’était pas clairement présenté pour le logiciel de lecture d’écran. |
@@ -59,4 +55,3 @@ Les problèmes des tableaux suivants ont été résolus dans cette version.
 |---|---|---|
 | Amélioration | UGC | Correction d’un problème en raison duquel l’indicateur de commerce UGC était défini sur &quot;désactivé&quot; par défaut au lieu de &quot;activé&quot;. |
 | Amélioration | Flux |  |
-
