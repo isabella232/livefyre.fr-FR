@@ -1,18 +1,14 @@
 ---
 description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu des flux RSS.
-seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu des flux RSS.
-seo-title: Règles RSS
-solution: Experience Manager
 title: Règles RSS
-uuid: 3c9e2069-bb85-41dc-8b35-6237642a538a
+exl-id: bfb3bbad-ab26-451e-b540-d6c41f54dc31
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # Règles RSS{#rss-rules}
 
