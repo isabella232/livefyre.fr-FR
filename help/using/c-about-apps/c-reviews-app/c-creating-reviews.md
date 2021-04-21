@@ -1,24 +1,20 @@
 ---
 description: Vérifie les offres sur un large éventail de personnalisations, ce qui vous permet de créer une application de révision qui correspond à vos besoins et à votre marque.
-seo-description: Vérifie les offres sur un large éventail de personnalisations, ce qui vous permet de créer une application de révision qui correspond à vos besoins et à votre marque.
-seo-title: Création d’une application de révision
-solution: Experience Manager
 title: Création d’une application de révision
-uuid: 6caeafe7-c04e-484e-b02f-98dc6d9b3184
+exl-id: 14f074d2-922c-4997-8d7d-f2c92f069e07
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
-
 
 # Création d’une application de révisions {#creating-a-reviews-app}
 
 Vérifie les offres sur un large éventail de personnalisations, ce qui vous permet de créer une application de révision qui correspond à vos besoins et à votre marque.
 
-Utilisez l’application Reviews en l’incorporant sur votre site en tant qu’application JS. Vous ne pouvez pas créer d’application de révisions dans Livefyre Studio. Pour créer une application Reviews sur votre site, voir [Intégration Reviews](/help/implementation/c-app-integrations/c-reviews-integration.md).
+Utilisez l’application Reviews en l’incorporant sur votre site en tant qu’application JS. Vous ne pouvez pas créer d’application de révisions dans Livefyre Studio. Pour créer une application de révisions sur votre site, voir [Intégration de révisions](/help/implementation/c-app-integrations/c-reviews-integration.md).
 
 
 ## Notations {#section_hs5_c4h_21b}
@@ -39,7 +35,7 @@ Pour plus d&#39;informations, voir **[!UICONTROL Configure Star Ratings]** sous 
 
 Les dimensions d’évaluation sont les catégories sur lesquelles vos réviseurs évaluent votre produit ou service. Les dimensions d’évaluation sont, par exemple, &quot;performances&quot;, &quot;conception&quot;, &quot;coût&quot;, &quot;global&quot; ou toute autre catégorie de votre choix.
 
-La valeur par défaut est d’afficher une dimension d’évaluation &quot;globale&quot;, mais vous pouvez définir et implémenter plusieurs dimensions d’évaluation, comme indiqué dans l’exemple ci-dessous.
+La valeur par défaut est d’afficher une dimension &quot;globale&quot;, mais vous pouvez définir et mettre en oeuvre plusieurs dimensions, comme illustré dans l’exemple ci-dessous.
 
 Pour plus d’informations, voir le champ ratingDimensions sous Réviser les métadonnées de la collection.
 
