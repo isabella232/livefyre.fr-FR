@@ -1,17 +1,14 @@
 ---
 description: Automatisation du processus à l’aide des API de fonctions
-seo-description: Automatisation du processus à l’aide des API de fonctions
-seo-title: API de fonctionnalités
 title: API de fonctionnalités
-uuid: eac3a156-0b60-4ffa-8b6f-e451eb03da77
+exl-id: 765e47fe-a406-44e6-b4fb-b2e85fc83c01
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '146'
+ht-degree: 2%
 
 ---
-
 
 # API de fonctionnalités{#feature-apis}
 
@@ -68,4 +65,3 @@ Saisissez le jeton utilisateur pour le modérateur sélectionné.
 >[!NOTE]
 >
 >Le champ de données n&#39;est pas encore utilisé.
-
