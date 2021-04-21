@@ -1,17 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 7 septembre 2017.
-seo-description: Notes de mise à jour de la version du 7 septembre 2017.
-seo-title: 7 septembre 2017
 title: 7 septembre 2017
-uuid: a736cc77-8989-4066-b19c-8cac7bf6d7f9
+exl-id: 761debfa-676b-456f-812a-8e1516ab7689
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 7%
+source-wordcount: '406'
+ht-degree: 6%
 
 ---
-
 
 # 7 septembre 2017{#september}
 
@@ -25,7 +22,7 @@ Notes de mise à jour de la version du 7 septembre 2017.
 | bogue | Recherche de bibliothèque | Correction d’un bogue en raison duquel aucun résultat n’était renvoyé lors de l’utilisation de la recherche de balises et de notations dans la bibliothèque. |
 | bogue | Recherche de bibliothèque | Correction d’un bogue en raison duquel les requêtes de recherche sociale ne renvoyaient rien si la liste de résultats incluait des URL mal formées. |
 | Amélioration | SÉCURITÉ | Ajouté une nouvelle fonctionnalité pour interdire les commentaires des Visiteurs du site dans une région IP donnée. Contactez votre gestionnaire de compte pour configurer votre réseau Livefyre. |
-| bogue | Flux | Correction d’un bogue qui permettait d’enregistrer des règles de flux Instagram contenant une entrée dans le champ &quot;N’est publié par aucun de ces auteurs&quot;. |
+| bogue | Flux | Correction d’un bogue qui autorisait l’enregistrement des règles de flux Instagram contenant une entrée dans le champ &quot;N’est publié par aucun de ces auteurs&quot;. |
 | bogue | Studio | Correction d’un bogue en raison duquel le tri était activé selon &quot;la plupart des participants&quot; et &quot;la plupart des éléments&quot;. |
 | bogue | Studio | Correction d’un bogue en raison duquel les horodatages de l’application affichaient une date de création incorrecte dans le tableau. |
 | bogue | Studio | Correction d’un bogue d’ordre de tri avec les filtres récents et les plus anciens dans App Manager. |
@@ -43,4 +40,3 @@ Notes de mise à jour de la version du 7 septembre 2017.
 | Amélioration | Mosaïque | Il s’agit d’une nouvelle configuration qui permet aux clients de spécifier le nombre de cartes à afficher dans l’application de visualisation Mosaic. |
 | bogue | Rights Management | Correction d’un bogue empêchant un utilisateur de Studio de demander des droits sur le contenu du carrousel Instagram. |
 | bogue | Studio | Messages d&#39;erreur plus clairs Ajoutés lors de la création de sites. |
-
