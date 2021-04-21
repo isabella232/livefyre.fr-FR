@@ -1,18 +1,14 @@
 ---
 description: Créez un jeton unique sur votre serveur qui identifie chaque collection que vous créez.
-seo-description: Créez un jeton unique sur votre serveur qui identifie chaque collection que vous créez.
-seo-title: CollectionMeta Token
-solution: Experience Manager
 title: CollectionMeta Token
-uuid: d5db0b0f-2807-4392-874a-94ac3c1e7550
+exl-id: 52edfe75-5ce6-40c9-9afe-c34a3812f1e7
 translation-type: tm+mt
-source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 2%
+source-wordcount: '329'
+ht-degree: 3%
 
 ---
-
 
 # CollectionMeta Token{#collectionmeta-token}
 
