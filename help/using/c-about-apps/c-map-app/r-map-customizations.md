@@ -1,18 +1,14 @@
 ---
 description: Modifiez les options de taille, de largeur et d’interaction de l’application Carte.
-seo-description: Modifiez les options de taille, de largeur et d’interaction de l’application Carte.
-seo-title: Mapper les personnalisations
-solution: Experience Manager
 title: Mapper les personnalisations
-uuid: 3a3bffde-5d1b-41da-9aa8-d25b43d0df76
+exl-id: 71d3bb65-cd10-48c6-bf6b-8442b0fdb891
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
-
 
 # Mapper les personnalisations{#map-customizations}
 
@@ -59,4 +55,3 @@ Vous pouvez personnaliser l’application Carte à l’aide des éléments suiva
 * **[!UICONTROL Style]** et  **[!UICONTROL Config]** options pour toutes les applications dans le  **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options **[!UICONTROL Style]** et **[!UICONTROL Config]** standard pour toutes les applications dans le **[!UICONTROL App Designer]**.
 
 * Outils d’intégration. Voir Carte pour en savoir plus sur la personnalisation des applications à l’aide des outils d’intégration.
-
