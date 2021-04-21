@@ -1,18 +1,14 @@
 ---
 description: Créez un flux dans Livefyre pour ajouter du contenu à une application ou à un dossier.
-seo-description: Créez un flux dans Livefyre pour ajouter du contenu à une application ou à un dossier.
-seo-title: Créer un flux
-solution: Experience Manager
 title: Créer un flux
-uuid: 2874660b-d26b-4e21-b24e-484744e2303a
+exl-id: 70d1b745-205e-40d8-bfb8-702977648fb7
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Créer un nouveau flux {#create-a-new-stream}
 
