@@ -1,18 +1,14 @@
 ---
 description: Activez les commentaires en direct sur votre page.
-seo-description: Activez les commentaires en direct sur votre page.
-seo-title: Commentaires
-solution: Experience Manager
 title: Commentaires
-uuid: decad9b0-2074-4748-bd77-914008817bfa
+exl-id: d62b3dc1-3c5e-45f6-9b21-ea1edcda9812
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 3%
+source-wordcount: '1468'
+ht-degree: 2%
 
 ---
-
 
 # Commentaires{#comments}
 
