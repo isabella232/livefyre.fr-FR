@@ -1,18 +1,14 @@
 ---
 description: Limitez le type de média entrant dans le flux d’application.
-seo-description: Limitez le type de média entrant dans le flux d’application.
-seo-title: Restreindre le média
-solution: Experience Manager
 title: Restreindre le média
-uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
+exl-id: ae09a058-41de-4b63-8654-cc82f5abad14
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Restreindre le média{#restrict-media}
 
@@ -24,7 +20,7 @@ Par défaut, toutes les pièces jointes peuvent être incorporées dans des appl
 >
 >Livefyre travaille en partenariat avec Embetly pour l&#39;intégration des médias. Pour plus d’informations, voir Intégration de contenu > Intégration héritée. Contactez votre gestionnaire de compte technique pour toute question concernant l&#39;extension des liens ou les sources.
 
-Cet exemple bloque l’intégration de YouTube et de Vimeo dans votre flux de commentaires :
+Cet exemple bloque les intégrations YouTube et Vimeo de votre flux de commentaires :
 
 ```
 var attachmentDelegate = function(embedObj) { 
@@ -44,4 +40,3 @@ Lors du chargement de la conversation :
 networkConfig["attachmentDelegate"] = attachmentDelegate; 
 fyre.conv.load(networkConfig, [convConfig]);
 ```
-
