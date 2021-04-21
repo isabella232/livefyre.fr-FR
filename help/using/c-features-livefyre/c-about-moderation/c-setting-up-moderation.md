@@ -1,18 +1,14 @@
 ---
 description: Utilisez l’onglet Modération pour définir des règles de prémodération pour le contenu entrant, y compris les listes de profil, les règles d’indicateur et les adresses IP interdites.
-seo-description: Utilisez l’onglet Modération pour définir des règles de prémodération pour le contenu entrant, y compris les listes de profil, les règles d’indicateur et les adresses IP interdites.
-seo-title: Configuration de la modération
-solution: Experience Manager
 title: Configuration de la modération
-uuid: 0ec53fdb-08c2-4058-88cb-2f6f4b56a95b
+exl-id: 09fc44c4-7ee1-47fd-ae68-885532a6f03f
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1299'
+source-wordcount: '1276'
 ht-degree: 0%
 
 ---
-
 
 # Configuration de la modération{#setting-up-moderation}
 
