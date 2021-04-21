@@ -1,17 +1,14 @@
 ---
 description: Liste de navigateurs et de périphériques pris en charge par la suite d’applications Livefyre.
-seo-description: Liste de navigateurs et de périphériques pris en charge par la suite d’applications Livefyre.
-seo-title: Prise en charge du périphérique et du navigateur
 title: Prise en charge du périphérique et du navigateur
-uuid: 338f78b2-051d-4831-a0b9-e987f92660ce
+exl-id: 75e424a2-9ef5-4a49-8d0d-7c4bcb865f7b
 translation-type: tm+mt
-source-git-commit: 7d7af443eeffdbb09c2fa58006813c328785ad56
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 8%
+source-wordcount: '133'
+ht-degree: 9%
 
 ---
-
 
 # Prise en charge du périphérique et du navigateur{#device-and-browser-support}
 
@@ -41,4 +38,3 @@ Livefyre prend en charge les périphériques, systèmes d’exploitation et navi
 >[!NOTE]
 >
 >En raison de la fin de la prise en charge par Microsoft, Livefyre n’est pas pris en charge sur les versions d’Internet Explorer antérieures à Internet Explorer 11.
-
