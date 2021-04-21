@@ -1,18 +1,14 @@
 ---
 description: Fonctionner ou annuler la fonctionnalité du contenu directement depuis une application.
-seo-description: Fonctionner ou annuler la fonctionnalité du contenu directement depuis une application.
-seo-title: Sélectionner le contenu à inclure dans une application
-solution: Experience Manager
 title: Sélectionner le contenu à inclure dans une application
-uuid: b3c2aa2b-98a0-4548-944b-a1f36326eea0
+exl-id: 09482724-eb9e-4d02-a07c-ea718cef8909
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
-
 
 # Sélectionner le contenu à inclure dans une application{#select-content-to-feature-from-an-app}
 
