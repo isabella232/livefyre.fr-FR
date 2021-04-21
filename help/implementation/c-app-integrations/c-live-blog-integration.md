@@ -1,18 +1,14 @@
 ---
 description: Le blog en direct vous permet de présenter des mises à jour et des images en temps réel des éditeurs de votre site lorsqu'ils couvrent un événement en direct.
-seo-description: Le blog en direct vous permet de présenter des mises à jour et des images en temps réel des éditeurs de votre site lorsqu'ils couvrent un événement en direct.
-seo-title: Live Blog
-solution: Experience Manager
 title: Live Blog
-uuid: 5ca373f1-2008-45ab-9ec2-1e295af4e368
+exl-id: e8a16b56-53c9-488e-9807-1cf80b62462e
 translation-type: tm+mt
-source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1497'
+source-wordcount: '1475'
 ht-degree: 2%
 
 ---
-
 
 # Live Blog{#live-blog}
 
@@ -176,4 +172,3 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
    }); 
 });
 ```
-
