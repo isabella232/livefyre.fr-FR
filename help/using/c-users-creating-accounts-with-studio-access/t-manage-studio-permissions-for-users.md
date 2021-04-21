@@ -1,18 +1,14 @@
 ---
 description: Modifiez l’autorisation de divers niveaux d’utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
-seo-description: Modifiez l’autorisation de divers niveaux d’utilisateurs, y compris les administrateurs, les modérateurs et les visiteurs du site.
-seo-title: Gestion des autorisations Studio pour les utilisateurs
-solution: Experience Manager
 title: Gestion des autorisations Studio pour les utilisateurs
-uuid: 15c395c8-a9bb-4b0b-9586-61ac36810730
+exl-id: 14540432-a1be-4a33-b9ed-670425112df2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # Gérer les autorisations Studio pour les utilisateurs{#manage-studio-permissions-for-users}
 
