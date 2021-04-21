@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 18 janvier 2018.
-seo-description: Notes de mise à jour de la version du 18 janvier 2018.
-seo-title: 18 janvier 2018
-solution: Experience Manager
 title: 18 janvier 2018
-uuid: 8141f431-c154-4c8f-bbcd-b7c712fe5f7d
+exl-id: aaf49dc9-64eb-4354-8bcb-04039fa25f10
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 8%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
-
 
 # 18 janvier 2018{#january}
 
@@ -38,4 +34,3 @@ Notes de mise à jour de la version du 18 janvier 2018.
 | bogue | Flux | Correction d’un problème en raison duquel les règles de flux Instagram ne reconnaissaient pas les caractères japonais. |
 | Amélioration | Flux | Les clients peuvent désormais utiliser les opérateurs logiques ( ANY, ALL, NOT) pour créer des filtres détaillés de balises intelligentes dans des flux qui gèrent un contenu beaucoup plus précis. Par exemple, si j&#39;utilise le hashtag #himalyas, je peux choisir de ne montrer que des images qui incluent &quot;des montagnes enneigées&quot;. |
 | bogue | Studio | Correction d’un bogue qui affichait des caractères spéciaux dans les noms au format HTML. |
-
