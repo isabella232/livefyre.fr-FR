@@ -1,18 +1,14 @@
 ---
 description: Utilisez la carte pour générer des mappages interactifs de contenu en flux continu dans l’application.
-seo-description: Utilisez la carte pour générer des mappages interactifs de contenu en flux continu dans l’application.
-seo-title: Carte
-solution: Experience Manager
 title: Carte
-uuid: e6021a8a-055d-4c60-817c-ca3236c48159
+exl-id: f5f45a39-0181-406a-ac5c-1f4377dafcf9
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '175'
 ht-degree: 1%
 
 ---
-
 
 # Carte{#map}
 
@@ -27,4 +23,3 @@ Utilisez la carte pour afficher où les gens discutent d&#39;un sujet spécifiqu
 >[!NOTE]
 >
 >La carte est alimentée par ©OpenStreetMap, qui fournit les données que Livefyre utilise pour rendre sa carte.
-
