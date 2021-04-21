@@ -1,18 +1,14 @@
 ---
 description: Permet d’activer une petite fenêtre contextuelle sur la page pour avertir les utilisateurs lorsqu’un commentaire a été ajouté.
-seo-description: Permet d’activer une petite fenêtre contextuelle sur la page pour avertir les utilisateurs lorsqu’un commentaire a été ajouté.
-seo-title: Notificateur de commentaires
-solution: Experience Manager
 title: Notificateur de commentaires
-uuid: 36907977-8233-4978-9413-232c7b2fae20
+exl-id: ebeb7ddb-a82b-40ab-907a-bfac24eb19e3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
-
 
 # Notificateur de commentaires{#comment-notifier}
 
@@ -45,4 +41,3 @@ Masquez le widget de notification sur l’ensemble du réseau à l’aide de per
 Applications qui utilisent cette fonctionnalité :
 
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
-
