@@ -1,18 +1,14 @@
 ---
 description: Pour personnaliser le contenu des groupes d’utilisateurs, vous devez d’abord ajouter une balise d’utilisateur au compte, puis mettre en forme le contenu à l’aide de CSS.
-seo-description: Pour personnaliser le contenu des groupes d’utilisateurs, vous devez d’abord ajouter une balise d’utilisateur au compte, puis mettre en forme le contenu à l’aide de CSS.
-seo-title: Application de styles personnalisés
-solution: Experience Manager
 title: Application de styles personnalisés
-uuid: 0556aa2f-4fcd-4bde-abb5-479ec682f573
+exl-id: 54692525-32ce-487a-b3c3-da1261b58da1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # Application de styles personnalisés {#applying-custom-styles}
 
@@ -20,7 +16,7 @@ Pour personnaliser le contenu des groupes d’utilisateurs, vous devez d’abord
 
 Pour chaque balise d’utilisateur ajoutée via Studio ou Ping for Pull, Livefyre crée deux classes CSS, qui peuvent toutes deux être utilisées pour mettre en forme le contenu du groupe.
 
-Lors de la conversion des balises d’utilisateur en classes CSS :
+Lors de la conversion de balises d’utilisateur en classes CSS :
 
 * Livefyre crée deux classes : fyre-author-tag-***&lt;votre_groupe>*** et fyre-tag-author-****&lt;votre_groupe>***. Les deux peuvent être utilisés pour mettre en forme le contenu.
 
@@ -82,4 +78,3 @@ Utilisez la classe CSS fyre-author-tag-***&lt;votre_groupe>*** ou fyre-tag-autho
     padding-top: 4px; 
 }
 ```
-
