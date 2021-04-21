@@ -1,17 +1,14 @@
 ---
 description: Découvrez comment utiliser Livefyre Experience Manager avec Hootsuite, ce qui vous permet de traiter, gérer et partager du contenu généré par l'utilisateur directement à partir du tableau de bord Hootsuite.
-seo-description: Découvrez comment utiliser Livefyre Experience Manager avec Hootsuite, ce qui vous permet de traiter, gérer et partager du contenu généré par l'utilisateur directement à partir du tableau de bord Hootsuite.
-seo-title: Utilisation de Adobe Experience Manager Livefyre avec Hootsuite
 title: Utilisation de Adobe Experience Manager Livefyre avec Hootsuite
-uuid: ebf2ba17-1622-4bbe-a374-fb325357ef9f
+exl-id: 1ca84c72-95ec-485d-9c8e-ace4487225d6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
-
 
 # Utilisation de Adobe Experience Manager Livefyre avec Hootsuite{#use-adobe-experience-manager-livefyre-with-hootsuite}
 
@@ -62,7 +59,7 @@ Les options de filtrage sont les suivantes :
 | Section | Description |
 |--- |--- |
 | Afficher les ressources à partir de | Sélectionnez cette option pour vue des ressources à partir de toutes les sources ou d’une source individuelle. Par exemple : Instagram, Twitter, Facebook, etc. |
-| Droits | Sélectionnez cette option pour vue uniquement les fichiers dont le paramètre de droits est spécifique. |
+| Droits | Sélectionnez cette option pour ne vue que les fichiers dont les droits sont définis. |
 | Mots-clés | Sélectionnez cette option pour filtrer les résultats par mots-clés ou balises. Le filtrage par mots-clés permet de rechercher le contenu textuel d’une publication, ainsi que le nom d’affichage et le nom d’utilisateur de l’auteur. |
 | Balises | Sélectionnez cette option pour filtrer les résultats par mots-clés ou balises. Le filtrage par mots-clés permet de rechercher le contenu textuel d’une publication, ainsi que le nom d’affichage et le nom d’utilisateur de l’auteur. |
 
@@ -96,7 +93,7 @@ affiche les liens pour ce document, le support et le site Web de Synaptive.
 
 ## Module externe de l&#39;application Experience Manager Livefyre {#task_33C8CEF4F5E44830B970BB3A7AAA2AA6}
 
-Outre la possibilité d’afficher vos bibliothèques de fichiers dans un flux Hootsuite, vous pouvez également enregistrer des éléments des flux Instagram, Twitter, Facebook et YouTube dans vos bibliothèques Livefyre Experience Manager.
+Outre la possibilité d’afficher vos bibliothèques de fichiers dans un flux Hootsuite, vous pouvez également enregistrer des éléments de Instagram, Twitter, Facebook et YouTube dans vos bibliothèques Livefyre Experience Manager.
 
 1. Cliquez sur l&#39;icône de menu située au bas de chaque élément.
 
@@ -109,11 +106,11 @@ Outre la possibilité d’afficher vos bibliothèques de fichiers dans un flux H
 
 1. Cliquez sur **Enregistrer dans la bibliothèque** et l&#39;élément sera enregistré dans les bibliothèques que vous avez sélectionnées.
 
-## Composant de bibliothèque multimédia Experience Manager Livefyre {#task_9CA2D5D49F8E463F9EF475BC09C8ACC9}
+## Composant Livefyre Media Library Experience Manager {#task_9CA2D5D49F8E463F9EF475BC09C8ACC9}
 
 Vous pouvez accéder à vos ressources via les composants multimédia du compositeur de suite d’accueil.
 
-1. Dans le compositeur, cliquez sur le lien **Open Media Library** dans la section **Media**.
+1. Dans le compositeur, cliquez sur le lien **Ouvrir Media Library** dans la section **Média**.
 
    ![](assets/hootsuite-open-media-library.png)
 
