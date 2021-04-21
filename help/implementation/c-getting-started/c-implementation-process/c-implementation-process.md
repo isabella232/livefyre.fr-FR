@@ -1,18 +1,14 @@
 ---
 description: A quoi s'attendre lors de la mise en oeuvre de Livefyre Studio.
-seo-description: A quoi s'attendre lors de la mise en oeuvre de Livefyre Studio.
-seo-title: Processus de mise en œuvre
-solution: Experience Manager
 title: Processus de mise en œuvre
-uuid: 9a0f394e-3467-47d1-9816-45e2130db440
+exl-id: 82bf8c09-946a-4be8-97bf-5b9868a4e031
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '291'
 ht-degree: 3%
 
 ---
-
 
 # Processus de mise en œuvre{#implementation-process}
 
@@ -49,4 +45,3 @@ Il y a trois étapes principales pour intégrer Livefyre :
 * Personnalisation
 
    La personnalisation est facultative, mais la plupart des clients personnalisent les applications en fonction de leur marque.
-
