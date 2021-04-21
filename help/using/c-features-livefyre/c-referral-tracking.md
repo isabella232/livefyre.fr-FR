@@ -1,18 +1,14 @@
 ---
 description: Effectuez le suivi des clics vers votre page à partir du trafic de référence.
-seo-description: Effectuez le suivi des clics vers votre page à partir du trafic de référence.
-seo-title: Suivi des renvois
-solution: Experience Manager
 title: Suivi des renvois
-uuid: 7daf615d-0c07-49d1-adb2-1ac67ea563e7
+exl-id: 44cc221c-1603-4e6e-ae4a-1b993f7dc446
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
-
 
 # Suivi des renvois{#referral-tracking}
 
@@ -59,4 +55,3 @@ Applications qui utilisent cette fonctionnalité :
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Critiques](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Sidenotes](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-
