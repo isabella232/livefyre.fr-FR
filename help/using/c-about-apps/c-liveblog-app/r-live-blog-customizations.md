@@ -1,18 +1,14 @@
 ---
 description: Personnalisez le style et la façon dont les commentaires s'affichent sur votre blog en direct.
-seo-description: Personnalisez le style et la façon dont les commentaires s'affichent sur votre blog en direct.
-seo-title: Personnalisations des blogs en direct
-solution: Experience Manager
 title: Personnalisations des blogs en direct
-uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
+exl-id: 388b700b-c7bc-47ef-a0f3-dac0b01fcb2b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # Personnalisations des blogs en direct{#live-blog-customizations}
 
@@ -67,4 +63,3 @@ Vous pouvez personnaliser le blog en direct à l&#39;aide de :
 * **[!UICONTROL Style]** et  **[!UICONTROL Config]** options pour toutes les applications dans le  **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options **[!UICONTROL Style]** et **[!UICONTROL Config]** standard pour toutes les applications dans le **[!UICONTROL App Designer]**.
 
 * Outils d’intégration. Pour plus d’informations sur la personnalisation des applications à l’aide des outils d’intégration, voir Blogs en direct.
-
