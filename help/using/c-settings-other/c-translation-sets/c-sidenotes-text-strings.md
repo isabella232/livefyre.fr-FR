@@ -1,18 +1,14 @@
 ---
 description: Personnalisation des chaînes de texte pour les Sidenotes Livefyre
-seo-description: Personnalisation des chaînes de texte pour les Sidenotes Livefyre
-seo-title: Sidentifie les chaînes de texte
-solution: Experience Manager
 title: Sidentifie les chaînes de texte
-uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
+exl-id: 132a7c8d-10e1-419c-9d79-a40553e70785
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '491'
 ht-degree: 12%
 
 ---
-
 
 # Sidentifie les chaînes de texte{#sidenotes-text-strings}
 
@@ -164,4 +160,3 @@ Chaînes disponibles pour les messages d’erreur généraux.
 |  | errorDuplicate | Votre note nous plaît aussi, mais vous ne pouvez pas la poster deux fois. |
 |  | errorGeneral | Une erreur s&#39;est produite. Veuillez réessayer. |
 |  | errorServer | Quelque chose s&#39;est mal passé avec notre serveur. Essaie encore ça ? |
-
