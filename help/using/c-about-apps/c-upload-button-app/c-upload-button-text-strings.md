@@ -1,18 +1,14 @@
 ---
 description: Vous pouvez modifier ces chaînes de texte pour le bouton Télécharger.
-seo-description: Vous pouvez modifier ces chaînes de texte pour le bouton Télécharger.
-seo-title: Chaînes de texte de bouton de téléchargement
-solution: Experience Manager
 title: Chaînes de texte de bouton de téléchargement
-uuid: f4d24af3-c7cb-468d-96b9-b5360047b5dc
+exl-id: 10467ae3-294a-4c8f-99a4-201019b81ff1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 0%
+source-wordcount: '389'
+ht-degree: 1%
 
 ---
-
 
 # Chaînes de texte de bouton Télécharger{#upload-button-text-strings}
 
@@ -39,4 +35,3 @@ Vous pouvez modifier ces chaînes de texte pour le bouton Télécharger.
 |  | Activer l’en-tête | Activez un en-tête pour fournir un contexte aux visiteurs du site. Vous pouvez choisir d’ajouter l’en-tête en haut ou à droite du bouton. |
 |  | Titre du légende principal | Texte à utiliser pour le titre de l’en-tête. |
 |  | Message de légende principal | Texte à utiliser dans l’en-tête. |
-
