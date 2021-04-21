@@ -1,20 +1,16 @@
 ---
 description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu de Twitter.
-seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu de Twitter.
-seo-title: Règles Twitter
-solution: Experience Manager
-title: Règles Twitter
-uuid: a7fd2398-fd6b-4c24-92b2-7471176d7648
+title: Règles de twitter
+exl-id: 3a5081eb-048d-4dcf-80a2-366af2cb2c86
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
 
-
-# Règles Twitter{#twitter-rules}
+# Règles twitter{#twitter-rules}
 
 Vous pouvez créer des règles de diffusion en continu qui extraient le contenu de Twitter.
 
@@ -24,17 +20,17 @@ Si vous Ajoutez **[!UICONTROL Words]** et **[!UICONTROL Username]** pour votre r
 
 >[!NOTE]
 >
->Livefyre respecte les consignes d&#39;affichage de Twitter, et les clients sont également responsables de respecter ces consignes. Pour plus d’informations, voir la documentation de Twitter sur leurs [Exigences d’affichage](https://dev.twitter.com/terms/display-requirements).
+>Livefyre respecte les directives d&#39;affichage de Twitter et les clients sont également tenus de les respecter. Pour plus d’informations, consultez la documentation de Twitter sur leurs [exigences d’affichage](https://dev.twitter.com/terms/display-requirements).
 
 Pour créer des règles Twitter afin d’extraire du contenu des flux Twitter dans votre application ou dossier, vous pouvez filtrer par :
 
 * **[!UICONTROL Keywords]**
-   * Saisissez **[!UICONTROL Keywords]** à inclure dans votre flux Twitter ou à exclure de celui-ci. Si vous spécifiez des valeurs à la fois pour les champs **[!UICONTROL Contains any of these words]** et **[!UICONTROL Does not contain any of these words]**, les tweets qui contiennent le premier et ne contiennent pas le second seront renvoyés. Vous pouvez entrer plusieurs valeurs pour un seul champ et renvoyer les résultats qui contiennent n’importe laquelle des valeurs. Pour utiliser l’opérateur booléen ET pour rechercher des tweets contenant au moins deux mots, utilisez deux esperluettes (*&amp;*) pour séparer les deux mots.
+   * Saisissez **[!UICONTROL Keywords]** à inclure ou à exclure de votre flux Twitter. Si vous spécifiez des valeurs à la fois pour les champs **[!UICONTROL Contains any of these words]** et **[!UICONTROL Does not contain any of these words]**, les tweets qui contiennent le premier et ne contiennent pas le second seront renvoyés. Vous pouvez entrer plusieurs valeurs pour un seul champ et renvoyer les résultats qui contiennent toutes les valeurs. Pour utiliser l’opérateur booléen ET pour rechercher des tweets contenant au moins deux mots, utilisez deux esperluettes (*&amp;*) pour séparer les deux mots.
    * Par exemple, la saisie de **[!UICONTROL Contains any of these words]** mots-clés Giants, Posey et **[!UICONTROL Does not contain any of these words]** mot-clé Dodger renvoie tous les tweets qui contiennent le mot *Giants* ou *Posey* et n’incluent pas le mot *Dodger*.
-Pour rechercher des tweets qui contiennent à la fois les mots *Giants* et *Posey*, saisissez &quot;Giants &amp;&amp; Posey&quot;. Cette fonctionnalité est prise en charge uniquement pour les champs **[!UICONTROL Contains any of these words]** et **[!UICONTROL Does not contain any of these words]** dans les règles Twitter.
+Pour rechercher des tweets qui contiennent à la fois les mots *Giants* et *Posey*, saisissez &quot;Giants &amp;&amp; Posey&quot;. Cette fonction est prise en charge uniquement pour les champs **[!UICONTROL Contains any of these words]** et **[!UICONTROL Does not contain any of these words]** des règles Twitter.
 
 * **[!UICONTROL Hashtags]**.
-   * Saisissez **[!UICONTROL Hashtags]** à inclure dans votre flux Twitter ou à exclure de celui-ci. Si vous spécifiez des valeurs pour les champs **[!UICONTROL Contains any of these words]** et **[!UICONTROL Does not contain any of these words]**, les tweets qui contiennent des hashtags dans le premier champ seront renvoyés et ne contiennent pas de hashtags dans le second champ. Vous pouvez saisir plusieurs valeurs pour un seul champ. Le flux renvoie des résultats qui contiennent toutes les valeurs.
+   * Saisissez **[!UICONTROL Hashtags]** à inclure ou à exclure de votre flux Twitter. Si vous spécifiez des valeurs pour les champs **[!UICONTROL Contains any of these words]** et **[!UICONTROL Does not contain any of these words]**, les tweets qui contiennent des hashtags dans le premier champ seront renvoyés et ne contiennent pas de hashtags dans le second champ. Vous pouvez saisir plusieurs valeurs pour un seul champ. Le flux renvoie des résultats qui contiennent toutes les valeurs.
 
 * **[!UICONTROL Usernames]**
    * Saisissez **[!UICONTROL @mentions]** ou **[!UICONTROL authors]** pour extraire dans le flux ou exclure du flux. Utilisez les cases à cocher pour définir si **[!UICONTROL Retweets]** ou **[!UICONTROL replies]** des auteurs sélectionnés doivent également être inclus.
