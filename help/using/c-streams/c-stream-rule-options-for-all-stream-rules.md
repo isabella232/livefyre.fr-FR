@@ -1,18 +1,14 @@
 ---
 description: Ces options s’appliquent à toutes les règles de flux provenant de tous les réseaux sociaux ou méthodes de publication.
-seo-description: Ces options s’appliquent à toutes les règles de flux provenant de tous les réseaux sociaux ou méthodes de publication.
-seo-title: Options des règles de diffusion en continu pour toutes les règles de diffusion en continu
-solution: Experience Manager
 title: Options des règles de diffusion en continu pour toutes les règles de diffusion en continu
-uuid: 4072ee83-31e7-4de6-918c-134b8b8032e1
+exl-id: eff1a3cb-395f-4eb1-be93-f0f09bba95e2
 translation-type: tm+mt
-source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 1%
+source-wordcount: '391'
+ht-degree: 2%
 
 ---
-
 
 # Options de règle de diffusion pour toutes les règles de diffusion{#stream-rule-options-for-all-stream-rules}
 
