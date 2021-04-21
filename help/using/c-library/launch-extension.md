@@ -1,14 +1,12 @@
 ---
 description: Apprenez à configurer l'extension Livefyre Adobe pour le lancement d'Adobe.
-seo-description: Apprenez à configurer l'extension Livefyre Adobe pour le lancement d'Adobe.
-seo-title: Lancement de l'Adobe Livefyre Extension
 title: Lancement de l'Adobe Livefyre Extension
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
+exl-id: e594720d-2226-4eb5-b8d0-e86b59bb25a1
 translation-type: tm+mt
-source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 37%
+source-wordcount: '128'
+ht-degree: 41%
 
 ---
 
