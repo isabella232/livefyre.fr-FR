@@ -1,18 +1,14 @@
 ---
 description: Renvoie un objet Collection appelé de type Chat. Exécutez create_or_update() à partir de l'objet Collection pour terminer le processus de création.
-seo-description: Renvoie un objet Collection appelé de type Chat. Exécutez create_or_update() à partir de l'objet Collection pour terminer le processus de création.
-seo-title: buildChatCollection, méthode du site
-solution: Experience Manager
 title: buildChatCollection, méthode du site
-uuid: 39ee32d0-29c9-47a8-a458-a3cf7a96db30
+exl-id: b10f95de-9e6c-4fc3-987b-599717d5a9e7
 translation-type: tm+mt
-source-git-commit: 2908c6988c706a49c391f0e607bb641bce3a7f0d
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
-
 
 # buildChatCollection, méthode du site{#buildchatcollection-site-method}
 
