@@ -1,18 +1,14 @@
 ---
 description: Téléchargez des images dans un flux de blogs, de discussions, de commentaires ou de commentaires en direct.
-seo-description: Téléchargez des images dans un flux de blogs, de discussions, de commentaires ou de commentaires en direct.
-seo-title: Téléchargement de photo
-solution: Experience Manager
 title: Téléchargement de photo
-uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
+exl-id: 97606f5b-75d4-439e-ad96-09e35b8d1f30
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '114'
 ht-degree: 3%
 
 ---
-
 
 # Téléchargement de photo{#photo-upload}
 
@@ -30,4 +26,3 @@ Applications qui utilisent cette fonctionnalité :
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Critiques](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Bouton Télécharger](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
