@@ -1,18 +1,14 @@
 ---
 description: Storify gère plusieurs éditeurs simultanés, ce qui évite les écrasements accidentels ou les modifications perdues.
-seo-description: Storify gère plusieurs éditeurs simultanés, ce qui évite les écrasements accidentels ou les modifications perdues.
-seo-title: Utilisation de plusieurs éditeurs pour la même histoire
-solution: Experience Manager
 title: Utilisation de plusieurs éditeurs pour la même histoire
-uuid: c9b8bf70-84c3-4e58-bbd0-f3d0ea74fc68
+exl-id: e3cb4326-134d-443a-9087-a48e77243230
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # Utilisation de plusieurs éditeurs sur la même histoire{#working-with-multiple-editors-on-the-same-story}
 
@@ -29,4 +25,3 @@ Tous les éditeurs disposent de tous les droits et privilèges pour modifier vot
 * Suppression de contenu
 * Modifiez des blocs de texte.
 * Ajouter les titres.
-
