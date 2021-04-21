@@ -1,26 +1,22 @@
 ---
-description: Lorsque vous traitez du contenu à partir d’Instagram, vous devez suivre leurs directives et leurs bonnes pratiques.
-seo-description: Lorsque vous traitez du contenu à partir d’Instagram, vous devez suivre leurs directives et leurs bonnes pratiques.
-seo-title: Instructions relatives au contenu Instagram
-solution: Experience Manager
+description: Lorsque vous traitez du contenu à partir de l’Instagram, vous devez respecter leurs directives et leurs bonnes pratiques.
 title: Instructions relatives au contenu Instagram
-uuid: 4c5ba96b-a242-407f-aa36-3a4e431832b8
+exl-id: 74ef8556-8f65-4406-871c-5b9f1887ec9c
 translation-type: tm+mt
-source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
-
 # Instructions relatives au contenu Instagram{#instagram-content-guidelines}
 
-Lorsque vous traitez du contenu à partir d’Instagram, vous devez suivre leurs directives et leurs bonnes pratiques.
+Lorsque vous traitez du contenu à partir de l’Instagram, vous devez respecter leurs directives et leurs bonnes pratiques.
 
-Vous devez configurer un *compte commercial Instagram* pour créer des flux Instagram à partir d&#39;un autre compte commercial Instagram spécifique en utilisant le champ **[!UICONTROL By Author]**. Le compte utilisateur que vous identifiez dans le champ **[!UICONTROL By Author]** doit être un compte professionnel.
+Vous devez configurer un *compte commercial Instagram* pour créer des flux Instagram à partir d&#39;un autre compte commercial Instagram spécifique à l&#39;aide du champ **[!UICONTROL By Author]**. Le compte utilisateur que vous identifiez dans le champ **[!UICONTROL By Author]** doit être un compte professionnel.
 
-Pour plus d&#39;informations sur la configuration d&#39;un compte d&#39;entreprise Instagram dans Livefyre, voir [A propos des comptes Instagram](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
+Pour plus d’informations sur la configuration d’un compte commercial Instagram dans Livefyre, voir [A propos des comptes Instagram](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts).
 
 Instagram applique les règles suivantes pour obtenir du contenu à partir de sa plateforme :
 
@@ -36,9 +32,9 @@ Livefyre vous recommande de suivre les directives suivantes pour optimiser la fo
 * Evitez d’utiliser des comptes d’entreprise sur plusieurs réseaux.
 * Attribuez une priorité aux flux principaux et supprimez les flux non utilisés afin de réduire le nombre de hashtags que vous utilisez.
 
-Instagram, comme d&#39;autres marques, a également besoin d&#39;utiliser leurs ressources de marque. Par exemple, les photos doivent :
+Instagram, comme d&#39;autres marques, a également des exigences pour l&#39;utilisation de leurs actifs de marque. Par exemple, les photos doivent :
 
-* Fournissez une attribution à Instagram et au propriétaire du contenu.
+* Attribuez à Instagram et au propriétaire du contenu.
 * Être clairement différencié du contenu des autres médias sociaux s&#39;il est affiché avec les médias d&#39;autres réseaux.
 
-Pour plus d&#39;informations, consultez le document d&#39;Instagram : [Utilisation des ressources de marque Instagram](https://help.instagram.com/304689166306603).
+Pour plus d’informations, veuillez consulter le document de l’Instagram : [Utilisation des ressources de marque Instagram](https://help.instagram.com/304689166306603).
