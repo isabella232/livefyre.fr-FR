@@ -1,18 +1,14 @@
 ---
 description: Ajoutez des règles dans les flux afin d’autoriser le contenu à renseigner automatiquement une application ou un dossier en fonction de ces règles.
-seo-description: Ajoutez des règles dans les flux afin d’autoriser le contenu à renseigner automatiquement une application ou un dossier en fonction de ces règles.
-seo-title: Ajouter des règles pour votre flux
-solution: Experience Manager
 title: Ajouter des règles pour votre flux
-uuid: 7a3fb400-95e4-49f9-ae39-90654df14665
+exl-id: e3fe5785-ddb3-4a6c-ac58-0ec988dda8bf
 translation-type: tm+mt
-source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 10%
+source-wordcount: '140'
+ht-degree: 12%
 
 ---
-
 
 # Ajouter des règles pour votre flux {#add-rules-for-your-stream}
 
