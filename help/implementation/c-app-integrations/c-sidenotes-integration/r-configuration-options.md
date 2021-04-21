@@ -1,18 +1,14 @@
 ---
 description: L’objet de configuration Sidenotes est un objet JSON utilisé pour spécifier le contenu rendu par l’application Livefyre sur la page.
-seo-description: L’objet de configuration Sidenotes est un objet JSON utilisé pour spécifier le contenu rendu par l’application Livefyre sur la page.
-seo-title: Identifie les options de configuration
-solution: Experience Manager
 title: Identifie les options de configuration
-uuid: 067e51e6-9720-4226-a805-c7a07c8cdaa0
+exl-id: efebf9e5-6623-4953-a8f6-c58495304ac1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '455'
 ht-degree: 2%
 
 ---
-
 
 # Identifie les options de configuration{#sidenotes-configuration-options}
 
@@ -35,4 +31,3 @@ L’objet contient les paramètres suivants :
 | sélecteurs | ** requiredobject, string ou array | Spécifie les éléments sur lesquels les icônes de lancement doivent apparaître. (Utilise les spécifications du sélecteur DOM CSS3.) Si objet, inclut une section &quot;inclut&quot; et une section &quot;exclut&quot; qui applique le sélecteur CSS pour toute correspondance inclut et supprime tous les éléments correspondant aux exclusions. Si la chaîne est définie, inclura tous les éléments correspondants sur la page. Si tableau, liste les éléments à inclure. |
 | chaînes | ** optionalobject | Ajoute des chaînes de texte personnalisées pour modifier n’importe quelle langue ou texte dans toute l’application. Pour plus d’informations, voir Chaînes personnalisées. |
 | threadContainerEl | ** facultatif, objet, chaîne ou tableau | Spécifie un élément dans lequel le thread des notes de côté apparaîtra. Ce paramètre vous permet de repositionner le thread. Si le sélecteur de chaînes correspond à plusieurs éléments, le premier est choisi. (Utilise les spécifications du sélecteur DOM CSS3.) |
-
