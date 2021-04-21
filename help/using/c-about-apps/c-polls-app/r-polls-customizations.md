@@ -1,18 +1,14 @@
 ---
 description: Modifiez les options de taille, de largeur et d’interaction de l’application Sondages.
-seo-description: Modifiez les options de taille, de largeur et d’interaction de l’application Sondages.
-seo-title: Personnalisations des sondages
-solution: Experience Manager
 title: Personnalisations des sondages
-uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
+exl-id: f82dce69-8ad0-48bd-a293-e5501374d5d6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 0%
+source-wordcount: '199'
+ht-degree: 1%
 
 ---
-
 
 # Personnalisations des sondages{#polls-customizations}
 
@@ -61,4 +57,3 @@ Vous pouvez personnaliser des sondages à l’aide des éléments suivants :
 * **[!UICONTROL Style]** et  **[!UICONTROL Config]** options pour toutes les applications dans le  **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options **[!UICONTROL Style]** et **[!UICONTROL Config]** standard pour toutes les applications dans le **[!UICONTROL App Designer]**.
 
 * Outils d’intégration. Voir Sondages pour en savoir plus sur la personnalisation des applications à l’aide des outils d’intégration.
-
