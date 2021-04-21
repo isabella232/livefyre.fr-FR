@@ -1,18 +1,14 @@
 ---
 description: 'Découvrez l''application Filmstrip avec notre guide complet. L''application de visualisation présente vos images dans une bande de pellicules de caméra rétro. Principal-le avec nos conseils. '
-seo-description: Filmstrip est une application de visualisation qui présente du contenu généré par l’utilisateur dans une bande de photos unique et horizontale dynamique, semblable à une bande de film prise avec un appareil photo.
-seo-title: Filmstrip
-solution: Experience Manager
 title: Guide de l’application Filmstrip
-uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
+exl-id: a96e5de0-bebb-42ee-ae10-813ad8b9e960
 translation-type: tm+mt
-source-git-commit: 2584041dd080c08ee769bd897e55157ec05ce8b6
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '794'
 ht-degree: 1%
 
 ---
-
 
 # Filmstrip{#filmstrip}
 
@@ -48,7 +44,7 @@ Vous ne pouvez pas publier du contenu contenant du texte uniquement dans un film
 
 Un visiteur de site voit le contenu renseigné dans un film strip à partir de Studio à partir d’un flux Studio, d’une bibliothèque ou d’une recherche sociale. Si un nouveau contenu est publié sur l’application alors qu’un visiteur de site se trouve sur la page, le nouveau contenu s’affiche à gauche et pousse l’ancien contenu à droite en temps réel sans qu’un visiteur de site ait à actualiser sa page. Si vous choisissez d&#39;avertir le visiteur du site d&#39;un nouveau contenu, le visiteur du site voit apparaître une notification indiquant &quot;nouveau&quot; et une flèche pointant vers la gauche pour indiquer qu&#39;il doit faire défiler vers la gauche pour afficher le nouveau contenu.
 
-## Que se passe-t-il lorsqu&#39;un visiteur de site clique sur un élément d&#39;un film strip ? {#section_cvz_nlj_yy}
+## Que se passe-t-il lorsqu’un visiteur de site clique sur un élément d’un film strip ? {#section_cvz_nlj_yy}
 
 Sur un ordinateur ou un périphérique mobile, cliquez sur une carte pour partager du contenu, vue une image plus grande, regarder une vidéo, voir plusieurs éléments multimédias ou les produits associés à la vue balisés dans l’UGC.
 
