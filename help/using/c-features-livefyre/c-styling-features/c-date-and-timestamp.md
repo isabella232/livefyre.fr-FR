@@ -1,14 +1,11 @@
 ---
 description: Vous pouvez modifier le format de date et d’horodatage en fonction de vos besoins.
-seo-description: Vous pouvez modifier le format de date et d’horodatage en fonction de vos besoins.
-seo-title: Date et horodatage
 title: Date et horodatage
-uuid: 3022059f-cfdc-4e13-aa3d-7537875ef431
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 3%
+source-wordcount: '98'
+ht-degree: 4%
 
 ---
 
