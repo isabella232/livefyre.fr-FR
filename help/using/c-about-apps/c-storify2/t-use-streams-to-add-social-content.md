@@ -1,18 +1,14 @@
 ---
 description: Pointez un flux vers un article Storify 2.
-seo-description: Pointez un flux vers un article Storify 2.
-seo-title: Utilisation des flux pour Ajouter du contenu social à votre article
-solution: Experience Manager
 title: Utilisation des flux pour Ajouter du contenu social à votre article
-uuid: 4999c880-a896-4ad2-bf8f-3fd9736a64d6
+exl-id: 1228ed16-df6f-4af7-9082-5c598f72163d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
-
 
 # Utilisez les flux pour Ajouter du contenu social à votre article{#use-streams-to-add-social-content-to-your-story}.
 
