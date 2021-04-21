@@ -1,17 +1,14 @@
 ---
 description: Pour activer une connexion sociale, utilisez Studio pour ajouter les informations d’identification de vos applications sociales à votre intégration Livefyre et personnaliser le module de connexion.
-seo-description: Pour activer une connexion sociale, utilisez Studio pour ajouter les informations d’identification de vos applications sociales à votre intégration Livefyre et personnaliser le module de connexion.
-seo-title: Utilisation de Studio pour connecter vos applications Social à votre mise en oeuvre Livefyre
 title: Utilisation de Studio pour connecter vos applications Social à votre mise en oeuvre Livefyre
-uuid: be14869c-e0df-48cd-a1f3-99eb953dd9ce
+exl-id: 2ccb9737-8c59-4c1d-93d3-61f913b3cdd6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 0%
+source-wordcount: '584'
+ht-degree: 1%
 
 ---
-
 
 # Utilisation de Studio pour connecter vos applications Social à votre implémentation Livefyre{#using-studio-to-connect-your-social-apps-to-your-livefyre-implementation}
 
@@ -53,7 +50,7 @@ Pour activer la connexion à l’aide d’un compte Facebook :
 
 1. Ajoutez les **[!UICONTROL App ID]** et **[!UICONTROL App Secret]** de votre application Facebook.
 
-   Ces valeurs sont répertoriées dans votre tableau de bord de développement Facebook pour l’application, disponible à l’adresse [https://developers.facebook.com/apps/](https://developers.facebook.com/apps/675503539257343/dashboard/).
+   Ces valeurs sont répertoriées dans votre tableau de bord de développeurs Facebook pour l’application, disponible à l’adresse [https://developers.facebook.com/apps/](https://developers.facebook.com/apps/675503539257343/dashboard/).
 
 ## Activer la connexion avec Google {#section_fq3_kb5_bbb}
 
@@ -67,9 +64,9 @@ Pour activer la connexion à l’aide d’un compte Google+ :
 
    Ces valeurs sont répertoriées dans votre interface de projet de plateforme Google Cloud, disponible à l’adresse [https://console.cloud.google.com/](https://console.cloud.google.com/apis/library). Pour récupérer ces informations, accédez à **[!UICONTROL API Manager > Credentials]**, puis cliquez sur le nom du projet.
 
-## Activer une connexion à l’aide d’un compte Twitter {#section_iyz_wb5_bbb}
+## Activer une connexion à l&#39;aide d&#39;un compte Twitter {#section_iyz_wb5_bbb}
 
-Connectez votre compte Twitter à Livefyre pour permettre aux utilisateurs d’utiliser leurs identifiants de connexion Twitter pour interagir avec les applications de votre site.
+Connectez votre compte Twitter à Livefyre pour permettre aux utilisateurs d’utiliser leurs connexions Twitter pour interagir avec les applications de votre site.
 
 Pour activer la connexion à l’aide d’un compte Twitter :
 
