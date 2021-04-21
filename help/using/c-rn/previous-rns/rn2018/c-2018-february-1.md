@@ -1,18 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 1er février 2018.
-seo-description: Notes de mise à jour de la version du 1er février 2018.
-seo-title: 1 février 2018
-solution: Experience Manager
 title: 1 février 2018
-uuid: c4776206-ccb7-4b5f-b85a-f9bef256ac6e
+exl-id: 39313b4d-342f-451b-8c15-471e604ba943
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '187'
 ht-degree: 10%
 
 ---
-
 
 # 1 février 2018 {#february}
 
@@ -36,4 +32,3 @@ Notes de mise à jour de la version du 1er février 2018.
 | Amélioration | Applications | Ajouté une nouvelle bascule Designer pour activer/désactiver un bouton d’appel à l’action personnalisé dans Mosaïque, Filmstrip, Mur de médias, Carte de fonctions et Carrousel. |
 | Amélioration | Commentaires | Ajoute la possibilité de placer de nouveaux formats de fichier audio dans les commentaires et d’utiliser un bouton Télécharger. |
 | bogue | Flux | Correction d’un bogue en raison duquel les cases à cocher Règles SAFE n’étaient pas cochées/désactivées correctement. |
-
