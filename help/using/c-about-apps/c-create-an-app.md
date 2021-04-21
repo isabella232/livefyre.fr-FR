@@ -1,18 +1,14 @@
 ---
 description: Pour ajouter une application à votre site, vous devez d’abord créer une application dans Livefyre Studio.
-seo-description: Pour ajouter une application à votre site, vous devez d’abord créer une application dans Livefyre Studio.
-seo-title: Créer une application
-solution: Experience Manager
 title: Créer une application
-uuid: 8c2c07fb-a951-47d9-b498-4c487ee83a18
+exl-id: 1d87ae99-3529-497c-b533-13f212abeacd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1283'
-ht-degree: 1%
+source-wordcount: '1264'
+ht-degree: 0%
 
 ---
-
 
 # Créer une application {#create-an-app}
 
@@ -174,4 +170,3 @@ Pour supprimer une application :
 1. Cliquez sur **[!UICONTROL Apps]**.
 1. Cliquez sur les points de suspension à droite du nom de l’application à supprimer.
 1. Cliquez sur **[!UICONTROL Delete App]** pour supprimer l’application.
-
