@@ -1,18 +1,14 @@
 ---
-description: valeur nulle
-seo-description: valeur nulle
-seo-title: Configurer les informations d'identification
-solution: Experience Manager
 title: Configurer les informations d'identification
-uuid: 688af27e-97ba-4bff-8edd-6be82f48e6c7
+description: Configurer les informations d'identification
+exl-id: cfbb40b6-e13b-4869-87f9-a1f2f6ddd5d3
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 4%
+source-wordcount: '130'
+ht-degree: 3%
 
 ---
-
 
 # Configurer les informations d’identification{#set-up-credentials}
 
@@ -28,4 +24,3 @@ ht-degree: 4%
 * URL du site
 * ID du site
 * Clé du site
-
