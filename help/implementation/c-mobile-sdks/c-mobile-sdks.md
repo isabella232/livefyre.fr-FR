@@ -1,18 +1,14 @@
 ---
 description: Ajoutez Livefyre à vos applications mobiles natives.
-seo-description: Ajoutez Livefyre à vos applications mobiles natives.
-seo-title: SDK mobiles
-solution: Experience Manager
 title: SDK mobiles
-uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
+exl-id: e05001a4-6199-4d98-a661-123e031b657b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 5%
+source-wordcount: '367'
+ht-degree: 4%
 
 ---
-
 
 # SDK mobiles{#mobile-sdks}
 
@@ -66,4 +62,3 @@ Les API HTTP sont le groupe de points de terminaison qui vous permet de créer d
 >[!IMPORTANT]
 >
 >**Ne** créez pas de jetons d’authentification utilisateur au sein du client mobile, car cela impliquerait d’exposer votre clé réseau secrète Livefyre dans une application non sécurisée. Pour une solution plus robuste et plus sécurisée, reportez-vous à la section Jetons d’authentification utilisateur.
-
