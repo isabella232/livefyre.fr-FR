@@ -1,18 +1,14 @@
 ---
 description: Affiche les 25 threads les plus populaires de l’application, classés par popularité.
-seo-description: Affiche les 25 threads les plus populaires de l’application, classés par popularité.
-seo-title: Threads chauds
-solution: Experience Manager
 title: Threads chauds
-uuid: 0011f769-6712-48e9-bb10-a43610fef595
+exl-id: a7d4efef-6f25-4eaf-9a1e-b0ff3c033d5d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
-
 
 # Threads chauds{#hot-threads}
 
@@ -53,4 +49,3 @@ Pour optimiser les performances, Livefyre met les données en cache pendant 2 mi
 Applications qui utilisent cette fonctionnalité :
 
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
-
