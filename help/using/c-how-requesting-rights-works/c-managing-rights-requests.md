@@ -1,25 +1,21 @@
 ---
-description: valeur nulle
-seo-description: valeur nulle
-seo-title: Gestion des requêtes de droits
-solution: Experience Manager
 title: Gestion des requêtes de droits
-uuid: e8f7f73e-da8a-43dc-b5d2-63485872cdca
+description: Gestion des requêtes de droits
+exl-id: 895bb7a9-3180-46ca-812b-098ed63ee176
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
-
 
 # Gestion des requêtes de droits{#managing-rights-requests}
 
 Vous pouvez gérer les requêtes de droits de l’une des manières suivantes :
 
-* Demander des droits à partir de la bibliothèque, du contenu de l’application ou de ModQ pour le contenu Twitter. Pour plus d’informations sur la manière d’envoyer une demande de droits pour du contenu Twitter, voir [Envoyer une demande de droits Twitter](../c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md#t_send_a_rights_request_to_own_a_digital_asset).
-* Demandez des droits au contenu de la bibliothèque ou de l’application pour le contenu Instagram. Pour plus d&#39;informations sur la manière d&#39;envoyer une demande de droits pour du contenu Instagram, consultez les sections [Envoyer manuellement des demandes de droits Instagram](../c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md#c_send_instagram_manual_rights_request) et [Envoyer une demande de droits Instagram partiellement automatisée](../c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md#c_send_an_instagram_rights_request_from_the_library).
+* Demander des droits à partir du contenu de bibliothèque, d’application ou de ModQ pour Twitter. Pour plus d’informations sur la manière d’envoyer une demande de droits pour le contenu Twitter, voir [Envoyer une demande de droits Twitter](../c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md#t_send_a_rights_request_to_own_a_digital_asset).
+* Demandez des droits au contenu de la bibliothèque ou de l’application pour le contenu Instagram. Pour plus d’informations sur la manière d’envoyer une demande de droits pour le contenu Instagram, voir [Envoyer manuellement les demandes de droits Instagram](../c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md#c_send_instagram_manual_rights_request) et [Envoyer une demande de droits Instagram partiellement automatisée](../c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md#c_send_an_instagram_rights_request_from_the_library).
 
 * Demander des droits à AEM Assets. Pour plus d&#39;informations sur la façon de demander des droits à AEM Commerce. Pour en savoir plus sur la demande de droits pour le contenu en AEM Assets, voir [Utilisation de Livefyre avec AEM Assets](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/livefyre.html#UseLivefyrewithAEMAssets).
 * Vue de l’historique des demandes de droits pour un élément de contenu. Pour plus d&#39;informations sur la manière de vue de l&#39;historique des demandes de droits pour un élément de contenu, consultez [Historique des Activités des droits de Vue](../c-how-requesting-rights-works/c-view-rights-activity-history.md#c_view_rights_activity_history).
@@ -29,4 +25,3 @@ Vous pouvez gérer les requêtes de droits de l’une des manières suivantes :
    >[!NOTE]
    >
    >Le remplacement d’une demande de droits indique que vous êtes propriétaire du contenu. Ne remplacez pas une demande de droits sans vérifier que vous êtes propriétaire du contenu.
-
