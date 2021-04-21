@@ -1,18 +1,14 @@
 ---
 description: Créez des applications Android pilotées par Livefyre.
-seo-description: Créez des applications Android pilotées par Livefyre.
-seo-title: SDK Android
-solution: Experience Manager
 title: SDK Android
-uuid: 68793fa9-3ea1-4890-b36d-b631f1c6f7de
+exl-id: 54ea6537-5f27-4174-af25-d17257f23e48
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '419'
 ht-degree: 1%
 
 ---
-
 
 # SDK Android{#android-sdk}
 
@@ -84,4 +80,3 @@ Le SDK Android StreamHub expose plusieurs classes de clients qui peuvent être u
 * **** StreamClientSondage un flux pour une collection afin de récupérer du contenu nouveau, mis à jour et supprimé.
 
 * **** WriteClientPost, marquer et aimer le contenu d’une collection.
-
