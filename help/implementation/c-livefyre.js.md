@@ -1,18 +1,14 @@
 ---
 description: Bibliothèque Livefyre principale utilisée pour alimenter Livefyre sur votre site.
-seo-description: Bibliothèque Livefyre principale utilisée pour alimenter Livefyre sur votre site.
-seo-title: Livefyre.js
-solution: Experience Manager
 title: Livefyre.js
-uuid: 7b3eca57-d5e8-416d-badf-a9c51d10dadd
+exl-id: 82083dc0-3b4a-467c-bad7-dbf242ab5bbd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
-
 
 # Livefyre.js {#livefyre-js}
 
@@ -68,7 +64,7 @@ Vous vous demandez quels paquets JavaScript Livefyre sont disponibles via `Livef
 
 Il peut arriver que vous souhaitiez tester une prochaine version d’un pack Livefyre pour vous assurer qu’il fonctionnera sur votre site Web ou pour accepter de tester une fonction en cours de développement à votre demande. Outre l&#39;inclusion d&#39;une plage de versions sémantiques, l&#39;environnement UAT de pré-version peut être spécifié.
 
-Par exemple, ce qui suit nécessite la version UAT des applications `fyre.conv`, Comments, Live Blog et Chat.
+Par exemple, les applications suivantes nécessitent la publication UAT de `fyre.conv`, les applications Comments, Live Blog et Chat.
 
 ```
 Livefyre.require(['fyre.conv#uat'], callback); 
