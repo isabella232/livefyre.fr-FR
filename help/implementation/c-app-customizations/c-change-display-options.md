@@ -1,18 +1,14 @@
 ---
 description: Personnalisez les options d’affichage de l’application en fonction de votre marque et de votre style.
-seo-description: Personnalisez les options d’affichage de l’application en fonction de votre marque et de votre style.
-seo-title: Modifier les options d'affichage
-solution: Experience Manager
 title: Modifier les options d'affichage
-uuid: 121bb921-d9a7-4925-ab46-8e3d7dd0cbfe
+exl-id: 30da2022-9ec8-4f71-be94-facaa5971938
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # Modifier les options d&#39;affichage{#change-display-options}
 
@@ -31,4 +27,3 @@ Cette section décrit les options de personnalisation d’affichage disponibles 
 * Restreindre les médias pour empêcher les utilisateurs de télécharger des types d’intégration de médias spécifiques.
 * Masquer les éléments d’application pour simplifier l’expérience utilisateur.
 * Modifiez l&#39;icône Livefyre `@mention` pour sélectionner une icône personnalisée à afficher dans les menus déroulants @mentions pour les membres de votre audience Livefyre.
-
