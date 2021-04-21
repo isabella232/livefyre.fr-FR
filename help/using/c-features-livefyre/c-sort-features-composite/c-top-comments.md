@@ -1,17 +1,14 @@
 ---
 description: l
-seo-description: l
-seo-title: Principaux commentaires
 title: Principaux commentaires
-uuid: 23c4a766-b3e8-4fab-a7f9-78cdb601652a
+exl-id: 97c58998-09f9-4f3d-8c80-f0a5c8401b2f
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 1%
+source-wordcount: '201'
+ht-degree: 0%
 
 ---
-
 
 # Commentaires principaux{#top-comments}
 
@@ -32,4 +29,3 @@ Pour plus d&#39;informations sur l&#39;activation de la vue des commentaires, co
 Applications qui utilisent cette fonctionnalité :
 
 * [Commentaires](/help/using/c-about-apps/c-comments/c-comments.md)
-
