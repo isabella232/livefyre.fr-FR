@@ -1,18 +1,14 @@
 ---
 description: Recherchez le contenu par URL à enregistrer dans votre bibliothèque de ressources.
-seo-description: Recherchez le contenu par URL à enregistrer dans votre bibliothèque de ressources.
-seo-title: Rechercher par URL
-solution: Experience Manager
 title: Rechercher par URL
-uuid: 45be6a85-e615-46c6-9601-82df02839315
+exl-id: 24744ab8-6077-4595-a46d-7496ee0ca0b5
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Rechercher par URL{#search-by-url}
 
@@ -25,4 +21,3 @@ Les informations renvoyées affichent un résumé de la carte de la page, y comp
 >[!NOTE]
 >
 >Pour les recherches Instagram utilisant le champ URL, l’auteur est renvoyé sous la forme &quot;Instagram&quot;.
-
