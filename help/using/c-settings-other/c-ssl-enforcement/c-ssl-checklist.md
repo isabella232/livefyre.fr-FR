@@ -1,17 +1,14 @@
 ---
 description: Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion du protocole HTTP en protocole HTTPS.
-seo-description: Suivez les étapes de la liste de contrôle pour vous assurer que vous réussirez la conversion du protocole HTTP en protocole HTTPS.
-seo-title: Liste de contrôle SSL
 title: Liste de contrôle SSL
-uuid: 2b176c73-8a6a-4835-88b3-047c6661cba9
+exl-id: 20161aa5-57c9-417b-af0e-c9e1e771f861
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # Liste de contrôle SSL{#ssl-checklist}
 
@@ -26,4 +23,3 @@ Si les éléments suivants sont terminés, la conversion HTTP en HTTPS est réus
 * Toutes mes intégrations JavaScript personnalisées (StreamhubSDK ou utilisation directe d’API) utilisent HTTPS.
 * Si je rassemble du code JavaScript Livefyre, nous utilisons les dernières versions.
 * J’ai notifié tout service tiers (par exemple, analyse de contenu, modération, etc.) qui consomme des API Livefyre pour mon compte.
-
