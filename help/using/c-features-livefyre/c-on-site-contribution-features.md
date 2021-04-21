@@ -1,18 +1,14 @@
 ---
 description: Choisissez comment les visiteurs du site interagissent avec les applications et de quelle façon ils peuvent interagir avec le contenu.
-seo-description: Choisissez comment les visiteurs du site interagissent avec les applications et de quelle façon ils peuvent interagir avec le contenu.
-seo-title: Fonctionnalités de contribution sur site
-solution: Experience Manager
 title: Fonctionnalités de contribution sur site
-uuid: 1f441490-28eb-4fc4-9fe8-0879c62c4b4a
+exl-id: 5f7d065b-cd9b-4939-8029-e593583a3b07
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '282'
 ht-degree: 3%
 
 ---
-
 
 # Fonctionnalités des contributions sur site{#on-site-contribution-features}
 
@@ -80,4 +76,3 @@ Vue du nombre de fois où un utilisateur a sélectionné chaque réponse dans un
 Applications qui utilisent cette fonctionnalité :
 
 * [Sondages](../c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
-
