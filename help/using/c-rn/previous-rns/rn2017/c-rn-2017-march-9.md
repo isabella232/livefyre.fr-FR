@@ -1,17 +1,14 @@
 ---
 description: Notes de mise à jour de la version du 9 mars 2017.
-seo-description: Notes de mise à jour de la version du 9 mars 2017.
-seo-title: 9 mars 2017
 title: 9 mars 2017
-uuid: 14c770e7-ff6f-4c56-9c88-677e2bfb7362
+exl-id: 07723cc6-a912-4231-a745-3ea79c6d1788
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '281'
 ht-degree: 8%
 
 ---
-
 
 # 9 mars 2017{#march}
 
@@ -35,9 +32,8 @@ Notes de mise à jour de la version du 9 mars 2017.
 | bogue | Mur multimédia | Correction d’un bogue en raison duquel Media Walls ne s’affichait pas si des caractères étrangers spécifiques étaient inclus. |
 | bogue | Recherche sociale | Correction d’un bogue qui empêchait la publication des ressources YouTube enregistrées dans Social Search. |
 | bogue | Recherche sociale | Correction d’un bogue en raison duquel l’icône &quot;Masquer les images explicites&quot; OEil sur les ressources se décalait en dehors d’une ressource lors du survol. |
-| Amélioration | Storify 2 | Amélioration Ajoutée afin d’afficher le message &quot;Aucun résultat trouvé&quot; sur la recherche de rubrique Facebook lorsqu’aucun résultat n’est trouvé. |
-| Amélioration | Flux | Règles de résumé Ajoutées pour les règles SAFE au bas d’une page de flux Twitter. |
-| bogue | Flux | Amélioration Ajoutée afin de désactiver de manière visible la case à cocher &quot;utilisateur vérifié&quot; dans les règles de flux Twitter lorsque des auteurs exclus sont fournis. |
+| Amélioration | Storify 2 | Amélioration Ajoutée afin d’afficher le message &quot;Aucun résultat trouvé&quot; dans la recherche de rubrique Facebook lorsqu’aucun résultat n’est trouvé. |
+| Amélioration | Flux | Règles de résumé Ajoutées pour les règles SAFE au bas d’une page Twitter Stream. |
+| bogue | Flux | Ajouté d’une amélioration afin de désactiver de manière visible la case à cocher &quot;utilisateur vérifié&quot; dans les règles de flux Twitter lorsque des auteurs exclus sont fournis. |
 | bogue | Studio | Correction d’un bogue qui empêchait l’enregistrement correct de la &quot;balise de fonction&quot; lorsqu’elle était appliquée. |
 | bogue | Utilisateurs | Correction d’un bogue en raison duquel le filtre de tri &quot;Activité récente&quot; dans Utilisateurs ne s’affichait pas dans le bon ordre. |
-
