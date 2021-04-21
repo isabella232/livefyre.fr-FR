@@ -1,24 +1,20 @@
 ---
 description: Utilisez embed.ly pour afficher plusieurs formats multimédias directement dans l’application.
-seo-description: Utilisez embed.ly pour afficher plusieurs formats multimédias directement dans l’application.
-seo-title: Intégration Embedly
-solution: Experience Manager
 title: Intégration Embedly
-uuid: 1f27e32c-c2c3-4f7c-93de-c9c7bf783d6a
+exl-id: 859fe306-367e-4207-b9f7-c730ba0cd24d
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 14%
+source-wordcount: '325'
+ht-degree: 10%
 
 ---
-
 
 # Intégration Embedly {#embedly-integration}
 
 Utilisez `embed.ly` pour afficher plusieurs formats multimédias, directement dans l’application.
 
-Pour mieux activer le contenu multimédia incorporé à partir de diverses sources, notamment Google Maps, YouTube, Flickr, Facebook, Instagram, Spotify et Tumblr, les applications Livefyre utilisent Embetly comme fournisseur tiers d&#39;extension d&#39;URL. Si un utilisateur ou un modérateur inclut un lien pris en charge dans une publication, le média inclus dans le lien se développera lorsqu’il sera publié dans la collection.
+Pour mieux activer le contenu multimédia incorporé à partir de diverses sources, notamment Google Maps, YouTube, Flickr, Facebook, Instagram, Spotify et Tumblr, les applications Livefyre utilisent Embetly comme fournisseur tiers pour l’extension d’URL. Si un utilisateur ou un modérateur inclut un lien pris en charge dans une publication, le média inclus dans le lien se développera lorsqu’il sera publié dans la collection.
 
 Les applications Livefyre ont ainsi accès à plus de 250 options de médias incorporés différentes prises en charge par Embetly.
 
@@ -67,4 +63,3 @@ Applications qui utilisent cette fonctionnalité :
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Suivi des tendances](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [Bouton Télécharger](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
