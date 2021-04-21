@@ -1,24 +1,20 @@
 ---
 description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
-seo-description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
-seo-title: Définitions et exemples de Événements JavaScript
-solution: Experience Manager
 title: Définitions et exemples de Événements JavaScript
-uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
+exl-id: 5b865974-69aa-4d51-ac26-60f1d8a114fc
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 15%
+source-wordcount: '375'
+ht-degree: 11%
 
 ---
-
 
 # Définitions et exemples de Événements JavaScript{#javascript-events-definitions-and-examples}
 
 Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de conversation (par exemple, Comments, Chat, Live Blog, Reviews et Sidenotes).
 
-Livefyre fournit des événements JavaScript pour suivre l’activité des utilisateurs dans vos applications Livefyre. Par exemple, vous pouvez mettre à jour la page lorsque des utilisateurs aiment ou partagent du contenu sur Twitter ou Facebook, ou lorsque du nouveau contenu est publié.
+Livefyre fournit des événements JavaScript pour suivre l’activité des utilisateurs dans vos applications Livefyre. Par exemple, vous pouvez mettre à jour la page lorsque les utilisateurs aiment ou partagent du contenu sur Twitter ou Facebook, ou lorsque du nouveau contenu est publié.
 
 Livefyre vous permet également d’ajouter des événements à des intégrations d’analyses tierces (Adobe Analytics JS, Google Analytics, gestion dynamique des balises, etc.), afin d’effectuer le suivi des événements d’application. Pour plus d’informations, demandez à votre gestionnaire d’intégration tiers de fournir les événements appropriés.
 
@@ -182,4 +178,3 @@ data = {
    optOut: true 
 }
 ```
-
