@@ -1,18 +1,14 @@
 ---
 description: Créez un mur multimédia avec un contenu en flux continu en temps réel.
-seo-description: Créez un mur multimédia avec un contenu en flux continu en temps réel.
-seo-title: Mur multimédia
-solution: Experience Manager
 title: Mur multimédia
-uuid: c6087c80-a35b-44d2-9dd4-ba9cd471172d
+exl-id: 597af7e1-9ada-4893-9071-e17c21ef0d04
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
-
 
 # Media Wall{#media-wall}
 
@@ -61,7 +57,7 @@ Vous avez maintenant un mur ! Voir tout cela en action dans [cet exemple](https:
 
 >[!NOTE]
 >
->Toute personnalisation de style des tweets rendus par votre application Media Wall App doit être effectuée conformément aux [conditions d’affichage](https://dev.twitter.com/terms/display-requirements) de Twitter.
+>Toute personnalisation de style des tweets rendus par votre application Media Wall App doit être effectuée conformément aux [exigences d’affichage](https://dev.twitter.com/terms/display-requirements) de Twitter.
 
 ## Options de configuration {#section_ucv_qvb_c1b}
 
@@ -204,4 +200,4 @@ Pour une entrée valide, consultez les normes W3C pour les propriétés CSS [Fon
 
 * **sourceLogoColor** *(Chaîne de couleur CSS)* Couleur du logo source.
 
-* **usernameColor** *(Chaîne de couleur CSS)* Couleur des noms d’utilisateur dans la signature.
+* **usernameColor** *(chaîne de couleur CSS)* Couleur des noms d’utilisateur dans la signature.
