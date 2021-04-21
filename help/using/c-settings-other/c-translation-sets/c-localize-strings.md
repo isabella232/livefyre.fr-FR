@@ -1,18 +1,14 @@
 ---
 description: Personnalisation des chaînes des applications Livefyre.
-seo-description: Personnalisation des chaînes des applications Livefyre.
-seo-title: Localiser les chaînes
-solution: Experience Manager
 title: Localiser les chaînes
-uuid: c0ab352d-5d3a-45d7-bbd0-aed165835646
+exl-id: 5eb452e3-3b33-4861-9b62-5a41221defab
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1996'
+source-wordcount: '1987'
 ht-degree: 8%
 
 ---
-
 
 # Localiser les chaînes {#localize-strings}
 
@@ -259,7 +255,7 @@ Sauf indication contraire, cette option est accessible à tous les utilisateurs 
 
 | Clé | Texte par défaut |  |
 |---|---|---|
-| Module Twitter @mentions | mentionTitle | Partager la mention |
+| Module de mention @mention twitter | mentionTitle | Partager la mention |
 |  | mentionSous-titreTwitter | Partager le tweet à : |
 |  | mentionsDefaultText | Je vous ai mentionné dans un commentaire sur Livefyre ! |
 |  | mentionConfirmButton | OK |
@@ -267,7 +263,7 @@ Sauf indication contraire, cette option est accessible à tous les utilisateurs 
 |  | mentionsErrorGeneral | Oups ! Quelque chose s&#39;est mal passé ! Livefyre a été alerté. |
 |  | mentionErrorNoneSelected | Au moins une mention doit être activée. |
 |  | mentionTitreMenu | Pour voir et mentionner vos amis |
-|  | mentionsTwitterConnect | Se connecter à Twitter |
+|  | mentionsTwitterConnect | Connexion à Twitter |
 |  | mentionTwitterRécupération | Récupération des amis... |
 |  | mentionsSuccessMsg | Les mentions ont bien été envoyées. |
 
@@ -545,5 +541,3 @@ Chaînes disponibles pour l’identité Livefyre.
 | passwordErrorMissingUppercase | Le mot de passe doit contenir au moins un caractère majuscule. |
 | passwordErrorMissingLowercase | Le mot de passe doit contenir au moins un caractère minuscule. |
 | passwordErrorMissingSymbol | Le mot de passe doit contenir au moins un symbole dans l&#39;ensemble `!@#$%^&*()?.,<>\’;:”[]{}|` |
-
-
