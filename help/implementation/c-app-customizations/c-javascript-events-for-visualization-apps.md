@@ -1,18 +1,14 @@
 ---
 description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de visualisation (par exemple, Mur multimédia).
-seo-description: Événements disponibles auxquels vous pouvez lier JavaScript pour les applications de visualisation (par exemple, Mur multimédia).
-seo-title: Événements JavaScript pour les applications de visualisation
-solution: Experience Manager
 title: Événements JavaScript pour les applications de visualisation
-uuid: 0797c384-7e8e-44fc-9738-a10a48d490cc
+exl-id: 93406d36-881d-4f35-a9a6-b42805f47c85
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '533'
 ht-degree: 74%
 
 ---
-
 
 # Événements JavaScript pour les applications de visualisation{#javascript-events-for-visualization-apps}
 
@@ -30,7 +26,7 @@ Le tableau suivant affiche les événements d’application pour les application
 | Publication |  | N/D | N/D | N/D | N/D |  | N/D |
 | Publié |  | N/D | N/D | N/D | N/D |  | N/D |
 | Réponse Twitter | X | X |  | X | X | S.O. | X |
-| J’aime Twitter | X | X |  | X | X | S.O. | X |
+| Twitter Like | X | X |  | X | X | S.O. | X |
 | LF | X |  | N/D | N/D | N/D | N/D | N/D |
 | LF | X |  | N/D | N/D | N/D | N/D | N/D |
 | Partager sur publication | N/D |  | N/D | N/D | N/D | N/D | N/D |
@@ -47,7 +43,7 @@ Le tableau suivant affiche les événements d’application pour les application
 | Annuler | N/D | N/D | N/D | N/D | N/D | N/D | N/D |
 | RequestMore | X | N/D | N/D | N/D | N/D | N/D | N/D |
 | ModalView | X | X |  | X | X | S.O. | X |
-| Retweet Twitter | X |  |  | X | X | S.O. | X |
+| Retweet twitter | X |  |  | X | X | S.O. | X |
 | Bouton Publication | X | N/D | N/D | N/D | N/D | X | S.O. |
 | Nombre de commentaires mis à jour | N/D |  | N/D | N/D | N/D | N/D | N/D |
 | Utilisateur connecté |  |  | N/D | N/D | N/D |  | N/D |
