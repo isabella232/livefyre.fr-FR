@@ -1,18 +1,14 @@
 ---
 description: Créez le ping de sorte que votre page enregistre Livefyre lorsque les utilisateurs mettent à jour leur profil.
-seo-description: Créez le ping de sorte que votre page enregistre Livefyre lorsque les utilisateurs mettent à jour leur profil.
-seo-title: Création du ping
-solution: Experience Manager
 title: Création du ping
-uuid: cb8cc043-9ea5-407c-b70f-3f1e37accdae
+exl-id: 626c200b-eaff-483f-b1eb-7d8993fe5e7c
 translation-type: tm+mt
-source-git-commit: f76dcd31e58b94856bf551009c2ac50c3233e516
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # Création du ping{#build-the-ping}
 
