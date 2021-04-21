@@ -1,17 +1,14 @@
 ---
 description: Modérez le contenu à partir d’une interface unique et intelligente.
-seo-description: Modérez le contenu à partir d’une interface unique et intelligente.
-seo-title: Modération du contenu à l’aide de ModQ
 title: Modération du contenu à l’aide de ModQ
-uuid: c630fb85-7bd0-4da0-ac7e-080e970fb4f9
+exl-id: 694b1f45-2b24-4e80-99a1-788e2cecc8a4
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
-
 
 # Modération du contenu à l’aide de ModQ{#moderate-content-using-modq}
 
@@ -26,7 +23,7 @@ ModQ vous permet de :
 * Modérez en contexte, vue des threads entiers et Approuvez, Corbeille ou Bozo des éléments de contenu individuels ou des threads complets en un seul clic.
 * Augmentez la vitesse et l’efficacité de votre flux de travail.
 * Répondez au contenu en augmentant votre implication dans votre communauté.
-* Permettre à plusieurs modérateurs de travailler sur le contenu, sans dupliquer les travaux des autres.
+* Permettre à plusieurs modérateurs de travailler sur le contenu, sans dupliquer les travaux des autres modérateurs.
 
 Le contenu Livefyre est répertorié dans ModQ pendant 6 semaines au maximum et le contenu prémodéré en flux continu qui n’a pas été traité est répertorié dans ModQ pendant 90 jours.
 
@@ -125,7 +122,7 @@ Sélectionnez l’une des options suivantes :
 
    >[!NOTE]
    >
-   >Vous ne pouvez pas demander de droits dans ModQ pour du contenu sur Instagram. Vous devez utiliser la bibliothèque ou le contenu de l&#39;application pour envoyer des demandes de droits pour du contenu à partir d&#39;Instagram.
+   >Vous ne pouvez pas demander des droits dans ModQ pour du contenu à Instagram. Vous devez utiliser la bibliothèque ou le contenu de l’application pour envoyer des demandes de droits d’accès au contenu en provenance d’Instagram.
 
 * **[!UICONTROL Feature and Approve]** pour approuver le contenu et présenter également l’élément de contenu.
 * **[!UICONTROL Product Tag and Approve]** pour ajouter un produit de votre catalogue de produits au contenu, puis l’approuver.
@@ -171,4 +168,3 @@ Applications utilisant ModQ :
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Bouton Télécharger](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
