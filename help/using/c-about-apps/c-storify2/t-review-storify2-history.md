@@ -1,18 +1,14 @@
 ---
 description: Studio enregistre automatiquement toutes les modifications effectuées par tous les éditeurs et génère une nouvelle version pour chaque modification visible.
-seo-description: Studio enregistre automatiquement toutes les modifications effectuées par tous les éditeurs et génère une nouvelle version pour chaque modification visible.
-seo-title: Historique des révisions
-solution: Experience Manager
 title: Historique des révisions
-uuid: c2f8a45b-54c1-4667-893a-b3bd4be4546a
+exl-id: d0ed17ae-0878-4477-8ec7-49b7f6e638d1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # Historique des révisions{#review-history}
 
