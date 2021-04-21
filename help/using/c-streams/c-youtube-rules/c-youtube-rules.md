@@ -1,24 +1,20 @@
 ---
 description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu des règles YouTube.
-seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu des règles YouTube.
-seo-title: Règles YouTube
-solution: Experience Manager
-title: Règles YouTube
-uuid: ec6a3780-7119-45c3-8ab2-fb0f9803d161
+title: Règles de YouTube
+exl-id: 720a6fc6-d5de-4c78-a14e-51bced6e8dda
 translation-type: tm+mt
-source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # Règles YouTube {#youtube-rules}
 
 Vous pouvez créer des règles de diffusion en continu qui extraient le contenu des règles YouTube.
 
-Créez des règles YouTube basées sur l’utilisateur, le Canal ou la liste de lecture.
+Créez des règles YouTube en fonction de l’utilisateur, du Canal ou de la liste de lecture.
 
 Pour créer des règles YouTube afin d’extraire du contenu de YouTube dans votre application ou dossier, vous pouvez filtrer par :
 
