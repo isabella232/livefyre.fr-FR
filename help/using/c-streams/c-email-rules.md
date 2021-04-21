@@ -1,18 +1,14 @@
 ---
 description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu du courrier électronique.
-seo-description: Vous pouvez créer des règles de diffusion en continu qui extraient le contenu du courrier électronique.
-seo-title: règles d'émail
-solution: Experience Manager
 title: règles d'émail
-uuid: 3cd27d28-b7c0-4cbc-bae3-e2ef7beacba9
+exl-id: 19c586f7-b934-40b5-bc9a-8a8a734e5467
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # règles d&#39;émail{#email-rules}
 
