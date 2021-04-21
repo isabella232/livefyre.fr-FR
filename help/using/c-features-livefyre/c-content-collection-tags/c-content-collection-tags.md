@@ -1,18 +1,14 @@
 ---
 description: Ajoutez des balises de mots-clés aux collections et au contenu, afin de classer et d’organiser le contenu pour faciliter la récupération.
-seo-description: Ajoutez des balises de mots-clés aux collections et au contenu, afin de classer et d’organiser le contenu pour faciliter la récupération.
-seo-title: Balises de collection et de contenu
-solution: Experience Manager
 title: Balises de collection et de contenu
-uuid: 1f6900ac-40ff-41ec-ac26-25ff476cd820
+exl-id: 1057a34a-5200-4e23-aa95-fc24bd1cb95b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 7%
+source-wordcount: '173'
+ht-degree: 8%
 
 ---
-
 
 # Balises de collection et de contenu {#collection-and-content-tags}
 
@@ -59,4 +55,3 @@ Applications qui utilisent cette fonctionnalité :
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Suivi des tendances](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [Bouton Télécharger](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
