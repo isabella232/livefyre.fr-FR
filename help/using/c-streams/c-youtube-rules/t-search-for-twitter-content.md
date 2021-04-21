@@ -1,17 +1,14 @@
 ---
 description: Utilisez la fonction Recherche sociale pour rechercher du contenu Twitter à inclure dans votre bibliothèque de fichiers ou à publier sur des applications.
-seo-description: Utilisez la fonction Recherche sociale pour rechercher du contenu Twitter à inclure dans votre bibliothèque de fichiers ou à publier sur des applications.
-seo-title: Recherche de contenu Twitter
-title: Recherche de contenu Twitter
-uuid: 7e36cc1f-7dce-446b-84b6-22939e8dcaf5
+title: Rechercher du contenu Twitter
+exl-id: 25cb5b74-0e6c-4f00-90f9-1022a13406ca
 translation-type: tm+mt
-source-git-commit: df5991d9d70282b289f2cca954dc8727c82d699f
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # Rechercher du contenu Twitter{#search-for-twitter-content}
 
@@ -22,7 +19,7 @@ Vous pouvez enregistrer et réutiliser des recherches. Cliquez sur dans la barre
 Lorsque vous ajoutez de nouveaux actifs à la bibliothèque, ceux qui sont déjà inclus dans la bibliothèque sont cochés.
 
 1. Accédez à **[!UICONTROL Social Search]**.
-1. Sélectionnez **[!UICONTROL Twitter]** pour rechercher du contenu Twitter.
+1. Sélectionnez **[!UICONTROL Twitter]** pour rechercher le contenu Twitter.
 1. Entrez un mot-clé, #hashtag ou @person. Vous pouvez sélectionner un type de recherche dans le menu déroulant de droite de la barre de recherche pour affiner votre recherche.
 
    * **[!UICONTROL Subject Search:]** par défaut, recherche le texte de saisie dans tous les champs disponibles.
@@ -41,7 +38,7 @@ Lorsque vous ajoutez de nouveaux actifs à la bibliothèque, ceux qui sont déj�
 
       >[!NOTE]
       >
-      >Social Search prend en charge des requêtes de recherche Twitter complexes, ainsi que toutes les entrées de syntaxe Twitter standard. Par défaut, plusieurs chaînes sont traitées comme une requête ET. Cliquez sur le bouton **[!UICONTROL info]** pour afficher des exemples d’entrée valide.
+      >Social Search prend en charge des requêtes de recherche Twitter complexes et toutes les entrées de syntaxe Twitter standard. Par défaut, plusieurs chaînes sont traitées comme une requête ET. Cliquez sur le bouton **[!UICONTROL info]** pour afficher des exemples d’entrée valide.
       >
       >=Les résultats retournés seront répertoriés du plus récent au moins.
 
