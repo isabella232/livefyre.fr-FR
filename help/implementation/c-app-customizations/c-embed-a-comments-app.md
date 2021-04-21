@@ -1,18 +1,14 @@
 ---
 description: L’incorporation de l’application de commentaires suit le processus d’incorporation d’une application principale.
-seo-description: L’incorporation de l’application de commentaires suit le processus d’incorporation d’une application principale.
-seo-title: Incorporer une application de commentaires
-solution: Experience Manager
 title: Incorporer une application de commentaires
-uuid: e4982ad3-cab1-4805-a55c-594cca3b7203
+exl-id: 5eb191f8-ee52-4a9d-9180-90457a49fd4e
 translation-type: tm+mt
-source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '78'
 ht-degree: 1%
 
 ---
-
 
 # Incorporer une application de commentaires {#embed-a-comments-app}
 
@@ -67,4 +63,3 @@ Comme indiqué dans la section Building CollectionMeta, CollectionMeta est un ob
 "title": "articleTitle" 
 }
 ```
-
