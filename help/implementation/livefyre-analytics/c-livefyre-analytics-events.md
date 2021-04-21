@@ -1,18 +1,14 @@
 ---
-description: valeur nulle
-seo-description: valeur nulle
-seo-title: Événements Livefyre Analytics
-solution: Experience Manager
 title: Événements Livefyre Analytics
-uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
+description: Événements Livefyre Analytics
+exl-id: ec32414c-0580-44dc-ae5b-6df0b42c0ec3
 translation-type: tm+mt
-source-git-commit: 5dc11c42a9f8bf3fa088f3245e21b6942d4865fe
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '540'
 ht-degree: 4%
 
 ---
-
 
 # Événements Livefyre Analytics
 
@@ -58,7 +54,7 @@ Les événements Livefyre suivants à mapper sur des événements personnalisés
 | Affichage | Lorsqu’une application est entrée dans la fenêtre d’affichage pour la première fois. |
 | Publication | Chaque fois qu’un utilisateur publie un commentaire ou un élément de contenu, y compris par exemple : publication de niveau supérieur, réponses, commentaires, téléchargements de mur multimédia |
 | Publié | Lorsqu’une publication a réussi. |
-| Twitter_Reply | Chaque fois qu’un utilisateur répond sur Twitter |
+| Réponse_twitter | Chaque fois qu’un utilisateur répond sur Twitter |
 | Twitter_Like | Où le contenu a été partagé avec : Retweet |
 | Livefyre_Like | Chaque fois que la fonction &quot;j’aime&quot; est utilisée dans une application |
 | Livefyre_Contrairement | Chaque fois qu’un utilisateur n’aime pas un livre animé comme |
