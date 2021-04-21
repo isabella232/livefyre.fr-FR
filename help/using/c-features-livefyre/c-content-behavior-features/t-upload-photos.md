@@ -1,18 +1,14 @@
 ---
 description: Les photos peuvent être téléchargées directement dans n’importe quelle application à partir de la bibliothèque de photos mobiles, du disque dur de l’ordinateur ou des comptes de réseau social d’un utilisateur.
-seo-description: Les photos peuvent être téléchargées directement dans n’importe quelle application à partir de la bibliothèque de photos mobiles, du disque dur de l’ordinateur ou des comptes de réseau social d’un utilisateur.
-seo-title: Télécharger des photos
-solution: Experience Manager
 title: Télécharger des photos
-uuid: bec7e088-8b19-4839-977d-03fc1cadaeb9
+exl-id: 67edd667-2698-4a84-b36e-85416371dca5
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Télécharger des photos{#upload-photos}
 
