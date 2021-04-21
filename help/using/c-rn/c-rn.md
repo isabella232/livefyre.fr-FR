@@ -1,16 +1,14 @@
 ---
 description: Notes de mise à jour les plus récentes pour l'Adobe Livefyre.
-seo-description: Notes de mise à jour les plus récentes pour l'Adobe Livefyre.
-seo-title: Notes de mise à jour les plus récentes pour Adobe Livefyre
 title: Notes de mise à jour les plus récentes pour Livefyre
+exl-id: 4ee61509-8e9e-4697-bcd9-a566ea6873aa
 translation-type: tm+mt
-source-git-commit: 0efc365d4496bd44142ad1513f51163f24676084
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 3%
+source-wordcount: '144'
+ht-degree: 4%
 
 ---
-
 
 # Notes de mise à jour sur la version actuelle {#current-release-notes}
 
@@ -27,5 +25,5 @@ ht-degree: 3%
 * Correction d’un problème en raison duquel les publications Instagram étaient supprimées en raison de liens CDN expirés.
 * Correction d’un problème en raison duquel l’application Sondages affichait des options de questions et de réponses de sondage avec une mise en forme incorrecte.
 * Suppression de la documentation relative à l’importation de contenu Facebook, qui n’est plus prise en charge.
-* Correction d’un problème en raison duquel les utilisateurs ne pouvaient pas approuver le contenu prémodéré des flux Twitter.
+* Correction d’un problème en raison duquel les utilisateurs n’étaient pas en mesure d’approuver le contenu des flux prédéfinis Twitter.
 * Correction d’un problème en raison duquel les vidéos téléchargées via l’API de téléchargement de médias étaient converties de .mp4 en .undefined.
