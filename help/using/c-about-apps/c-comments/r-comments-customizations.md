@@ -1,18 +1,14 @@
 ---
 description: Personnalisez les commentaires pour incorporer des conversations en temps réel sur votre site.
-seo-description: Personnalisez les commentaires pour incorporer des conversations en temps réel sur votre site.
-seo-title: Personnalisations des commentaires
-solution: Experience Manager
 title: Personnalisations des commentaires
-uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
+exl-id: 6a1de42c-4a0f-41c6-ba0d-8cdf0ebfbcea
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # Personnalisations des commentaires{#comments-customizations}
 
@@ -79,4 +75,3 @@ Vous pouvez personnaliser les commentaires à l’aide des éléments suivants :
 * **[!UICONTROL Style]** et  **[!UICONTROL Config]** options pour toutes les applications dans le  **[!UICONTROL App Designer]**. Voir Personnalisation des applications pour en savoir plus sur les options **[!UICONTROL Style]** et **[!UICONTROL Config]** standard pour toutes les applications dans le **[!UICONTROL App Designer]**.
 
 * **[!UICONTROL Integration tools]**. Voir Commentaires pour en savoir plus sur la personnalisation des commentaires à l’aide des outils d’intégration.
-
