@@ -2,9 +2,9 @@
 description: Configurez Adobe Analytics et Dynamic Tag Manager (DTM) pour collecter des données pour les applications Livefyre.
 title: Utilisation de Livefyre avec Adobe Analytics et Dynamic Tag Manager (DTM)
 exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
-source-git-commit: 53aead87db517e6f68266a66115889509287a287
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1009'
 ht-degree: 1%
 
 ---
@@ -31,14 +31,16 @@ Mappez les variables de conversion Livefyre (eVars) aux variables de conversion 
 
 1. Dans le Gestionnaire de suites de rapports, cliquez sur **[!UICONTROL Edit Settings > Conversion > Conversion Variables]**.
 1. Sélectionnez les variables de conversion personnalisées (eVars) à utiliser et mappez-les aux variables de conversion Livefyre. Pour mapper une variable de conversion Livefyre à une variable de conversion personnalisée :
-* Activation de la variable de conversion
-* Nommer la variable de conversion
-* Attribuer un type à la variable de conversion
+
+   * Activation de la variable de conversion
+   * Nommer la variable de conversion
+   * Attribuer un type à la variable de conversion
+
 1. Enregistrez les variables de conversion personnalisées.
 
 ## Étape 3 : Utilisation de la gestion dynamique des balises pour ajouter votre suite de rapports à des événements Livefyre {#section_t15_2hd_4cb}
 
-Ajoutez Adobe Analytics à la gestion dynamique des balises pour qu’Analytics fonctionne. Pour ce faire, créez une propriété et un outil, puis ajoutez la nouvelle suite de rapports avec les événements Livefyre à la propriété . Pour plus d’informations sur DTM, voir [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en).
+Utilisez les balises pour intégrer Analytics aux événements Livefyre. Pour ce faire, créez une propriété et un outil, puis ajoutez la nouvelle suite de rapports avec les événements Livefyre à la propriété . Pour plus d’informations, voir [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html).
 
 Vous n’avez pas besoin d’effectuer cette étape si une propriété ou un outil est déjà configuré pour la suite de rapports que vous avez configurée avec les événements Livefyre.
 
@@ -65,7 +67,7 @@ Configurez une règle de chargement de page pour extraire toutes les données. L
 1. Cliquez sur le bouton **[!UICONTROL Create New Rule]** .
 1. Ouvrez la section **[!UICONTROL Conditions]** en cliquant sur le bouton **[!UICONTROL Plus]** .
 1. Déclenchez la règle. Choisissez les types de déclencheur **[!UICONTROL DOM Ready]** ou **[!UICONTROL Onload]** si vous souhaitez retarder ou mettre en oeuvre la règle de manière asynchrone.
-1. (Facultatif) Ajoutez des paramètres supplémentaires pour limiter les pages qui affichent les applications Livefyre. Pour plus d’informations sur les options de configuration supplémentaires, voir [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en).
+1. (Facultatif) Ajoutez des paramètres supplémentaires pour limiter les pages qui affichent les applications Livefyre. Pour plus d’informations sur les options de configuration supplémentaires, voir [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html).
 1. Sous **[!UICONTROL Javascript/ Third Party Tags]**, cliquez sur l’onglet **[!UICONTROL Non-sequential]**, puis sur **[!UICONTROL Add New Script]**.
 1. Sélectionnez **[!UICONTROL Sequential HTML]** comme type de script.
 1. Ajoutez le script suivant dans l’éditeur de code et cliquez sur **[!UICONTROL Save Code]**.
@@ -306,6 +308,5 @@ function addAnalyticsHandler() {
 Pour plus d’informations sur les sujets abordés sur cette page, voir :
 
 * [Gestionnaire de suites de rapports](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)
-* [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en)
-* [Règles](https://experienceleague.adobe.com/docs/dtm/using/resources/rules/create-rules.html?lang=en)
+* [Présentation des balises](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
