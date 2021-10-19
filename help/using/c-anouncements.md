@@ -2,9 +2,9 @@
 title: Rappel de fin de service Livefyre
 description: Rappel de fin de service Livefyre et annonces archivées pour Livefyre et Livefyre Studio.
 exl-id: 78fe3f11-2365-4765-a0af-f817e9c80ea9
-source-git-commit: c1f1f501203ea64a282abc631318983011eb4e5b
+source-git-commit: 96f4e5f196446834cdf92a2774bd26f02b6b58a4
 workflow-type: tm+mt
-source-wordcount: '1867'
+source-wordcount: '1866'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 >
 >La dernière journée où les clients peuvent accéder à Livefyre est le 30 novembre 2021.
 
-L&#39;année dernière, l&#39;évolution de la dynamique avec les fournisseurs de médias sociaux, dont Facebook et Twitter, a rendu difficile la poursuite de l&#39;offre aux clients Adobes d&#39;une solution robuste de contenu UGC (User-Generated Content). En raison de ces défis, l&#39;Adobe a pris la difficile décision de mettre fin au service Livefyre. La dernière journée où les clients pourront accéder à Livefyre est le 30 novembre 2021. Depuis janvier 2021, Adobe travaille avec les clients qui utilisent Livefyre sur une transition en douceur vers des partenaires d’Adobe de confiance et recommande des solutions alternatives. Ce rappel vise à assurer la visibilité de la fin de la date de service Livefyre. L&#39;Adobe s&#39;est engagé à fournir les éléments nécessaires à un transfert sans heurt. Si vous avez des questions, contactez votre responsable clientèle ou votre gestionnaire de compte.
+L&#39;année dernière, l&#39;évolution des dynamiques avec les fournisseurs de médias sociaux, dont Facebook et Twitter, a rendu difficile la poursuite de l&#39;offre aux clients Adobes d&#39;une solution robuste de contenu généré par l&#39;utilisateur. En raison de ces défis, l&#39;Adobe a pris la difficile décision de mettre fin au service Livefyre. La dernière journée où les clients pourront accéder à Livefyre est le 30 novembre 2021. Depuis janvier 2021, Adobe travaille avec les clients qui utilisent Livefyre sur une transition en douceur vers des partenaires d’Adobe de confiance et recommande des solutions alternatives. Ce rappel vise à assurer la visibilité de la fin de la date de service Livefyre. L&#39;Adobe s&#39;est engagé à fournir les éléments nécessaires à un transfert sans heurt. Si vous avez des questions, contactez votre responsable clientèle ou votre gestionnaire de compte.
 
-## Foire aux questions sur la fin de service de Livefyre {#livefyre-eos-faq}
+## Questions fréquentes sur la fin de service de Livefyre {#livefyre-eos-faq}
 
 ### **_Qu&#39;est-ce qui change avec Livefyre ?_**
 
